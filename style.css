@@ -54,6 +54,37 @@ nav button.active {
     font-weight: bold;
 }
 
+#mode-selector {
+    text-align: center;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 1.5rem;
+}
+
+.mode-btn {
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.2s ease-in-out;
+}
+
+.mode-btn:hover {
+    background-color: #5a6268;
+    transform: translateY(-2px);
+}
+
+.mode-btn.active {
+    background-color: #28a745;
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+
 #content-area .entry {
     background-color: #f9f9f9;
     border: 1px solid #ddd;
@@ -61,6 +92,163 @@ nav button.active {
     padding: 15px;
     margin-bottom: 15px;
 }
+
+#content-area .practice-card {
+    background: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+#content-area .practice-card .question {
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+#content-area .practice-card input {
+    width: 80%;
+    padding: 12px;
+    font-size: 1.2rem;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    transition: border-color 0.2s;
+}
+
+#content-area .practice-card input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+}
+
+#content-area .practice-card .translation-container {
+    margin-top: 0.5rem;
+    min-height: 40px; /* 为翻译文本预留空间，防止布局跳动 */
+}
+
+#content-area .practice-card .practice-translation {
+    display: none; /* 默认隐藏 */
+    color: #666;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+#content-area .practice-card .practice-translation.visible {
+    display: block; /* 用于JS切换显示 */
+}
+
+#content-area .practice-card .toggle-translation-btn {
+    background: none;
+    border: 1px solid #ccc;
+    color: #555;
+    padding: 0.3rem 0.8rem;
+    font-size: 0.8rem;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-bottom: 1rem;
+}
+
+#content-area .practice-card .toggle-translation-btn:hover {
+    background-color: #f0f0f0;
+    border-color: #aaa;
+}
+
+.speaker-icon {
+    cursor: pointer;
+    margin-left: 10px;
+    font-size: 0.9em;
+    display: inline-block;
+    transition: transform 0.2s;
+    user-select: none; /* 防止选中文字 */
+}
+
+.speaker-icon:hover {
+    transform: scale(1.2);
+}
+
+#playback-controls {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#play-all-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s;
+}
+
+#play-all-btn:hover {
+    background-color: #45a049;
+}
+
+#content-area .practice-card .check-btn {
+    display: block;
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#content-area .practice-card .check-btn:hover {
+    background-color: #0056b3;
+}
+
+#content-area .feedback {
+    margin-top: 1.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#content-area .feedback.correct {
+    color: #28a745;
+}
+
+#content-area .feedback.incorrect {
+    color: #dc3545;
+}
+
+#content-area .feedback .correct-answer {
+    display: block;
+    font-size: 1rem;
+    color: #555;
+    margin-top: 0.5rem;
+}
+
+#content-area .navigation-buttons {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+#content-area .navigation-buttons button {
+    background-color: #17a2b8;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.2s;
+}
+
+#content-area .navigation-buttons button:hover {
+    background-color: #138496;
+}
+
 
 #content-area .finnish {
     font-size: 1.2rem;
