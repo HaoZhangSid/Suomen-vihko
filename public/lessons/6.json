@@ -1,0 +1,297 @@
+{
+    "day": "Maanantai 25. elokuuta 2025",
+    "entries": [
+        {
+            "finnish": "yleiskieli",
+            "chinese": "标准语"
+        },
+        {
+            "finnish": "puhekieli",
+            "chinese": "口语"
+        },
+        {
+            "finnish": "kielimuoto",
+            "chinese": "语言形式"
+        },
+        {
+            "finnish": "paikka",
+            "chinese": "地点"
+        },
+        {
+            "finnish": "kulkuväline",
+            "chinese": "交通工具"
+        },
+        {
+            "finnish": "numerot",
+            "chinese": "数字"
+        },
+        {
+            "finnish": "tehdä",
+            "chinese": "做"
+        },
+        {
+            "finnish": "matkustaa",
+            "chinese": "旅行"
+        },
+        {
+            "finnish": "lentää",
+            "chinese": "飞"
+        },
+        {
+            "finnish": "Tänään on maanantai 25. elokuuta 2025.",
+            "chinese": "今天是2025年8月25日，星期一。"
+        },
+        {
+            "finnish": "25. = kahdeskymmenesviides",
+            "chinese": "25日 = 第二十五。"
+        },
+        {
+            "finnish": "Suomessa on kaksi kielimuotoa.",
+            "chinese": "芬兰语有两种语言形式。"
+        },
+        {
+            "finnish": "Puhekielen pronominit (minä -> mä, sinä -> sä, hän -> se, he -> ne)",
+            "chinese": "口语代词 (我,你,他/她,他们)"
+        },
+        {
+            "finnish": "Missä kaupungissa sä asut?",
+            "chinese": "(口语) 你住在哪个城市？"
+        },
+        {
+            "finnish": "Mä asun Oulussa.",
+            "chinese": "(口语) 我住在奥卢。"
+        },
+        {
+            "finnish": "Millä sä meet?",
+            "chinese": "(口语) 你怎么去？"
+        },
+        {
+            "finnish": "Mä meen autolla.",
+            "chinese": "(口语) 我坐车去。"
+        },
+        {
+            "finnish": "Minne sä meet?",
+            "chinese": "(口语) 你去哪儿？"
+        },
+        {
+            "finnish": "Mä meen kotiin.",
+            "chinese": "(口语) 我回家。"
+        },
+        {
+            "finnish": "Anteeksi, että olen myöhässä.",
+            "chinese": "对不起，我迟到了。"
+        },
+        {
+            "finnish": "Minä menen Ukrainaan lentokoneella.",
+            "chinese": "我坐飞机去乌克兰。"
+        },
+        {
+            "finnish": "Minä menen Filippiineille lentokoneella.",
+            "chinese": "我坐飞机去菲律宾。"
+        },
+        {
+            "finnish": "Minä menen Dominikaaniseen tasavaltaan lentokoneella.",
+            "chinese": "我坐飞机去多米尼加共和国。"
+        },
+        {
+            "finnish": "Minä menen Vietnamiin lentokoneella.",
+            "chinese": "我坐飞机去越南。"
+        },
+        {
+            "finnish": "Minä menen Sri Lankaan lentokoneella.",
+            "chinese": "我坐飞机去斯里兰卡。"
+        },
+        {
+            "finnish": "Minä menen Egyptiin lentokoneella.",
+            "chinese": "我坐飞机去埃及。"
+        },
+        {
+            "finnish": "Minä menen MINNE MILLÄ",
+            "chinese": "我去 [目的地] 乘坐 [交通工具] (句式结构)"
+        },
+        {
+            "finnish": "Mitä sinä teet kurssilla?",
+            "chinese": "你在课上做什么？"
+        },
+        {
+            "finnish": "Opettele numerot!",
+            "chinese": "学习数字！"
+        },
+        {
+            "finnish": "opiskella",
+            "chinese": "学习"
+        },
+        {
+            "finnish": "opiskelen",
+            "chinese": "（我）学习"
+        },
+        {
+            "finnish": "Minä opiskelen suomea.",
+            "chinese": "我学习芬兰语。"
+        },
+        {
+            "finnish": "verbi",
+            "chinese": "动词"
+        },
+        {
+            "finnish": "verbin perusmuoto",
+            "chinese": "动词基本形式"
+        },
+        {
+            "finnish": "verbin persoonamuodot",
+            "chinese": "动词人称变位"
+        },
+        {
+            "finnish": "Minä luen.",
+            "chinese": "我读。"
+        },
+        {
+            "finnish": "Minä kirjoitan.",
+            "chinese": "我写。"
+        },
+        {
+            "finnish": "Minä kuuntelen.",
+            "chinese": "我听。"
+        },
+        {
+            "finnish": "Minä puhun, luen, kirjoitan ja kuuntelen.",
+            "chinese": "我说、读、写和听。"
+        },
+        {
+            "finnish": "nollasta kymmeneen",
+            "chinese": "从零到十"
+        },
+        {
+            "finnish": "nolla",
+            "chinese": "零"
+        },
+        {
+            "finnish": "yksi",
+            "chinese": "一"
+        },
+        {
+            "finnish": "kaksi",
+            "chinese": "二"
+        },
+        {
+            "finnish": "kolme",
+            "chinese": "三"
+        },
+        {
+            "finnish": "neljä",
+            "chinese": "四"
+        },
+        {
+            "finnish": "viisi",
+            "chinese": "五"
+        },
+        {
+            "finnish": "kuusi",
+            "chinese": "六"
+        },
+        {
+            "finnish": "seitsemän",
+            "chinese": "七"
+        },
+        {
+            "finnish": "kahdeksan",
+            "chinese": "八"
+        },
+        {
+            "finnish": "yhdeksän",
+            "chinese": "九"
+        },
+        {
+            "finnish": "kymmenen",
+            "chinese": "十"
+        },
+        {
+            "finnish": "yksitoista",
+            "chinese": "十一"
+        },
+        {
+            "finnish": "kaksitoista",
+            "chinese": "十二"
+        },
+        {
+            "finnish": "kolmetoista",
+            "chinese": "十三"
+        },
+        {
+            "finnish": "neljätoista",
+            "chinese": "十四"
+        },
+        {
+            "finnish": "viisitoista",
+            "chinese": "十五"
+        },
+        {
+            "finnish": "kuusitoista",
+            "chinese": "十六"
+        },
+        {
+            "finnish": "seitsemäntoista",
+            "chinese": "十七"
+        },
+        {
+            "finnish": "kahdeksantoista",
+            "chinese": "十八"
+        },
+        {
+            "finnish": "yhdeksäntoista",
+            "chinese": "十九"
+        },
+        {
+            "finnish": "kaksikymmentä",
+            "chinese": "二十"
+        },
+        {
+            "finnish": "kaksikymmentäyksi",
+            "chinese": "二十一"
+        },
+        {
+            "finnish": "kaksikymmentäkaksi",
+            "chinese": "二十二"
+        },
+        {
+            "finnish": "kolmekymmentä",
+            "chinese": "三十"
+        },
+        {
+            "finnish": "viisikymmentä",
+            "chinese": "五十"
+        },
+        {
+            "finnish": "sata",
+            "chinese": "一百"
+        },
+        {
+            "finnish": "tuhat",
+            "chinese": "一千"
+        },
+        {
+            "finnish": "juusto",
+            "chinese": "奶酪"
+        },
+        {
+            "finnish": "jääkaappi",
+            "chinese": "冰箱"
+        },
+        {
+            "finnish": "juna",
+            "chinese": "火车"
+        },
+        {
+            "finnish": "diftongi",
+            "chinese": "双元音"
+        },
+        {
+            "finnish": "leija",
+            "chinese": "风筝"
+        },
+        {
+            "finnish": "koju",
+            "chinese": "小摊"
+        }
+    ]
+}

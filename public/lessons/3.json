@@ -1,0 +1,337 @@
+{
+    "day": "Keskiviikko 20. elokuuta 2025",
+    "entries": [
+        {
+            "finnish": "kynä",
+            "chinese": "笔"
+        },
+        {
+            "finnish": "teroiton",
+            "chinese": "卷笔刀"
+        },
+        {
+            "finnish": "pyyhekumi",
+            "chinese": "橡皮"
+        },
+        {
+            "finnish": "paita",
+            "chinese": "衬衫"
+        },
+        {
+            "finnish": "sininen",
+            "chinese": "蓝色的"
+        },
+        {
+            "finnish": "punainen",
+            "chinese": "红色的"
+        },
+        {
+            "finnish": "kuulokkeet",
+            "chinese": "耳机"
+        },
+        {
+            "finnish": "tietokone / läppäri",
+            "chinese": "电脑 / 笔记本电脑"
+        },
+        {
+            "finnish": "Tänään on keskiviikko 20. elokuuta 2025.",
+            "chinese": "今天是2025年8月20日，星期三。"
+        },
+        {
+            "finnish": "20. = kahdeskymmenes",
+            "chinese": "第20 = 第二十。"
+        },
+        {
+            "finnish": "Minulla on yskä, nuha, jano ja nälkä.",
+            "chinese": "我咳嗽、流鼻涕、口渴还饿。"
+        },
+        {
+            "finnish": "Minulla on kynä, teroitin, pyyhekumi ja sininen paita.",
+            "chinese": "我有一支笔、一个卷笔刀、一块橡皮和一件蓝色的衬衫。"
+        },
+        {
+            "finnish": "Minulla on punainen paita.",
+            "chinese": "我有一件红色的衬衫。"
+        },
+        {
+            "finnish": "Onko sinulla…?",
+            "chinese": "你有……吗？"
+        },
+        {
+            "finnish": "Kyllä. / Ei.",
+            "chinese": "是的。/ 不。"
+        },
+        {
+            "finnish": "Mitä sinulla on?",
+            "chinese": "你有什么？"
+        },
+        {
+            "finnish": "Minulla on…",
+            "chinese": "我有……"
+        },
+        {
+            "finnish": "Minä olen",
+            "chinese": "我是…… (表示身份、状态)"
+        },
+        {
+            "finnish": "Minulla on",
+            "chinese": "我有…… (表示拥有)"
+        },
+        {
+            "finnish": "Ota vihko!",
+            "chinese": "拿出笔记本！"
+        },
+        {
+            "finnish": "Kiitos tästä päivästä ja jatketaan huomenna kello 9.00!!!",
+            "chinese": "感谢今天，我们明天9点整继续！！！"
+        },
+        {
+            "finnish": "Minulla on sininen paita.",
+            "chinese": "我有一件蓝色的衬衫。"
+        },
+        {
+            "finnish": "Minulla on keltainen paita.",
+            "chinese": "我有一件黄色的衬衫。"
+        },
+        {
+            "finnish": "Minulla on vihreä paita.",
+            "chinese": "我有一件绿色的衬衫。"
+        },
+        {
+            "finnish": "Minulla on musta hattu.",
+            "chinese": "我有一个黑色的帽子。"
+        },
+        {
+            "finnish": "Minulla on valkoinen hattu.",
+            "chinese": "我有一个白色的帽子。"
+        },
+        {
+            "finnish": "Minulla on harmaa hattu.",
+            "chinese": "我有一个灰色的帽子。"
+        },
+        {
+            "finnish": "Minulla on punaiset housut.",
+            "chinese": "我有红色的裤子。"
+        },
+        {
+            "finnish": "Minulla on sininen takki.",
+            "chinese": "我有一件蓝色的夹克。"
+        },
+        {
+            "finnish": "Minulla on violetti hame.",
+            "chinese": "我有一条紫色的裙子。"
+        },
+        {
+            "finnish": "Minulla on ruskeat kengät.",
+            "chinese": "我有棕色的鞋子。"
+        },
+        {
+            "finnish": "Minulla on oranssi pipo.",
+            "chinese": "我有一个橙色的毛线帽。"
+        },
+        {
+            "finnish": "Minulla on silmälasit.",
+            "chinese": "我有眼镜。"
+        },
+        {
+            "finnish": "Minulla on reppu.",
+            "chinese": "我有一个背包。"
+        },
+        {
+            "finnish": "Minulla on laukku.",
+            "chinese": "我有一个包。"
+        },
+        {
+            "finnish": "Hänellä on punainen paita.",
+            "chinese": "他/她有一件红色的衬衫。"
+        },
+        {
+            "finnish": "minä -> minulla",
+            "chinese": "我 (主格 -> 所有格/状语格)"
+        },
+        {
+            "finnish": "sinä -> sinulla",
+            "chinese": "你 (主格 -> 所有格/状语格)"
+        },
+        {
+            "finnish": "hän -> hänellä",
+            "chinese": "他/她 (主格 -> 所有格/状语格)"
+        },
+        {
+            "finnish": "me -> meillä",
+            "chinese": "我们 (主格 -> 所有格/状语格)"
+        },
+        {
+            "finnish": "te -> teillä",
+            "chinese": "你们 (主格 -> 所有格/状语格)"
+        },
+        {
+            "finnish": "he -> heillä",
+            "chinese": "他们 (主格 -> 所有格/状语格)"
+        },
+        {
+            "finnish": "Onko hänellä reppu?",
+            "chinese": "他/她有背包吗？"
+        },
+        {
+            "finnish": "Hänellä on laukku.",
+            "chinese": "他/她有一个包。"
+        },
+        {
+            "finnish": "Onko hänellä punainen takki?",
+            "chinese": "他/她有红色的夹克吗？"
+        },
+        {
+            "finnish": "Hänellä on sininen takki.",
+            "chinese": "他/她有一件蓝色的夹克。"
+        },
+        {
+            "finnish": "Onko hänellä musta hattu?",
+            "chinese": "他/她有黑色的帽子吗？"
+        },
+        {
+            "finnish": "Hänellä on valkoinen hattu.",
+            "chinese": "他/她有一个白色的帽子。"
+        },
+        {
+            "finnish": "Onko hänellä silmälasit?",
+            "chinese": "他/她有眼镜吗？"
+        },
+        {
+            "finnish": "Hänellä on silmälasit.",
+            "chinese": "他/她有眼镜。"
+        },
+        {
+            "finnish": "Onko sinulla puhelin / kännykkä?",
+            "chinese": "你有电话/手机吗？"
+        },
+        {
+            "finnish": "Onko sinulla auto?",
+            "chinese": "你有车吗？"
+        },
+        {
+            "finnish": "Onko sinulla miljoona euroa?",
+            "chinese": "你有一百万欧元吗？"
+        },
+        {
+            "finnish": "Ei vielä.",
+            "chinese": "还没有。"
+        },
+        {
+            "finnish": "Valitettavasti ei.",
+            "chinese": "不幸的是，没有。"
+        },
+        {
+            "finnish": "Minulla on kynä, kumi, teroitin ja vihko.",
+            "chinese": "我有一支笔、一块橡皮、一个卷笔刀和一个笔记本。"
+        },
+        {
+            "finnish": "Minä olen Leevi.",
+            "chinese": "我是Leevi。"
+        },
+        {
+            "finnish": "Minä olen 39 vuotta.",
+            "chinese": "我39岁。"
+        },
+        {
+            "finnish": "vuosi",
+            "chinese": "年"
+        },
+        {
+            "finnish": "surullinen",
+            "chinese": "伤心的"
+        },
+        {
+            "finnish": "Minä olen iloinen.",
+            "chinese": "我很高兴。"
+        },
+        {
+            "finnish": "Minä olen 175 senttimetriä.",
+            "chinese": "我身高175厘米。"
+        },
+        {
+            "finnish": "Minä olen isä.",
+            "chinese": "我是一位父亲。"
+        },
+        {
+            "finnish": "Minulla on sininen paita ja harmaat housut.",
+            "chinese": "我有一件蓝色的衬衫和灰色的裤子。"
+        },
+        {
+            "finnish": "Minulla on siniset silmät.",
+            "chinese": "我有蓝色的眼睛。"
+        },
+        {
+            "finnish": "Minulla on lyhyet hiukset.",
+            "chinese": "我有短发。"
+        },
+        {
+            "finnish": "Minulla on pieni poika.",
+            "chinese": "我有一个小男孩。"
+        },
+        {
+            "finnish": "Minulla on kynä, kumi ja vihko.",
+            "chinese": "我有一支笔、一块橡皮和一个笔记本。"
+        },
+        {
+            "finnish": "Minulla on nälkä ja jano.",
+            "chinese": "我又饿又渴。"
+        },
+        {
+            "finnish": "ovi",
+            "chinese": "门"
+        },
+        {
+            "finnish": "kirjasto",
+            "chinese": "图书馆"
+        },
+        {
+            "finnish": "Minä menen kirjastoon.",
+            "chinese": "我去图书馆。"
+        },
+        {
+            "finnish": "kirjaston",
+            "chinese": "图书馆的 (所有格)"
+        },
+        {
+            "finnish": "lamppu",
+            "chinese": "灯"
+        },
+        {
+            "finnish": "lasi",
+            "chinese": "玻璃杯"
+        },
+        {
+            "finnish": "kyyti",
+            "chinese": "搭便车"
+        },
+        {
+            "finnish": "kynttilä",
+            "chinese": "蜡烛"
+        },
+        {
+            "finnish": "ruusu",
+            "chinese": "玫瑰"
+        },
+        {
+            "finnish": "raha",
+            "chinese": "钱"
+        },
+        {
+            "finnish": "kärry",
+            "chinese": "手推车"
+        },
+        {
+            "finnish": "herra",
+            "chinese": "先生"
+        },
+        {
+            "finnish": "puheterapeutti",
+            "chinese": "语言治疗师"
+        },
+        {
+            "finnish": "logopedi",
+            "chinese": "语言治疗师 (同义词)"
+        }
+    ]
+}

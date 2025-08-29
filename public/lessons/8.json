@@ -1,0 +1,325 @@
+{
+    "day": "Keskiviikko 27. elokuuta 2025",
+    "entries": [
+        {
+            "finnish": "ostaa",
+            "chinese": "购买"
+        },
+        {
+            "finnish": "leipä",
+            "chinese": "面包"
+        },
+        {
+            "finnish": "asiakas",
+            "chinese": "顾客"
+        },
+        {
+            "finnish": "myyjä",
+            "chinese": "售货员"
+        },
+        {
+            "finnish": "jäätelö / jätski",
+            "chinese": "冰淇淋"
+        },
+        {
+            "finnish": "kahvi",
+            "chinese": "咖啡"
+        },
+        {
+            "finnish": "tee",
+            "chinese": "茶"
+        },
+        {
+            "finnish": "pieni",
+            "chinese": "小的"
+        },
+        {
+            "finnish": "iso",
+            "chinese": "大的"
+        },
+        {
+            "finnish": "euro",
+            "chinese": "欧元"
+        },
+        {
+            "finnish": "sentti",
+            "chinese": "分"
+        },
+        {
+            "finnish": "musta tee",
+            "chinese": "红茶 (字面: 黑茶)"
+        },
+        {
+            "finnish": "vihreä tee",
+            "chinese": "绿茶"
+        },
+        {
+            "finnish": "suklaakakku",
+            "chinese": "巧克力蛋糕"
+        },
+        {
+            "finnish": "pala",
+            "chinese": "一块"
+        },
+        {
+            "finnish": "appelsiinimehu",
+            "chinese": "橙汁"
+        },
+        {
+            "finnish": "porkkanakakku",
+            "chinese": "胡萝卜蛋糕"
+        },
+        {
+            "finnish": "vesipullo",
+            "chinese": "瓶装水"
+        },
+        {
+            "finnish": "pulla",
+            "chinese": "甜面包，小圆面包"
+        },
+        {
+            "finnish": "Tänään on keskiviikko 27. elokuuta 2025.",
+            "chinese": "今天是2025年8月27日，星期三。"
+        },
+        {
+            "finnish": "27. = kahdeskymmenesseitsemäs",
+            "chinese": "27日 = 第二十七。"
+        },
+        {
+            "finnish": "Ostan kaksi leipää.",
+            "chinese": "我买两个面包。"
+        },
+        {
+            "finnish": "Partitiivi: yksi leipä, kaksi leipää",
+            "chinese": "部分格: 一个面包, 两个面包"
+        },
+        {
+            "finnish": "Saisinko...?",
+            "chinese": "我可以要一个...吗？ (礼貌请求)"
+        },
+        {
+            "finnish": "Yksi iso kahvi, kiitos.",
+            "chinese": "请来一杯大杯咖啡，谢谢。"
+        },
+        {
+            "finnish": "Haluatko mustaa vai vihreää teetä?",
+            "chinese": "您要红茶还是绿茶？"
+        },
+        {
+            "finnish": "Entä muuta? / Tuleeko muuta?",
+            "chinese": "还要别的吗？"
+        },
+        {
+            "finnish": "Ei muuta, kiitos.",
+            "chinese": "不要别的了，谢谢。"
+        },
+        {
+            "finnish": "Kyllä... kaksi pullaa, kiitos.",
+            "chinese": "是的...请来两个甜面包，谢谢。"
+        },
+        {
+            "finnish": "Kiitos! / Kiitti!",
+            "chinese": "谢谢！ (标准语 / 口语)"
+        },
+        {
+            "finnish": "Kello on (tasan) viisi.",
+            "chinese": "5点整。"
+        },
+        {
+            "finnish": "Kello on puoli kaksitoista.",
+            "chinese": "11点半。"
+        },
+        {
+            "finnish": "Kello on varttia yli kaksi.",
+            "chinese": "2点15分。"
+        },
+        {
+            "finnish": "Kello on kaksitoista vaille kaksitoista.",
+            "chinese": "11点48分。"
+        },
+        {
+            "finnish": "Kello on puoli neljä.",
+            "chinese": "3点30分。"
+        },
+        {
+            "finnish": "Kello on kymmenen yli kymmenen.",
+            "chinese": "10点10分。"
+        },
+        {
+            "finnish": "Kello on kymmenen vaille kymmenen.",
+            "chinese": "9点50分。"
+        },
+        {
+            "finnish": "Kello on kaksi yli kaksi.",
+            "chinese": "2点02分。"
+        },
+        {
+            "finnish": "Kello on kaksi vaille kaksi.",
+            "chinese": "1点58分。"
+        },
+        {
+            "finnish": "Kello on kahdeksan yli kymmenen.",
+            "chinese": "10点08分。"
+        },
+        {
+            "finnish": "Kello on varttia vaille kolme.",
+            "chinese": "2点45分。"
+        },
+        {
+            "finnish": "Kello on viisi vaille kaksitoista.",
+            "chinese": "11点55分。"
+        },
+        {
+            "finnish": "Kello on kaksitoista vaille kymmenen.",
+            "chinese": "9点48分。"
+        },
+        {
+            "finnish": "juoda",
+            "chinese": "喝"
+        },
+        {
+            "finnish": "syödä",
+            "chinese": "吃"
+        },
+        {
+            "finnish": "Juon kahvia.",
+            "chinese": "我喝咖啡。"
+        },
+        {
+            "finnish": "Juon kolme kahvia.",
+            "chinese": "我喝三杯咖啡。"
+        },
+        {
+            "finnish": "Juon teetä.",
+            "chinese": "我喝茶。"
+        },
+        {
+            "finnish": "Juon kaksi teetä.",
+            "chinese": "我喝两杯茶。"
+        },
+        {
+            "finnish": "Juon kolme teetä.",
+            "chinese": "我喝三杯茶。"
+        },
+        {
+            "finnish": "Syön omenan.",
+            "chinese": "我吃一个苹果。"
+        },
+        {
+            "finnish": "Syön kaksi omenaa.",
+            "chinese": "我吃两个苹果。"
+        },
+        {
+            "finnish": "Syön kolme omenaa.",
+            "chinese": "我吃三个苹果。"
+        },
+        {
+            "finnish": "Syön banaanin.",
+            "chinese": "我吃一根香蕉。"
+        },
+        {
+            "finnish": "Syön kaksi banaania.",
+            "chinese": "我吃两根香蕉。"
+        },
+        {
+            "finnish": "Syön kolme banaania.",
+            "chinese": "我吃三根香蕉。"
+        },
+        {
+            "finnish": "Syön sata banaania.",
+            "chinese": "我吃一百根香蕉。"
+        },
+        {
+            "finnish": "Ole hyvä.",
+            "chinese": "不客气 / 给你。"
+        },
+        {
+            "finnish": "Kaksi teetä, kiitos.",
+            "chinese": "请来两杯茶。"
+        },
+        {
+            "finnish": "Kolme appelsiinia, kiitos.",
+            "chinese": "请来三个橙子。"
+        },
+        {
+            "finnish": "Neljä perunaa, kiitos.",
+            "chinese": "请来四个土豆。"
+        },
+        {
+            "finnish": "Viisi kalaa, kiitos.",
+            "chinese": "请来五条鱼。"
+        },
+        {
+            "finnish": "saada",
+            "chinese": "得到"
+        },
+        {
+            "finnish": "Saanko jäätelön?",
+            "chinese": "我能要个冰淇淋吗？"
+        },
+        {
+            "finnish": "Saisinko kolme tomaattia?",
+            "chinese": "我可以要三个番茄吗？"
+        },
+        {
+            "finnish": "Saisinko viisi leipää?",
+            "chinese": "我可以要五个面包吗？"
+        },
+        {
+            "finnish": "Saisinko neljä kananmunaa?",
+            "chinese": "我可以要四个鸡蛋吗？"
+        },
+        {
+            "finnish": "Saisinko kaksi banaania?",
+            "chinese": "我可以要两根香蕉吗？"
+        },
+        {
+            "finnish": "vesi",
+            "chinese": "水"
+        },
+        {
+            "finnish": "voi",
+            "chinese": "黄油"
+        },
+        {
+            "finnish": "veitsi",
+            "chinese": "刀"
+        },
+        {
+            "finnish": "vauva",
+            "chinese": "婴儿"
+        },
+        {
+            "finnish": "rouva",
+            "chinese": "夫人"
+        },
+        {
+            "finnish": "hattu",
+            "chinese": "帽子"
+        },
+        {
+            "finnish": "hevonen",
+            "chinese": "马"
+        },
+        {
+            "finnish": "hiki",
+            "chinese": "汗"
+        },
+        {
+            "finnish": "hylly",
+            "chinese": "架子"
+        },
+        {
+            "finnish": "kyllä",
+            "chinese": "是的"
+        },
+        {
+            "finnish": "kypsä",
+            "chinese": "成熟的"
+        },
+        {
+            "finnish": "Kieli on samassa paikassa, mutta suun/huulten asento muuttuu.",
+            "chinese": "舌头在同一个位置，但是嘴/唇的姿势改变了。"
+        }
+    ]
+}

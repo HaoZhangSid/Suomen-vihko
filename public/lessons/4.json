@@ -1,0 +1,393 @@
+{
+    "day": "Torstai 21. elokuuta 2025",
+    "entries": [
+        {
+            "finnish": "kalenteri",
+            "chinese": "日历"
+        },
+        {
+            "finnish": "koko nimi",
+            "chinese": "全名"
+        },
+        {
+            "finnish": "sukunimi",
+            "chinese": "姓氏"
+        },
+        {
+            "finnish": "lempinimi",
+            "chinese": "昵称"
+        },
+        {
+            "finnish": "helikopteri",
+            "chinese": "直升机"
+        },
+        {
+            "finnish": "hiiri",
+            "chinese": "鼠标；老鼠"
+        },
+        {
+            "finnish": "lukea",
+            "chinese": "读 (动词)"
+        },
+        {
+            "finnish": "ottaa",
+            "chinese": "拿 (动词)"
+        },
+        {
+            "finnish": "kirjoittaa",
+            "chinese": "写 (动词)"
+        },
+        {
+            "finnish": "laskea",
+            "chinese": "数数 (动词)"
+        },
+        {
+            "finnish": "kuunnella",
+            "chinese": "听 (动词)"
+        },
+        {
+            "finnish": "katsoa",
+            "chinese": "看 (动词)"
+        },
+        {
+            "finnish": "sanoa",
+            "chinese": "说 (动词)"
+        },
+        {
+            "finnish": "puhua",
+            "chinese": "说（语言）(动词)"
+        },
+        {
+            "finnish": "koulu",
+            "chinese": "学校"
+        },
+        {
+            "finnish": "koti",
+            "chinese": "家"
+        },
+        {
+            "finnish": "kauppa",
+            "chinese": "商店"
+        },
+        {
+            "finnish": "bussi",
+            "chinese": "公交车"
+        },
+        {
+            "finnish": "juna-asema",
+            "chinese": "火车站"
+        },
+        {
+            "finnish": "lääkäri",
+            "chinese": "医生；诊所"
+        },
+        {
+            "finnish": "jalkapallokenttä",
+            "chinese": "足球场"
+        },
+        {
+            "finnish": "pankki",
+            "chinese": "银行"
+        },
+        {
+            "finnish": "posti",
+            "chinese": "邮局"
+        },
+        {
+            "finnish": "puisto",
+            "chinese": "公园"
+        },
+        {
+            "finnish": "tori",
+            "chinese": "集市广场"
+        },
+        {
+            "finnish": "apteekki",
+            "chinese": "药店"
+        },
+        {
+            "finnish": "TE-toimisto",
+            "chinese": "就业办公室"
+        },
+        {
+            "finnish": "poliisiasema",
+            "chinese": "警察局"
+        },
+        {
+            "finnish": "sairaala",
+            "chinese": "医院"
+        },
+        {
+            "finnish": "päiväkoti",
+            "chinese": "幼儿园"
+        },
+        {
+            "finnish": "kirkko",
+            "chinese": "教堂"
+        },
+        {
+            "finnish": "kuntosali",
+            "chinese": "健身房"
+        },
+        {
+            "finnish": "Tänään on torstai 21. elokuuta 2025.",
+            "chinese": "今天是2025年8月21日，星期四。"
+        },
+        {
+            "finnish": "21. = kahdeskymmenesimmäinen",
+            "chinese": "21日 = 第二十一。"
+        },
+        {
+            "finnish": "Mikä on sinun koko nimi?",
+            "chinese": "你的全名是什么？"
+        },
+        {
+            "finnish": "Onko sinulla lempinimeä?",
+            "chinese": "你有昵称吗？"
+        },
+        {
+            "finnish": "käsky / ohje",
+            "chinese": "命令 / 指示"
+        },
+        {
+            "finnish": "Lue sana!",
+            "chinese": "读单词！"
+        },
+        {
+            "finnish": "Kirjoita lause!",
+            "chinese": "写句子！"
+        },
+        {
+            "finnish": "Laske kymmeneen!",
+            "chinese": "数到十！"
+        },
+        {
+            "finnish": "Kuuntele minua!",
+            "chinese": "听我说！"
+        },
+        {
+            "finnish": "Katso video!",
+            "chinese": "看视频！"
+        },
+        {
+            "finnish": "Puhu suomea!",
+            "chinese": "说芬兰语！"
+        },
+        {
+            "finnish": "Sanelu = Kuuntele ja kirjoita!",
+            "chinese": "听写 = 听然后写！"
+        },
+        {
+            "finnish": "Missä poika on?",
+            "chinese": "男孩在哪里？"
+        },
+        {
+            "finnish": "Mikä?",
+            "chinese": "什么？ (主格形式)"
+        },
+        {
+            "finnish": "Missä?",
+            "chinese": "在哪里？ (地点格 -ssa/-ssä)"
+        },
+        {
+            "finnish": "koulu (Mikä?) -> koulussa (Missä?)",
+            "chinese": "学校 -> 在学校里"
+        },
+        {
+            "finnish": "Missä sinä olet?",
+            "chinese": "你在哪里？"
+        },
+        {
+            "finnish": "Minä olen kotona / kaupassa / koulussa.",
+            "chinese": "我在家 / 在商店 / 在学校。"
+        },
+        {
+            "finnish": "Minun lapsi on päiväkodissa.",
+            "chinese": "我的孩子在幼儿园。"
+        },
+        {
+            "finnish": "Minä olen matkalla.",
+            "chinese": "我在路上。"
+        },
+        {
+            "finnish": "Minä olen tulossa.",
+            "chinese": "我就来。"
+        },
+        {
+            "finnish": "satu",
+            "chinese": "童话"
+        },
+        {
+            "finnish": "perusmuoto",
+            "chinese": "基本形式"
+        },
+        {
+            "finnish": "koulun",
+            "chinese": "学校的 (所有格)"
+        },
+        {
+            "finnish": "kouluun",
+            "chinese": "去学校 (往格)"
+        },
+        {
+            "finnish": "koulusta",
+            "chinese": "从学校 (出格)"
+        },
+        {
+            "finnish": "koululle",
+            "chinese": "到学校 (向格)"
+        },
+        {
+            "finnish": "koululta",
+            "chinese": "从学校 (离格)"
+        },
+        {
+            "finnish": "jne. / ja niin edelleen",
+            "chinese": "等等"
+        },
+        {
+            "finnish": "Minä olen kotona.",
+            "chinese": "我在家。"
+        },
+        {
+            "finnish": "Minä olen kaupassa.",
+            "chinese": "我在商店。"
+        },
+        {
+            "finnish": "Minä olen kahvilassa.",
+            "chinese": "我在咖啡馆。"
+        },
+        {
+            "finnish": "Minä olen kirjastossa.",
+            "chinese": "我在图书馆。"
+        },
+        {
+            "finnish": "Minä olen juna-asemalla.",
+            "chinese": "我在火车站。"
+        },
+        {
+            "finnish": "Minä olen lääkärissä.",
+            "chinese": "我在诊所。"
+        },
+        {
+            "finnish": "Minä olen jalkapallokentällä.",
+            "chinese": "我在足球场。"
+        },
+        {
+            "finnish": "Minä olen pankissa.",
+            "chinese": "我在银行。"
+        },
+        {
+            "finnish": "Minä olen työvoimatoimistossa.",
+            "chinese": "我在就业办公室。"
+        },
+        {
+            "finnish": "Minä olen poliisiasemalla.",
+            "chinese": "我在警察局。"
+        },
+        {
+            "finnish": "Minä olen töissä.",
+            "chinese": "我在工作。"
+        },
+        {
+            "finnish": "Missä tyttö on?",
+            "chinese": "女孩在哪里？"
+        },
+        {
+            "finnish": "Hän on koulussa.",
+            "chinese": "她在学校。"
+        },
+        {
+            "finnish": "Hän on kotona.",
+            "chinese": "他在家。"
+        },
+        {
+            "finnish": "Missä nainen on?",
+            "chinese": "女人在哪里？"
+        },
+        {
+            "finnish": "Hän on kaupassa.",
+            "chinese": "她在商店。"
+        },
+        {
+            "finnish": "Missä mies on?",
+            "chinese": "男人在哪里？"
+        },
+        {
+            "finnish": "Hän on torilla.",
+            "chinese": "他/她在集市广场。"
+        },
+        {
+            "finnish": "Oletko (sinä) koulussa?",
+            "chinese": "你在学校吗？"
+        },
+        {
+            "finnish": "maissi",
+            "chinese": "玉米"
+        },
+        {
+            "finnish": "maito",
+            "chinese": "牛奶"
+        },
+        {
+            "finnish": "mansikka",
+            "chinese": "草莓"
+        },
+        {
+            "finnish": "kummi",
+            "chinese": "教父/教母"
+        },
+        {
+            "finnish": "kummitus",
+            "chinese": "鬼"
+        },
+        {
+            "finnish": "kummisetä",
+            "chinese": "教父"
+        },
+        {
+            "finnish": "kumi",
+            "chinese": "橡皮"
+        },
+        {
+            "finnish": "lumme",
+            "chinese": "睡莲"
+        },
+        {
+            "finnish": "talo",
+            "chinese": "房子"
+        },
+        {
+            "finnish": "tie",
+            "chinese": "路"
+        },
+        {
+            "finnish": "matto",
+            "chinese": "地毯"
+        },
+        {
+            "finnish": "katto",
+            "chinese": "屋顶"
+        },
+        {
+            "finnish": "kentällä",
+            "chinese": "在场地上"
+        },
+        {
+            "finnish": "lentokenttä",
+            "chinese": "机场"
+        },
+        {
+            "finnish": "äiti",
+            "chinese": "妈妈"
+        },
+        {
+            "finnish": "nenä",
+            "chinese": "鼻子"
+        },
+        {
+            "finnish": "Leuka putoaa.",
+            "chinese": "惊掉下巴。"
+        }
+    ]
+}

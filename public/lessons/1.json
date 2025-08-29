@@ -1,0 +1,425 @@
+{
+    "day": "Maanantai 18. elokuuta 2025",
+    "entries": [
+        {
+            "finnish": "Suomi",
+            "chinese": "芬兰"
+        },
+        {
+            "finnish": "suomalainen",
+            "chinese": "芬兰人"
+        },
+        {
+            "finnish": "Ghana",
+            "chinese": "加纳"
+        },
+        {
+            "finnish": "Ukraina",
+            "chinese": "乌克兰"
+        },
+        {
+            "finnish": "Sri Lanka",
+            "chinese": "斯里兰卡"
+        },
+        {
+            "finnish": "Egypti",
+            "chinese": "埃及"
+        },
+        {
+            "finnish": "Kreikka",
+            "chinese": "希腊"
+        },
+        {
+            "finnish": "Vietnam",
+            "chinese": "越南"
+        },
+        {
+            "finnish": "Kamerun",
+            "chinese": "喀麦隆"
+        },
+        {
+            "finnish": "Nigeria",
+            "chinese": "尼日利亚"
+        },
+        {
+            "finnish": "Nepal",
+            "chinese": "尼泊尔"
+        },
+        {
+            "finnish": "Dominikaaninen tasavalta",
+            "chinese": "多米尼加共和国"
+        },
+        {
+            "finnish": "Brasilia",
+            "chinese": "巴西"
+        },
+        {
+            "finnish": "Filippiinit",
+            "chinese": "菲律宾"
+        },
+        {
+            "finnish": "Slovakia",
+            "chinese": "斯洛伐克"
+        },
+        {
+            "finnish": "Pakistan",
+            "chinese": "巴基斯坦"
+        },
+        {
+            "finnish": "Kiina",
+            "chinese": "中国"
+        },
+        {
+            "finnish": "persoonapronominit",
+            "chinese": "人称代词"
+        },
+        {
+            "finnish": "minä",
+            "chinese": "我"
+        },
+        {
+            "finnish": "sinä",
+            "chinese": "你"
+        },
+        {
+            "finnish": "hän",
+            "chinese": "他/她"
+        },
+        {
+            "finnish": "me",
+            "chinese": "我们"
+        },
+        {
+            "finnish": "te",
+            "chinese": "你们"
+        },
+        {
+            "finnish": "he",
+            "chinese": "他们"
+        },
+        {
+            "finnish": "mies",
+            "chinese": "男人"
+        },
+        {
+            "finnish": "nainen",
+            "chinese": "女人"
+        },
+        {
+            "finnish": "yksi",
+            "chinese": "一"
+        },
+        {
+            "finnish": "ihminen",
+            "chinese": "人"
+        },
+        {
+            "finnish": "monta",
+            "chinese": "许多，很多"
+        },
+        {
+            "finnish": "Odota!",
+            "chinese": "等等！"
+        },
+        {
+            "finnish": "Aloitetaan!",
+            "chinese": "让我们开始吧！"
+        },
+        {
+            "finnish": "Testataan video ja ääni.",
+            "chinese": "我们来测试视频和声音。"
+        },
+        {
+            "finnish": "Laita kamera päälle.",
+            "chinese": "打开摄像头。"
+        },
+        {
+            "finnish": "Hyvää huomenta!",
+            "chinese": "早上好！"
+        },
+        {
+            "finnish": "Tervetuloa Suomea etänä -kurssille!",
+            "chinese": "欢迎来到远程芬兰语课程！"
+        },
+        {
+            "finnish": "Minä olen opettaja.",
+            "chinese": "我是老师。"
+        },
+        {
+            "finnish": "Kuka sinä olet?",
+            "chinese": "你是谁？"
+        },
+        {
+            "finnish": "Minkä maalainen sinä olet?",
+            "chinese": "你是哪个国家的人？"
+        },
+        {
+            "finnish": "Mitä kieltä sinä puhut?",
+            "chinese": "你说什么语言？"
+        },
+        {
+            "finnish": "Minä puhun suomea, englantia ja vähän ruotsia.",
+            "chinese": "我说芬兰语、英语和一点点瑞典语。"
+        },
+        {
+            "finnish": "Mistä sinä olet kotoisin?",
+            "chinese": "你来自哪里？"
+        },
+        {
+            "finnish": "Minä olen Filippiineiltä.",
+            "chinese": "我来自菲律宾。"
+        },
+        {
+            "finnish": "Kuka hän on?",
+            "chinese": "他/她是谁？"
+        },
+        {
+            "finnish": "Kirjoitetaan vihkoon!",
+            "chinese": "（我们）写在笔记本上！"
+        },
+        {
+            "finnish": "Harjoitellaan!",
+            "chinese": "我们来练习吧！"
+        },
+        {
+            "finnish": "Mikä tämä on?",
+            "chinese": "这是什么？"
+        },
+        {
+            "finnish": "Tänään oli paljon asiaa.",
+            "chinese": "今天内容很多。"
+        },
+        {
+            "finnish": "Älä stressaa, jos et ymmärrä vielä kaikkea.",
+            "chinese": "如果你还没有理解全部内容，不要有压力。"
+        },
+        {
+            "finnish": "Onko kysymyksiä?",
+            "chinese": "有问题吗？"
+        },
+        {
+            "finnish": "Jatketaan huomenna kello 9.00!",
+            "chinese": "我们明天9点整继续！"
+        },
+        {
+            "finnish": "Kiitos paljon tästä päivästä!",
+            "chinese": "非常感谢今天！"
+        },
+        {
+            "finnish": "Minä olen...",
+            "chinese": "我是..."
+        },
+        {
+            "finnish": "Hän on...",
+            "chinese": "他/她是..."
+        },
+        {
+            "finnish": "etunimi",
+            "chinese": "名"
+        },
+        {
+            "finnish": "sukunimi",
+            "chinese": "姓"
+        },
+        {
+            "finnish": "Hän on Suomen presidentti.",
+            "chinese": "他是芬兰总统。"
+        },
+        {
+            "finnish": "Minä puhun suomea, englantia ja ruotsia.",
+            "chinese": "我说芬兰语、英语和瑞典语。"
+        },
+        {
+            "finnish": "maa",
+            "chinese": "国家"
+        },
+        {
+            "finnish": "kieli",
+            "chinese": "语言"
+        },
+        {
+            "finnish": "kansalaisuus",
+            "chinese": "国籍"
+        },
+        {
+            "finnish": "suomi",
+            "chinese": "芬兰语 (语言)"
+        },
+        {
+            "finnish": "kiina",
+            "chinese": "中文 (语言)"
+        },
+        {
+            "finnish": "kiinalainen",
+            "chinese": "中国人 (国籍)"
+        },
+        {
+            "finnish": "Minun kotimaa on Suomi.",
+            "chinese": "我的祖国是芬兰。"
+        },
+        {
+            "finnish": "Kuka?",
+            "chinese": "谁？"
+        },
+        {
+            "finnish": "kysymysmerkki",
+            "chinese": "问号"
+        },
+        {
+            "finnish": "piste",
+            "chinese": "句号"
+        },
+        {
+            "finnish": "pilkku",
+            "chinese": "逗号"
+        },
+        {
+            "finnish": "huutomerkki",
+            "chinese": "感叹号"
+        },
+        {
+            "finnish": "Tekstin osat",
+            "chinese": "文本的组成部分"
+        },
+        {
+            "finnish": "kirjain",
+            "chinese": "字母"
+        },
+        {
+            "finnish": "tavu",
+            "chinese": "音节"
+        },
+        {
+            "finnish": "sana",
+            "chinese": "单词"
+        },
+        {
+            "finnish": "lause / virke",
+            "chinese": "句子"
+        },
+        {
+            "finnish": "teksti",
+            "chinese": "文本"
+        },
+        {
+            "finnish": "Auto on sininen.",
+            "chinese": "车是蓝色的。"
+        },
+        {
+            "finnish": "Kuinka monta?",
+            "chinese": "多少？"
+        },
+        {
+            "finnish": "pieni kirjain",
+            "chinese": "小写字母"
+        },
+        {
+            "finnish": "iso kirjain",
+            "chinese": "大写字母"
+        },
+        {
+            "finnish": "aurinko",
+            "chinese": "太阳"
+        },
+        {
+            "finnish": "omena",
+            "chinese": "苹果"
+        },
+        {
+            "finnish": "appelsiini",
+            "chinese": "橙子"
+        },
+        {
+            "finnish": "avain",
+            "chinese": "钥匙"
+        },
+        {
+            "finnish": "lyhyt",
+            "chinese": "短"
+        },
+        {
+            "finnish": "pitkä",
+            "chinese": "长"
+        },
+        {
+            "finnish": "saari",
+            "chinese": "岛"
+        },
+        {
+            "finnish": "ikkuna",
+            "chinese": "窗户"
+        },
+        {
+            "finnish": "imuri",
+            "chinese": "吸尘器"
+        },
+        {
+            "finnish": "iloinen",
+            "chinese": "开心"
+        },
+        {
+            "finnish": "tavuviiva",
+            "chinese": "连字符"
+        },
+        {
+            "finnish": "siima",
+            "chinese": "鱼线"
+        },
+        {
+            "finnish": "uida",
+            "chinese": "游泳"
+        },
+        {
+            "finnish": "uimahalli",
+            "chinese": "游泳馆"
+        },
+        {
+            "finnish": "uuni",
+            "chinese": "烤箱"
+        },
+        {
+            "finnish": "kysymys",
+            "chinese": "问题"
+        },
+        {
+            "finnish": "vastaus",
+            "chinese": "回答"
+        },
+        {
+            "finnish": "Se on...",
+            "chinese": "它是..."
+        },
+        {
+            "finnish": "vihko",
+            "chinese": "笔记本"
+        },
+        {
+            "finnish": "paperi",
+            "chinese": "纸"
+        },
+        {
+            "finnish": "terotin",
+            "chinese": "卷笔刀"
+        },
+        {
+            "finnish": "kansio",
+            "chinese": "文件夹"
+        },
+        {
+            "finnish": "kirja",
+            "chinese": "书"
+        },
+        {
+            "finnish": "tuoli",
+            "chinese": "椅子"
+        },
+        {
+            "finnish": "pulpetti",
+            "chinese": "课桌"
+        },
+        {
+            "finnish": "koulupöytä",
+            "chinese": "课桌 (同义词)"
+        }
+    ]
+}
