@@ -1,0 +1,317 @@
+{
+    "day": "Perjantai 22. elokuuta 2025",
+    "entries": [
+        {
+            "finnish": "kaupunki",
+            "chinese": "城市"
+        },
+        {
+            "finnish": "asua",
+            "chinese": "居住"
+        },
+        {
+            "finnish": "kulkuvälineet",
+            "chinese": "交通工具"
+        },
+        {
+            "finnish": "juna",
+            "chinese": "火车"
+        },
+        {
+            "finnish": "pyörä",
+            "chinese": "自行车"
+        },
+        {
+            "finnish": "auto",
+            "chinese": "汽车"
+        },
+        {
+            "finnish": "taksi",
+            "chinese": "出租车"
+        },
+        {
+            "finnish": "metro",
+            "chinese": "地铁"
+        },
+        {
+            "finnish": "ratikka / raitiovaunu",
+            "chinese": "有轨电车"
+        },
+        {
+            "finnish": "laiva",
+            "chinese": "船"
+        },
+        {
+            "finnish": "lentokone",
+            "chinese": "飞机"
+        },
+        {
+            "finnish": "kävellä",
+            "chinese": "步行"
+        },
+        {
+            "finnish": "yleensä",
+            "chinese": "通常"
+        },
+        {
+            "finnish": "Tänään on perjantai 22. elokuuta 2025.",
+            "chinese": "今天是2025年8月22日，星期五。"
+        },
+        {
+            "finnish": "22. = kahdeskymmenestoinen",
+            "chinese": "22日 = 第二十二。"
+        },
+        {
+            "finnish": "Missä kaupungissa sinä asut?",
+            "chinese": "你住在哪个城市？"
+        },
+        {
+            "finnish": "Minä asun Oulussa.",
+            "chinese": "我住在奥卢。"
+        },
+        {
+            "finnish": "Bussilla kouluun!",
+            "chinese": "坐公交车去学校！"
+        },
+        {
+            "finnish": "Millä?",
+            "chinese": "乘坐什么？(方式格 -lla/-llä)"
+        },
+        {
+            "finnish": "Minä menen kävellen. / Minä kävelen.",
+            "chinese": "我走路去。"
+        },
+        {
+            "finnish": "kävellä (verbi) - minä kävelen, sinä kävelet, hän kävelee...",
+            "chinese": "走路 (动词) - 我走，你走，他/她走..."
+        },
+        {
+            "finnish": "Millä sinä yleensä menet kauppaan?",
+            "chinese": "你通常怎么去商店？"
+        },
+        {
+            "finnish": "Hyvää viikonloppua!",
+            "chinese": "周末愉快！"
+        },
+        {
+            "finnish": "Nähdään maanantaina tasan kello 9.00!",
+            "chinese": "我们周一上午9点整见！"
+        },
+        {
+            "finnish": "Missä maassa sinä asut?",
+            "chinese": "你住在哪个国家？"
+        },
+        {
+            "finnish": "Minä asun Kelviällä.",
+            "chinese": "我住在凯尔维亚。"
+        },
+        {
+            "finnish": "Minä asun Kokkolassa.",
+            "chinese": "我住在科科拉。"
+        },
+        {
+            "finnish": "Minä asun myös Kokkolassa.",
+            "chinese": "我也住在科科拉。"
+        },
+        {
+            "finnish": "Minä asun Helsingissä.",
+            "chinese": "我住在赫尔辛基。"
+        },
+        {
+            "finnish": "Minä asun Turussa.",
+            "chinese": "我住在图尔库。"
+        },
+        {
+            "finnish": "Minä asun Järvenpäässä.",
+            "chinese": "我住在耶尔文佩。"
+        },
+        {
+            "finnish": "Minä asun Raumalla.",
+            "chinese": "我住在劳马。"
+        },
+        {
+            "finnish": "Minä asun Espoossa.",
+            "chinese": "我住在埃斯波。"
+        },
+        {
+            "finnish": "Minä asun Suomessa.",
+            "chinese": "我住在芬兰。"
+        },
+        {
+            "finnish": "Minä asun Venäjällä.",
+            "chinese": "我住在俄罗斯。"
+        },
+        {
+            "finnish": "Minä asun Filippiineillä.",
+            "chinese": "我住在菲律宾。"
+        },
+        {
+            "finnish": "Millä sinä menet?",
+            "chinese": "你怎么去？"
+        },
+        {
+            "finnish": "Minä menen junalla.",
+            "chinese": "我坐火车去。"
+        },
+        {
+            "finnish": "Minä menen ratikalla.",
+            "chinese": "我坐有轨电车去。"
+        },
+        {
+            "finnish": "Minä menen bussilla.",
+            "chinese": "我坐公交车去。"
+        },
+        {
+            "finnish": "Minä menen pyörällä.",
+            "chinese": "我骑自行车去。"
+        },
+        {
+            "finnish": "Minä menen metrolla.",
+            "chinese": "我坐地铁去。"
+        },
+        {
+            "finnish": "Minä menen autolla.",
+            "chinese": "我坐汽车去。"
+        },
+        {
+            "finnish": "Minne sinä menet? / Mihin sinä menet?",
+            "chinese": "你去哪里？"
+        },
+        {
+            "finnish": "Minä menen kouluun.",
+            "chinese": "我去学校。"
+        },
+        {
+            "finnish": "Minä menen kotiin.",
+            "chinese": "我回家。"
+        },
+        {
+            "finnish": "Millä sinä menet kouluun?",
+            "chinese": "你怎么去学校？"
+        },
+        {
+            "finnish": "Minä menen kouluun bussilla.",
+            "chinese": "我坐公交车去学校。"
+        },
+        {
+            "finnish": "Millä sinä menet kauppaan?",
+            "chinese": "你怎么去商店？"
+        },
+        {
+            "finnish": "Minä menen kauppaan autolla.",
+            "chinese": "我坐汽车去商店。"
+        },
+        {
+            "finnish": "Minä menen kotiin bussilla.",
+            "chinese": "我坐公交车回家。"
+        },
+        {
+            "finnish": "Minä menen kouluun junalla.",
+            "chinese": "我坐火车去学校。"
+        },
+        {
+            "finnish": "Minä menen kauppaan pyörällä.",
+            "chinese": "我骑自行车去商店。"
+        },
+        {
+            "finnish": "Minä menen kahvilaan metrolla.",
+            "chinese": "我坐地铁去咖啡馆。"
+        },
+        {
+            "finnish": "Minä menen torille ratikalla.",
+            "chinese": "我坐有轨电车去集市广场。"
+        },
+        {
+            "finnish": "Minä menen juna-asemalle taksilla.",
+            "chinese": "我坐出租车去火车站。"
+        },
+        {
+            "finnish": "Minä menen jalkapallokentälle autolla.",
+            "chinese": "我坐汽车去足球场。"
+        },
+        {
+            "finnish": "Minä menen puistoon pyörällä.",
+            "chinese": "我骑自行车去公园。"
+        },
+        {
+            "finnish": "Minä menen apteekkiin bussilla.",
+            "chinese": "我坐公交车去药店。"
+        },
+        {
+            "finnish": "Minä menen poliisiasemalle taksilla.",
+            "chinese": "我坐出租车去警察局。"
+        },
+        {
+            "finnish": "Minä menen Raumalle bussilla.",
+            "chinese": "我坐公交车去劳马。"
+        },
+        {
+            "finnish": "Minä menen Brasiliaan lentokoneella.",
+            "chinese": "我坐飞机去巴西。"
+        },
+        {
+            "finnish": "Minä menen Ruotsiin laivalla.",
+            "chinese": "我坐船去瑞典。"
+        },
+        {
+            "finnish": "Minä menen kauppaan helikopterilla.",
+            "chinese": "我坐直升机去商店。"
+        },
+        {
+            "finnish": "Minä menen kirjastoon skootterilla.",
+            "chinese": "我骑滑板车去图书馆。"
+        },
+        {
+            "finnish": "Minä menen Skotlantiin lentokoneella.",
+            "chinese": "我坐飞机去苏格兰。"
+        },
+        {
+            "finnish": "Minä menen kouluun moottoripyörällä.",
+            "chinese": "我骑摩托车去学校。"
+        },
+        {
+            "finnish": "Minä menen lentokentälle taksilla.",
+            "chinese": "我坐出租车去机场。"
+        },
+        {
+            "finnish": "Yleensä minä menen kauppaan autolla.",
+            "chinese": "通常我坐汽车去商店。"
+        },
+        {
+            "finnish": "Millä? != Milloin?",
+            "chinese": "乘坐什么？ != 什么时候？"
+        },
+        {
+            "finnish": "pullo",
+            "chinese": "瓶子"
+        },
+        {
+            "finnish": "papu",
+            "chinese": "豆子"
+        },
+        {
+            "finnish": "pappu",
+            "chinese": "爷爷 (口语)"
+        },
+        {
+            "finnish": "laki",
+            "chinese": "法律"
+        },
+        {
+            "finnish": "lakki",
+            "chinese": "帽子"
+        },
+        {
+            "finnish": "pankki",
+            "chinese": "银行"
+        },
+        {
+            "finnish": "pankissa",
+            "chinese": "在银行里"
+        },
+        {
+            "finnish": "pankkiin",
+            "chinese": "去银行"
+        }
+    ]
+}

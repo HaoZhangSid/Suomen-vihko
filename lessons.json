@@ -1,0 +1,38 @@
+[
+    {
+        "day": "Maanantai 18. elokuuta 2025",
+        "path": "lessons/1.json"
+    },
+    {
+        "day": "Tiistai 19. elokuuta 2025",
+        "path": "lessons/2.json"
+    },
+    {
+        "day": "Keskiviikko 20. elokuuta 2025",
+        "path": "lessons/3.json"
+    },
+    {
+        "day": "Torstai 21. elokuuta 2025",
+        "path": "lessons/4.json"
+    },
+    {
+        "day": "Perjantai 22. elokuuta 2025",
+        "path": "lessons/5.json"
+    },
+    {
+        "day": "Maanantai 25. elokuuta 2025",
+        "path": "lessons/6.json"
+    },
+    {
+        "day": "Tiistai 26. elokuuta 2025",
+        "path": "lessons/7.json"
+    },
+    {
+        "day": "Keskiviikko 27. elokuuta 2025",
+        "path": "lessons/8.json"
+    },
+    {
+        "day": "Torstai 28. elokuuta 2025",
+        "path": "lessons/9.json"
+    }
+]

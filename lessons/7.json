@@ -1,0 +1,269 @@
+{
+    "day": "Tiistai 26. elokuuta 2025",
+    "entries": [
+        {
+            "finnish": "kello",
+            "chinese": "钟，表"
+        },
+        {
+            "finnish": "aika",
+            "chinese": "时间"
+        },
+        {
+            "finnish": "tasan",
+            "chinese": "整点"
+        },
+        {
+            "finnish": "puoli",
+            "chinese": "一半 (用于半点)"
+        },
+        {
+            "finnish": "yli",
+            "chinese": "超过，过"
+        },
+        {
+            "finnish": "vaille",
+            "chinese": "缺少，差"
+        },
+        {
+            "finnish": "vartti",
+            "chinese": "一刻钟 (15分钟)"
+        },
+        {
+            "finnish": "minuutti",
+            "chinese": "分钟"
+        },
+        {
+            "finnish": "herätys",
+            "chinese": "醒来，起床"
+        },
+        {
+            "finnish": "herätä",
+            "chinese": "(动词) 醒来"
+        },
+        {
+            "finnish": "myös",
+            "chinese": "也"
+        },
+        {
+            "finnish": "Tänään on tiistai 26. elokuuta 2025.",
+            "chinese": "今天是2025年8月26日，星期二。"
+        },
+        {
+            "finnish": "26. = kahdeskymmeneskuudes",
+            "chinese": "26日 = 第二十六。"
+        },
+        {
+            "finnish": "Mitä muuta sinulla on?",
+            "chinese": "你还有其他什么东西吗？"
+        },
+        {
+            "finnish": "Hyvää työtä!",
+            "chinese": "干得好！"
+        },
+        {
+            "finnish": "Paljonko kello on? / Mitä kello on?",
+            "chinese": "现在几点了？"
+        },
+        {
+            "finnish": "Kello on tasan yhdeksän.",
+            "chinese": "现在九点整。 (示例)"
+        },
+        {
+            "finnish": "Kello on puoli kuusi.",
+            "chinese": "现在五点半。 (字面意思：半向六点)"
+        },
+        {
+            "finnish": "Kello on varttia vaille kymmenen.",
+            "chinese": "现在差一刻十点。(9:45)"
+        },
+        {
+            "finnish": "Kello on varttia yli yksi.",
+            "chinese": "现在一点过一刻。(1:15)"
+        },
+        {
+            "finnish": "Kello on viisitoista (minuuttia) yli yksi.",
+            "chinese": "现在一点过十五分。"
+        },
+        {
+            "finnish": "Harjoitellaan kelloa.",
+            "chinese": "我们来练习时间。"
+        },
+        {
+            "finnish": "Mihin aikaan sinä yleensä heräät?",
+            "chinese": "你通常什么时候醒来/起床？"
+        },
+        {
+            "finnish": "Minä herään yleensä puoli kuusi.",
+            "chinese": "我通常五点半醒来。"
+        },
+        {
+            "finnish": "Minä herään yleensä kello seitsemän.",
+            "chinese": "我通常七点钟醒来。"
+        },
+        {
+            "finnish": "Harjoittele kelloa!",
+            "chinese": "练习时间表达！"
+        },
+        {
+            "finnish": "Kello on yksi.",
+            "chinese": "1点。"
+        },
+        {
+            "finnish": "Kello on kaksi.",
+            "chinese": "2点。"
+        },
+        {
+            "finnish": "Kello on kolme.",
+            "chinese": "3点。"
+        },
+        {
+            "finnish": "Kello on kuusi.",
+            "chinese": "6点。"
+        },
+        {
+            "finnish": "Kello on puoli kymmenen.",
+            "chinese": "9点半。"
+        },
+        {
+            "finnish": "Kello on puoli viisi.",
+            "chinese": "4点半。"
+        },
+        {
+            "finnish": "Kello on puoli kahdeksan.",
+            "chinese": "7点半。"
+        },
+        {
+            "finnish": "Kello on viisitoista vaille kaksitoista.",
+            "chinese": "差15分12点 (11:45)。"
+        },
+        {
+            "finnish": "vartti = 15 minuuttia",
+            "chinese": "一刻钟 = 15分钟。"
+        },
+        {
+            "finnish": "Kello on varttia vaille kaksi.",
+            "chinese": "差一刻2点 (1:45)。"
+        },
+        {
+            "finnish": "Kello on varttia yli yhdeksän.",
+            "chinese": "9点过一刻 (9:15)。"
+        },
+        {
+            "finnish": "Kello on varttia yli kymmenen.",
+            "chinese": "10点过一刻 (10:15)。"
+        },
+        {
+            "finnish": "Kello on (tasan) yksi.",
+            "chinese": "1点整。"
+        },
+        {
+            "finnish": "Kello on (tasan) kaksi.",
+            "chinese": "2点整。"
+        },
+        {
+            "finnish": "Kello on puoli yksi.",
+            "chinese": "12点半。"
+        },
+        {
+            "finnish": "Kello on puoli kaksi.",
+            "chinese": "1点半。"
+        },
+        {
+            "finnish": "Kello on puoli kolme.",
+            "chinese": "2点半。"
+        },
+        {
+            "finnish": "Kello on varttia vaille yksi.",
+            "chinese": "差一刻1点 (12:45)。"
+        },
+        {
+            "finnish": "Kello on kymmenen vaille yksi.",
+            "chinese": "差10分1点 (12:50)。"
+        },
+        {
+            "finnish": "Kello on viisi vaille yksi.",
+            "chinese": "差5分1点 (12:55)。"
+        },
+        {
+            "finnish": "Kello on seitsemän vaille yksi.",
+            "chinese": "差7分1点 (12:53)。"
+        },
+        {
+            "finnish": "Kello on kymmenen yli yksi.",
+            "chinese": "1点过10分 (1:10)。"
+        },
+        {
+            "finnish": "Kello on viisi yli yksi.",
+            "chinese": "1点过5分 (1:05)。"
+        },
+        {
+            "finnish": "Moneltako herätys on?",
+            "chinese": "几点起床？"
+        },
+        {
+            "finnish": "Herätys on seitsemän.",
+            "chinese": "7点起床。"
+        },
+        {
+            "finnish": "Mihin aikaan herätys on?",
+            "chinese": "什么时间起床？"
+        },
+        {
+            "finnish": "Ruoka on puoli yksi.",
+            "chinese": "饭点是12点半。"
+        },
+        {
+            "finnish": "Moneltako oppitunti on?",
+            "chinese": "几点上课？"
+        },
+        {
+            "finnish": "Oppitunti on varttia yli kuusi.",
+            "chinese": "6点过一刻上课。"
+        },
+        {
+            "finnish": "Moneltako jalkapallo-ottelu on?",
+            "chinese": "几点有足球赛？"
+        },
+        {
+            "finnish": "Jalkapallo-ottelu on varttia vaille kolme.",
+            "chinese": "差一刻3点有足球赛。"
+        },
+        {
+            "finnish": "jääkiekko-ottelu",
+            "chinese": "冰球比赛。"
+        },
+        {
+            "finnish": "nyrkkeilyottelu",
+            "chinese": "拳击比赛。"
+        },
+        {
+            "finnish": "ottelu = \"matsi\"",
+            "chinese": "比赛（口语）。"
+        },
+        {
+            "finnish": "Moneltako koulu alkaa?",
+            "chinese": "学校几点开始？"
+        },
+        {
+            "finnish": "Koulu alkaa kello yhdeksän.",
+            "chinese": "学校9点开始。"
+        },
+        {
+            "finnish": "alkaa",
+            "chinese": "开始。"
+        },
+        {
+            "finnish": "loppua",
+            "chinese": "结束。"
+        },
+        {
+            "finnish": "Mihin aikaan koulu loppuu?",
+            "chinese": "学校什么时间结束？"
+        },
+        {
+            "finnish": "Koulu loppuu kello yksi.",
+            "chinese": "学校1点结束。"
+        }
+    ]
+}
