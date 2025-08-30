@@ -46,12 +46,32 @@
             "chinese": "也"
         },
         {
-            "finnish": "Tänään on tiistai 26. elokuuta 2025.",
-            "chinese": "今天是2025年8月26日，星期二。"
-        },
-        {
             "finnish": "26. = kahdeskymmeneskuudes",
             "chinese": "26日 = 第二十六。"
+        },
+        {
+            "finnish": "jääkiekko-ottelu",
+            "chinese": "冰球比赛。"
+        },
+        {
+            "finnish": "nyrkkeilyottelu",
+            "chinese": "拳击比赛。"
+        },
+        {
+            "finnish": "ottelu = \"matsi\"",
+            "chinese": "比赛（口语）。"
+        },
+        {
+            "finnish": "alkaa",
+            "chinese": "开始。"
+        },
+        {
+            "finnish": "loppua",
+            "chinese": "结束。"
+        },
+        {
+            "finnish": "Tänään on tiistai 26. elokuuta 2025.",
+            "chinese": "今天是2025年8月26日，星期二。"
         },
         {
             "finnish": "Mitä muuta sinulla on?",
@@ -230,32 +250,12 @@
             "chinese": "差一刻3点有足球赛。"
         },
         {
-            "finnish": "jääkiekko-ottelu",
-            "chinese": "冰球比赛。"
-        },
-        {
-            "finnish": "nyrkkeilyottelu",
-            "chinese": "拳击比赛。"
-        },
-        {
-            "finnish": "ottelu = \"matsi\"",
-            "chinese": "比赛（口语）。"
-        },
-        {
             "finnish": "Moneltako koulu alkaa?",
             "chinese": "学校几点开始？"
         },
         {
             "finnish": "Koulu alkaa kello yhdeksän.",
             "chinese": "学校9点开始。"
-        },
-        {
-            "finnish": "alkaa",
-            "chinese": "开始。"
-        },
-        {
-            "finnish": "loppua",
-            "chinese": "结束。"
         },
         {
             "finnish": "Mihin aikaan koulu loppuu?",

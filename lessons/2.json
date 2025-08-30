@@ -54,6 +54,62 @@
             "chinese": "标点符号"
         },
         {
+            "finnish": "suu",
+            "chinese": "嘴巴"
+        },
+        {
+            "finnish": "sipuli",
+            "chinese": "洋葱"
+        },
+        {
+            "finnish": "sakset",
+            "chinese": "剪刀"
+        },
+        {
+            "finnish": "kisa",
+            "chinese": "比赛"
+        },
+        {
+            "finnish": "kissa",
+            "chinese": "猫"
+        },
+        {
+            "finnish": "kasi",
+            "chinese": "八 (口语)"
+        },
+        {
+            "finnish": "kassi",
+            "chinese": "包，袋子"
+        },
+        {
+            "finnish": "kahdeksan",
+            "chinese": "八 (标准语)"
+        },
+        {
+            "finnish": "nalle",
+            "chinese": "泰迪熊"
+        },
+        {
+            "finnish": "nolla",
+            "chinese": "零"
+        },
+        {
+            "finnish": "sauna",
+            "chinese": "桑拿"
+        },
+        {
+            "finnish": "etana",
+            "chinese": "蜗牛"
+        },
+        {
+            "finnish": "elefantti",
+            "chinese": "大象"
+        },
+        {
+            "finnish": "Suomeen",
+            "chinese": "去芬兰 (目的地格)"
+        },
+        {
             "finnish": "Tänään on tiistai 19. elokuuta 2025.",
             "chinese": "今天是2025年8月19日，星期二。"
         },
@@ -160,62 +216,6 @@
         {
             "finnish": "Onko sinulla nuha?",
             "chinese": "你流鼻涕吗？"
-        },
-        {
-            "finnish": "suu",
-            "chinese": "嘴巴"
-        },
-        {
-            "finnish": "sipuli",
-            "chinese": "洋葱"
-        },
-        {
-            "finnish": "sakset",
-            "chinese": "剪刀"
-        },
-        {
-            "finnish": "kisa",
-            "chinese": "比赛"
-        },
-        {
-            "finnish": "kissa",
-            "chinese": "猫"
-        },
-        {
-            "finnish": "kasi",
-            "chinese": "八 (口语)"
-        },
-        {
-            "finnish": "kassi",
-            "chinese": "包，袋子"
-        },
-        {
-            "finnish": "kahdeksan",
-            "chinese": "八 (标准语)"
-        },
-        {
-            "finnish": "nalle",
-            "chinese": "泰迪熊"
-        },
-        {
-            "finnish": "nolla",
-            "chinese": "零"
-        },
-        {
-            "finnish": "sauna",
-            "chinese": "桑拿"
-        },
-        {
-            "finnish": "etana",
-            "chinese": "蜗牛"
-        },
-        {
-            "finnish": "elefantti",
-            "chinese": "大象"
-        },
-        {
-            "finnish": "Suomeen",
-            "chinese": "去芬兰 (目的地格)"
         },
         {
             "finnish": "Suomen presidentti on Alexander Stubb.",

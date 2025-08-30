@@ -38,84 +38,8 @@
             "chinese": "飞"
         },
         {
-            "finnish": "Tänään on maanantai 25. elokuuta 2025.",
-            "chinese": "今天是2025年8月25日，星期一。"
-        },
-        {
             "finnish": "25. = kahdeskymmenesviides",
             "chinese": "25日 = 第二十五。"
-        },
-        {
-            "finnish": "Suomessa on kaksi kielimuotoa.",
-            "chinese": "芬兰语有两种语言形式。"
-        },
-        {
-            "finnish": "Puhekielen pronominit (minä -> mä, sinä -> sä, hän -> se, he -> ne)",
-            "chinese": "口语代词 (我,你,他/她,他们)"
-        },
-        {
-            "finnish": "Missä kaupungissa sä asut?",
-            "chinese": "(口语) 你住在哪个城市？"
-        },
-        {
-            "finnish": "Mä asun Oulussa.",
-            "chinese": "(口语) 我住在奥卢。"
-        },
-        {
-            "finnish": "Millä sä meet?",
-            "chinese": "(口语) 你怎么去？"
-        },
-        {
-            "finnish": "Mä meen autolla.",
-            "chinese": "(口语) 我坐车去。"
-        },
-        {
-            "finnish": "Minne sä meet?",
-            "chinese": "(口语) 你去哪儿？"
-        },
-        {
-            "finnish": "Mä meen kotiin.",
-            "chinese": "(口语) 我回家。"
-        },
-        {
-            "finnish": "Anteeksi, että olen myöhässä.",
-            "chinese": "对不起，我迟到了。"
-        },
-        {
-            "finnish": "Minä menen Ukrainaan lentokoneella.",
-            "chinese": "我坐飞机去乌克兰。"
-        },
-        {
-            "finnish": "Minä menen Filippiineille lentokoneella.",
-            "chinese": "我坐飞机去菲律宾。"
-        },
-        {
-            "finnish": "Minä menen Dominikaaniseen tasavaltaan lentokoneella.",
-            "chinese": "我坐飞机去多米尼加共和国。"
-        },
-        {
-            "finnish": "Minä menen Vietnamiin lentokoneella.",
-            "chinese": "我坐飞机去越南。"
-        },
-        {
-            "finnish": "Minä menen Sri Lankaan lentokoneella.",
-            "chinese": "我坐飞机去斯里兰卡。"
-        },
-        {
-            "finnish": "Minä menen Egyptiin lentokoneella.",
-            "chinese": "我坐飞机去埃及。"
-        },
-        {
-            "finnish": "Minä menen MINNE MILLÄ",
-            "chinese": "我去 [目的地] 乘坐 [交通工具] (句式结构)"
-        },
-        {
-            "finnish": "Mitä sinä teet kurssilla?",
-            "chinese": "你在课上做什么？"
-        },
-        {
-            "finnish": "Opettele numerot!",
-            "chinese": "学习数字！"
         },
         {
             "finnish": "opiskella",
@@ -124,10 +48,6 @@
         {
             "finnish": "opiskelen",
             "chinese": "（我）学习"
-        },
-        {
-            "finnish": "Minä opiskelen suomea.",
-            "chinese": "我学习芬兰语。"
         },
         {
             "finnish": "verbi",
@@ -140,22 +60,6 @@
         {
             "finnish": "verbin persoonamuodot",
             "chinese": "动词人称变位"
-        },
-        {
-            "finnish": "Minä luen.",
-            "chinese": "我读。"
-        },
-        {
-            "finnish": "Minä kirjoitan.",
-            "chinese": "我写。"
-        },
-        {
-            "finnish": "Minä kuuntelen.",
-            "chinese": "我听。"
-        },
-        {
-            "finnish": "Minä puhun, luen, kirjoitan ja kuuntelen.",
-            "chinese": "我说、读、写和听。"
         },
         {
             "finnish": "nollasta kymmeneen",
@@ -292,6 +196,102 @@
         {
             "finnish": "koju",
             "chinese": "小摊"
+        },
+        {
+            "finnish": "Tänään on maanantai 25. elokuuta 2025.",
+            "chinese": "今天是2025年8月25日，星期一。"
+        },
+        {
+            "finnish": "Suomessa on kaksi kielimuotoa.",
+            "chinese": "芬兰语有两种语言形式。"
+        },
+        {
+            "finnish": "Puhekielen pronominit (minä -> mä, sinä -> sä, hän -> se, he -> ne)",
+            "chinese": "口语代词 (我,你,他/她,他们)"
+        },
+        {
+            "finnish": "Missä kaupungissa sä asut?",
+            "chinese": "(口语) 你住在哪个城市？"
+        },
+        {
+            "finnish": "Mä asun Oulussa.",
+            "chinese": "(口语) 我住在奥卢。"
+        },
+        {
+            "finnish": "Millä sä meet?",
+            "chinese": "(口语) 你怎么去？"
+        },
+        {
+            "finnish": "Mä meen autolla.",
+            "chinese": "(口语) 我坐车去。"
+        },
+        {
+            "finnish": "Minne sä meet?",
+            "chinese": "(口语) 你去哪儿？"
+        },
+        {
+            "finnish": "Mä meen kotiin.",
+            "chinese": "(口语) 我回家。"
+        },
+        {
+            "finnish": "Anteeksi, että olen myöhässä.",
+            "chinese": "对不起，我迟到了。"
+        },
+        {
+            "finnish": "Minä menen Ukrainaan lentokoneella.",
+            "chinese": "我坐飞机去乌克兰。"
+        },
+        {
+            "finnish": "Minä menen Filippiineille lentokoneella.",
+            "chinese": "我坐飞机去菲律宾。"
+        },
+        {
+            "finnish": "Minä menen Dominikaaniseen tasavaltaan lentokoneella.",
+            "chinese": "我坐飞机去多米尼加共和国。"
+        },
+        {
+            "finnish": "Minä menen Vietnamiin lentokoneella.",
+            "chinese": "我坐飞机去越南。"
+        },
+        {
+            "finnish": "Minä menen Sri Lankaan lentokoneella.",
+            "chinese": "我坐飞机去斯里兰卡。"
+        },
+        {
+            "finnish": "Minä menen Egyptiin lentokoneella.",
+            "chinese": "我坐飞机去埃及。"
+        },
+        {
+            "finnish": "Minä menen MINNE MILLÄ",
+            "chinese": "我去 [目的地] 乘坐 [交通工具] (句式结构)"
+        },
+        {
+            "finnish": "Mitä sinä teet kurssilla?",
+            "chinese": "你在课上做什么？"
+        },
+        {
+            "finnish": "Opettele numerot!",
+            "chinese": "学习数字！"
+        },
+        {
+            "finnish": "Minä opiskelen suomea.",
+            "chinese": "我学习芬兰语。"
+        },
+        {
+            "finnish": "Minä luen.",
+            "chinese": "我读。"
+        },
+        {
+            "finnish": "Minä kirjoitan.",
+            "chinese": "我写。"
+        },
+        {
+            "finnish": "Minä kuuntelen.",
+            "chinese": "我听。"
+        },
+        {
+            "finnish": "Minä puhun, luen, kirjoitan ja kuuntelen.",
+            "chinese": "我说、读、写和听。"
         }
     ]
 }

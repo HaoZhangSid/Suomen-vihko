@@ -54,12 +54,44 @@
             "chinese": "通常"
         },
         {
-            "finnish": "Tänään on perjantai 22. elokuuta 2025.",
-            "chinese": "今天是2025年8月22日，星期五。"
-        },
-        {
             "finnish": "22. = kahdeskymmenestoinen",
             "chinese": "22日 = 第二十二。"
+        },
+        {
+            "finnish": "pullo",
+            "chinese": "瓶子"
+        },
+        {
+            "finnish": "papu",
+            "chinese": "豆子"
+        },
+        {
+            "finnish": "pappu",
+            "chinese": "爷爷 (口语)"
+        },
+        {
+            "finnish": "laki",
+            "chinese": "法律"
+        },
+        {
+            "finnish": "lakki",
+            "chinese": "帽子"
+        },
+        {
+            "finnish": "pankki",
+            "chinese": "银行"
+        },
+        {
+            "finnish": "pankissa",
+            "chinese": "在银行里"
+        },
+        {
+            "finnish": "pankkiin",
+            "chinese": "去银行"
+        },
+        {
+            "finnish": "Tänään on perjantai 22. elokuuta 2025.",
+            "chinese": "今天是2025年8月22日，星期五。"
         },
         {
             "finnish": "Missä kaupungissa sinä asut?",
@@ -280,38 +312,6 @@
         {
             "finnish": "Millä? != Milloin?",
             "chinese": "乘坐什么？ != 什么时候？"
-        },
-        {
-            "finnish": "pullo",
-            "chinese": "瓶子"
-        },
-        {
-            "finnish": "papu",
-            "chinese": "豆子"
-        },
-        {
-            "finnish": "pappu",
-            "chinese": "爷爷 (口语)"
-        },
-        {
-            "finnish": "laki",
-            "chinese": "法律"
-        },
-        {
-            "finnish": "lakki",
-            "chinese": "帽子"
-        },
-        {
-            "finnish": "pankki",
-            "chinese": "银行"
-        },
-        {
-            "finnish": "pankissa",
-            "chinese": "在银行里"
-        },
-        {
-            "finnish": "pankkiin",
-            "chinese": "去银行"
         }
     ]
 }
