@@ -34,5 +34,9 @@
     {
         "day": "Torstai 28. elokuuta 2025",
         "path": "lessons/9.json"
+    },
+    {
+        "day": "Perjantai 29. elokuuta 2025",
+        "path": "lessons/10.json"
     }
 ]
