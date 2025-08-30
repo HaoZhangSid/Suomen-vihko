@@ -118,6 +118,186 @@
             "chinese": "许多，很多"
         },
         {
+            "finnish": "etunimi",
+            "chinese": "名"
+        },
+        {
+            "finnish": "sukunimi",
+            "chinese": "姓"
+        },
+        {
+            "finnish": "maa",
+            "chinese": "国家"
+        },
+        {
+            "finnish": "kieli",
+            "chinese": "语言"
+        },
+        {
+            "finnish": "kansalaisuus",
+            "chinese": "国籍"
+        },
+        {
+            "finnish": "suomi",
+            "chinese": "芬兰语 (语言)"
+        },
+        {
+            "finnish": "kiina",
+            "chinese": "中文 (语言)"
+        },
+        {
+            "finnish": "kiinalainen",
+            "chinese": "中国人 (国籍)"
+        },
+        {
+            "finnish": "kysymysmerkki",
+            "chinese": "问号"
+        },
+        {
+            "finnish": "piste",
+            "chinese": "句号"
+        },
+        {
+            "finnish": "pilkku",
+            "chinese": "逗号"
+        },
+        {
+            "finnish": "huutomerkki",
+            "chinese": "感叹号"
+        },
+        {
+            "finnish": "Tekstin osat",
+            "chinese": "文本的组成部分"
+        },
+        {
+            "finnish": "kirjain",
+            "chinese": "字母"
+        },
+        {
+            "finnish": "tavu",
+            "chinese": "音节"
+        },
+        {
+            "finnish": "sana",
+            "chinese": "单词"
+        },
+        {
+            "finnish": "lause / virke",
+            "chinese": "句子"
+        },
+        {
+            "finnish": "teksti",
+            "chinese": "文本"
+        },
+        {
+            "finnish": "pieni kirjain",
+            "chinese": "小写字母"
+        },
+        {
+            "finnish": "iso kirjain",
+            "chinese": "大写字母"
+        },
+        {
+            "finnish": "aurinko",
+            "chinese": "太阳"
+        },
+        {
+            "finnish": "omena",
+            "chinese": "苹果"
+        },
+        {
+            "finnish": "appelsiini",
+            "chinese": "橙子"
+        },
+        {
+            "finnish": "avain",
+            "chinese": "钥匙"
+        },
+        {
+            "finnish": "lyhyt",
+            "chinese": "短"
+        },
+        {
+            "finnish": "pitkä",
+            "chinese": "长"
+        },
+        {
+            "finnish": "saari",
+            "chinese": "岛"
+        },
+        {
+            "finnish": "ikkuna",
+            "chinese": "窗户"
+        },
+        {
+            "finnish": "imuri",
+            "chinese": "吸尘器"
+        },
+        {
+            "finnish": "iloinen",
+            "chinese": "开心"
+        },
+        {
+            "finnish": "tavuviiva",
+            "chinese": "连字符"
+        },
+        {
+            "finnish": "siima",
+            "chinese": "鱼线"
+        },
+        {
+            "finnish": "uida",
+            "chinese": "游泳"
+        },
+        {
+            "finnish": "uimahalli",
+            "chinese": "游泳馆"
+        },
+        {
+            "finnish": "uuni",
+            "chinese": "烤箱"
+        },
+        {
+            "finnish": "kysymys",
+            "chinese": "问题"
+        },
+        {
+            "finnish": "vastaus",
+            "chinese": "回答"
+        },
+        {
+            "finnish": "vihko",
+            "chinese": "笔记本"
+        },
+        {
+            "finnish": "paperi",
+            "chinese": "纸"
+        },
+        {
+            "finnish": "terotin",
+            "chinese": "卷笔刀"
+        },
+        {
+            "finnish": "kansio",
+            "chinese": "文件夹"
+        },
+        {
+            "finnish": "kirja",
+            "chinese": "书"
+        },
+        {
+            "finnish": "tuoli",
+            "chinese": "椅子"
+        },
+        {
+            "finnish": "pulpetti",
+            "chinese": "课桌"
+        },
+        {
+            "finnish": "koulupöytä",
+            "chinese": "课桌 (同义词)"
+        },
+        {
             "finnish": "Odota!",
             "chinese": "等等！"
         },
@@ -214,44 +394,12 @@
             "chinese": "他/她是..."
         },
         {
-            "finnish": "etunimi",
-            "chinese": "名"
-        },
-        {
-            "finnish": "sukunimi",
-            "chinese": "姓"
-        },
-        {
             "finnish": "Hän on Suomen presidentti.",
             "chinese": "他是芬兰总统。"
         },
         {
             "finnish": "Minä puhun suomea, englantia ja ruotsia.",
             "chinese": "我说芬兰语、英语和瑞典语。"
-        },
-        {
-            "finnish": "maa",
-            "chinese": "国家"
-        },
-        {
-            "finnish": "kieli",
-            "chinese": "语言"
-        },
-        {
-            "finnish": "kansalaisuus",
-            "chinese": "国籍"
-        },
-        {
-            "finnish": "suomi",
-            "chinese": "芬兰语 (语言)"
-        },
-        {
-            "finnish": "kiina",
-            "chinese": "中文 (语言)"
-        },
-        {
-            "finnish": "kiinalainen",
-            "chinese": "中国人 (国籍)"
         },
         {
             "finnish": "Minun kotimaa on Suomi.",
@@ -262,46 +410,6 @@
             "chinese": "谁？"
         },
         {
-            "finnish": "kysymysmerkki",
-            "chinese": "问号"
-        },
-        {
-            "finnish": "piste",
-            "chinese": "句号"
-        },
-        {
-            "finnish": "pilkku",
-            "chinese": "逗号"
-        },
-        {
-            "finnish": "huutomerkki",
-            "chinese": "感叹号"
-        },
-        {
-            "finnish": "Tekstin osat",
-            "chinese": "文本的组成部分"
-        },
-        {
-            "finnish": "kirjain",
-            "chinese": "字母"
-        },
-        {
-            "finnish": "tavu",
-            "chinese": "音节"
-        },
-        {
-            "finnish": "sana",
-            "chinese": "单词"
-        },
-        {
-            "finnish": "lause / virke",
-            "chinese": "句子"
-        },
-        {
-            "finnish": "teksti",
-            "chinese": "文本"
-        },
-        {
             "finnish": "Auto on sininen.",
             "chinese": "车是蓝色的。"
         },
@@ -310,116 +418,8 @@
             "chinese": "多少？"
         },
         {
-            "finnish": "pieni kirjain",
-            "chinese": "小写字母"
-        },
-        {
-            "finnish": "iso kirjain",
-            "chinese": "大写字母"
-        },
-        {
-            "finnish": "aurinko",
-            "chinese": "太阳"
-        },
-        {
-            "finnish": "omena",
-            "chinese": "苹果"
-        },
-        {
-            "finnish": "appelsiini",
-            "chinese": "橙子"
-        },
-        {
-            "finnish": "avain",
-            "chinese": "钥匙"
-        },
-        {
-            "finnish": "lyhyt",
-            "chinese": "短"
-        },
-        {
-            "finnish": "pitkä",
-            "chinese": "长"
-        },
-        {
-            "finnish": "saari",
-            "chinese": "岛"
-        },
-        {
-            "finnish": "ikkuna",
-            "chinese": "窗户"
-        },
-        {
-            "finnish": "imuri",
-            "chinese": "吸尘器"
-        },
-        {
-            "finnish": "iloinen",
-            "chinese": "开心"
-        },
-        {
-            "finnish": "tavuviiva",
-            "chinese": "连字符"
-        },
-        {
-            "finnish": "siima",
-            "chinese": "鱼线"
-        },
-        {
-            "finnish": "uida",
-            "chinese": "游泳"
-        },
-        {
-            "finnish": "uimahalli",
-            "chinese": "游泳馆"
-        },
-        {
-            "finnish": "uuni",
-            "chinese": "烤箱"
-        },
-        {
-            "finnish": "kysymys",
-            "chinese": "问题"
-        },
-        {
-            "finnish": "vastaus",
-            "chinese": "回答"
-        },
-        {
             "finnish": "Se on...",
             "chinese": "它是..."
-        },
-        {
-            "finnish": "vihko",
-            "chinese": "笔记本"
-        },
-        {
-            "finnish": "paperi",
-            "chinese": "纸"
-        },
-        {
-            "finnish": "terotin",
-            "chinese": "卷笔刀"
-        },
-        {
-            "finnish": "kansio",
-            "chinese": "文件夹"
-        },
-        {
-            "finnish": "kirja",
-            "chinese": "书"
-        },
-        {
-            "finnish": "tuoli",
-            "chinese": "椅子"
-        },
-        {
-            "finnish": "pulpetti",
-            "chinese": "课桌"
-        },
-        {
-            "finnish": "koulupöytä",
-            "chinese": "课桌 (同义词)"
         }
     ]
 }

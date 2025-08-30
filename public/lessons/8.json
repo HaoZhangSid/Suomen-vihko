@@ -78,12 +78,68 @@
             "chinese": "甜面包，小圆面包"
         },
         {
-            "finnish": "Tänään on keskiviikko 27. elokuuta 2025.",
-            "chinese": "今天是2025年8月27日，星期三。"
-        },
-        {
             "finnish": "27. = kahdeskymmenesseitsemäs",
             "chinese": "27日 = 第二十七。"
+        },
+        {
+            "finnish": "juoda",
+            "chinese": "喝"
+        },
+        {
+            "finnish": "syödä",
+            "chinese": "吃"
+        },
+        {
+            "finnish": "saada",
+            "chinese": "得到"
+        },
+        {
+            "finnish": "vesi",
+            "chinese": "水"
+        },
+        {
+            "finnish": "voi",
+            "chinese": "黄油"
+        },
+        {
+            "finnish": "veitsi",
+            "chinese": "刀"
+        },
+        {
+            "finnish": "vauva",
+            "chinese": "婴儿"
+        },
+        {
+            "finnish": "rouva",
+            "chinese": "夫人"
+        },
+        {
+            "finnish": "hattu",
+            "chinese": "帽子"
+        },
+        {
+            "finnish": "hevonen",
+            "chinese": "马"
+        },
+        {
+            "finnish": "hiki",
+            "chinese": "汗"
+        },
+        {
+            "finnish": "hylly",
+            "chinese": "架子"
+        },
+        {
+            "finnish": "kyllä",
+            "chinese": "是的"
+        },
+        {
+            "finnish": "kypsä",
+            "chinese": "成熟的"
+        },
+        {
+            "finnish": "Tänään on keskiviikko 27. elokuuta 2025.",
+            "chinese": "今天是2025年8月27日，星期三。"
         },
         {
             "finnish": "Ostan kaksi leipää.",
@@ -174,14 +230,6 @@
             "chinese": "9点48分。"
         },
         {
-            "finnish": "juoda",
-            "chinese": "喝"
-        },
-        {
-            "finnish": "syödä",
-            "chinese": "吃"
-        },
-        {
             "finnish": "Juon kahvia.",
             "chinese": "我喝咖啡。"
         },
@@ -250,10 +298,6 @@
             "chinese": "请来五条鱼。"
         },
         {
-            "finnish": "saada",
-            "chinese": "得到"
-        },
-        {
             "finnish": "Saanko jäätelön?",
             "chinese": "我能要个冰淇淋吗？"
         },
@@ -272,50 +316,6 @@
         {
             "finnish": "Saisinko kaksi banaania?",
             "chinese": "我可以要两根香蕉吗？"
-        },
-        {
-            "finnish": "vesi",
-            "chinese": "水"
-        },
-        {
-            "finnish": "voi",
-            "chinese": "黄油"
-        },
-        {
-            "finnish": "veitsi",
-            "chinese": "刀"
-        },
-        {
-            "finnish": "vauva",
-            "chinese": "婴儿"
-        },
-        {
-            "finnish": "rouva",
-            "chinese": "夫人"
-        },
-        {
-            "finnish": "hattu",
-            "chinese": "帽子"
-        },
-        {
-            "finnish": "hevonen",
-            "chinese": "马"
-        },
-        {
-            "finnish": "hiki",
-            "chinese": "汗"
-        },
-        {
-            "finnish": "hylly",
-            "chinese": "架子"
-        },
-        {
-            "finnish": "kyllä",
-            "chinese": "是的"
-        },
-        {
-            "finnish": "kypsä",
-            "chinese": "成熟的"
         },
         {
             "finnish": "Kieli on samassa paikassa, mutta suun/huulten asento muuttuu.",

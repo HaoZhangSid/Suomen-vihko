@@ -130,12 +130,108 @@
             "chinese": "健身房"
         },
         {
-            "finnish": "Tänään on torstai 21. elokuuta 2025.",
-            "chinese": "今天是2025年8月21日，星期四。"
-        },
-        {
             "finnish": "21. = kahdeskymmenesimmäinen",
             "chinese": "21日 = 第二十一。"
+        },
+        {
+            "finnish": "käsky / ohje",
+            "chinese": "命令 / 指示"
+        },
+        {
+            "finnish": "satu",
+            "chinese": "童话"
+        },
+        {
+            "finnish": "perusmuoto",
+            "chinese": "基本形式"
+        },
+        {
+            "finnish": "koulun",
+            "chinese": "学校的 (所有格)"
+        },
+        {
+            "finnish": "kouluun",
+            "chinese": "去学校 (往格)"
+        },
+        {
+            "finnish": "koulusta",
+            "chinese": "从学校 (出格)"
+        },
+        {
+            "finnish": "koululle",
+            "chinese": "到学校 (向格)"
+        },
+        {
+            "finnish": "koululta",
+            "chinese": "从学校 (离格)"
+        },
+        {
+            "finnish": "maissi",
+            "chinese": "玉米"
+        },
+        {
+            "finnish": "maito",
+            "chinese": "牛奶"
+        },
+        {
+            "finnish": "mansikka",
+            "chinese": "草莓"
+        },
+        {
+            "finnish": "kummi",
+            "chinese": "教父/教母"
+        },
+        {
+            "finnish": "kummitus",
+            "chinese": "鬼"
+        },
+        {
+            "finnish": "kummisetä",
+            "chinese": "教父"
+        },
+        {
+            "finnish": "kumi",
+            "chinese": "橡皮"
+        },
+        {
+            "finnish": "lumme",
+            "chinese": "睡莲"
+        },
+        {
+            "finnish": "talo",
+            "chinese": "房子"
+        },
+        {
+            "finnish": "tie",
+            "chinese": "路"
+        },
+        {
+            "finnish": "matto",
+            "chinese": "地毯"
+        },
+        {
+            "finnish": "katto",
+            "chinese": "屋顶"
+        },
+        {
+            "finnish": "kentällä",
+            "chinese": "在场地上"
+        },
+        {
+            "finnish": "lentokenttä",
+            "chinese": "机场"
+        },
+        {
+            "finnish": "äiti",
+            "chinese": "妈妈"
+        },
+        {
+            "finnish": "nenä",
+            "chinese": "鼻子"
+        },
+        {
+            "finnish": "Tänään on torstai 21. elokuuta 2025.",
+            "chinese": "今天是2025年8月21日，星期四。"
         },
         {
             "finnish": "Mikä on sinun koko nimi?",
@@ -144,10 +240,6 @@
         {
             "finnish": "Onko sinulla lempinimeä?",
             "chinese": "你有昵称吗？"
-        },
-        {
-            "finnish": "käsky / ohje",
-            "chinese": "命令 / 指示"
         },
         {
             "finnish": "Lue sana!",
@@ -212,34 +304,6 @@
         {
             "finnish": "Minä olen tulossa.",
             "chinese": "我就来。"
-        },
-        {
-            "finnish": "satu",
-            "chinese": "童话"
-        },
-        {
-            "finnish": "perusmuoto",
-            "chinese": "基本形式"
-        },
-        {
-            "finnish": "koulun",
-            "chinese": "学校的 (所有格)"
-        },
-        {
-            "finnish": "kouluun",
-            "chinese": "去学校 (往格)"
-        },
-        {
-            "finnish": "koulusta",
-            "chinese": "从学校 (出格)"
-        },
-        {
-            "finnish": "koululle",
-            "chinese": "到学校 (向格)"
-        },
-        {
-            "finnish": "koululta",
-            "chinese": "从学校 (离格)"
         },
         {
             "finnish": "jne. / ja niin edelleen",
@@ -320,70 +384,6 @@
         {
             "finnish": "Oletko (sinä) koulussa?",
             "chinese": "你在学校吗？"
-        },
-        {
-            "finnish": "maissi",
-            "chinese": "玉米"
-        },
-        {
-            "finnish": "maito",
-            "chinese": "牛奶"
-        },
-        {
-            "finnish": "mansikka",
-            "chinese": "草莓"
-        },
-        {
-            "finnish": "kummi",
-            "chinese": "教父/教母"
-        },
-        {
-            "finnish": "kummitus",
-            "chinese": "鬼"
-        },
-        {
-            "finnish": "kummisetä",
-            "chinese": "教父"
-        },
-        {
-            "finnish": "kumi",
-            "chinese": "橡皮"
-        },
-        {
-            "finnish": "lumme",
-            "chinese": "睡莲"
-        },
-        {
-            "finnish": "talo",
-            "chinese": "房子"
-        },
-        {
-            "finnish": "tie",
-            "chinese": "路"
-        },
-        {
-            "finnish": "matto",
-            "chinese": "地毯"
-        },
-        {
-            "finnish": "katto",
-            "chinese": "屋顶"
-        },
-        {
-            "finnish": "kentällä",
-            "chinese": "在场地上"
-        },
-        {
-            "finnish": "lentokenttä",
-            "chinese": "机场"
-        },
-        {
-            "finnish": "äiti",
-            "chinese": "妈妈"
-        },
-        {
-            "finnish": "nenä",
-            "chinese": "鼻子"
         },
         {
             "finnish": "Leuka putoaa.",
