@@ -50,5 +50,9 @@
     {
         "day": "keskiviikko 3. syyskuuta 2025",
         "path": "lessons/13.json"
+    },
+    {
+        "day": "torstai 4. syyskuuta 2025",
+        "path": "lessons/14.json"
     }
 ]
