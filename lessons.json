@@ -38,5 +38,17 @@
     {
         "day": "Perjantai 29. elokuuta 2025",
         "path": "lessons/10.json"
+    },
+    {
+        "day": "maanantai 1. syyskuuta 2025",
+        "path": "lessons/11.json"
+    },
+    {
+        "day": "tiistai 2. syyskuuta 2025",
+        "path": "lessons/12.json"
+    },
+    {
+        "day": "keskiviikko 3. syyskuuta 2025",
+        "path": "lessons/13.json"
     }
 ]

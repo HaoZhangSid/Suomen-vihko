@@ -1,0 +1,521 @@
+{
+    "day": "tiistai 2. syyskuuta 2025",
+    "entries": [
+        {
+            "finnish": "toinen",
+            "chinese": "第二"
+        },
+        {
+            "finnish": "minäkin",
+            "chinese": "我也"
+        },
+        {
+            "finnish": "koiranpentu",
+            "chinese": "小狗"
+        },
+        {
+            "finnish": "vuosi",
+            "chinese": "年"
+        },
+        {
+            "finnish": "kuukausi",
+            "chinese": "月"
+        },
+        {
+            "finnish": "sanatyypit",
+            "chinese": "词类"
+        },
+        {
+            "finnish": "sisällä",
+            "chinese": "在里面"
+        },
+        {
+            "finnish": "luona",
+            "chinese": "在...家"
+        },
+        {
+            "finnish": "aurinko paistaa",
+            "chinese": "太阳照耀"
+        },
+        {
+            "finnish": "täti",
+            "chinese": "姑妈，姨妈"
+        },
+        {
+            "finnish": "serkku",
+            "chinese": "堂/表兄弟姐妹"
+        },
+        {
+            "finnish": "anoppi",
+            "chinese": "岳母/婆婆"
+        },
+        {
+            "finnish": "appi / appiukko",
+            "chinese": "岳父/公公"
+        },
+        {
+            "finnish": "lumiukko",
+            "chinese": "雪人"
+        },
+        {
+            "finnish": "tytär",
+            "chinese": "女儿"
+        },
+        {
+            "finnish": "mummo",
+            "chinese": "奶奶"
+        },
+        {
+            "finnish": "eno",
+            "chinese": "舅舅"
+        },
+        {
+            "finnish": "setä",
+            "chinese": "叔叔/伯伯"
+        },
+        {
+            "finnish": "taapero",
+            "chinese": "幼儿"
+        },
+        {
+            "finnish": "ohje",
+            "chinese": "指示"
+        },
+        {
+            "finnish": "käsky",
+            "chinese": "命令"
+        },
+        {
+            "finnish": "neuvo",
+            "chinese": "建议"
+        },
+        {
+            "finnish": "imperatiivi",
+            "chinese": "祈使语气"
+        },
+        {
+            "finnish": "tänne",
+            "chinese": "到这里"
+        },
+        {
+            "finnish": "harjoitellaan",
+            "chinese": "我们来练习"
+        },
+        {
+            "finnish": "ongelma",
+            "chinese": "问题"
+        },
+        {
+            "finnish": "pää kipeä",
+            "chinese": "头疼"
+        },
+        {
+            "finnish": "apteekki",
+            "chinese": "药店"
+        },
+        {
+            "finnish": "särkylääke",
+            "chinese": "止痛药"
+        },
+        {
+            "finnish": "burana",
+            "chinese": "布洛芬"
+        },
+        {
+            "finnish": "panadol",
+            "chinese": "扑热息痛"
+        },
+        {
+            "finnish": "lepo",
+            "chinese": "休息"
+        },
+        {
+            "finnish": "päivystys",
+            "chinese": "急诊"
+        },
+        {
+            "finnish": "kahvihammas",
+            "chinese": "想喝咖啡"
+        },
+        {
+            "finnish": "kahvila",
+            "chinese": "咖啡馆"
+        },
+        {
+            "finnish": "uusi passi",
+            "chinese": "新护照"
+        },
+        {
+            "finnish": "poliisiasema",
+            "chinese": "警察局"
+        },
+        {
+            "finnish": "nälkä",
+            "chinese": "饥饿"
+        },
+        {
+            "finnish": "ravintola",
+            "chinese": "餐馆"
+        },
+        {
+            "finnish": "ruoka",
+            "chinese": "食物"
+        },
+        {
+            "finnish": "jääkaappi",
+            "chinese": "冰箱"
+        },
+        {
+            "finnish": "tyhjä",
+            "chinese": "空的"
+        },
+        {
+            "finnish": "tori",
+            "chinese": "市场"
+        },
+        {
+            "finnish": "kauppa",
+            "chinese": "商店"
+        },
+        {
+            "finnish": "naapuri",
+            "chinese": "邻居"
+        },
+        {
+            "finnish": "väsynyt",
+            "chinese": "累"
+        },
+        {
+            "finnish": "sänky",
+            "chinese": "床"
+        },
+        {
+            "finnish": "energiajuoma",
+            "chinese": "能量饮料"
+        },
+        {
+            "finnish": "käteinen raha",
+            "chinese": "现金"
+        },
+        {
+            "finnish": "pankki",
+            "chinese": "银行"
+        },
+        {
+            "finnish": "automaatti",
+            "chinese": "自动取款机"
+        },
+        {
+            "finnish": "konsonantti",
+            "chinese": "辅音"
+        },
+        {
+            "finnish": "Tule tänne!",
+            "chinese": "到这里来！"
+        },
+        {
+            "finnish": "Minä tulen.",
+            "chinese": "我来。"
+        },
+        {
+            "finnish": "Tule kotiin!",
+            "chinese": "回家！"
+        },
+        {
+            "finnish": "Minä tulen kotiin.",
+            "chinese": "我回家。"
+        },
+        {
+            "finnish": "Tule kirjastoon!",
+            "chinese": "去图书馆！"
+        },
+        {
+            "finnish": "Minä tulen kirjastoon.",
+            "chinese": "我去图书馆。"
+        },
+        {
+            "finnish": "Tule kahvilaan!",
+            "chinese": "去咖啡馆！"
+        },
+        {
+            "finnish": "Minä tulen kahvilaan.",
+            "chinese": "我去咖啡馆。"
+        },
+        {
+            "finnish": "Mene kouluun!",
+            "chinese": "去学校！"
+        },
+        {
+            "finnish": "Minä menen kouluun.",
+            "chinese": "我去学校。"
+        },
+        {
+            "finnish": "Mene kauppaan!",
+            "chinese": "去商店！"
+        },
+        {
+            "finnish": "Minä menen kauppaan.",
+            "chinese": "我去商店。"
+        },
+        {
+            "finnish": "Mene lääkäriin!",
+            "chinese": "去看医生！"
+        },
+        {
+            "finnish": "Minä menen lääkäriin.",
+            "chinese": "我去看医生。"
+        },
+        {
+            "finnish": "Mene pankkiin!",
+            "chinese": "去银行！"
+        },
+        {
+            "finnish": "Minä menen pankkiin.",
+            "chinese": "我去银行。"
+        },
+        {
+            "finnish": "Tule Helsinkiin!",
+            "chinese": "来赫尔辛基！"
+        },
+        {
+            "finnish": "Tule Suomeen!",
+            "chinese": "来芬兰！"
+        },
+        {
+            "finnish": "Minä tulen Suomeen.",
+            "chinese": "我来芬兰。"
+        },
+        {
+            "finnish": "Mene Vaasaan!",
+            "chinese": "去瓦萨！"
+        },
+        {
+            "finnish": "Minä menen Vaasaan.",
+            "chinese": "我去瓦萨。"
+        },
+        {
+            "finnish": "Mene Helsinkiin!",
+            "chinese": "去赫尔辛基！"
+        },
+        {
+            "finnish": "Minä menen Helsinkiin.",
+            "chinese": "我去赫尔辛基。"
+        },
+        {
+            "finnish": "Mene Raumalle!",
+            "chinese": "去劳马！"
+        },
+        {
+            "finnish": "Minä menen Raumalle.",
+            "chinese": "我去劳马。"
+        },
+        {
+            "finnish": "Tule kurssille!",
+            "chinese": "来上课！"
+        },
+        {
+            "finnish": "Minä tulen kurssille.",
+            "chinese": "我来上课。"
+        },
+        {
+            "finnish": "Mene kurssille!",
+            "chinese": "去上课！"
+        },
+        {
+            "finnish": "Minä menen kurssille.",
+            "chinese": "我去上课。"
+        },
+        {
+            "finnish": "Minulla on pää kipeä.",
+            "chinese": "我头疼。"
+        },
+        {
+            "finnish": "Olen todella sairas.",
+            "chinese": "我病得很重。"
+        },
+        {
+            "finnish": "Mene apteekkiin!",
+            "chinese": "去药店！"
+        },
+        {
+            "finnish": "Ota särkylääke!",
+            "chinese": "吃止痛药！"
+        },
+        {
+            "finnish": "Juo C-vitamiini-vettä!",
+            "chinese": "喝维生素C水！"
+        },
+        {
+            "finnish": "Lepää!",
+            "chinese": "休息！"
+        },
+        {
+            "finnish": "Mene nukkumaan!",
+            "chinese": "去睡觉！"
+        },
+        {
+            "finnish": "Mene päivystykseen!",
+            "chinese": "去急诊！"
+        },
+        {
+            "finnish": "Minä haluan kahvia.",
+            "chinese": "我想要咖啡。"
+        },
+        {
+            "finnish": "Keitä kahvia!",
+            "chinese": "煮咖啡！"
+        },
+        {
+            "finnish": "Mene kahville!",
+            "chinese": "去喝咖啡！"
+        },
+        {
+            "finnish": "Mene kahvilaan!",
+            "chinese": "去咖啡馆！"
+        },
+        {
+            "finnish": "Minä tarvitsen uuden passin.",
+            "chinese": "我需要一本新护照。"
+        },
+        {
+            "finnish": "Mene poliisiasemalle!",
+            "chinese": "去警察局！"
+        },
+        {
+            "finnish": "Minulla on nälkä!",
+            "chinese": "我饿了！"
+        },
+        {
+            "finnish": "Mene ravintolaan!",
+            "chinese": "去餐馆！"
+        },
+        {
+            "finnish": "Tee ruokaa!",
+            "chinese": "做饭！"
+        },
+        {
+            "finnish": "Laita ruokaa!",
+            "chinese": "做饭！"
+        },
+        {
+            "finnish": "Syö!",
+            "chinese": "吃！"
+        },
+        {
+            "finnish": "Jääkaappi on tyhjä.",
+            "chinese": "冰箱是空的。"
+        },
+        {
+            "finnish": "Mene torille!",
+            "chinese": "去市场！"
+        },
+        {
+            "finnish": "Osta ruokaa!",
+            "chinese": "买食物！"
+        },
+        {
+            "finnish": "Mene naapuriin!",
+            "chinese": "去邻居家！"
+        },
+        {
+            "finnish": "Minä olen väsynyt.",
+            "chinese": "我累了。"
+        },
+        {
+            "finnish": "Mene sänkyyn!",
+            "chinese": "上床睡觉！"
+        },
+        {
+            "finnish": "Juo kahvia/teetä/energiajuomaa!",
+            "chinese": "喝咖啡/茶/能量饮料！"
+        },
+        {
+            "finnish": "Minulla ei ole käteistä.",
+            "chinese": "我没有现金。"
+        },
+        {
+            "finnish": "Mene pankkiin!",
+            "chinese": "去银行！"
+        },
+        {
+            "finnish": "Mene automaatille!",
+            "chinese": "去自动取款机！"
+        },
+        {
+            "finnish": "Nosta rahaa!",
+            "chinese": "取钱！"
+        },
+        {
+            "finnish": "Missä sinun äiti ja isä asuvat?",
+            "chinese": "你父母住在哪里？"
+        },
+        {
+            "finnish": "He asuvat Brasiliassa.",
+            "chinese": "他们住在巴西。"
+        },
+        {
+            "finnish": "Missä sinun pikkuveli asuu?",
+            "chinese": "你弟弟住在哪里？"
+        },
+        {
+            "finnish": "Hän asuu Nepalissa.",
+            "chinese": "他住在尼泊尔。"
+        },
+        {
+            "finnish": "Kuinka monta vuotta sinun poika on?",
+            "chinese": "你儿子几岁了？"
+        },
+        {
+            "finnish": "Poika on 20 vuotta.",
+            "chinese": "儿子20岁了。"
+        },
+        {
+            "finnish": "Kuinka vanha sinun tyttö on?",
+            "chinese": "你女儿多大了？"
+        },
+        {
+            "finnish": "Hän on seitsemän kuukautta.",
+            "chinese": "她七个月了。"
+        },
+        {
+            "finnish": "Missä sinun isoveli asuu?",
+            "chinese": "你哥哥住在哪里？"
+        },
+        {
+            "finnish": "Hän asuu Sri Lankassa.",
+            "chinese": "他住在斯里兰卡。"
+        },
+        {
+            "finnish": "Missä sinun vanhemmat asuvat?",
+            "chinese": "你父母住在哪里？"
+        },
+        {
+            "finnish": "He asuvat Egyptissä.",
+            "chinese": "他们住在埃及。"
+        },
+        {
+            "finnish": "Kuinka vanha sinun tytär on?",
+            "chinese": "你女儿多大了？"
+        },
+        {
+            "finnish": "Minun tytär on viisi.",
+            "chinese": "我女儿五岁。"
+        },
+        {
+            "finnish": "Minä asun Raumalla, mutta nyt olen Jyväskylässä minun äidin luona.",
+            "chinese": "我住在劳马，但现在我在于韦斯屈莱我妈妈家。"
+        },
+        {
+            "finnish": "Kuinka vanha hän on?",
+            "chinese": "他多大了？"
+        },
+        {
+            "finnish": "Hän on 20 vuotta.",
+            "chinese": "他20岁了。"
+        },
+        {
+            "finnish": "KOTITEHTÄVÄT: Lue vihko! Katso videot! Opettele sanoja (myös vanhat)!",
+            "chinese": "作业：读笔记本！看视频！学习单词（也包括旧的）！"
+        }
+    ]
+}

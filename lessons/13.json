@@ -1,0 +1,221 @@
+{
+    "day": "keskiviikko 3. syyskuuta 2025",
+    "entries": [
+        {
+            "finnish": "kolmas",
+            "chinese": "第三"
+        },
+        {
+            "finnish": "vokaali",
+            "chinese": "元音"
+        },
+        {
+            "finnish": "konsonantti",
+            "chinese": "辅音"
+        },
+        {
+            "finnish": "diftongit",
+            "chinese": "双元音"
+        },
+        {
+            "finnish": "tervehdykset",
+            "chinese": "问候"
+        },
+        {
+            "finnish": "vuorokaudenajat",
+            "chinese": "一天中的时间"
+        },
+        {
+            "finnish": "aamu",
+            "chinese": "早晨"
+        },
+        {
+            "finnish": "päivä",
+            "chinese": "白天"
+        },
+        {
+            "finnish": "ilta",
+            "chinese": "晚上"
+        },
+        {
+            "finnish": "yö",
+            "chinese": "夜晚"
+        },
+        {
+            "finnish": "kaunis",
+            "chinese": "美丽的"
+        },
+        {
+            "finnish": "uni",
+            "chinese": "梦"
+        },
+        {
+            "finnish": "vuorokausi",
+            "chinese": "24小时"
+        },
+        {
+            "finnish": "tunti",
+            "chinese": "小时"
+        },
+        {
+            "finnish": "aakkoset",
+            "chinese": "字母表"
+        },
+        {
+            "finnish": "lyhyt",
+            "chinese": "短的"
+        },
+        {
+            "finnish": "pitkä",
+            "chinese": "长的"
+        },
+        {
+            "finnish": "kieli",
+            "chinese": "语言/舌头"
+        },
+        {
+            "finnish": "suu",
+            "chinese": "嘴"
+        },
+        {
+            "finnish": "leuka",
+            "chinese": "下巴"
+        },
+        {
+            "finnish": "Moi!",
+            "chinese": "你好！"
+        },
+        {
+            "finnish": "Hei!",
+            "chinese": "你好！"
+        },
+        {
+            "finnish": "Terve!",
+            "chinese": "你好！"
+        },
+        {
+            "finnish": "Huomenta!",
+            "chinese": "早上好！"
+        },
+        {
+            "finnish": "Hyvää huomenta!",
+            "chinese": "早上好！"
+        },
+        {
+            "finnish": "Päivää!",
+            "chinese": "日安！"
+        },
+        {
+            "finnish": "Hyvää päivää!",
+            "chinese": "日安！"
+        },
+        {
+            "finnish": "Iltaa!",
+            "chinese": "晚上好！"
+        },
+        {
+            "finnish": "Hyvää iltaa!",
+            "chinese": "晚上好！"
+        },
+        {
+            "finnish": "Hyvää yötä!",
+            "chinese": "晚安！"
+        },
+        {
+            "finnish": "Kauniita unia!",
+            "chinese": "祝你有个美梦！"
+        },
+        {
+            "finnish": "Nuku hyvin!",
+            "chinese": "睡个好觉！"
+        },
+        {
+            "finnish": "Hyvää syntymäpäivää!",
+            "chinese": "生日快乐！"
+        },
+        {
+            "finnish": "Hyvää joulua!",
+            "chinese": "圣诞快乐！"
+        },
+        {
+            "finnish": "Hauskaa viikonloppua!",
+            "chinese": "周末愉快！"
+        },
+        {
+            "finnish": "Mitä kuuluu?",
+            "chinese": "你好吗？"
+        },
+        {
+            "finnish": "Miten menee?",
+            "chinese": "一切顺利吗？"
+        },
+        {
+            "finnish": "Kiitos, hyvää.",
+            "chinese": "很好，谢谢。"
+        },
+        {
+            "finnish": "Hyvin, kiitos.",
+            "chinese": "很好，谢谢。"
+        },
+        {
+            "finnish": "Ihan hyvää.",
+            "chinese": "还不错。"
+        },
+        {
+            "finnish": "Ihan hyvin.",
+            "chinese": "还不错。"
+        },
+        {
+            "finnish": "Ei kovin hyvää.",
+            "chinese": "不太好。"
+        },
+        {
+            "finnish": "Ei kovin hyvin.",
+            "chinese": "不太好。"
+        },
+        {
+            "finnish": "Huonoa.",
+            "chinese": "糟糕。"
+        },
+        {
+            "finnish": "Huonosti.",
+            "chinese": "糟糕地。"
+        },
+        {
+            "finnish": "Entä sinulle?",
+            "chinese": "你呢？"
+        },
+        {
+            "finnish": "Näkemiin!",
+            "chinese": "再见！"
+        },
+        {
+            "finnish": "Nähdään!",
+            "chinese": "回头见！"
+        },
+        {
+            "finnish": "Aurinko nousee.",
+            "chinese": "太阳升起。"
+        },
+        {
+            "finnish": "Aurinko laskee.",
+            "chinese": "太阳下山。"
+        },
+        {
+            "finnish": "Anteeksi, voisitko toistaa?",
+            "chinese": "对不起，你能重复一遍吗？"
+        },
+        {
+            "finnish": "Voisitko puhua vähän hitaammin?",
+            "chinese": "你能说慢一点吗？"
+        },
+        {
+            "finnish": "kieli ei muutu, suu muuttuu",
+            "chinese": "舌头不动，嘴型变"
+        },
+        {
+            "finnish": "kieli ei muutu, leuka putoaa",
+            "chinese": "舌头不动，下巴下沉"
+        }
+    ]
+}
