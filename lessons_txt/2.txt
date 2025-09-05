@@ -1,0 +1,168 @@
+speaker1:teksti
+speaker2:课文
+speaker1:teksti
+speaker2:henkilöauto
+speaker1:轿车
+speaker2:henkilöauto
+speaker1:ananas
+speaker2:菠萝
+speaker1:ananas
+speaker2:isä
+speaker1:爸爸
+speaker2:isä
+speaker1:imuri / pölynimuri
+speaker2:吸尘器
+speaker1:imuri / pölynimuri
+speaker2:nälkä
+speaker1:饥饿
+speaker2:nälkä
+speaker1:jano
+speaker2:口渴
+speaker1:jano
+speaker2:yskä
+speaker1:咳嗽
+speaker2:yskä
+speaker1:nuha
+speaker2:感冒流涕
+speaker1:nuha
+speaker2:pää
+speaker1:头
+speaker2:pää
+speaker1:maha / vatsa
+speaker2:肚子 / 胃
+speaker1:maha / vatsa
+speaker2:kipeä
+speaker1:疼痛的
+speaker2:kipeä
+speaker1:Välimerkit
+speaker2:标点符号
+speaker1:Välimerkit
+speaker2:suu
+speaker1:嘴巴
+speaker2:suu
+speaker1:sipuli
+speaker2:洋葱
+speaker1:sipuli
+speaker2:sakset
+speaker1:剪刀
+speaker2:sakset
+speaker1:kisa
+speaker2:比赛
+speaker1:kisa
+speaker2:kissa
+speaker1:猫
+speaker2:kissa
+speaker1:kasi
+speaker2:八 (口语)
+speaker1:kasi
+speaker2:kassi
+speaker1:包，袋子
+speaker2:kassi
+speaker1:kahdeksan
+speaker2:八 (标准语)
+speaker1:kahdeksan
+speaker2:nalle
+speaker1:泰迪熊
+speaker2:nalle
+speaker1:nolla
+speaker2:零
+speaker1:nolla
+speaker2:sauna
+speaker1:桑拿
+speaker2:sauna
+speaker1:etana
+speaker2:蜗牛
+speaker1:etana
+speaker2:elefantti
+speaker1:大象
+speaker2:elefantti
+speaker1:Suomeen
+speaker2:去芬兰 (目的地格)
+speaker1:Suomeen
+speaker2:Tänään on tiistai 19. elokuuta 2025.
+speaker1:今天是2025年8月19日，星期二。
+speaker2:Tänään on tiistai 19. elokuuta 2025.
+speaker1:Sano persoonapronominit.
+speaker2:说出人称代词。
+speaker1:Sano persoonapronominit.
+speaker2:Auto on punainen.
+speaker1:这辆车是红色的。
+speaker2:Auto on punainen.
+speaker1:Oletko (sinä) ok?
+speaker2:你还好吗？
+speaker1:Oletko (sinä) ok?
+speaker2:Kyllä. / Olen. / Joo.
+speaker1:（表示肯定）是的。/ 我很好。/ 好。
+speaker2:Kyllä. / Olen. / Joo.
+speaker1:En. / En ole.
+speaker2:（表示否定）不。/ 我不好。
+speaker1:En. / En ole.
+speaker2:Minulla on nälkä.
+speaker1:我饿了。
+speaker2:Minulla on nälkä.
+speaker1:Minulla on jano.
+speaker2:我渴了。
+speaker1:Minulla on jano.
+speaker2:Minulla on yskä.
+speaker1:我在咳嗽。
+speaker2:Minulla on yskä.
+speaker1:Minulla on nuha.
+speaker2:我流鼻涕了。
+speaker1:Minulla on nuha.
+speaker2:Minulla on pää kipeä.
+speaker1:我头疼。
+speaker2:Minulla on pää kipeä.
+speaker1:Minulla on maha / vatsa kipeä.
+speaker2:我肚子疼。
+speaker1:Minulla on maha / vatsa kipeä.
+speaker2:En. Minulla on nälkä ja pää kipeä.
+speaker1:不好。我又饿又头疼。
+speaker2:En. Minulla on nälkä ja pää kipeä.
+speaker1:Onko sinulla nälkä?
+speaker2:你饿了吗？
+speaker1:Onko sinulla nälkä?
+speaker2:Kyllä. Minulla on nälkä.
+speaker1:是的，我饿了。
+speaker2:Kyllä. Minulla on nälkä.
+speaker1:Ei. Minulla ei ole nälkä.
+speaker2:不，我不饿。
+speaker1:Ei. Minulla ei ole nälkä.
+speaker2:Oletko suomalainen?
+speaker1:你是芬兰人吗？
+speaker2:Oletko suomalainen?
+speaker1:Kyllä. Minä olen suomalainen.
+speaker2:是的，我是芬兰人。
+speaker1:Kyllä. Minä olen suomalainen.
+speaker2:En. Minä en ole suomalainen.
+speaker1:不，我不是芬兰人。
+speaker2:En. Minä en ole suomalainen.
+speaker1:Minä olen töissä yleensä kello 8-16.
+speaker2:我通常从8点工作到16点。
+speaker1:Minä olen töissä yleensä kello 8-16.
+speaker2:Kiitos ja nähdään huomenna!
+speaker1:谢谢，明天见！
+speaker2:Kiitos ja nähdään huomenna!
+speaker1:Minulla on maha kipeä.
+speaker2:我肚子疼。
+speaker1:Minulla on maha kipeä.
+speaker2:Minulla on käsi kipeä.
+speaker1:我手疼。
+speaker2:Minulla on käsi kipeä.
+speaker1:Minulla on sormi kipeä.
+speaker2:我手指疼。
+speaker1:Minulla on sormi kipeä.
+speaker2:Onko sinulla yskä?
+speaker1:你咳嗽吗？
+speaker2:Onko sinulla yskä?
+speaker1:Onko sinulla pää kipeä?
+speaker2:你头疼吗？
+speaker1:Onko sinulla pää kipeä?
+speaker2:Onko sinulla nuha?
+speaker1:你流鼻涕吗？
+speaker2:Onko sinulla nuha?
+speaker1:Suomen presidentti on Alexander Stubb.
+speaker2:芬兰的总统是亚历山大·斯图布。
+speaker1:Suomen presidentti on Alexander Stubb.
+speaker2:Minä muutin Suomeen vuonna 2018.
+speaker1:我于2018年搬到芬兰。
+speaker2:Minä muutin Suomeen vuonna 2018.

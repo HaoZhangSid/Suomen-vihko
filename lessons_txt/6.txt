@@ -1,0 +1,219 @@
+speaker1:yleiskieli
+speaker2:标准语
+speaker1:yleiskieli
+speaker2:puhekieli
+speaker1:口语
+speaker2:puhekieli
+speaker1:kielimuoto
+speaker2:语言形式
+speaker1:kielimuoto
+speaker2:paikka
+speaker1:地点
+speaker2:paikka
+speaker1:kulkuväline
+speaker2:交通工具
+speaker1:kulkuväline
+speaker2:numerot
+speaker1:数字
+speaker2:numerot
+speaker1:tehdä
+speaker2:做
+speaker1:tehdä
+speaker2:matkustaa
+speaker1:旅行
+speaker2:matkustaa
+speaker1:lentää
+speaker2:飞
+speaker1:lentää
+speaker2:25. = kahdeskymmenesviides
+speaker1:25日 = 第二十五。
+speaker2:25. = kahdeskymmenesviides
+speaker1:opiskella
+speaker2:学习
+speaker1:opiskella
+speaker2:opiskelen
+speaker1:（我）学习
+speaker2:opiskelen
+speaker1:verbi
+speaker2:动词
+speaker1:verbi
+speaker2:verbin perusmuoto
+speaker1:动词基本形式
+speaker2:verbin perusmuoto
+speaker1:verbin persoonamuodot
+speaker2:动词人称变位
+speaker1:verbin persoonamuodot
+speaker2:nollasta kymmeneen
+speaker1:从零到十
+speaker2:nollasta kymmeneen
+speaker1:nolla
+speaker2:零
+speaker1:nolla
+speaker2:yksi
+speaker1:一
+speaker2:yksi
+speaker1:kaksi
+speaker2:二
+speaker1:kaksi
+speaker2:kolme
+speaker1:三
+speaker2:kolme
+speaker1:neljä
+speaker2:四
+speaker1:neljä
+speaker2:viisi
+speaker1:五
+speaker2:viisi
+speaker1:kuusi
+speaker2:六
+speaker1:kuusi
+speaker2:seitsemän
+speaker1:七
+speaker2:seitsemän
+speaker1:kahdeksan
+speaker2:八
+speaker1:kahdeksan
+speaker2:yhdeksän
+speaker1:九
+speaker2:yhdeksän
+speaker1:kymmenen
+speaker2:十
+speaker1:kymmenen
+speaker2:yksitoista
+speaker1:十一
+speaker2:yksitoista
+speaker1:kaksitoista
+speaker2:十二
+speaker1:kaksitoista
+speaker2:kolmetoista
+speaker1:十三
+speaker2:kolmetoista
+speaker1:neljätoista
+speaker2:十四
+speaker1:neljätoista
+speaker2:viisitoista
+speaker1:十五
+speaker2:viisitoista
+speaker1:kuusitoista
+speaker2:十六
+speaker1:kuusitoista
+speaker2:seitsemäntoista
+speaker1:十七
+speaker2:seitsemäntoista
+speaker1:kahdeksantoista
+speaker2:十八
+speaker1:kahdeksantoista
+speaker2:yhdeksäntoista
+speaker1:十九
+speaker2:yhdeksäntoista
+speaker1:kaksikymmentä
+speaker2:二十
+speaker1:kaksikymmentä
+speaker2:kaksikymmentäyksi
+speaker1:二十一
+speaker2:kaksikymmentäyksi
+speaker1:kaksikymmentäkaksi
+speaker2:二十二
+speaker1:kaksikymmentäkaksi
+speaker2:kolmekymmentä
+speaker1:三十
+speaker2:kolmekymmentä
+speaker1:viisikymmentä
+speaker2:五十
+speaker1:viisikymmentä
+speaker2:sata
+speaker1:一百
+speaker2:sata
+speaker1:tuhat
+speaker2:一千
+speaker1:tuhat
+speaker2:juusto
+speaker1:奶酪
+speaker2:juusto
+speaker1:jääkaappi
+speaker2:冰箱
+speaker1:jääkaappi
+speaker2:juna
+speaker1:火车
+speaker2:juna
+speaker1:diftongi
+speaker2:双元音
+speaker1:diftongi
+speaker2:leija
+speaker1:风筝
+speaker2:leija
+speaker1:koju
+speaker2:小摊
+speaker1:koju
+speaker2:Tänään on maanantai 25. elokuuta 2025.
+speaker1:今天是2025年8月25日，星期一。
+speaker2:Tänään on maanantai 25. elokuuta 2025.
+speaker1:Suomessa on kaksi kielimuotoa.
+speaker2:芬兰语有两种语言形式。
+speaker1:Suomessa on kaksi kielimuotoa.
+speaker2:Puhekielen pronominit (minä -> mä, sinä -> sä, hän -> se, he -> ne)
+speaker1:口语代词 (我,你,他/她,他们)
+speaker2:Puhekielen pronominit (minä -> mä, sinä -> sä, hän -> se, he -> ne)
+speaker1:Missä kaupungissa sä asut?
+speaker2:(口语) 你住在哪个城市？
+speaker1:Missä kaupungissa sä asut?
+speaker2:Mä asun Oulussa.
+speaker1:(口语) 我住在奥卢。
+speaker2:Mä asun Oulussa.
+speaker1:Millä sä meet?
+speaker2:(口语) 你怎么去？
+speaker1:Millä sä meet?
+speaker2:Mä meen autolla.
+speaker1:(口语) 我坐车去。
+speaker2:Mä meen autolla.
+speaker1:Minne sä meet?
+speaker2:(口语) 你去哪儿？
+speaker1:Minne sä meet?
+speaker2:Mä meen kotiin.
+speaker1:(口语) 我回家。
+speaker2:Mä meen kotiin.
+speaker1:Anteeksi, että olen myöhässä.
+speaker2:对不起，我迟到了。
+speaker1:Anteeksi, että olen myöhässä.
+speaker2:Minä menen Ukrainaan lentokoneella.
+speaker1:我坐飞机去乌克兰。
+speaker2:Minä menen Ukrainaan lentokoneella.
+speaker1:Minä menen Filippiineille lentokoneella.
+speaker2:我坐飞机去菲律宾。
+speaker1:Minä menen Filippiineille lentokoneella.
+speaker2:Minä menen Dominikaaniseen tasavaltaan lentokoneella.
+speaker1:我坐飞机去多米尼加共和国。
+speaker2:Minä menen Dominikaaniseen tasavaltaan lentokoneella.
+speaker1:Minä menen Vietnamiin lentokoneella.
+speaker2:我坐飞机去越南。
+speaker1:Minä menen Vietnamiin lentokoneella.
+speaker2:Minä menen Sri Lankaan lentokoneella.
+speaker1:我坐飞机去斯里兰卡。
+speaker2:Minä menen Sri Lankaan lentokoneella.
+speaker1:Minä menen Egyptiin lentokoneella.
+speaker2:我坐飞机去埃及。
+speaker1:Minä menen Egyptiin lentokoneella.
+speaker2:Minä menen MINNE MILLÄ
+speaker1:我去 [目的地] 乘坐 [交通工具] (句式结构)
+speaker2:Minä menen MINNE MILLÄ
+speaker1:Mitä sinä teet kurssilla?
+speaker2:你在课上做什么？
+speaker1:Mitä sinä teet kurssilla?
+speaker2:Opettele numerot!
+speaker1:学习数字！
+speaker2:Opettele numerot!
+speaker1:Minä opiskelen suomea.
+speaker2:我学习芬兰语。
+speaker1:Minä opiskelen suomea.
+speaker2:Minä luen.
+speaker1:我读。
+speaker2:Minä luen.
+speaker1:Minä kirjoitan.
+speaker2:我写。
+speaker1:Minä kirjoitan.
+speaker2:Minä kuuntelen.
+speaker1:我听。
+speaker2:Minä kuuntelen.
+speaker1:Minä puhun, luen, kirjoitan ja kuuntelen.
+speaker2:我说、读、写和听。
+speaker1:Minä puhun, luen, kirjoitan ja kuuntelen.

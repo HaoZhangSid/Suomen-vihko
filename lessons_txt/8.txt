@@ -1,0 +1,240 @@
+speaker1:ostaa
+speaker2:购买
+speaker1:ostaa
+speaker2:leipä
+speaker1:面包
+speaker2:leipä
+speaker1:asiakas
+speaker2:顾客
+speaker1:asiakas
+speaker2:myyjä
+speaker1:售货员
+speaker2:myyjä
+speaker1:jäätelö / jätski
+speaker2:冰淇淋
+speaker1:jäätelö / jätski
+speaker2:kahvi
+speaker1:咖啡
+speaker2:kahvi
+speaker1:tee
+speaker2:茶
+speaker1:tee
+speaker2:pieni
+speaker1:小的
+speaker2:pieni
+speaker1:iso
+speaker2:大的
+speaker1:iso
+speaker2:euro
+speaker1:欧元
+speaker2:euro
+speaker1:sentti
+speaker2:分
+speaker1:sentti
+speaker2:musta tee
+speaker1:红茶 (字面: 黑茶)
+speaker2:musta tee
+speaker1:vihreä tee
+speaker2:绿茶
+speaker1:vihreä tee
+speaker2:suklaakakku
+speaker1:巧克力蛋糕
+speaker2:suklaakakku
+speaker1:pala
+speaker2:一块
+speaker1:pala
+speaker2:appelsiinimehu
+speaker1:橙汁
+speaker2:appelsiinimehu
+speaker1:porkkanakakku
+speaker2:胡萝卜蛋糕
+speaker1:porkkanakakku
+speaker2:vesipullo
+speaker1:瓶装水
+speaker2:vesipullo
+speaker1:pulla
+speaker2:甜面包，小圆面包
+speaker1:pulla
+speaker2:27. = kahdeskymmenesseitsemäs
+speaker1:27日 = 第二十七。
+speaker2:27. = kahdeskymmenesseitsemäs
+speaker1:juoda
+speaker2:喝
+speaker1:juoda
+speaker2:syödä
+speaker1:吃
+speaker2:syödä
+speaker1:saada
+speaker2:得到
+speaker1:saada
+speaker2:vesi
+speaker1:水
+speaker2:vesi
+speaker1:voi
+speaker2:黄油
+speaker1:voi
+speaker2:veitsi
+speaker1:刀
+speaker2:veitsi
+speaker1:vauva
+speaker2:婴儿
+speaker1:vauva
+speaker2:rouva
+speaker1:夫人
+speaker2:rouva
+speaker1:hattu
+speaker2:帽子
+speaker1:hattu
+speaker2:hevonen
+speaker1:马
+speaker2:hevonen
+speaker1:hiki
+speaker2:汗
+speaker1:hiki
+speaker2:hylly
+speaker1:架子
+speaker2:hylly
+speaker1:kyllä
+speaker2:是的
+speaker1:kyllä
+speaker2:kypsä
+speaker1:成熟的
+speaker2:kypsä
+speaker1:Tänään on keskiviikko 27. elokuuta 2025.
+speaker2:今天是2025年8月27日，星期三。
+speaker1:Tänään on keskiviikko 27. elokuuta 2025.
+speaker2:Ostan kaksi leipää.
+speaker1:我买两个面包。
+speaker2:Ostan kaksi leipää.
+speaker1:Partitiivi: yksi leipä, kaksi leipää
+speaker2:部分格: 一个面包, 两个面包
+speaker1:Partitiivi: yksi leipä, kaksi leipää
+speaker2:Saisinko...?
+speaker1:我可以要一个...吗？ (礼貌请求)
+speaker2:Saisinko...?
+speaker1:Yksi iso kahvi, kiitos.
+speaker2:请来一杯大杯咖啡，谢谢。
+speaker1:Yksi iso kahvi, kiitos.
+speaker2:Haluatko mustaa vai vihreää teetä?
+speaker1:您要红茶还是绿茶？
+speaker2:Haluatko mustaa vai vihreää teetä?
+speaker1:Entä muuta? / Tuleeko muuta?
+speaker2:还要别的吗？
+speaker1:Entä muuta? / Tuleeko muuta?
+speaker2:Ei muuta, kiitos.
+speaker1:不要别的了，谢谢。
+speaker2:Ei muuta, kiitos.
+speaker1:Kyllä... kaksi pullaa, kiitos.
+speaker2:是的...请来两个甜面包，谢谢。
+speaker1:Kyllä... kaksi pullaa, kiitos.
+speaker2:Kiitos! / Kiitti!
+speaker1:谢谢！ (标准语 / 口语)
+speaker2:Kiitos! / Kiitti!
+speaker1:Kello on (tasan) viisi.
+speaker2:5点整。
+speaker1:Kello on (tasan) viisi.
+speaker2:Kello on puoli kaksitoista.
+speaker1:11点半。
+speaker2:Kello on puoli kaksitoista.
+speaker1:Kello on varttia yli kaksi.
+speaker2:2点15分。
+speaker1:Kello on varttia yli kaksi.
+speaker2:Kello on kaksitoista vaille kaksitoista.
+speaker1:11点48分。
+speaker2:Kello on kaksitoista vaille kaksitoista.
+speaker1:Kello on puoli neljä.
+speaker2:3点30分。
+speaker1:Kello on puoli neljä.
+speaker2:Kello on kymmenen yli kymmenen.
+speaker1:10点10分。
+speaker2:Kello on kymmenen yli kymmenen.
+speaker1:Kello on kymmenen vaille kymmenen.
+speaker2:9点50分。
+speaker1:Kello on kymmenen vaille kymmenen.
+speaker2:Kello on kaksi yli kaksi.
+speaker1:2点02分。
+speaker2:Kello on kaksi yli kaksi.
+speaker1:Kello on kaksi vaille kaksi.
+speaker2:1点58分。
+speaker1:Kello on kaksi vaille kaksi.
+speaker2:Kello on kahdeksan yli kymmenen.
+speaker1:10点08分。
+speaker2:Kello on kahdeksan yli kymmenen.
+speaker1:Kello on varttia vaille kolme.
+speaker2:2点45分。
+speaker1:Kello on varttia vaille kolme.
+speaker2:Kello on viisi vaille kaksitoista.
+speaker1:11点55分。
+speaker2:Kello on viisi vaille kaksitoista.
+speaker1:Kello on kaksitoista vaille kymmenen.
+speaker2:9点48分。
+speaker1:Kello on kaksitoista vaille kymmenen.
+speaker2:Juon kahvia.
+speaker1:我喝咖啡。
+speaker2:Juon kahvia.
+speaker1:Juon kolme kahvia.
+speaker2:我喝三杯咖啡。
+speaker1:Juon kolme kahvia.
+speaker2:Juon teetä.
+speaker1:我喝茶。
+speaker2:Juon teetä.
+speaker1:Juon kaksi teetä.
+speaker2:我喝两杯茶。
+speaker1:Juon kaksi teetä.
+speaker2:Juon kolme teetä.
+speaker1:我喝三杯茶。
+speaker2:Juon kolme teetä.
+speaker1:Syön omenan.
+speaker2:我吃一个苹果。
+speaker1:Syön omenan.
+speaker2:Syön kaksi omenaa.
+speaker1:我吃两个苹果。
+speaker2:Syön kaksi omenaa.
+speaker1:Syön kolme omenaa.
+speaker2:我吃三个苹果。
+speaker1:Syön kolme omenaa.
+speaker2:Syön banaanin.
+speaker1:我吃一根香蕉。
+speaker2:Syön banaanin.
+speaker1:Syön kaksi banaania.
+speaker2:我吃两根香蕉。
+speaker1:Syön kaksi banaania.
+speaker2:Syön kolme banaania.
+speaker1:我吃三根香蕉。
+speaker2:Syön kolme banaania.
+speaker1:Syön sata banaania.
+speaker2:我吃一百根香蕉。
+speaker1:Syön sata banaania.
+speaker2:Ole hyvä.
+speaker1:不客气 / 给你。
+speaker2:Ole hyvä.
+speaker1:Kaksi teetä, kiitos.
+speaker2:请来两杯茶。
+speaker1:Kaksi teetä, kiitos.
+speaker2:Kolme appelsiinia, kiitos.
+speaker1:请来三个橙子。
+speaker2:Kolme appelsiinia, kiitos.
+speaker1:Neljä perunaa, kiitos.
+speaker2:请来四个土豆。
+speaker1:Neljä perunaa, kiitos.
+speaker2:Viisi kalaa, kiitos.
+speaker1:请来五条鱼。
+speaker2:Viisi kalaa, kiitos.
+speaker1:Saanko jäätelön?
+speaker2:我能要个冰淇淋吗？
+speaker1:Saanko jäätelön?
+speaker2:Saisinko kolme tomaattia?
+speaker1:我可以要三个番茄吗？
+speaker2:Saisinko kolme tomaattia?
+speaker1:Saisinko viisi leipää?
+speaker2:我可以要五个面包吗？
+speaker1:Saisinko viisi leipää?
+speaker2:Saisinko neljä kananmunaa?
+speaker1:我可以要四个鸡蛋吗？
+speaker2:Saisinko neljä kananmunaa?
+speaker1:Saisinko kaksi banaania?
+speaker2:我可以要两根香蕉吗？
+speaker1:Saisinko kaksi banaania?
+speaker2:Kieli on samassa paikassa, mutta suun/huulten asento muuttuu.
+speaker1:舌头在同一个位置，但是嘴/唇的姿势改变了。
+speaker2:Kieli on samassa paikassa, mutta suun/huulten asento muuttuu.

@@ -1,0 +1,658 @@
+{
+    "day": "maanantai 1. syyskuuta 2025",
+    "entries": [
+        {
+            "finnish": "Odota!",
+            "chinese": "等等！"
+        },
+        {
+            "finnish": "ensimmäinen",
+            "chinese": "第一"
+        },
+        {
+            "finnish": "kertaus",
+            "chinese": "复习"
+        },
+        {
+            "finnish": "kysymyssana",
+            "chinese": "疑问词"
+        },
+        {
+            "finnish": "muoto",
+            "chinese": "形式"
+        },
+        {
+            "finnish": "työhuone",
+            "chinese": "工作室"
+        },
+        {
+            "finnish": "ylihuomenna",
+            "chinese": "后天"
+        },
+        {
+            "finnish": "sumuista",
+            "chinese": "有雾的"
+        },
+        {
+            "finnish": "toivottavasti",
+            "chinese": "希望地"
+        },
+        {
+            "finnish": "viikonloppu",
+            "chinese": "周末"
+        },
+        {
+            "finnish": "toissa päivänä",
+            "chinese": "前天"
+        },
+        {
+            "finnish": "puolipilvistä",
+            "chinese": "多云"
+        },
+        {
+            "finnish": "valitettavasti",
+            "chinese": "不幸的是"
+        },
+        {
+            "finnish": "lempiväri",
+            "chinese": "最喜欢的颜色"
+        },
+        {
+            "finnish": "kaupunginosa",
+            "chinese": "区"
+        },
+        {
+            "finnish": "herätys",
+            "chinese": "醒来，闹钟"
+        },
+        {
+            "finnish": "painitreenit",
+            "chinese": "摔跤训练"
+        },
+        {
+            "finnish": "iloinen",
+            "chinese": "高兴的"
+        },
+        {
+            "finnish": "vaihtoehto",
+            "chinese": "选项"
+        },
+        {
+            "finnish": "perhe",
+            "chinese": "家庭"
+        },
+        {
+            "finnish": "sukulaiset",
+            "chinese": "亲戚"
+        },
+        {
+            "finnish": "vanhemmat",
+            "chinese": "父母"
+        },
+        {
+            "finnish": "isoveli",
+            "chinese": "哥哥"
+        },
+        {
+            "finnish": "pikkusisko",
+            "chinese": "妹妹"
+        },
+        {
+            "finnish": "isovanhemmat",
+            "chinese": "祖父母"
+        },
+        {
+            "finnish": "isoisä",
+            "chinese": "祖父"
+        },
+        {
+            "finnish": "isoäiti",
+            "chinese": "祖母"
+        },
+        {
+            "finnish": "veli",
+            "chinese": "兄弟"
+        },
+        {
+            "finnish": "sisko",
+            "chinese": "姐妹"
+        },
+        {
+            "finnish": "lapsi",
+            "chinese": "孩子"
+        },
+        {
+            "finnish": "anoppi",
+            "chinese": "岳母/婆婆"
+        },
+        {
+            "finnish": "appi",
+            "chinese": "岳父/公公"
+        },
+        {
+            "finnish": "koira",
+            "chinese": "狗"
+        },
+        {
+            "finnish": "aviomies",
+            "chinese": "丈夫"
+        },
+        {
+            "finnish": "vaimo",
+            "chinese": "妻子"
+        },
+        {
+            "finnish": "poika",
+            "chinese": "男孩"
+        },
+        {
+            "finnish": "tyttö",
+            "chinese": "女孩"
+        },
+        {
+            "finnish": "vauva",
+            "chinese": "婴儿"
+        },
+        {
+            "finnish": "lapsenlapsi",
+            "chinese": "孙子/孙女"
+        },
+        {
+            "finnish": "täti",
+            "chinese": "阿姨"
+        },
+        {
+            "finnish": "setä",
+            "chinese": "叔叔/伯伯"
+        },
+        {
+            "finnish": "serkku",
+            "chinese": "堂/表兄弟姐妹"
+        },
+        {
+            "finnish": "pikkuveli",
+            "chinese": "弟弟"
+        },
+        {
+            "finnish": "isosisko",
+            "chinese": "姐姐"
+
+        },
+        {
+            "finnish": "Kuka hän on?",
+            "chinese": "他是谁？"
+        },
+        {
+            "finnish": "Hän on poika.",
+            "chinese": "他是个男孩。"
+        },
+        {
+            "finnish": "Hän on tyttö.",
+            "chinese": "她是个女孩。"
+        },
+        {
+            "finnish": "Hän on äiti.",
+            "chinese": "她是妈妈。"
+        },
+        {
+            "finnish": "Hän on isä.",
+            "chinese": "他是爸爸。"
+        },
+        {
+            "finnish": "Hän on lapsi.",
+            "chinese": "他/她是个孩子。"
+        },
+        {
+            "finnish": "Hän on vauva.",
+            "chinese": "他/她是个婴儿。"
+        },
+        {
+            "finnish": "Hän on isoäiti.",
+            "chinese": "她是奶奶/外婆。"
+        },
+        {
+            "finnish": "Hän on isoisä.",
+            "chinese": "他是爷爷/外公。"
+        },
+        {
+            "finnish": "Kenelle?",
+            "chinese": "给谁？"
+        },
+        {
+            "finnish": "minun",
+            "chinese": "我的"
+        },
+        {
+            "finnish": "sinun",
+            "chinese": "你的"
+        },
+        {
+            "finnish": "hänen",
+            "chinese": "他/她的"
+        },
+        {
+            "finnish": "meidän",
+            "chinese": "我们的"
+        },
+        {
+            "finnish": "teidän",
+            "chinese": "你们的"
+        },
+        {
+            "finnish": "heidän",
+            "chinese": "他们的"
+        },
+        {
+            "finnish": "Mikä sinun nimi on?",
+            "chinese": "你叫什么名字？"
+        },
+        {
+            "finnish": "Minun nimi on Leevi Lauri.",
+            "chinese": "我的名字是 Leevi Lauri。"
+        },
+        {
+            "finnish": "Tämä on Suomen kynä.",
+            "chinese": "这是芬兰的笔。"
+        },
+        {
+            "finnish": "Hän on Suomen presidentti.",
+            "chinese": "他是芬兰总统。"
+        },
+        {
+            "finnish": "Hänen nimi on Alexander Stubb.",
+            "chinese": "他的名字是 Alexander Stubb。"
+        },
+        {
+            "finnish": "Meidän kurssin nimi on Suomen etänä.",
+            "chinese": "我们课程的名字是远程芬兰语。"
+        },
+        {
+            "finnish": "Kuka teidän opettaja on?",
+            "chinese": "你们的老师是谁？"
+        },
+        {
+            "finnish": "Heidän opettaja on Leevi Lauri.",
+            "chinese": "他们的老师是 Leevi Lauri。"
+        },
+        {
+            "finnish": "Matti ja Leevi ovat suomalaisia.",
+            "chinese": "Matti 和 Leevi 是芬兰人。"
+        },
+        {
+            "finnish": "Heidän kotimaa on Suomi.",
+            "chinese": "他们的祖国是芬兰。"
+        },
+        {
+            "finnish": "Hän on minun äiti.",
+            "chinese": "她是我的妈妈。"
+        },
+        {
+            "finnish": "Minä olen lapsi.",
+            "chinese": "我是个孩子。"
+        },
+        {
+            "finnish": "Hän on minun lapsi.",
+            "chinese": "他/她是我的孩子。"
+        },
+        {
+            "finnish": "Hän on minun tyttö.",
+            "chinese": "她是我的女儿。"
+        },
+        {
+            "finnish": "Hän on minun poika.",
+            "chinese": "他是我的儿子。"
+        },
+        {
+            "finnish": "Minä olen isä.",
+            "chinese": "我是爸爸。"
+        },
+        {
+            "finnish": "Hän on minun vauva.",
+            "chinese": "他/她是我的宝宝。"
+        },
+        {
+            "finnish": "Hän on minun mies.",
+            "chinese": "他是我的丈夫。"
+        },
+        {
+            "finnish": "Hän on minun vaimo.",
+            "chinese": "她是我的妻子。"
+        },
+        {
+            "finnish": "Minä olen isoäiti.",
+            "chinese": "我是奶奶/外婆。"
+        },
+        {
+            "finnish": "Hän on lapsenlapsi.",
+            "chinese": "他/她是孙子/孙女。"
+        },
+        {
+            "finnish": "Hän on minun lapsenlapsi.",
+            "chinese": "他/她是我的孙子/孙女。"
+        },
+        {
+            "finnish": "Minä olen isoisä.",
+            "chinese": "我是爷爷/外公。"
+        },
+        {
+            "finnish": "Kysymyksiä perheestä",
+            "chinese": "关于家庭的问题"
+        },
+        {
+            "finnish": "Onko sinulla lapsi?",
+            "chinese": "你有孩子吗？"
+        },
+        {
+            "finnish": "Kyllä, on.",
+            "chinese": "是的，有。"
+        },
+        {
+            "finnish": "Ei, ei ole.",
+            "chinese": "不，没有。"
+        },
+        {
+            "finnish": "Onko sinulla mies/vaimo?",
+            "chinese": "你有丈夫/妻子吗？"
+        },
+        {
+            "finnish": "Onko sinulla veli?",
+            "chinese": "你有兄弟吗？"
+        },
+        {
+            "finnish": "Onko sinulla sisko?",
+            "chinese": "你有姐妹吗？"
+        },
+        {
+            "finnish": "Minulla on yksi pikkusisko.",
+            "chinese": "我有一个妹妹。"
+        },
+        {
+            "finnish": "Hänen nimi on Liisa.",
+            "chinese": "她的名字是 Liisa。"
+        },
+        {
+            "finnish": "Minulla on neljä siskoa.",
+            "chinese": "我有四个姐妹。"
+        },
+        {
+            "finnish": "Minulla on kolme veljeä.",
+            "chinese": "我有三个兄弟。"
+        },
+        {
+            "finnish": "Minulla on kaksi siskoa ja kolme veljeä.",
+            "chinese": "我有两个姐妹和三个兄弟。"
+        },
+        {
+            "finnish": "ainoa lapsi",
+            "chinese": "独生子女"
+        },
+        {
+            "finnish": "Minä olen ainoa lapsi.",
+            "chinese": "我是独生子女。"
+        },
+        {
+            "finnish": "Millainen perhe sinulla on?",
+            "chinese": "你有一个什么样的家庭？"
+        },
+        {
+            "finnish": "Minulla on äiti, isä, pikkuveli, pikkusisko, vaimo ja pieni poika.",
+            "chinese": "我有妈妈，爸爸，弟弟，妹妹，妻子和一个小男孩。"
+        },
+        {
+            "finnish": "Kello on 9.00. Aloitetaan!",
+            "chinese": "九点了，我们开始吧！"
+        },
+        {
+            "finnish": "Tänään on maanantai 1. syyskuuta 2025.",
+            "chinese": "今天是2025年9月1日，星期一。"
+        },
+        {
+            "finnish": "Sää on kylmä.",
+            "chinese": "天气很冷。"
+        },
+        {
+            "finnish": "Täällä on kylmä.",
+            "chinese": "这里很冷。"
+        },
+        {
+            "finnish": "Ulkona on +10 (astetta).",
+            "chinese": "外面+10度。"
+        },
+        {
+            "finnish": "Kysy minulta yksi kysymys.",
+            "chinese": "问我一个问题。"
+        },
+        {
+            "finnish": "Mitä eroa on kysymyssanoilla Mikä / Mitä?",
+            "chinese": "疑问词 Mikä / Mitä 有什么区别？"
+        },
+        {
+            "finnish": "Ne ovat sama sana, mutta eri muoto.",
+            "chinese": "它们是同一个词，但形式不同。"
+        },
+        {
+            "finnish": "Mikä-kysymyssanaa käytetään yleensä kysymyksissä, joissa on olla-verbi.",
+            "chinese": "疑问词'Mikä'通常用在有'olla'动词的问题中。"
+        },
+        {
+            "finnish": "Mitä-kysymyssanaa käytetään yleensä muiden verbien kanssa.",
+            "chinese": "疑问词'Mitä'通常与其他动词一起使用。"
+        },
+        {
+            "finnish": "Mitä kieltä sinä puhut?",
+            "chinese": "你说什么语言？"
+        },
+        {
+            "finnish": "Mitä sinä juot?",
+            "chinese": "你喝什么？"
+        },
+        {
+            "finnish": "Mitä sinä syöt?",
+            "chinese": "你吃什么？"
+        },
+        {
+            "finnish": "Mitä sinä teet kurssilla?",
+            "chinese": "你在课上做什么？"
+        },
+        {
+            "finnish": "Millä sinä yleensä menet kauppaan?",
+            "chinese": "你通常怎么去商店？"
+        },
+        {
+            "finnish": "Minä menen kauppaan pyörällä.",
+            "chinese": "我骑自行车去商店。"
+        },
+        {
+            "finnish": "Milloin sinä yleensä menet kauppaan?",
+            "chinese": "你通常什么时候去商店？"
+        },
+        {
+            "finnish": "Minä menen kauppaan yleensä lauantaina.",
+            "chinese": "我通常星期六去商店。"
+        },
+        {
+            "finnish": "Mitä kuuluu?",
+            "chinese": "你好吗？"
+        },
+        {
+            "finnish": "Hyvää, kiitos. Entä sinulle?",
+            "chinese": "很好，谢谢。你呢？"
+        },
+        {
+            "finnish": "Minä olen nyt töissä Oulussa minun työhuoneella.",
+            "chinese": "我现在在奥卢我的办公室工作。"
+        },
+        {
+            "finnish": "Minä puhun suomea, englantia ja vähän ruotsia.",
+            "chinese": "我说芬兰语、英语和一点瑞典语。"
+        },
+        {
+            "finnish": "Suomi on minun äidinkieli.",
+            "chinese": "芬兰语是我的母语。"
+        },
+        {
+            "finnish": "Minä menen kauppaan yleensä kävellen tai autolla.",
+            "chinese": "我通常步行或开车去商店。"
+        },
+        {
+            "finnish": "Minä menen kauppaan yleensä joka lauantai.",
+            "chinese": "我通常每个星期六去商店。"
+        },
+        {
+            "finnish": "Oletko ok?",
+            "chinese": "你还好吗？"
+        },
+        {
+            "finnish": "Joo, toivottavasti.",
+            "chinese": "是的，希望如此。"
+        },
+        {
+            "finnish": "Miten sinun nimi kirjoitetaan?",
+            "chinese": "你的名字怎么写？"
+        },
+        {
+            "finnish": "Se kirjoitetaan L-e-e-v-i.",
+            "chinese": "拼写是L-e-e-v-i。"
+        },
+        {
+            "finnish": "Millainen sää siellä (Järvenpäässä) on?",
+            "chinese": "那里（耶尔文佩）天气怎么样？"
+        },
+        {
+            "finnish": "Mitä sinä yleensä teet viikonloppuna?",
+            "chinese": "你周末通常做什么？"
+        },
+        {
+            "finnish": "Yleensä olen minun vaimon ja pojan kanssa. Menen kauppaan. Olen ulkona vaimon ja pojan kanssa. Teen ruokaa ja syön. Katson televisiota, luen kirjoja, kuuntelen musiikkia ja lepään.",
+            "chinese": "我通常和我的妻子和儿子在一起。我去商店。我和妻子、儿子在外面。我做饭、吃饭。我看电视、看书、听音乐、休息。"
+        },
+        {
+            "finnish": "Mikä on tämän kurssin taso?",
+            "chinese": "这门课程的水平是多少？"
+        },
+        {
+            "finnish": "Tämä kurssi alkaa tasolta 0 ja päättyy tasolle A2.1.",
+            "chinese": "本课程从0级开始，到A2.1级结束。"
+        },
+        {
+            "finnish": "Onko sinulla miljoona euroa?",
+            "chinese": "你有一百万欧元吗？"
+        },
+        {
+            "finnish": "Ei, valitettavasti.",
+            "chinese": "不，很遗憾。"
+        },
+        {
+            "finnish": "Mikä on sinun lempiväri?",
+            "chinese": "你最喜欢的颜色是什么？"
+        },
+        {
+            "finnish": "Vaikea kysymys. Pidän monista väreistä. Jos pitää valita yksi, ehkä sininen.",
+            "chinese": "难说的问题。我喜欢很多颜色。如果必须选一个，也许是蓝色。"
+        },
+        {
+            "finnish": "Missä kaupunginosassa sinä asut?",
+            "chinese": "你住在哪个区？"
+        },
+        {
+            "finnish": "Mihin aikaan koulu loppuu?",
+            "chinese": "学校几点放学？"
+        },
+        {
+            "finnish": "Koulu loppuu kello 13.",
+            "chinese": "学校13点放学。"
+        },
+        {
+            "finnish": "Pieni hetki. En tiedä. Tarkistan.",
+            "chinese": "请稍等。我不知道。我查一下。"
+        },
+        {
+            "finnish": "Onko sinulla auto?",
+            "chinese": "你有车吗？"
+        },
+        {
+            "finnish": "Joo, minulla on vanha ja halpa Renault Clio.",
+            "chinese": "是的，我有一辆又旧又便宜的雷诺Clio。"
+        },
+        {
+            "finnish": "Millä sinä yleensä menet Helsinkiin?",
+            "chinese": "你通常怎么去赫尔辛基？"
+        },
+        {
+            "finnish": "Minä menen Helsinkiin K- tai A-junalla.",
+            "chinese": "我乘K或A次列车去赫尔辛基。"
+        },
+        {
+            "finnish": "Oletko toimistossa vai kotona?",
+            "chinese": "你在办公室还是在家？"
+        },
+        {
+            "finnish": "Moneltako herätys on?",
+            "chinese": "闹钟几点响？"
+        },
+        {
+            "finnish": "Maanantaina, keskiviikkona ja viikonloppuna minun herätys on kello 7.00. Tiistaina, torstaina ja perjantaina minun herätys on 5.45, koska minulla on painitreenit.",
+            "chinese": "周一、周三和周末，我的闹钟是7点。周二、周四和周五，我的闹钟是5点45分，因为我有摔跤训练。"
+        },
+        {
+            "finnish": "Oletko iloinen?",
+            "chinese": "你开心吗？"
+        },
+        {
+            "finnish": "Kyllä. Minä olen yleensä iloinen.",
+            "chinese": "是的。我通常很开心。"
+        },
+        {
+            "finnish": "Juotko kahvia tai teetä?",
+            "chinese": "你喝咖啡或茶吗？"
+        },
+        {
+            "finnish": "Juon kahvia ja teetä.",
+            "chinese": "我喝咖啡和茶。"
+        },
+        {
+            "finnish": "Juotko kahvia vai teetä?",
+            "chinese": "你喝咖啡还是茶？"
+        },
+        {
+            "finnish": "Minä juon yleensä paljon mustaa kahvia.",
+            "chinese": "我通常喝很多黑咖啡。"
+        },
+        {
+            "finnish": "Hei! Minun nimi on Sanna. Tässä on minun perhe ja sukulaiset.",
+            "chinese": "嘿！我叫Sanna。这是我的家人和亲戚。"
+        },
+        {
+            "finnish": "Minun vanhemmat ovat isä Pekka ja äiti Marja. He ovat todella mukavia.",
+            "chinese": "我的父母是爸爸Pekka和妈妈Marja。他们人真的很好。"
+        },
+        {
+            "finnish": "Minulla on isoveli. Hän on Matti.",
+            "chinese": "我有一个哥哥。他是Matti。"
+        },
+        {
+            "finnish": "Minulla on pikkusisko. Hänen nimi on Saara.",
+            "chinese": "我有一个妹妹。她的名字是Saara。"
+        },
+        {
+            "finnish": "Minä pidän minun isovanhemmista. Minun isoisä on Henri ja isoäiti on Helena.",
+            "chinese": "我喜欢我的祖父母。我的祖父是Henri，祖母是Helena。"
+        },
+        {
+            "finnish": "Minun isän veli on Jaakko ja hän on naimisissa Sarin kanssa. Heillä on yksi lapsi. Hän on Anna.",
+            "chinese": "我父亲的兄弟是Jaakko，他娶了Sari。他们有一个孩子。她是Anna。"
+        },
+        {
+            "finnish": "Minun isän sisko on Julia ja hän on naimisissa Keijon kanssa. Heillä on kaksi lasta: Pauli ja Laura.",
+            "chinese": "我父亲的姐妹是Julia，她嫁给了Keijo。他们有两个孩子：Pauli和Laura。"
+        },
+        {
+            "finnish": "Vanhempani ja vaimoni vanhemmat ovat kuolleet. Minulla on kaunis vaimo, yksi poika, kaksi tyttöä, yksi isosisko, kolme pikkusiskoa ja kaksi pikkuveljeä.",
+            "chinese": "我的父母和我妻子的父母都去世了。我有一个美丽的妻子，一个儿子，两个女儿，一个姐姐，三个妹妹和两个弟弟。"
+        },
+        {
+            "finnish": "KOTITEHTÄVÄT: Lue vihko! Katso video! Opettele sanoja!",
+            "chinese": "家庭作业：读笔记本！看视频！学习单词！"
+        }
+    ]
+}

@@ -1,0 +1,489 @@
+speaker1:Odota!
+speaker2:等等！
+speaker1:Odota!
+speaker2:ensimmäinen
+speaker1:第一
+speaker2:ensimmäinen
+speaker1:kertaus
+speaker2:复习
+speaker1:kertaus
+speaker2:kysymyssana
+speaker1:疑问词
+speaker2:kysymyssana
+speaker1:muoto
+speaker2:形式
+speaker1:muoto
+speaker2:työhuone
+speaker1:工作室
+speaker2:työhuone
+speaker1:ylihuomenna
+speaker2:后天
+speaker1:ylihuomenna
+speaker2:sumuista
+speaker1:有雾的
+speaker2:sumuista
+speaker1:toivottavasti
+speaker2:希望地
+speaker1:toivottavasti
+speaker2:viikonloppu
+speaker1:周末
+speaker2:viikonloppu
+speaker1:toissa päivänä
+speaker2:前天
+speaker1:toissa päivänä
+speaker2:puolipilvistä
+speaker1:多云
+speaker2:puolipilvistä
+speaker1:valitettavasti
+speaker2:不幸的是
+speaker1:valitettavasti
+speaker2:lempiväri
+speaker1:最喜欢的颜色
+speaker2:lempiväri
+speaker1:kaupunginosa
+speaker2:区
+speaker1:kaupunginosa
+speaker2:herätys
+speaker1:醒来，闹钟
+speaker2:herätys
+speaker1:painitreenit
+speaker2:摔跤训练
+speaker1:painitreenit
+speaker2:iloinen
+speaker1:高兴的
+speaker2:iloinen
+speaker1:vaihtoehto
+speaker2:选项
+speaker1:vaihtoehto
+speaker2:perhe
+speaker1:家庭
+speaker2:perhe
+speaker1:sukulaiset
+speaker2:亲戚
+speaker1:sukulaiset
+speaker2:vanhemmat
+speaker1:父母
+speaker2:vanhemmat
+speaker1:isoveli
+speaker2:哥哥
+speaker1:isoveli
+speaker2:pikkusisko
+speaker1:妹妹
+speaker2:pikkusisko
+speaker1:isovanhemmat
+speaker2:祖父母
+speaker1:isovanhemmat
+speaker2:isoisä
+speaker1:祖父
+speaker2:isoisä
+speaker1:isoäiti
+speaker2:祖母
+speaker1:isoäiti
+speaker2:veli
+speaker1:兄弟
+speaker2:veli
+speaker1:sisko
+speaker2:姐妹
+speaker1:sisko
+speaker2:lapsi
+speaker1:孩子
+speaker2:lapsi
+speaker1:anoppi
+speaker2:岳母/婆婆
+speaker1:anoppi
+speaker2:appi
+speaker1:岳父/公公
+speaker2:appi
+speaker1:koira
+speaker2:狗
+speaker1:koira
+speaker2:aviomies
+speaker1:丈夫
+speaker2:aviomies
+speaker1:vaimo
+speaker2:妻子
+speaker1:vaimo
+speaker2:poika
+speaker1:男孩
+speaker2:poika
+speaker1:tyttö
+speaker2:女孩
+speaker1:tyttö
+speaker2:vauva
+speaker1:婴儿
+speaker2:vauva
+speaker1:lapsenlapsi
+speaker2:孙子/孙女
+speaker1:lapsenlapsi
+speaker2:täti
+speaker1:阿姨
+speaker2:täti
+speaker1:setä
+speaker2:叔叔/伯伯
+speaker1:setä
+speaker2:serkku
+speaker1:堂/表兄弟姐妹
+speaker2:serkku
+speaker1:pikkuveli
+speaker2:弟弟
+speaker1:pikkuveli
+speaker2:isosisko
+speaker1:姐姐
+speaker2:isosisko
+speaker1:Kuka hän on?
+speaker2:他是谁？
+speaker1:Kuka hän on?
+speaker2:Hän on poika.
+speaker1:他是个男孩。
+speaker2:Hän on poika.
+speaker1:Hän on tyttö.
+speaker2:她是个女孩。
+speaker1:Hän on tyttö.
+speaker2:Hän on äiti.
+speaker1:她是妈妈。
+speaker2:Hän on äiti.
+speaker1:Hän on isä.
+speaker2:他是爸爸。
+speaker1:Hän on isä.
+speaker2:Hän on lapsi.
+speaker1:他/她是个孩子。
+speaker2:Hän on lapsi.
+speaker1:Hän on vauva.
+speaker2:他/她是个婴儿。
+speaker1:Hän on vauva.
+speaker2:Hän on isoäiti.
+speaker1:她是奶奶/外婆。
+speaker2:Hän on isoäiti.
+speaker1:Hän on isoisä.
+speaker2:他是爷爷/外公。
+speaker1:Hän on isoisä.
+speaker2:Kenelle?
+speaker1:给谁？
+speaker2:Kenelle?
+speaker1:minun
+speaker2:我的
+speaker1:minun
+speaker2:sinun
+speaker1:你的
+speaker2:sinun
+speaker1:hänen
+speaker2:他/她的
+speaker1:hänen
+speaker2:meidän
+speaker1:我们的
+speaker2:meidän
+speaker1:teidän
+speaker2:你们的
+speaker1:teidän
+speaker2:heidän
+speaker1:他们的
+speaker2:heidän
+speaker1:Mikä sinun nimi on?
+speaker2:你叫什么名字？
+speaker1:Mikä sinun nimi on?
+speaker2:Minun nimi on Leevi Lauri.
+speaker1:我的名字是 Leevi Lauri。
+speaker2:Minun nimi on Leevi Lauri.
+speaker1:Tämä on Suomen kynä.
+speaker2:这是芬兰的笔。
+speaker1:Tämä on Suomen kynä.
+speaker2:Hän on Suomen presidentti.
+speaker1:他是芬兰总统。
+speaker2:Hän on Suomen presidentti.
+speaker1:Hänen nimi on Alexander Stubb.
+speaker2:他的名字是 Alexander Stubb。
+speaker1:Hänen nimi on Alexander Stubb.
+speaker2:Meidän kurssin nimi on Suomen etänä.
+speaker1:我们课程的名字是远程芬兰语。
+speaker2:Meidän kurssin nimi on Suomen etänä.
+speaker1:Kuka teidän opettaja on?
+speaker2:你们的老师是谁？
+speaker1:Kuka teidän opettaja on?
+speaker2:Heidän opettaja on Leevi Lauri.
+speaker1:他们的老师是 Leevi Lauri。
+speaker2:Heidän opettaja on Leevi Lauri.
+speaker1:Matti ja Leevi ovat suomalaisia.
+speaker2:Matti 和 Leevi 是芬兰人。
+speaker1:Matti ja Leevi ovat suomalaisia.
+speaker2:Heidän kotimaa on Suomi.
+speaker1:他们的祖国是芬兰。
+speaker2:Heidän kotimaa on Suomi.
+speaker1:Hän on minun äiti.
+speaker2:她是我的妈妈。
+speaker1:Hän on minun äiti.
+speaker2:Minä olen lapsi.
+speaker1:我是个孩子。
+speaker2:Minä olen lapsi.
+speaker1:Hän on minun lapsi.
+speaker2:他/她是我的孩子。
+speaker1:Hän on minun lapsi.
+speaker2:Hän on minun tyttö.
+speaker1:她是我的女儿。
+speaker2:Hän on minun tyttö.
+speaker1:Hän on minun poika.
+speaker2:他是我的儿子。
+speaker1:Hän on minun poika.
+speaker2:Minä olen isä.
+speaker1:我是爸爸。
+speaker2:Minä olen isä.
+speaker1:Hän on minun vauva.
+speaker2:他/她是我的宝宝。
+speaker1:Hän on minun vauva.
+speaker2:Hän on minun mies.
+speaker1:他是我的丈夫。
+speaker2:Hän on minun mies.
+speaker1:Hän on minun vaimo.
+speaker2:她是我的妻子。
+speaker1:Hän on minun vaimo.
+speaker2:Minä olen isoäiti.
+speaker1:我是奶奶/外婆。
+speaker2:Minä olen isoäiti.
+speaker1:Hän on lapsenlapsi.
+speaker2:他/她是孙子/孙女。
+speaker1:Hän on lapsenlapsi.
+speaker2:Hän on minun lapsenlapsi.
+speaker1:他/她是我的孙子/孙女。
+speaker2:Hän on minun lapsenlapsi.
+speaker1:Minä olen isoisä.
+speaker2:我是爷爷/外公。
+speaker1:Minä olen isoisä.
+speaker2:Kysymyksiä perheestä
+speaker1:关于家庭的问题
+speaker2:Kysymyksiä perheestä
+speaker1:Onko sinulla lapsi?
+speaker2:你有孩子吗？
+speaker1:Onko sinulla lapsi?
+speaker2:Kyllä, on.
+speaker1:是的，有。
+speaker2:Kyllä, on.
+speaker1:Ei, ei ole.
+speaker2:不，没有。
+speaker1:Ei, ei ole.
+speaker2:Onko sinulla mies/vaimo?
+speaker1:你有丈夫/妻子吗？
+speaker2:Onko sinulla mies/vaimo?
+speaker1:Onko sinulla veli?
+speaker2:你有兄弟吗？
+speaker1:Onko sinulla veli?
+speaker2:Onko sinulla sisko?
+speaker1:你有姐妹吗？
+speaker2:Onko sinulla sisko?
+speaker1:Minulla on yksi pikkusisko.
+speaker2:我有一个妹妹。
+speaker1:Minulla on yksi pikkusisko.
+speaker2:Hänen nimi on Liisa.
+speaker1:她的名字是 Liisa。
+speaker2:Hänen nimi on Liisa.
+speaker1:Minulla on neljä siskoa.
+speaker2:我有四个姐妹。
+speaker1:Minulla on neljä siskoa.
+speaker2:Minulla on kolme veljeä.
+speaker1:我有三个兄弟。
+speaker2:Minulla on kolme veljeä.
+speaker1:Minulla on kaksi siskoa ja kolme veljeä.
+speaker2:我有两个姐妹和三个兄弟。
+speaker1:Minulla on kaksi siskoa ja kolme veljeä.
+speaker2:ainoa lapsi
+speaker1:独生子女
+speaker2:ainoa lapsi
+speaker1:Minä olen ainoa lapsi.
+speaker2:我是独生子女。
+speaker1:Minä olen ainoa lapsi.
+speaker2:Millainen perhe sinulla on?
+speaker1:你有一个什么样的家庭？
+speaker2:Millainen perhe sinulla on?
+speaker1:Minulla on äiti, isä, pikkuveli, pikkusisko, vaimo ja pieni poika.
+speaker2:我有妈妈，爸爸，弟弟，妹妹，妻子和一个小男孩。
+speaker1:Minulla on äiti, isä, pikkuveli, pikkusisko, vaimo ja pieni poika.
+speaker2:Kello on 9.00. Aloitetaan!
+speaker1:九点了，我们开始吧！
+speaker2:Kello on 9.00. Aloitetaan!
+speaker1:Tänään on maanantai 1. syyskuuta 2025.
+speaker2:今天是2025年9月1日，星期一。
+speaker1:Tänään on maanantai 1. syyskuuta 2025.
+speaker2:Sää on kylmä.
+speaker1:天气很冷。
+speaker2:Sää on kylmä.
+speaker1:Täällä on kylmä.
+speaker2:这里很冷。
+speaker1:Täällä on kylmä.
+speaker2:Ulkona on +10 (astetta).
+speaker1:外面+10度。
+speaker2:Ulkona on +10 (astetta).
+speaker1:Kysy minulta yksi kysymys.
+speaker2:问我一个问题。
+speaker1:Kysy minulta yksi kysymys.
+speaker2:Mitä eroa on kysymyssanoilla Mikä / Mitä?
+speaker1:疑问词 Mikä / Mitä 有什么区别？
+speaker2:Mitä eroa on kysymyssanoilla Mikä / Mitä?
+speaker1:Ne ovat sama sana, mutta eri muoto.
+speaker2:它们是同一个词，但形式不同。
+speaker1:Ne ovat sama sana, mutta eri muoto.
+speaker2:Mikä-kysymyssanaa käytetään yleensä kysymyksissä, joissa on olla-verbi.
+speaker1:疑问词'Mikä'通常用在有'olla'动词的问题中。
+speaker2:Mikä-kysymyssanaa käytetään yleensä kysymyksissä, joissa on olla-verbi.
+speaker1:Mitä-kysymyssanaa käytetään yleensä muiden verbien kanssa.
+speaker2:疑问词'Mitä'通常与其他动词一起使用。
+speaker1:Mitä-kysymyssanaa käytetään yleensä muiden verbien kanssa.
+speaker2:Mitä kieltä sinä puhut?
+speaker1:你说什么语言？
+speaker2:Mitä kieltä sinä puhut?
+speaker1:Mitä sinä juot?
+speaker2:你喝什么？
+speaker1:Mitä sinä juot?
+speaker2:Mitä sinä syöt?
+speaker1:你吃什么？
+speaker2:Mitä sinä syöt?
+speaker1:Mitä sinä teet kurssilla?
+speaker2:你在课上做什么？
+speaker1:Mitä sinä teet kurssilla?
+speaker2:Millä sinä yleensä menet kauppaan?
+speaker1:你通常怎么去商店？
+speaker2:Millä sinä yleensä menet kauppaan?
+speaker1:Minä menen kauppaan pyörällä.
+speaker2:我骑自行车去商店。
+speaker1:Minä menen kauppaan pyörällä.
+speaker2:Milloin sinä yleensä menet kauppaan?
+speaker1:你通常什么时候去商店？
+speaker2:Milloin sinä yleensä menet kauppaan?
+speaker1:Minä menen kauppaan yleensä lauantaina.
+speaker2:我通常星期六去商店。
+speaker1:Minä menen kauppaan yleensä lauantaina.
+speaker2:Mitä kuuluu?
+speaker1:你好吗？
+speaker2:Mitä kuuluu?
+speaker1:Hyvää, kiitos. Entä sinulle?
+speaker2:很好，谢谢。你呢？
+speaker1:Hyvää, kiitos. Entä sinulle?
+speaker2:Minä olen nyt töissä Oulussa minun työhuoneella.
+speaker1:我现在在奥卢我的办公室工作。
+speaker2:Minä olen nyt töissä Oulussa minun työhuoneella.
+speaker1:Minä puhun suomea, englantia ja vähän ruotsia.
+speaker2:我说芬兰语、英语和一点瑞典语。
+speaker1:Minä puhun suomea, englantia ja vähän ruotsia.
+speaker2:Suomi on minun äidinkieli.
+speaker1:芬兰语是我的母语。
+speaker2:Suomi on minun äidinkieli.
+speaker1:Minä menen kauppaan yleensä kävellen tai autolla.
+speaker2:我通常步行或开车去商店。
+speaker1:Minä menen kauppaan yleensä kävellen tai autolla.
+speaker2:Minä menen kauppaan yleensä joka lauantai.
+speaker1:我通常每个星期六去商店。
+speaker2:Minä menen kauppaan yleensä joka lauantai.
+speaker1:Oletko ok?
+speaker2:你还好吗？
+speaker1:Oletko ok?
+speaker2:Joo, toivottavasti.
+speaker1:是的，希望如此。
+speaker2:Joo, toivottavasti.
+speaker1:Miten sinun nimi kirjoitetaan?
+speaker2:你的名字怎么写？
+speaker1:Miten sinun nimi kirjoitetaan?
+speaker2:Se kirjoitetaan L-e-e-v-i.
+speaker1:拼写是L-e-e-v-i。
+speaker2:Se kirjoitetaan L-e-e-v-i.
+speaker1:Millainen sää siellä (Järvenpäässä) on?
+speaker2:那里（耶尔文佩）天气怎么样？
+speaker1:Millainen sää siellä (Järvenpäässä) on?
+speaker2:Mitä sinä yleensä teet viikonloppuna?
+speaker1:你周末通常做什么？
+speaker2:Mitä sinä yleensä teet viikonloppuna?
+speaker1:Yleensä olen minun vaimon ja pojan kanssa. Menen kauppaan. Olen ulkona vaimon ja pojan kanssa. Teen ruokaa ja syön. Katson televisiota, luen kirjoja, kuuntelen musiikkia ja lepään.
+speaker2:我通常和我的妻子和儿子在一起。我去商店。我和妻子、儿子在外面。我做饭、吃饭。我看电视、看书、听音乐、休息。
+speaker1:Yleensä olen minun vaimon ja pojan kanssa. Menen kauppaan. Olen ulkona vaimon ja pojan kanssa. Teen ruokaa ja syön. Katson televisiota, luen kirjoja, kuuntelen musiikkia ja lepään.
+speaker2:Mikä on tämän kurssin taso?
+speaker1:这门课程的水平是多少？
+speaker2:Mikä on tämän kurssin taso?
+speaker1:Tämä kurssi alkaa tasolta 0 ja päättyy tasolle A2.1.
+speaker2:本课程从0级开始，到A2.1级结束。
+speaker1:Tämä kurssi alkaa tasolta 0 ja päättyy tasolle A2.1.
+speaker2:Onko sinulla miljoona euroa?
+speaker1:你有一百万欧元吗？
+speaker2:Onko sinulla miljoona euroa?
+speaker1:Ei, valitettavasti.
+speaker2:不，很遗憾。
+speaker1:Ei, valitettavasti.
+speaker2:Mikä on sinun lempiväri?
+speaker1:你最喜欢的颜色是什么？
+speaker2:Mikä on sinun lempiväri?
+speaker1:Vaikea kysymys. Pidän monista väreistä. Jos pitää valita yksi, ehkä sininen.
+speaker2:难说的问题。我喜欢很多颜色。如果必须选一个，也许是蓝色。
+speaker1:Vaikea kysymys. Pidän monista väreistä. Jos pitää valita yksi, ehkä sininen.
+speaker2:Missä kaupunginosassa sinä asut?
+speaker1:你住在哪个区？
+speaker2:Missä kaupunginosassa sinä asut?
+speaker1:Mihin aikaan koulu loppuu?
+speaker2:学校几点放学？
+speaker1:Mihin aikaan koulu loppuu?
+speaker2:Koulu loppuu kello 13.
+speaker1:学校13点放学。
+speaker2:Koulu loppuu kello 13.
+speaker1:Pieni hetki. En tiedä. Tarkistan.
+speaker2:请稍等。我不知道。我查一下。
+speaker1:Pieni hetki. En tiedä. Tarkistan.
+speaker2:Onko sinulla auto?
+speaker1:你有车吗？
+speaker2:Onko sinulla auto?
+speaker1:Joo, minulla on vanha ja halpa Renault Clio.
+speaker2:是的，我有一辆又旧又便宜的雷诺Clio。
+speaker1:Joo, minulla on vanha ja halpa Renault Clio.
+speaker2:Millä sinä yleensä menet Helsinkiin?
+speaker1:你通常怎么去赫尔辛基？
+speaker2:Millä sinä yleensä menet Helsinkiin?
+speaker1:Minä menen Helsinkiin K- tai A-junalla.
+speaker2:我乘K或A次列车去赫尔辛基。
+speaker1:Minä menen Helsinkiin K- tai A-junalla.
+speaker2:Oletko toimistossa vai kotona?
+speaker1:你在办公室还是在家？
+speaker2:Oletko toimistossa vai kotona?
+speaker1:Moneltako herätys on?
+speaker2:闹钟几点响？
+speaker1:Moneltako herätys on?
+speaker2:Maanantaina, keskiviikkona ja viikonloppuna minun herätys on kello 7.00. Tiistaina, torstaina ja perjantaina minun herätys on 5.45, koska minulla on painitreenit.
+speaker1:周一、周三和周末，我的闹钟是7点。周二、周四和周五，我的闹钟是5点45分，因为我有摔跤训练。
+speaker2:Maanantaina, keskiviikkona ja viikonloppuna minun herätys on kello 7.00. Tiistaina, torstaina ja perjantaina minun herätys on 5.45, koska minulla on painitreenit.
+speaker1:Oletko iloinen?
+speaker2:你开心吗？
+speaker1:Oletko iloinen?
+speaker2:Kyllä. Minä olen yleensä iloinen.
+speaker1:是的。我通常很开心。
+speaker2:Kyllä. Minä olen yleensä iloinen.
+speaker1:Juotko kahvia tai teetä?
+speaker2:你喝咖啡或茶吗？
+speaker1:Juotko kahvia tai teetä?
+speaker2:Juon kahvia ja teetä.
+speaker1:我喝咖啡和茶。
+speaker2:Juon kahvia ja teetä.
+speaker1:Juotko kahvia vai teetä?
+speaker2:你喝咖啡还是茶？
+speaker1:Juotko kahvia vai teetä?
+speaker2:Minä juon yleensä paljon mustaa kahvia.
+speaker1:我通常喝很多黑咖啡。
+speaker2:Minä juon yleensä paljon mustaa kahvia.
+speaker1:Hei! Minun nimi on Sanna. Tässä on minun perhe ja sukulaiset.
+speaker2:嘿！我叫Sanna。这是我的家人和亲戚。
+speaker1:Hei! Minun nimi on Sanna. Tässä on minun perhe ja sukulaiset.
+speaker2:Minun vanhemmat ovat isä Pekka ja äiti Marja. He ovat todella mukavia.
+speaker1:我的父母是爸爸Pekka和妈妈Marja。他们人真的很好。
+speaker2:Minun vanhemmat ovat isä Pekka ja äiti Marja. He ovat todella mukavia.
+speaker1:Minulla on isoveli. Hän on Matti.
+speaker2:我有一个哥哥。他是Matti。
+speaker1:Minulla on isoveli. Hän on Matti.
+speaker2:Minulla on pikkusisko. Hänen nimi on Saara.
+speaker1:我有一个妹妹。她的名字是Saara。
+speaker2:Minulla on pikkusisko. Hänen nimi on Saara.
+speaker1:Minä pidän minun isovanhemmista. Minun isoisä on Henri ja isoäiti on Helena.
+speaker2:我喜欢我的祖父母。我的祖父是Henri，祖母是Helena。
+speaker1:Minä pidän minun isovanhemmista. Minun isoisä on Henri ja isoäiti on Helena.
+speaker2:Minun isän veli on Jaakko ja hän on naimisissa Sarin kanssa. Heillä on yksi lapsi. Hän on Anna.
+speaker1:我父亲的兄弟是Jaakko，他娶了Sari。他们有一个孩子。她是Anna。
+speaker2:Minun isän veli on Jaakko ja hän on naimisissa Sarin kanssa. Heillä on yksi lapsi. Hän on Anna.
+speaker1:Minun isän sisko on Julia ja hän on naimisissa Keijon kanssa. Heillä on kaksi lasta: Pauli ja Laura.
+speaker2:我父亲的姐妹是Julia，她嫁给了Keijo。他们有两个孩子：Pauli和Laura。
+speaker1:Minun isän sisko on Julia ja hän on naimisissa Keijon kanssa. Heillä on kaksi lasta: Pauli ja Laura.
+speaker2:Vanhempani ja vaimoni vanhemmat ovat kuolleet. Minulla on kaunis vaimo, yksi poika, kaksi tyttöä, yksi isosisko, kolme pikkusiskoa ja kaksi pikkuveljeä.
+speaker1:我的父母和我妻子的父母都去世了。我有一个美丽的妻子，一个儿子，两个女儿，一个姐姐，三个妹妹和两个弟弟。
+speaker2:Vanhempani ja vaimoni vanhemmat ovat kuolleet. Minulla on kaunis vaimo, yksi poika, kaksi tyttöä, yksi isosisko, kolme pikkusiskoa ja kaksi pikkuveljeä.
+speaker1:KOTITEHTÄVÄT: Lue vihko! Katso video! Opettele sanoja!
+speaker2:家庭作业：读笔记本！看视频！学习单词！
+speaker1:KOTITEHTÄVÄT: Lue vihko! Katso video! Opettele sanoja!

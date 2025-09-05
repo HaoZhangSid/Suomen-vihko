@@ -1,0 +1,315 @@
+speaker1:Suomi
+speaker2:芬兰
+speaker1:Suomi
+speaker2:suomalainen
+speaker1:芬兰人
+speaker2:suomalainen
+speaker1:Ghana
+speaker2:加纳
+speaker1:Ghana
+speaker2:Ukraina
+speaker1:乌克兰
+speaker2:Ukraina
+speaker1:Sri Lanka
+speaker2:斯里兰卡
+speaker1:Sri Lanka
+speaker2:Egypti
+speaker1:埃及
+speaker2:Egypti
+speaker1:Kreikka
+speaker2:希腊
+speaker1:Kreikka
+speaker2:Vietnam
+speaker1:越南
+speaker2:Vietnam
+speaker1:Kamerun
+speaker2:喀麦隆
+speaker1:Kamerun
+speaker2:Nigeria
+speaker1:尼日利亚
+speaker2:Nigeria
+speaker1:Nepal
+speaker2:尼泊尔
+speaker1:Nepal
+speaker2:Dominikaaninen tasavalta
+speaker1:多米尼加共和国
+speaker2:Dominikaaninen tasavalta
+speaker1:Brasilia
+speaker2:巴西
+speaker1:Brasilia
+speaker2:Filippiinit
+speaker1:菲律宾
+speaker2:Filippiinit
+speaker1:Slovakia
+speaker2:斯洛伐克
+speaker1:Slovakia
+speaker2:Pakistan
+speaker1:巴基斯坦
+speaker2:Pakistan
+speaker1:Kiina
+speaker2:中国
+speaker1:Kiina
+speaker2:persoonapronominit
+speaker1:人称代词
+speaker2:persoonapronominit
+speaker1:minä
+speaker2:我
+speaker1:minä
+speaker2:sinä
+speaker1:你
+speaker2:sinä
+speaker1:hän
+speaker2:他/她
+speaker1:hän
+speaker2:me
+speaker1:我们
+speaker2:me
+speaker1:te
+speaker2:你们
+speaker1:te
+speaker2:he
+speaker1:他们
+speaker2:he
+speaker1:mies
+speaker2:男人
+speaker1:mies
+speaker2:nainen
+speaker1:女人
+speaker2:nainen
+speaker1:yksi
+speaker2:一
+speaker1:yksi
+speaker2:ihminen
+speaker1:人
+speaker2:ihminen
+speaker1:monta
+speaker2:许多，很多
+speaker1:monta
+speaker2:etunimi
+speaker1:名
+speaker2:etunimi
+speaker1:sukunimi
+speaker2:姓
+speaker1:sukunimi
+speaker2:maa
+speaker1:国家
+speaker2:maa
+speaker1:kieli
+speaker2:语言
+speaker1:kieli
+speaker2:kansalaisuus
+speaker1:国籍
+speaker2:kansalaisuus
+speaker1:suomi
+speaker2:芬兰语 (语言)
+speaker1:suomi
+speaker2:kiina
+speaker1:中文 (语言)
+speaker2:kiina
+speaker1:kiinalainen
+speaker2:中国人 (国籍)
+speaker1:kiinalainen
+speaker2:kysymysmerkki
+speaker1:问号
+speaker2:kysymysmerkki
+speaker1:piste
+speaker2:句号
+speaker1:piste
+speaker2:pilkku
+speaker1:逗号
+speaker2:pilkku
+speaker1:huutomerkki
+speaker2:感叹号
+speaker1:huutomerkki
+speaker2:Tekstin osat
+speaker1:文本的组成部分
+speaker2:Tekstin osat
+speaker1:kirjain
+speaker2:字母
+speaker1:kirjain
+speaker2:tavu
+speaker1:音节
+speaker2:tavu
+speaker1:sana
+speaker2:单词
+speaker1:sana
+speaker2:lause / virke
+speaker1:句子
+speaker2:lause / virke
+speaker1:teksti
+speaker2:文本
+speaker1:teksti
+speaker2:pieni kirjain
+speaker1:小写字母
+speaker2:pieni kirjain
+speaker1:iso kirjain
+speaker2:大写字母
+speaker1:iso kirjain
+speaker2:aurinko
+speaker1:太阳
+speaker2:aurinko
+speaker1:omena
+speaker2:苹果
+speaker1:omena
+speaker2:appelsiini
+speaker1:橙子
+speaker2:appelsiini
+speaker1:avain
+speaker2:钥匙
+speaker1:avain
+speaker2:lyhyt
+speaker1:短
+speaker2:lyhyt
+speaker1:pitkä
+speaker2:长
+speaker1:pitkä
+speaker2:saari
+speaker1:岛
+speaker2:saari
+speaker1:ikkuna
+speaker2:窗户
+speaker1:ikkuna
+speaker2:imuri
+speaker1:吸尘器
+speaker2:imuri
+speaker1:iloinen
+speaker2:开心
+speaker1:iloinen
+speaker2:tavuviiva
+speaker1:连字符
+speaker2:tavuviiva
+speaker1:siima
+speaker2:鱼线
+speaker1:siima
+speaker2:uida
+speaker1:游泳
+speaker2:uida
+speaker1:uimahalli
+speaker2:游泳馆
+speaker1:uimahalli
+speaker2:uuni
+speaker1:烤箱
+speaker2:uuni
+speaker1:kysymys
+speaker2:问题
+speaker1:kysymys
+speaker2:vastaus
+speaker1:回答
+speaker2:vastaus
+speaker1:vihko
+speaker2:笔记本
+speaker1:vihko
+speaker2:paperi
+speaker1:纸
+speaker2:paperi
+speaker1:terotin
+speaker2:卷笔刀
+speaker1:terotin
+speaker2:kansio
+speaker1:文件夹
+speaker2:kansio
+speaker1:kirja
+speaker2:书
+speaker1:kirja
+speaker2:tuoli
+speaker1:椅子
+speaker2:tuoli
+speaker1:pulpetti
+speaker2:课桌
+speaker1:pulpetti
+speaker2:koulupöytä
+speaker1:课桌 (同义词)
+speaker2:koulupöytä
+speaker1:Odota!
+speaker2:等等！
+speaker1:Odota!
+speaker2:Aloitetaan!
+speaker1:让我们开始吧！
+speaker2:Aloitetaan!
+speaker1:Testataan video ja ääni.
+speaker2:我们来测试视频和声音。
+speaker1:Testataan video ja ääni.
+speaker2:Laita kamera päälle.
+speaker1:打开摄像头。
+speaker2:Laita kamera päälle.
+speaker1:Hyvää huomenta!
+speaker2:早上好！
+speaker1:Hyvää huomenta!
+speaker2:Tervetuloa Suomea etänä -kurssille!
+speaker1:欢迎来到远程芬兰语课程！
+speaker2:Tervetuloa Suomea etänä -kurssille!
+speaker1:Minä olen opettaja.
+speaker2:我是老师。
+speaker1:Minä olen opettaja.
+speaker2:Kuka sinä olet?
+speaker1:你是谁？
+speaker2:Kuka sinä olet?
+speaker1:Minkä maalainen sinä olet?
+speaker2:你是哪个国家的人？
+speaker1:Minkä maalainen sinä olet?
+speaker2:Mitä kieltä sinä puhut?
+speaker1:你说什么语言？
+speaker2:Mitä kieltä sinä puhut?
+speaker1:Minä puhun suomea, englantia ja vähän ruotsia.
+speaker2:我说芬兰语、英语和一点点瑞典语。
+speaker1:Minä puhun suomea, englantia ja vähän ruotsia.
+speaker2:Mistä sinä olet kotoisin?
+speaker1:你来自哪里？
+speaker2:Mistä sinä olet kotoisin?
+speaker1:Minä olen Filippiineiltä.
+speaker2:我来自菲律宾。
+speaker1:Minä olen Filippiineiltä.
+speaker2:Kuka hän on?
+speaker1:他/她是谁？
+speaker2:Kuka hän on?
+speaker1:Kirjoitetaan vihkoon!
+speaker2:（我们）写在笔记本上！
+speaker1:Kirjoitetaan vihkoon!
+speaker2:Harjoitellaan!
+speaker1:我们来练习吧！
+speaker2:Harjoitellaan!
+speaker1:Mikä tämä on?
+speaker2:这是什么？
+speaker1:Mikä tämä on?
+speaker2:Tänään oli paljon asiaa.
+speaker1:今天内容很多。
+speaker2:Tänään oli paljon asiaa.
+speaker1:Älä stressaa, jos et ymmärrä vielä kaikkea.
+speaker2:如果你还没有理解全部内容，不要有压力。
+speaker1:Älä stressaa, jos et ymmärrä vielä kaikkea.
+speaker2:Onko kysymyksiä?
+speaker1:有问题吗？
+speaker2:Onko kysymyksiä?
+speaker1:Jatketaan huomenna kello 9.00!
+speaker2:我们明天9点整继续！
+speaker1:Jatketaan huomenna kello 9.00!
+speaker2:Kiitos paljon tästä päivästä!
+speaker1:非常感谢今天！
+speaker2:Kiitos paljon tästä päivästä!
+speaker1:Minä olen...
+speaker2:我是...
+speaker1:Minä olen...
+speaker2:Hän on...
+speaker1:他/她是...
+speaker2:Hän on...
+speaker1:Hän on Suomen presidentti.
+speaker2:他是芬兰总统。
+speaker1:Hän on Suomen presidentti.
+speaker2:Minä puhun suomea, englantia ja ruotsia.
+speaker1:我说芬兰语、英语和瑞典语。
+speaker2:Minä puhun suomea, englantia ja ruotsia.
+speaker1:Minun kotimaa on Suomi.
+speaker2:我的祖国是芬兰。
+speaker1:Minun kotimaa on Suomi.
+speaker2:Kuka?
+speaker1:谁？
+speaker2:Kuka?
+speaker1:Auto on sininen.
+speaker2:车是蓝色的。
+speaker1:Auto on sininen.
+speaker2:Kuinka monta?
+speaker1:多少？
+speaker2:Kuinka monta?
+speaker1:Se on...
+speaker2:它是...
+speaker1:Se on...

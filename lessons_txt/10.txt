@@ -1,0 +1,177 @@
+speaker1:nimipäivä
+speaker2:命名日
+speaker1:nimipäivä
+speaker2:asteet
+speaker1:度 (温度)
+speaker2:asteet
+speaker1:toisen asteen koulutus
+speaker2:第二级教育 (职业学校/高中)
+speaker1:toisen asteen koulutus
+speaker2:toinen aste
+speaker1:第二级
+speaker2:toinen aste
+speaker1:sanelu
+speaker2:听写
+speaker1:sanelu
+speaker2:I = “ii”
+speaker1:I = “ii”
+speaker2:I = “ii”
+speaker1:J = “jii”
+speaker2:J = “jii”
+speaker1:J = “jii”
+speaker2:Q = “kuu”
+speaker1:Q = “kuu”
+speaker2:Q = “kuu”
+speaker1:vokaali
+speaker2:元音
+speaker1:vokaali
+speaker2:konsonantti
+speaker1:辅音
+speaker2:konsonantti
+speaker1:delfiini
+speaker2:海豚
+speaker1:delfiini
+speaker2:sydän
+speaker1:心脏
+speaker2:sydän
+speaker1:addikti
+speaker2:上瘾者
+speaker1:addikti
+speaker2:addiktio
+speaker1:成瘾
+speaker2:addiktio
+speaker1:gaselli
+speaker2:瞪羚
+speaker1:gaselli
+speaker2:gorilla
+speaker1:大猩猩
+speaker2:gorilla
+speaker1:mango
+speaker2:芒果
+speaker1:mango
+speaker2:grilli
+speaker1:烧烤架
+speaker2:grilli
+speaker1:greippi
+speaker2:葡萄柚
+speaker1:greippi
+speaker2:saaga
+speaker1:传说
+speaker2:saaga
+speaker1:magneettinen
+speaker2:磁性的
+speaker1:magneettinen
+speaker2:äng-äänne
+speaker1:ng音
+speaker2:äng-äänne
+speaker1:kenkä
+speaker2:鞋子
+speaker1:kenkä
+speaker2:kengät
+speaker1:鞋子 (复数)
+speaker2:kengät
+speaker1:tanko
+speaker2:杆
+speaker1:tanko
+speaker2:tangot
+speaker1:杆 (复数)
+speaker2:tangot
+speaker1:englanti
+speaker2:英语
+speaker1:englanti
+speaker2:rapu
+speaker1:小龙虾, 螃蟹
+speaker2:rapu
+speaker1:lakki
+speaker2:帽子
+speaker1:lakki
+speaker2:jääkaappi
+speaker1:冰箱
+speaker2:jääkaappi
+speaker1:veitsi
+speaker2:刀
+speaker1:veitsi
+speaker2:hakata
+speaker1:砍
+speaker2:hakata
+speaker1:hylly
+speaker2:架子
+speaker1:hylly
+speaker2:kysymysmerkki
+speaker1:问号
+speaker2:kysymysmerkki
+speaker1:tarina
+speaker2:故事
+speaker1:tarina
+speaker2:vaille
+speaker1:差
+speaker2:vaille
+speaker1:kyllä
+speaker2:是
+speaker1:kyllä
+speaker2:Huomenna on minun pojan nimipäivä. Minun pojan nimi on Eemil.
+speaker1:明天是我儿子的命名日。我儿子的名字是Eemil。
+speaker2:Huomenna on minun pojan nimipäivä. Minun pojan nimi on Eemil.
+speaker1:Hyvää nimipäivää!
+speaker2:命名日快乐！
+speaker1:Hyvää nimipäivää!
+speaker2:Aurinko paistaa ja on kuuma.
+speaker1:阳光明媚而且天气炎热。
+speaker2:Aurinko paistaa ja on kuuma.
+speaker1:On kylmä ja sataa lunta.
+speaker2:天气寒冷并且在下雪。
+speaker1:On kylmä ja sataa lunta.
+speaker2:On pilvistä ja kylmä.
+speaker1:多云而且寒冷。
+speaker2:On pilvistä ja kylmä.
+speaker1:Katsotaan säätietoja.
+speaker2:我们来看天气预报。
+speaker1:Katsotaan säätietoja.
+speaker2:Kuinka monta astetta ulkona on?
+speaker1:外面多少度？
+speaker2:Kuinka monta astetta ulkona on?
+speaker1:Ulkona on +17 astetta.
+speaker2:外面零上17度。
+speaker1:Ulkona on +17 astetta.
+speaker2:Kuinka monta astetta sisällä on?
+speaker1:室内多少度？
+speaker2:Kuinka monta astetta sisällä on?
+speaker1:En tiedä.
+speaker2:我不知道。
+speaker1:En tiedä.
+speaker2:Sisällä on +21 astetta.
+speaker1:室内零上21度。
+speaker2:Sisällä on +21 astetta.
+speaker1:Kuinka monta astetta siellä on?
+speaker2:那里多少度？
+speaker1:Kuinka monta astetta siellä on?
+speaker2:Täällä on +12 astetta.
+speaker1:这里零上12度。
+speaker2:Täällä on +12 astetta.
+speaker1:e > ö (vain huulet muuttuvat, kieli pysyy paikallaan)
+speaker2:e > ö (只有嘴唇变化，舌头保持不动)
+speaker1:e > ö (vain huulet muuttuvat, kieli pysyy paikallaan)
+speaker2:Miten se kirjoitetaan?
+speaker1:这个怎么写？
+speaker2:Miten se kirjoitetaan?
+speaker1:Miten sinun etunimi kirjoitetaan?
+speaker2:你的名字怎么拼写？
+speaker1:Miten sinun etunimi kirjoitetaan?
+speaker2:Z = tset / tseta
+speaker1:Z = tset / tseta
+speaker2:Z = tset / tseta
+speaker1:KOTITEHTÄVÄT: Lue vihko (myös vanhat asiat)! Katso videot! Opettele sanoja! Lepää!
+speaker2:家庭作业：读笔记本（也包括旧内容）！看视频！学习单词！休息！
+speaker1:KOTITEHTÄVÄT: Lue vihko (myös vanhat asiat)! Katso videot! Opettele sanoja! Lepää!
+speaker2:Kiitos tästä viikosta! Hyvää viikonloppua! Nähdään maanantaina tasan kello 9.00!
+speaker1:感谢本周！周末愉快！我们周一上午9点整见！
+speaker2:Kiitos tästä viikosta! Hyvää viikonloppua! Nähdään maanantaina tasan kello 9.00!
+speaker1:Kieli on samassa paikassa, mutta suun asento muuttuu.
+speaker2:舌头在同一个位置，但嘴的姿势改变了。
+speaker1:Kieli on samassa paikassa, mutta suun asento muuttuu.
+speaker2:Ylihuomenna on sunnuntai.
+speaker1:后天是星期天。
+speaker2:Ylihuomenna on sunnuntai.
+speaker1:Miten sinun nimi kirjoitetaan?
+speaker2:你的名字怎么写？
+speaker1:Miten sinun nimi kirjoitetaan?

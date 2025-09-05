@@ -1,0 +1,387 @@
+speaker1:toinen
+speaker2:第二
+speaker1:toinen
+speaker2:minäkin
+speaker1:我也
+speaker2:minäkin
+speaker1:koiranpentu
+speaker2:小狗
+speaker1:koiranpentu
+speaker2:vuosi
+speaker1:年
+speaker2:vuosi
+speaker1:kuukausi
+speaker2:月
+speaker1:kuukausi
+speaker2:sanatyypit
+speaker1:词类
+speaker2:sanatyypit
+speaker1:sisällä
+speaker2:在里面
+speaker1:sisällä
+speaker2:luona
+speaker1:在...家
+speaker2:luona
+speaker1:aurinko paistaa
+speaker2:太阳照耀
+speaker1:aurinko paistaa
+speaker2:täti
+speaker1:姑妈，姨妈
+speaker2:täti
+speaker1:serkku
+speaker2:堂/表兄弟姐妹
+speaker1:serkku
+speaker2:anoppi
+speaker1:岳母/婆婆
+speaker2:anoppi
+speaker1:appi / appiukko
+speaker2:岳父/公公
+speaker1:appi / appiukko
+speaker2:lumiukko
+speaker1:雪人
+speaker2:lumiukko
+speaker1:tytär
+speaker2:女儿
+speaker1:tytär
+speaker2:mummo
+speaker1:奶奶
+speaker2:mummo
+speaker1:eno
+speaker2:舅舅
+speaker1:eno
+speaker2:setä
+speaker1:叔叔/伯伯
+speaker2:setä
+speaker1:taapero
+speaker2:幼儿
+speaker1:taapero
+speaker2:ohje
+speaker1:指示
+speaker2:ohje
+speaker1:käsky
+speaker2:命令
+speaker1:käsky
+speaker2:neuvo
+speaker1:建议
+speaker2:neuvo
+speaker1:imperatiivi
+speaker2:祈使语气
+speaker1:imperatiivi
+speaker2:tänne
+speaker1:到这里
+speaker2:tänne
+speaker1:harjoitellaan
+speaker2:我们来练习
+speaker1:harjoitellaan
+speaker2:ongelma
+speaker1:问题
+speaker2:ongelma
+speaker1:pää kipeä
+speaker2:头疼
+speaker1:pää kipeä
+speaker2:apteekki
+speaker1:药店
+speaker2:apteekki
+speaker1:särkylääke
+speaker2:止痛药
+speaker1:särkylääke
+speaker2:burana
+speaker1:布洛芬
+speaker2:burana
+speaker1:panadol
+speaker2:扑热息痛
+speaker1:panadol
+speaker2:lepo
+speaker1:休息
+speaker2:lepo
+speaker1:päivystys
+speaker2:急诊
+speaker1:päivystys
+speaker2:kahvihammas
+speaker1:想喝咖啡
+speaker2:kahvihammas
+speaker1:kahvila
+speaker2:咖啡馆
+speaker1:kahvila
+speaker2:uusi passi
+speaker1:新护照
+speaker2:uusi passi
+speaker1:poliisiasema
+speaker2:警察局
+speaker1:poliisiasema
+speaker2:nälkä
+speaker1:饥饿
+speaker2:nälkä
+speaker1:ravintola
+speaker2:餐馆
+speaker1:ravintola
+speaker2:ruoka
+speaker1:食物
+speaker2:ruoka
+speaker1:jääkaappi
+speaker2:冰箱
+speaker1:jääkaappi
+speaker2:tyhjä
+speaker1:空的
+speaker2:tyhjä
+speaker1:tori
+speaker2:市场
+speaker1:tori
+speaker2:kauppa
+speaker1:商店
+speaker2:kauppa
+speaker1:naapuri
+speaker2:邻居
+speaker1:naapuri
+speaker2:väsynyt
+speaker1:累
+speaker2:väsynyt
+speaker1:sänky
+speaker2:床
+speaker1:sänky
+speaker2:energiajuoma
+speaker1:能量饮料
+speaker2:energiajuoma
+speaker1:käteinen raha
+speaker2:现金
+speaker1:käteinen raha
+speaker2:pankki
+speaker1:银行
+speaker2:pankki
+speaker1:automaatti
+speaker2:自动取款机
+speaker1:automaatti
+speaker2:konsonantti
+speaker1:辅音
+speaker2:konsonantti
+speaker1:Tule tänne!
+speaker2:到这里来！
+speaker1:Tule tänne!
+speaker2:Minä tulen.
+speaker1:我来。
+speaker2:Minä tulen.
+speaker1:Tule kotiin!
+speaker2:回家！
+speaker1:Tule kotiin!
+speaker2:Minä tulen kotiin.
+speaker1:我回家。
+speaker2:Minä tulen kotiin.
+speaker1:Tule kirjastoon!
+speaker2:去图书馆！
+speaker1:Tule kirjastoon!
+speaker2:Minä tulen kirjastoon.
+speaker1:我去图书馆。
+speaker2:Minä tulen kirjastoon.
+speaker1:Tule kahvilaan!
+speaker2:去咖啡馆！
+speaker1:Tule kahvilaan!
+speaker2:Minä tulen kahvilaan.
+speaker1:我去咖啡馆。
+speaker2:Minä tulen kahvilaan.
+speaker1:Mene kouluun!
+speaker2:去学校！
+speaker1:Mene kouluun!
+speaker2:Minä menen kouluun.
+speaker1:我去学校。
+speaker2:Minä menen kouluun.
+speaker1:Mene kauppaan!
+speaker2:去商店！
+speaker1:Mene kauppaan!
+speaker2:Minä menen kauppaan.
+speaker1:我去商店。
+speaker2:Minä menen kauppaan.
+speaker1:Mene lääkäriin!
+speaker2:去看医生！
+speaker1:Mene lääkäriin!
+speaker2:Minä menen lääkäriin.
+speaker1:我去看医生。
+speaker2:Minä menen lääkäriin.
+speaker1:Mene pankkiin!
+speaker2:去银行！
+speaker1:Mene pankkiin!
+speaker2:Minä menen pankkiin.
+speaker1:我去银行。
+speaker2:Minä menen pankkiin.
+speaker1:Tule Helsinkiin!
+speaker2:来赫尔辛基！
+speaker1:Tule Helsinkiin!
+speaker2:Tule Suomeen!
+speaker1:来芬兰！
+speaker2:Tule Suomeen!
+speaker1:Minä tulen Suomeen.
+speaker2:我来芬兰。
+speaker1:Minä tulen Suomeen.
+speaker2:Mene Vaasaan!
+speaker1:去瓦萨！
+speaker2:Mene Vaasaan!
+speaker1:Minä menen Vaasaan.
+speaker2:我去瓦萨。
+speaker1:Minä menen Vaasaan.
+speaker2:Mene Helsinkiin!
+speaker1:去赫尔辛基！
+speaker2:Mene Helsinkiin!
+speaker1:Minä menen Helsinkiin.
+speaker2:我去赫尔辛基。
+speaker1:Minä menen Helsinkiin.
+speaker2:Mene Raumalle!
+speaker1:去劳马！
+speaker2:Mene Raumalle!
+speaker1:Minä menen Raumalle.
+speaker2:我去劳马。
+speaker1:Minä menen Raumalle.
+speaker2:Tule kurssille!
+speaker1:来上课！
+speaker2:Tule kurssille!
+speaker1:Minä tulen kurssille.
+speaker2:我来上课。
+speaker1:Minä tulen kurssille.
+speaker2:Mene kurssille!
+speaker1:去上课！
+speaker2:Mene kurssille!
+speaker1:Minä menen kurssille.
+speaker2:我去上课。
+speaker1:Minä menen kurssille.
+speaker2:Minulla on pää kipeä.
+speaker1:我头疼。
+speaker2:Minulla on pää kipeä.
+speaker1:Olen todella sairas.
+speaker2:我病得很重。
+speaker1:Olen todella sairas.
+speaker2:Mene apteekkiin!
+speaker1:去药店！
+speaker2:Mene apteekkiin!
+speaker1:Ota särkylääke!
+speaker2:吃止痛药！
+speaker1:Ota särkylääke!
+speaker2:Juo C-vitamiini-vettä!
+speaker1:喝维生素C水！
+speaker2:Juo C-vitamiini-vettä!
+speaker1:Lepää!
+speaker2:休息！
+speaker1:Lepää!
+speaker2:Mene nukkumaan!
+speaker1:去睡觉！
+speaker2:Mene nukkumaan!
+speaker1:Mene päivystykseen!
+speaker2:去急诊！
+speaker1:Mene päivystykseen!
+speaker2:Minä haluan kahvia.
+speaker1:我想要咖啡。
+speaker2:Minä haluan kahvia.
+speaker1:Keitä kahvia!
+speaker2:煮咖啡！
+speaker1:Keitä kahvia!
+speaker2:Mene kahville!
+speaker1:去喝咖啡！
+speaker2:Mene kahville!
+speaker1:Mene kahvilaan!
+speaker2:去咖啡馆！
+speaker1:Mene kahvilaan!
+speaker2:Minä tarvitsen uuden passin.
+speaker1:我需要一本新护照。
+speaker2:Minä tarvitsen uuden passin.
+speaker1:Mene poliisiasemalle!
+speaker2:去警察局！
+speaker1:Mene poliisiasemalle!
+speaker2:Minulla on nälkä!
+speaker1:我饿了！
+speaker2:Minulla on nälkä!
+speaker1:Mene ravintolaan!
+speaker2:去餐馆！
+speaker1:Mene ravintolaan!
+speaker2:Tee ruokaa!
+speaker1:做饭！
+speaker2:Tee ruokaa!
+speaker1:Laita ruokaa!
+speaker2:做饭！
+speaker1:Laita ruokaa!
+speaker2:Syö!
+speaker1:吃！
+speaker2:Syö!
+speaker1:Jääkaappi on tyhjä.
+speaker2:冰箱是空的。
+speaker1:Jääkaappi on tyhjä.
+speaker2:Mene torille!
+speaker1:去市场！
+speaker2:Mene torille!
+speaker1:Osta ruokaa!
+speaker2:买食物！
+speaker1:Osta ruokaa!
+speaker2:Mene naapuriin!
+speaker1:去邻居家！
+speaker2:Mene naapuriin!
+speaker1:Minä olen väsynyt.
+speaker2:我累了。
+speaker1:Minä olen väsynyt.
+speaker2:Mene sänkyyn!
+speaker1:上床睡觉！
+speaker2:Mene sänkyyn!
+speaker1:Juo kahvia/teetä/energiajuomaa!
+speaker2:喝咖啡/茶/能量饮料！
+speaker1:Juo kahvia/teetä/energiajuomaa!
+speaker2:Minulla ei ole käteistä.
+speaker1:我没有现金。
+speaker2:Minulla ei ole käteistä.
+speaker1:Mene pankkiin!
+speaker2:去银行！
+speaker1:Mene pankkiin!
+speaker2:Mene automaatille!
+speaker1:去自动取款机！
+speaker2:Mene automaatille!
+speaker1:Nosta rahaa!
+speaker2:取钱！
+speaker1:Nosta rahaa!
+speaker2:Missä sinun äiti ja isä asuvat?
+speaker1:你父母住在哪里？
+speaker2:Missä sinun äiti ja isä asuvat?
+speaker1:He asuvat Brasiliassa.
+speaker2:他们住在巴西。
+speaker1:He asuvat Brasiliassa.
+speaker2:Missä sinun pikkuveli asuu?
+speaker1:你弟弟住在哪里？
+speaker2:Missä sinun pikkuveli asuu?
+speaker1:Hän asuu Nepalissa.
+speaker2:他住在尼泊尔。
+speaker1:Hän asuu Nepalissa.
+speaker2:Kuinka monta vuotta sinun poika on?
+speaker1:你儿子几岁了？
+speaker2:Kuinka monta vuotta sinun poika on?
+speaker1:Poika on 20 vuotta.
+speaker2:儿子20岁了。
+speaker1:Poika on 20 vuotta.
+speaker2:Kuinka vanha sinun tyttö on?
+speaker1:你女儿多大了？
+speaker2:Kuinka vanha sinun tyttö on?
+speaker1:Hän on seitsemän kuukautta.
+speaker2:她七个月了。
+speaker1:Hän on seitsemän kuukautta.
+speaker2:Missä sinun isoveli asuu?
+speaker1:你哥哥住在哪里？
+speaker2:Missä sinun isoveli asuu?
+speaker1:Hän asuu Sri Lankassa.
+speaker2:他住在斯里兰卡。
+speaker1:Hän asuu Sri Lankassa.
+speaker2:Missä sinun vanhemmat asuvat?
+speaker1:你父母住在哪里？
+speaker2:Missä sinun vanhemmat asuvat?
+speaker1:He asuvat Egyptissä.
+speaker2:他们住在埃及。
+speaker1:He asuvat Egyptissä.
+speaker2:Kuinka vanha sinun tytär on?
+speaker1:你女儿多大了？
+speaker2:Kuinka vanha sinun tytär on?
+speaker1:Minun tytär on viisi.
+speaker2:我女儿五岁。
+speaker1:Minun tytär on viisi.
+speaker2:Minä asun Raumalla, mutta nyt olen Jyväskylässä minun äidin luona.
+speaker1:我住在劳马，但现在我在于韦斯屈莱我妈妈家。
+speaker2:Minä asun Raumalla, mutta nyt olen Jyväskylässä minun äidin luona.
+speaker1:Kuinka vanha hän on?
+speaker2:他多大了？
+speaker1:Kuinka vanha hän on?
+speaker2:Hän on 20 vuotta.
+speaker1:他20岁了。
+speaker2:Hän on 20 vuotta.
+speaker1:KOTITEHTÄVÄT: Lue vihko! Katso videot! Opettele sanoja (myös vanhat)!
+speaker2:作业：读笔记本！看视频！学习单词（也包括旧的）！
+speaker1:KOTITEHTÄVÄT: Lue vihko! Katso videot! Opettele sanoja (myös vanhat)!

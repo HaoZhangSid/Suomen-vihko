@@ -1,0 +1,269 @@
+{
+    "day": "torstai 4. syyskuuta 2025",
+    "entries": [
+        {
+            "finnish": "neljäs",
+            "chinese": "第四"
+        },
+        {
+            "finnish": "kielikorva",
+            "chinese": "语感"
+        },
+        {
+            "finnish": "diftongi",
+            "chinese": "双元音"
+        },
+        {
+            "finnish": "sanelu",
+            "chinese": "听写"
+        },
+        {
+            "finnish": "yhdistelmä",
+            "chinese": "组合"
+        },
+        {
+            "finnish": "tavu",
+            "chinese": "音节"
+        },
+        {
+            "finnish": "vuosi",
+            "chinese": "年"
+        },
+        {
+            "finnish": "vuodenajat",
+            "chinese": "季节"
+        },
+        {
+            "finnish": "kuukaudet",
+            "chinese": "月份"
+        },
+        {
+            "finnish": "syntymäaika",
+            "chinese": "出生日期"
+        },
+        {
+            "finnish": "aamu",
+            "chinese": "早晨"
+        },
+        {
+            "finnish": "aamulla",
+            "chinese": "在早上"
+        },
+        {
+            "finnish": "päivä",
+            "chinese": "白天"
+        },
+        {
+            "finnish": "päivällä",
+            "chinese": "在白天"
+        },
+        {
+            "finnish": "ilta",
+            "chinese": "晚上"
+        },
+        {
+            "finnish": "illalla",
+            "chinese": "在晚上"
+        },
+        {
+            "finnish": "yö",
+            "chinese": "夜晚"
+        },
+        {
+            "finnish": "yöllä",
+            "chinese": "在夜晚"
+        },
+        {
+            "finnish": "talvi",
+            "chinese": "冬天"
+        },
+        {
+            "finnish": "talvella",
+            "chinese": "在冬天"
+        },
+        {
+            "finnish": "kevät",
+            "chinese": "春天"
+        },
+        {
+            "finnish": "keväällä",
+            "chinese": "在春天"
+        },
+        {
+            "finnish": "kesä",
+            "chinese": "夏天"
+        },
+        {
+            "finnish": "kesällä",
+            "chinese": "在夏天"
+        },
+        {
+            "finnish": "syksy",
+            "chinese": "秋天"
+        },
+        {
+            "finnish": "syksyllä",
+            "chinese": "在秋天"
+        },
+        {
+            "finnish": "tammikuu",
+            "chinese": "一月"
+        },
+        {
+            "finnish": "helmikuu",
+            "chinese": "二月"
+        },
+        {
+            "finnish": "maaliskuu",
+            "chinese": "三月"
+        },
+        {
+            "finnish": "huhtikuu",
+            "chinese": "四月"
+        },
+        {
+            "finnish": "toukokuu",
+            "chinese": "五月"
+        },
+        {
+            "finnish": "kesäkuu",
+            "chinese": "六月"
+        },
+        {
+            "finnish": "heinäkuu",
+            "chinese": "七月"
+        },
+        {
+            "finnish": "elokuu",
+            "chinese": "八月"
+        },
+        {
+            "finnish": "syyskuu",
+            "chinese": "九月"
+        },
+        {
+            "finnish": "lokakuu",
+            "chinese": "十月"
+        },
+        {
+            "finnish": "marraskuu",
+            "chinese": "十一月"
+        },
+        {
+            "finnish": "joulukuu",
+            "chinese": "十二月"
+        },
+        {
+            "finnish": "Milloin sinä opiskelet?",
+            "chinese": "你什么时候学习？"
+        },
+        {
+            "finnish": "Minä opiskelen aamulla.",
+            "chinese": "我早上学习。"
+        },
+        {
+            "finnish": "Milloin sinä olet töissä?",
+            "chinese": "你什么时候上班？"
+        },
+        {
+            "finnish": "Minä olen töissä päivällä.",
+            "chinese": "我白天上班。"
+        },
+        {
+            "finnish": "Milloin sinä katsot televisiota?",
+            "chinese": "你什么时候看电视？"
+        },
+        {
+            "finnish": "Minä katson televisiota illalla.",
+            "chinese": "我晚上看电视。"
+        },
+        {
+            "finnish": "Milloin sinä nukut?",
+            "chinese": "你什么时候睡觉？"
+        },
+        {
+            "finnish": "Minä nukun yöllä.",
+            "chinese": "我晚上睡觉。"
+        },
+        {
+            "finnish": "Milloin sinä syöt?",
+            "chinese": "你什么时候吃饭？"
+        },
+        {
+            "finnish": "Minä syön päivällä ja illalla.",
+            "chinese": "我白天和晚上吃饭。"
+        },
+        {
+            "finnish": "Milloin kurssi loppuu?",
+            "chinese": "课程什么时候结束？"
+        },
+        {
+            "finnish": "Kurssi loppuu keväällä.",
+            "chinese": "课程在春天结束。"
+        },
+        {
+            "finnish": "Kurssi loppuu toukokuussa.",
+            "chinese": "课程在五月结束。"
+        },
+        {
+            "finnish": "Kurssi loppuu perjantaina 22. toukokuuta.",
+            "chinese": "课程在5月22日星期五结束。"
+        },
+        {
+            "finnish": "Minä olen syntynyt keväällä.",
+            "chinese": "我出生在春天。"
+        },
+        {
+            "finnish": "Tämä on vuosi.",
+            "chinese": "这是年份。"
+        },
+        {
+            "finnish": "Nyt on kevät.",
+            "chinese": "现在是春天。"
+        },
+        {
+            "finnish": "Nyt on kesä.",
+            "chinese": "现在是夏天。"
+        },
+        {
+            "finnish": "Nyt on syksy.",
+            "chinese": "现在是秋天。"
+        },
+        {
+            "finnish": "Nyt on talvi.",
+            "chinese": "现在是冬天。"
+        },
+        {
+            "finnish": "Mikä kuukausi nyt on?",
+            "chinese": "现在是几月？"
+        },
+        {
+            "finnish": "Nyt on syyskuu.",
+            "chinese": "现在是九月。"
+        },
+        {
+            "finnish": "Milloin sinä olet syntynyt?",
+            "chinese": "你是什麽时候出生的？"
+        },
+        {
+            "finnish": "Minä olen syntynyt talvella.",
+            "chinese": "我出生在冬天。"
+        },
+        {
+            "finnish": "Minä olen syntynyt helmikuussa.",
+            "chinese": "我出生在二月。"
+        },
+        {
+            "finnish": "Minä olen syntynyt 25. helmikuuta 1986.",
+            "chinese": "我出生于1986年2月25日。"
+        },
+        {
+            "finnish": "Milloin sinulla on syntymäpäivä?",
+            "chinese": "你的生日是什么时候？"
+        },
+        {
+            "finnish": "Minulla on syntymäpäivä 25. helmikuuta.",
+            "chinese": "我的生日是2月25日。"
+        }
+    ]
+}

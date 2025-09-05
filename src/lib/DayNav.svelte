@@ -2,18 +2,19 @@
     import { lessons, currentLessonIndex, loadLessonData } from '../store.js';
 
     function selectDay(index) {
-        // Don't reload if the same day is clicked
         if (index === $currentLessonIndex) return;
         loadLessonData(index);
     }
 </script>
 
-<nav class="days-nav">
+<nav class="flex items-center gap-2 overflow-x-auto pb-2">
     {#if $lessons.length > 0}
         {#each $lessons as lesson, index}
             <button
-                class="day-btn"
-                class:active={index === $currentLessonIndex}
+                class="shrink-0 px-3 py-1.5 rounded-full border text-sm transition-colors
+                       border-slate-300 text-slate-700 bg-white hover:bg-slate-50
+                       data-[active=true]:bg-slate-900 data-[active=true]:text-white data-[active=true]:border-slate-900"
+                data-active={index === $currentLessonIndex}
                 on:click={() => selectDay(index)}
             >
                 Day {index + 1}
@@ -23,34 +24,5 @@
 </nav>
 
 <style>
-    .days-nav {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        margin-bottom: 20px;
-        padding-bottom: 20px;
-        border-bottom: 1px solid #eee;
-    }
-
-    .day-btn {
-        padding: 8px 15px;
-        border: 1px solid #ccc;
-        background-color: #fff;
-        color: #337ab7;
-        cursor: pointer;
-        border-radius: 20px;
-        transition: all 0.2s ease;
-    }
-
-    .day-btn:hover {
-        background-color: #f0f0f0;
-        border-color: #aaa;
-    }
-
-    .day-btn.active {
-        background-color: #337ab7;
-        color: white;
-        border-color: #337ab7;
-        font-weight: bold;
-    }
+  /* no scoped css; Tailwind utilities above */
 </style>

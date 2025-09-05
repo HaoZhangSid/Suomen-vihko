@@ -1,0 +1,285 @@
+Kysymykset ja Vastaukset Suomen Oppitunneista
+==============================================
+
+1. Kysymys: Anteeksi, voisitko toistaa?
+   Vastaus: toistaa
+
+2. Kysymys: Anteeksi, voitko toistaa?
+   Vastaus: toistaa
+
+3. Kysymys: Entä muuta? / Tuleeko muuta?
+   Vastaus: Ei muuta, kiitos.
+
+4. Kysymys: Haluatko mustaa vai vihreää teetä?
+   Vastaus: Juon teetä.
+
+5. Kysymys: Kuinka monta astetta siellä on?
+   Vastaus: Täällä on +12 astetta.
+
+6. Kysymys: Kuinka monta astetta sisällä on?
+   Vastaus: Sisällä on +21 astetta.
+
+7. Kysymys: Kuinka monta astetta ulkona on?
+   Vastaus: Ulkona on +17 astetta.
+
+8. Kysymys: Kuinka monta?
+   Vastaus: monta
+
+9. Kysymys: Kuka hän on?
+   Vastaus: Hän on kotona.
+
+10. Kysymys: Kuka sinä olet?
+   Vastaus: Minä olen...
+
+11. Kysymys: Kuka?
+   Vastaus: Vastausta ei löytynyt.
+
+12. Kysymys: Mihin aikaan herätys on?
+   Vastaus: Herätys on seitsemän.
+
+13. Kysymys: Mihin aikaan koulu loppuu?
+   Vastaus: Koulu loppuu kello yksi.
+
+14. Kysymys: Mihin aikaan sinä yleensä heräät?
+   Vastaus: yleensä
+
+15. Kysymys: Mikä on sinun koko nimi?
+   Vastaus: koko nimi
+
+16. Kysymys: Mikä päivä eilen oli?
+   Vastaus: Eilen oli keskiviikko.
+
+17. Kysymys: Mikä päivä huomenna on?
+   Vastaus: Huomenna on puolipilvistä.
+
+18. Kysymys: Mikä päivä toissa päivänä oli?
+   Vastaus: Toissa päivänä oli tiistai.
+
+19. Kysymys: Mikä päivä tänään on?
+   Vastaus: Tänään on keskiviikko 20. elokuuta 2025.
+
+20. Kysymys: Mikä päivä ylihuomenna on?
+   Vastaus: Ylihuomenna on sunnuntai.
+
+21. Kysymys: Mikä tämä on?
+   Vastaus: Se on...
+
+22. Kysymys: Mikä?
+   Vastaus: Vastausta ei löytynyt.
+
+23. Kysymys: Millainen ilma on?
+   Vastaus: Täällä on hieno ilma.
+
+24. Kysymys: Millainen sää Oulussa on?
+   Vastaus: Oulussa on pilvistä.
+
+25. Kysymys: Millainen sää Raumalla on?
+   Vastaus: Raumalla on pilvistä ja ukkonen.
+
+26. Kysymys: Millainen sää eilen oli?
+   Vastaus: Eilen oli keskiviikko.
+
+27. Kysymys: Millainen sää huomenna on?
+   Vastaus: Huomenna on puolipilvistä.
+
+28. Kysymys: Millainen sää lauantaina oli?
+   Vastaus: Lauantaina oli pilvistä.
+
+29. Kysymys: Millainen sää lauantaina on?
+   Vastaus: Lauantaina on pilvistä.
+
+30. Kysymys: Millainen sää on?
+   Vastaus: Hänellä on sininen takki.
+
+31. Kysymys: Millainen sää siellä on?
+   Vastaus: Hänellä on sininen takki.
+
+32. Kysymys: Millainen sää toissa päivänä oli?
+   Vastaus: Toissa päivänä oli tiistai.
+
+33. Kysymys: Millainen sää tänään on?
+   Vastaus: Tänään on keskiviikko 20. elokuuta 2025.
+
+34. Kysymys: Millainen sää ylihuomenna on?
+   Vastaus: Ylihuomenna on sunnuntai.
+
+35. Kysymys: Milloin sinä menet kauppaan?
+   Vastaus: Yleensä minä menen kauppaan autolla.
+
+36. Kysymys: Milloin sinä menet kirjastoon?
+   Vastaus: sinä
+
+37. Kysymys: Milloin sinä menet puistoon?
+   Vastaus: Minä menen puistoon pyörällä.
+
+38. Kysymys: Milloin?
+   Vastaus: Vastausta ei löytynyt.
+
+39. Kysymys: Milloin? ≠ Millä?
+   Vastaus: Minä menen MINNE MILLÄ
+
+40. Kysymys: Millä sinä menet kauppaan?
+   Vastaus: Minä menen MINNE MILLÄ
+
+41. Kysymys: Millä sinä menet kouluun?
+   Vastaus: Minä menen MINNE MILLÄ
+
+42. Kysymys: Millä sinä menet?
+   Vastaus: Minä menen MINNE MILLÄ
+
+43. Kysymys: Millä sinä yleensä menet kauppaan?
+   Vastaus: Yleensä minä menen kauppaan autolla.
+
+44. Kysymys: Millä sä meet?
+   Vastaus: Minä menen MINNE MILLÄ
+
+45. Kysymys: Millä?
+   Vastaus: Minä menen MINNE MILLÄ
+
+46. Kysymys: Millä? != Milloin?
+   Vastaus: Minä menen MINNE MILLÄ
+
+47. Kysymys: Minkä maalainen sinä olet?
+   Vastaus: Minä olen työvoimatoimistossa.
+
+48. Kysymys: Minne sinä menet? / Mihin sinä menet?
+   Vastaus: Minä menen MINNE MILLÄ
+
+49. Kysymys: Minne sä meet?
+   Vastaus: Minä menen MINNE MILLÄ
+
+50. Kysymys: Missä kaupungissa sinä asut?
+   Vastaus: tässä kaupungissa
+
+51. Kysymys: Missä kaupungissa sä asut?
+   Vastaus: tässä kaupungissa
+
+52. Kysymys: Missä maassa sinä asut?
+   Vastaus: sinä
+
+53. Kysymys: Missä mies on?
+   Vastaus: Hänellä on sininen takki.
+
+54. Kysymys: Missä nainen on?
+   Vastaus: Hänellä on sininen takki.
+
+55. Kysymys: Missä poika on?
+   Vastaus: Minulla on pieni poika.
+
+56. Kysymys: Missä sinä olet?
+   Vastaus: sinä
+
+57. Kysymys: Missä tyttö on?
+   Vastaus: Hänellä on sininen takki.
+
+58. Kysymys: Missä?
+   Vastaus: Vastausta ei löytynyt.
+
+59. Kysymys: Mistä sinä olet kotoisin?
+   Vastaus: sinä
+
+60. Kysymys: Miten se kirjoitetaan?
+   Vastaus: Se on...
+
+61. Kysymys: Miten sinun etunimi kirjoitetaan?
+   Vastaus: etunimi
+
+62. Kysymys: Miten sinun nimi kirjoitetaan?
+   Vastaus: koko nimi
+
+63. Kysymys: Mitä kieltä sinä puhut?
+   Vastaus: Minä puhun, luen, kirjoitan ja kuuntelen.
+
+64. Kysymys: Mitä muuta sinulla on?
+   Vastaus: Hänellä on sininen takki.
+
+65. Kysymys: Mitä sinulla on?
+   Vastaus: Hänellä on sininen takki.
+
+66. Kysymys: Mitä sinä teet kurssilla?
+   Vastaus: sinä
+
+67. Kysymys: Moneltako herätys on?
+   Vastaus: Herätys on seitsemän.
+
+68. Kysymys: Moneltako jalkapallo-ottelu on?
+   Vastaus: Jalkapallo-ottelu on varttia vaille kolme.
+
+69. Kysymys: Moneltako koulu alkaa?
+   Vastaus: Koulu alkaa kello yhdeksän.
+
+70. Kysymys: Moneltako oppitunti on?
+   Vastaus: Oppitunti on varttia yli kuusi.
+
+71. Kysymys: Oletko (sinä) koulussa?
+   Vastaus: sinä
+
+72. Kysymys: Oletko (sinä) ok?
+   Vastaus: sinä
+
+73. Kysymys: Oletko suomalainen?
+   Vastaus: suomalainen
+
+74. Kysymys: Onko hänellä musta hattu?
+   Vastaus: Minulla on musta hattu.
+
+75. Kysymys: Onko hänellä punainen takki?
+   Vastaus: Hänellä on sininen takki.
+
+76. Kysymys: Onko hänellä reppu?
+   Vastaus: Hänellä on sininen takki.
+
+77. Kysymys: Onko hänellä silmälasit?
+   Vastaus: Hänellä on silmälasit.
+
+78. Kysymys: Onko kysymyksiä?
+   Vastaus: Ei ole kysymyksiä.
+
+79. Kysymys: Onko sinulla auto?
+   Vastaus: Auto on sininen.
+
+80. Kysymys: Onko sinulla lempinimeä?
+   Vastaus: sinä -> sinulla
+
+81. Kysymys: Onko sinulla miljoona euroa?
+   Vastaus: sinä -> sinulla
+
+82. Kysymys: Onko sinulla nuha?
+   Vastaus: Minulla on yskä, nuha, jano ja nälkä.
+
+83. Kysymys: Onko sinulla nälkä?
+   Vastaus: Minulla on yskä, nuha, jano ja nälkä.
+
+84. Kysymys: Onko sinulla puhelin / kännykkä?
+   Vastaus: sinä -> sinulla
+
+85. Kysymys: Onko sinulla pää kipeä?
+   Vastaus: Minulla on pää kipeä.
+
+86. Kysymys: Onko sinulla yskä?
+   Vastaus: Minulla on yskä, nuha, jano ja nälkä.
+
+87. Kysymys: Onko sinulla…?
+   Vastaus: sinä -> sinulla
+
+88. Kysymys: Paljonko kello on? / Mitä kello on?
+   Vastaus: Kello on varttia vaille kolme.
+
+89. Kysymys: Saanko jäätelön?
+   Vastaus: Vastausta ei löytynyt.
+
+90. Kysymys: Saisinko kaksi banaania?
+   Vastaus: Syön kaksi banaania.
+
+91. Kysymys: Saisinko kolme tomaattia?
+   Vastaus: Kello on varttia vaille kolme.
+
+92. Kysymys: Saisinko neljä kananmunaa?
+   Vastaus: neljä
+
+93. Kysymys: Saisinko viisi leipää?
+   Vastaus: Kello on viisi vaille yksi.
+
+94. Kysymys: Saisinko...?
+   Vastaus: Vastausta ei löytynyt.
+

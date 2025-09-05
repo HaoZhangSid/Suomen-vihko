@@ -1,37 +1,127 @@
 <script>
+    import { finnishRate, enableSpellingMode, spellingPause } from '../store.js';
+    import { onDestroy } from 'svelte';
+    import { fetchAsObjectUrlCached as fetchAsObjectUrl } from './googleTts.js';
+
     export let text;
     export let lang = 'fi-FI';
 
-    const synth = window.speechSynthesis;
+    let isPlaying = false;
+    let playbackQueue = [];
+    let currentPlaybackIndex = -1;
+    let audioEl;
+    let currentUrl = null;
 
-    function speak() {
-        // This is a simplified approach. For a more robust solution,
-        // a shared store would be used to manage the global isPlayingAll state.
-        // However, cancelling any ongoing speech before starting a new one
-        // effectively prevents overlap.
-        if (synth.speaking) {
-            synth.cancel();
+    let pauseDurationValue;
+    const unsubscribe = spellingPause.subscribe(value => {
+        pauseDurationValue = value;
+    });
+
+    function cleanupUrl() {
+        if (currentUrl) {
+            URL.revokeObjectURL(currentUrl);
+            currentUrl = null;
         }
-        const utterance = new SpeechSynthesisUtterance(text);
-        utterance.lang = lang;
-        utterance.rate = 0.9;
-        synth.speak(utterance);
+    }
+
+    function stopAllPlayback() {
+        if (audioEl) {
+            audioEl.onended = null;
+            audioEl.onerror = null;
+            audioEl.pause();
+            audioEl.src = '';
+        }
+        cleanupUrl();
+        isPlaying = false;
+        playbackQueue = [];
+        currentPlaybackIndex = -1;
+    }
+
+    async function playNextInQueue() {
+        if (currentPlaybackIndex >= playbackQueue.length || !isPlaying) {
+            stopAllPlayback();
+            return;
+        }
+
+        const item = playbackQueue[currentPlaybackIndex];
+        const nextStep = () => {
+            currentPlaybackIndex++;
+            playNextInQueue();
+        };
+
+        try {
+            if (item.type === 'pause') {
+                setTimeout(nextStep, pauseDurationValue);
+                return;
+            }
+
+            if (!audioEl) {
+                audioEl = new Audio();
+            }
+
+            audioEl.onended = () => {
+                cleanupUrl();
+                nextStep();
+            };
+            audioEl.onerror = () => {
+                cleanupUrl();
+                nextStep();
+            };
+
+            if (item.type === 'tts') {
+                cleanupUrl();
+                const url = await fetchAsObjectUrl(item.text, item.lang, item.rate);
+                currentUrl = url;
+                audioEl.src = url;
+                await audioEl.play();
+            } else if (item.type === 'audio') {
+                const encoded = encodeURIComponent(item.letter);
+                audioEl.src = `audio/letters/${encoded}.wav`;
+                await audioEl.play();
+            }
+        } catch (e) {
+            stopAllPlayback();
+        }
+    }
+
+    async function speak() {
+        if (isPlaying) {
+            stopAllPlayback();
+            return;
+        }
+        isPlaying = true;
+
+        const spellMode = $enableSpellingMode;
+        const baseRate = $finnishRate;
+
+        playbackQueue = [];
+        playbackQueue.push({ type: 'tts', text: text, lang: lang, rate: baseRate });
+        if (spellMode && lang === 'fi-FI' && !text.includes(' ')) {
+            const letters = text.toUpperCase().split('');
+            letters.forEach((letter, index) => {
+                playbackQueue.push({ type: 'audio', letter });
+                if (index < letters.length - 1) playbackQueue.push({ type: 'pause' });
+            });
+            playbackQueue.push({ type: 'tts', text: text, lang: lang, rate: baseRate });
+        }
+
+        currentPlaybackIndex = 0;
+        playNextInQueue();
     }
 
     function handleKeyPress(event) {
-        if (event.key === 'Enter') {
-            speak();
-        }
+        if (event.key === 'Enter') speak();
     }
 
-    // A simple way to check a global 'isPlaying' state if needed, but for now direct call is fine.
-    // Ideally, this would use a store to check global playback state.
+    onDestroy(() => {
+        stopAllPlayback();
+        unsubscribe();
+    });
 </script>
 
 <span class="speaker-icon" on:click|stopPropagation={speak} role="button" tabindex="0" on:keypress={handleKeyPress}>
     🔊
 </span>
-
 <style>
     .speaker-icon {
         cursor: pointer;

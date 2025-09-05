@@ -1,0 +1,162 @@
+speaker1:kolmas
+speaker2:第三
+speaker1:kolmas
+speaker2:vokaali
+speaker1:元音
+speaker2:vokaali
+speaker1:konsonantti
+speaker2:辅音
+speaker1:konsonantti
+speaker2:diftongit
+speaker1:双元音
+speaker2:diftongit
+speaker1:tervehdykset
+speaker2:问候
+speaker1:tervehdykset
+speaker2:vuorokaudenajat
+speaker1:一天中的时间
+speaker2:vuorokaudenajat
+speaker1:aamu
+speaker2:早晨
+speaker1:aamu
+speaker2:päivä
+speaker1:白天
+speaker2:päivä
+speaker1:ilta
+speaker2:晚上
+speaker1:ilta
+speaker2:yö
+speaker1:夜晚
+speaker2:yö
+speaker1:kaunis
+speaker2:美丽的
+speaker1:kaunis
+speaker2:uni
+speaker1:梦
+speaker2:uni
+speaker1:vuorokausi
+speaker2:24小时
+speaker1:vuorokausi
+speaker2:tunti
+speaker1:小时
+speaker2:tunti
+speaker1:aakkoset
+speaker2:字母表
+speaker1:aakkoset
+speaker2:lyhyt
+speaker1:短的
+speaker2:lyhyt
+speaker1:pitkä
+speaker2:长的
+speaker1:pitkä
+speaker2:kieli
+speaker1:语言/舌头
+speaker2:kieli
+speaker1:suu
+speaker2:嘴
+speaker1:suu
+speaker2:leuka
+speaker1:下巴
+speaker2:leuka
+speaker1:Moi!
+speaker2:你好！
+speaker1:Moi!
+speaker2:Hei!
+speaker1:你好！
+speaker2:Hei!
+speaker1:Terve!
+speaker2:你好！
+speaker1:Terve!
+speaker2:Huomenta!
+speaker1:早上好！
+speaker2:Huomenta!
+speaker1:Hyvää huomenta!
+speaker2:早上好！
+speaker1:Hyvää huomenta!
+speaker2:Päivää!
+speaker1:日安！
+speaker2:Päivää!
+speaker1:Hyvää päivää!
+speaker2:日安！
+speaker1:Hyvää päivää!
+speaker2:Iltaa!
+speaker1:晚上好！
+speaker2:Iltaa!
+speaker1:Hyvää iltaa!
+speaker2:晚上好！
+speaker1:Hyvää iltaa!
+speaker2:Hyvää yötä!
+speaker1:晚安！
+speaker2:Hyvää yötä!
+speaker1:Kauniita unia!
+speaker2:祝你有个美梦！
+speaker1:Kauniita unia!
+speaker2:Nuku hyvin!
+speaker1:睡个好觉！
+speaker2:Nuku hyvin!
+speaker1:Hyvää syntymäpäivää!
+speaker2:生日快乐！
+speaker1:Hyvää syntymäpäivää!
+speaker2:Hyvää joulua!
+speaker1:圣诞快乐！
+speaker2:Hyvää joulua!
+speaker1:Hauskaa viikonloppua!
+speaker2:周末愉快！
+speaker1:Hauskaa viikonloppua!
+speaker2:Mitä kuuluu?
+speaker1:你好吗？
+speaker2:Mitä kuuluu?
+speaker1:Miten menee?
+speaker2:一切顺利吗？
+speaker1:Miten menee?
+speaker2:Kiitos, hyvää.
+speaker1:很好，谢谢。
+speaker2:Kiitos, hyvää.
+speaker1:Hyvin, kiitos.
+speaker2:很好，谢谢。
+speaker1:Hyvin, kiitos.
+speaker2:Ihan hyvää.
+speaker1:还不错。
+speaker2:Ihan hyvää.
+speaker1:Ihan hyvin.
+speaker2:还不错。
+speaker1:Ihan hyvin.
+speaker2:Ei kovin hyvää.
+speaker1:不太好。
+speaker2:Ei kovin hyvää.
+speaker1:Ei kovin hyvin.
+speaker2:不太好。
+speaker1:Ei kovin hyvin.
+speaker2:Huonoa.
+speaker1:糟糕。
+speaker2:Huonoa.
+speaker1:Huonosti.
+speaker2:糟糕地。
+speaker1:Huonosti.
+speaker2:Entä sinulle?
+speaker1:你呢？
+speaker2:Entä sinulle?
+speaker1:Näkemiin!
+speaker2:再见！
+speaker1:Näkemiin!
+speaker2:Nähdään!
+speaker1:回头见！
+speaker2:Nähdään!
+speaker1:Aurinko nousee.
+speaker2:太阳升起。
+speaker1:Aurinko nousee.
+speaker2:Aurinko laskee.
+speaker1:太阳下山。
+speaker2:Aurinko laskee.
+speaker1:Anteeksi, voisitko toistaa?
+speaker2:对不起，你能重复一遍吗？
+speaker1:Anteeksi, voisitko toistaa?
+speaker2:Voisitko puhua vähän hitaammin?
+speaker1:你能说慢一点吗？
+speaker2:Voisitko puhua vähän hitaammin?
+speaker1:kieli ei muutu, suu muuttuu
+speaker2:舌头不动，嘴型变
+speaker1:kieli ei muutu, suu muuttuu
+speaker2:kieli ei muutu, leuka putoaa
+speaker1:舌头不动，下巴下沉
+speaker2:kieli ei muutu, leuka putoaa

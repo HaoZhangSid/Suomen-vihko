@@ -1,0 +1,291 @@
+speaker1:kalenteri
+speaker2:日历
+speaker1:kalenteri
+speaker2:koko nimi
+speaker1:全名
+speaker2:koko nimi
+speaker1:sukunimi
+speaker2:姓氏
+speaker1:sukunimi
+speaker2:lempinimi
+speaker1:昵称
+speaker2:lempinimi
+speaker1:helikopteri
+speaker2:直升机
+speaker1:helikopteri
+speaker2:hiiri
+speaker1:鼠标；老鼠
+speaker2:hiiri
+speaker1:lukea
+speaker2:读 (动词)
+speaker1:lukea
+speaker2:ottaa
+speaker1:拿 (动词)
+speaker2:ottaa
+speaker1:kirjoittaa
+speaker2:写 (动词)
+speaker1:kirjoittaa
+speaker2:laskea
+speaker1:数数 (动词)
+speaker2:laskea
+speaker1:kuunnella
+speaker2:听 (动词)
+speaker1:kuunnella
+speaker2:katsoa
+speaker1:看 (动词)
+speaker2:katsoa
+speaker1:sanoa
+speaker2:说 (动词)
+speaker1:sanoa
+speaker2:puhua
+speaker1:说（语言）(动词)
+speaker2:puhua
+speaker1:koulu
+speaker2:学校
+speaker1:koulu
+speaker2:koti
+speaker1:家
+speaker2:koti
+speaker1:kauppa
+speaker2:商店
+speaker1:kauppa
+speaker2:bussi
+speaker1:公交车
+speaker2:bussi
+speaker1:juna-asema
+speaker2:火车站
+speaker1:juna-asema
+speaker2:lääkäri
+speaker1:医生；诊所
+speaker2:lääkäri
+speaker1:jalkapallokenttä
+speaker2:足球场
+speaker1:jalkapallokenttä
+speaker2:pankki
+speaker1:银行
+speaker2:pankki
+speaker1:posti
+speaker2:邮局
+speaker1:posti
+speaker2:puisto
+speaker1:公园
+speaker2:puisto
+speaker1:tori
+speaker2:集市广场
+speaker1:tori
+speaker2:apteekki
+speaker1:药店
+speaker2:apteekki
+speaker1:TE-toimisto
+speaker2:就业办公室
+speaker1:TE-toimisto
+speaker2:poliisiasema
+speaker1:警察局
+speaker2:poliisiasema
+speaker1:sairaala
+speaker2:医院
+speaker1:sairaala
+speaker2:päiväkoti
+speaker1:幼儿园
+speaker2:päiväkoti
+speaker1:kirkko
+speaker2:教堂
+speaker1:kirkko
+speaker2:kuntosali
+speaker1:健身房
+speaker2:kuntosali
+speaker1:21. = kahdeskymmenesimmäinen
+speaker2:21日 = 第二十一。
+speaker1:21. = kahdeskymmenesimmäinen
+speaker2:käsky / ohje
+speaker1:命令 / 指示
+speaker2:käsky / ohje
+speaker1:satu
+speaker2:童话
+speaker1:satu
+speaker2:perusmuoto
+speaker1:基本形式
+speaker2:perusmuoto
+speaker1:koulun
+speaker2:学校的 (所有格)
+speaker1:koulun
+speaker2:kouluun
+speaker1:去学校 (往格)
+speaker2:kouluun
+speaker1:koulusta
+speaker2:从学校 (出格)
+speaker1:koulusta
+speaker2:koululle
+speaker1:到学校 (向格)
+speaker2:koululle
+speaker1:koululta
+speaker2:从学校 (离格)
+speaker1:koululta
+speaker2:maissi
+speaker1:玉米
+speaker2:maissi
+speaker1:maito
+speaker2:牛奶
+speaker1:maito
+speaker2:mansikka
+speaker1:草莓
+speaker2:mansikka
+speaker1:kummi
+speaker2:教父/教母
+speaker1:kummi
+speaker2:kummitus
+speaker1:鬼
+speaker2:kummitus
+speaker1:kummisetä
+speaker2:教父
+speaker1:kummisetä
+speaker2:kumi
+speaker1:橡皮
+speaker2:kumi
+speaker1:lumme
+speaker2:睡莲
+speaker1:lumme
+speaker2:talo
+speaker1:房子
+speaker2:talo
+speaker1:tie
+speaker2:路
+speaker1:tie
+speaker2:matto
+speaker1:地毯
+speaker2:matto
+speaker1:katto
+speaker2:屋顶
+speaker1:katto
+speaker2:kentällä
+speaker1:在场地上
+speaker2:kentällä
+speaker1:lentokenttä
+speaker2:机场
+speaker1:lentokenttä
+speaker2:äiti
+speaker1:妈妈
+speaker2:äiti
+speaker1:nenä
+speaker2:鼻子
+speaker1:nenä
+speaker2:Tänään on torstai 21. elokuuta 2025.
+speaker1:今天是2025年8月21日，星期四。
+speaker2:Tänään on torstai 21. elokuuta 2025.
+speaker1:Mikä on sinun koko nimi?
+speaker2:你的全名是什么？
+speaker1:Mikä on sinun koko nimi?
+speaker2:Onko sinulla lempinimeä?
+speaker1:你有昵称吗？
+speaker2:Onko sinulla lempinimeä?
+speaker1:Lue sana!
+speaker2:读单词！
+speaker1:Lue sana!
+speaker2:Kirjoita lause!
+speaker1:写句子！
+speaker2:Kirjoita lause!
+speaker1:Laske kymmeneen!
+speaker2:数到十！
+speaker1:Laske kymmeneen!
+speaker2:Kuuntele minua!
+speaker1:听我说！
+speaker2:Kuuntele minua!
+speaker1:Katso video!
+speaker2:看视频！
+speaker1:Katso video!
+speaker2:Puhu suomea!
+speaker1:说芬兰语！
+speaker2:Puhu suomea!
+speaker1:Sanelu = Kuuntele ja kirjoita!
+speaker2:听写 = 听然后写！
+speaker1:Sanelu = Kuuntele ja kirjoita!
+speaker2:Missä poika on?
+speaker1:男孩在哪里？
+speaker2:Missä poika on?
+speaker1:Mikä?
+speaker2:什么？ (主格形式)
+speaker1:Mikä?
+speaker2:Missä?
+speaker1:在哪里？ (地点格 -ssa/-ssä)
+speaker2:Missä?
+speaker1:koulu (Mikä?) -> koulussa (Missä?)
+speaker2:学校 -> 在学校里
+speaker1:koulu (Mikä?) -> koulussa (Missä?)
+speaker2:Missä sinä olet?
+speaker1:你在哪里？
+speaker2:Missä sinä olet?
+speaker1:Minä olen kotona / kaupassa / koulussa.
+speaker2:我在家 / 在商店 / 在学校。
+speaker1:Minä olen kotona / kaupassa / koulussa.
+speaker2:Minun lapsi on päiväkodissa.
+speaker1:我的孩子在幼儿园。
+speaker2:Minun lapsi on päiväkodissa.
+speaker1:Minä olen matkalla.
+speaker2:我在路上。
+speaker1:Minä olen matkalla.
+speaker2:Minä olen tulossa.
+speaker1:我就来。
+speaker2:Minä olen tulossa.
+speaker1:jne. / ja niin edelleen
+speaker2:等等
+speaker1:jne. / ja niin edelleen
+speaker2:Minä olen kotona.
+speaker1:我在家。
+speaker2:Minä olen kotona.
+speaker1:Minä olen kaupassa.
+speaker2:我在商店。
+speaker1:Minä olen kaupassa.
+speaker2:Minä olen kahvilassa.
+speaker1:我在咖啡馆。
+speaker2:Minä olen kahvilassa.
+speaker1:Minä olen kirjastossa.
+speaker2:我在图书馆。
+speaker1:Minä olen kirjastossa.
+speaker2:Minä olen juna-asemalla.
+speaker1:我在火车站。
+speaker2:Minä olen juna-asemalla.
+speaker1:Minä olen lääkärissä.
+speaker2:我在诊所。
+speaker1:Minä olen lääkärissä.
+speaker2:Minä olen jalkapallokentällä.
+speaker1:我在足球场。
+speaker2:Minä olen jalkapallokentällä.
+speaker1:Minä olen pankissa.
+speaker2:我在银行。
+speaker1:Minä olen pankissa.
+speaker2:Minä olen työvoimatoimistossa.
+speaker1:我在就业办公室。
+speaker2:Minä olen työvoimatoimistossa.
+speaker1:Minä olen poliisiasemalla.
+speaker2:我在警察局。
+speaker1:Minä olen poliisiasemalla.
+speaker2:Minä olen töissä.
+speaker1:我在工作。
+speaker2:Minä olen töissä.
+speaker1:Missä tyttö on?
+speaker2:女孩在哪里？
+speaker1:Missä tyttö on?
+speaker2:Hän on koulussa.
+speaker1:她在学校。
+speaker2:Hän on koulussa.
+speaker1:Hän on kotona.
+speaker2:他在家。
+speaker1:Hän on kotona.
+speaker2:Missä nainen on?
+speaker1:女人在哪里？
+speaker2:Missä nainen on?
+speaker1:Hän on kaupassa.
+speaker2:她在商店。
+speaker1:Hän on kaupassa.
+speaker2:Missä mies on?
+speaker1:男人在哪里？
+speaker2:Missä mies on?
+speaker1:Hän on torilla.
+speaker2:他/她在集市广场。
+speaker1:Hän on torilla.
+speaker2:Oletko (sinä) koulussa?
+speaker1:你在学校吗？
+speaker2:Oletko (sinä) koulussa?
+speaker1:Leuka putoaa.
+speaker2:惊掉下巴。
+speaker1:Leuka putoaa.

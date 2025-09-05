@@ -1,0 +1,198 @@
+speaker1:kello
+speaker2:钟，表
+speaker1:kello
+speaker2:aika
+speaker1:时间
+speaker2:aika
+speaker1:tasan
+speaker2:整点
+speaker1:tasan
+speaker2:puoli
+speaker1:一半 (用于半点)
+speaker2:puoli
+speaker1:yli
+speaker2:超过，过
+speaker1:yli
+speaker2:vaille
+speaker1:缺少，差
+speaker2:vaille
+speaker1:vartti
+speaker2:一刻钟 (15分钟)
+speaker1:vartti
+speaker2:minuutti
+speaker1:分钟
+speaker2:minuutti
+speaker1:herätys
+speaker2:醒来，起床
+speaker1:herätys
+speaker2:herätä
+speaker1:(动词) 醒来
+speaker2:herätä
+speaker1:myös
+speaker2:也
+speaker1:myös
+speaker2:26. = kahdeskymmeneskuudes
+speaker1:26日 = 第二十六。
+speaker2:26. = kahdeskymmeneskuudes
+speaker1:jääkiekko-ottelu
+speaker2:冰球比赛。
+speaker1:jääkiekko-ottelu
+speaker2:nyrkkeilyottelu
+speaker1:拳击比赛。
+speaker2:nyrkkeilyottelu
+speaker1:ottelu = "matsi"
+speaker2:比赛（口语）。
+speaker1:ottelu = "matsi"
+speaker2:alkaa
+speaker1:开始。
+speaker2:alkaa
+speaker1:loppua
+speaker2:结束。
+speaker1:loppua
+speaker2:Tänään on tiistai 26. elokuuta 2025.
+speaker1:今天是2025年8月26日，星期二。
+speaker2:Tänään on tiistai 26. elokuuta 2025.
+speaker1:Mitä muuta sinulla on?
+speaker2:你还有其他什么东西吗？
+speaker1:Mitä muuta sinulla on?
+speaker2:Hyvää työtä!
+speaker1:干得好！
+speaker2:Hyvää työtä!
+speaker1:Paljonko kello on? / Mitä kello on?
+speaker2:现在几点了？
+speaker1:Paljonko kello on? / Mitä kello on?
+speaker2:Kello on tasan yhdeksän.
+speaker1:现在九点整。 (示例)
+speaker2:Kello on tasan yhdeksän.
+speaker1:Kello on puoli kuusi.
+speaker2:现在五点半。 (字面意思：半向六点)
+speaker1:Kello on puoli kuusi.
+speaker2:Kello on varttia vaille kymmenen.
+speaker1:现在差一刻十点。(9:45)
+speaker2:Kello on varttia vaille kymmenen.
+speaker1:Kello on varttia yli yksi.
+speaker2:现在一点过一刻。(1:15)
+speaker1:Kello on varttia yli yksi.
+speaker2:Kello on viisitoista (minuuttia) yli yksi.
+speaker1:现在一点过十五分。
+speaker2:Kello on viisitoista (minuuttia) yli yksi.
+speaker1:Harjoitellaan kelloa.
+speaker2:我们来练习时间。
+speaker1:Harjoitellaan kelloa.
+speaker2:Mihin aikaan sinä yleensä heräät?
+speaker1:你通常什么时候醒来/起床？
+speaker2:Mihin aikaan sinä yleensä heräät?
+speaker1:Minä herään yleensä puoli kuusi.
+speaker2:我通常五点半醒来。
+speaker1:Minä herään yleensä puoli kuusi.
+speaker2:Minä herään yleensä kello seitsemän.
+speaker1:我通常七点钟醒来。
+speaker2:Minä herään yleensä kello seitsemän.
+speaker1:Harjoittele kelloa!
+speaker2:练习时间表达！
+speaker1:Harjoittele kelloa!
+speaker2:Kello on yksi.
+speaker1:1点。
+speaker2:Kello on yksi.
+speaker1:Kello on kaksi.
+speaker2:2点。
+speaker1:Kello on kaksi.
+speaker2:Kello on kolme.
+speaker1:3点。
+speaker2:Kello on kolme.
+speaker1:Kello on kuusi.
+speaker2:6点。
+speaker1:Kello on kuusi.
+speaker2:Kello on puoli kymmenen.
+speaker1:9点半。
+speaker2:Kello on puoli kymmenen.
+speaker1:Kello on puoli viisi.
+speaker2:4点半。
+speaker1:Kello on puoli viisi.
+speaker2:Kello on puoli kahdeksan.
+speaker1:7点半。
+speaker2:Kello on puoli kahdeksan.
+speaker1:Kello on viisitoista vaille kaksitoista.
+speaker2:差15分12点 (11:45)。
+speaker1:Kello on viisitoista vaille kaksitoista.
+speaker2:vartti = 15 minuuttia
+speaker1:一刻钟 = 15分钟。
+speaker2:vartti = 15 minuuttia
+speaker1:Kello on varttia vaille kaksi.
+speaker2:差一刻2点 (1:45)。
+speaker1:Kello on varttia vaille kaksi.
+speaker2:Kello on varttia yli yhdeksän.
+speaker1:9点过一刻 (9:15)。
+speaker2:Kello on varttia yli yhdeksän.
+speaker1:Kello on varttia yli kymmenen.
+speaker2:10点过一刻 (10:15)。
+speaker1:Kello on varttia yli kymmenen.
+speaker2:Kello on (tasan) yksi.
+speaker1:1点整。
+speaker2:Kello on (tasan) yksi.
+speaker1:Kello on (tasan) kaksi.
+speaker2:2点整。
+speaker1:Kello on (tasan) kaksi.
+speaker2:Kello on puoli yksi.
+speaker1:12点半。
+speaker2:Kello on puoli yksi.
+speaker1:Kello on puoli kaksi.
+speaker2:1点半。
+speaker1:Kello on puoli kaksi.
+speaker2:Kello on puoli kolme.
+speaker1:2点半。
+speaker2:Kello on puoli kolme.
+speaker1:Kello on varttia vaille yksi.
+speaker2:差一刻1点 (12:45)。
+speaker1:Kello on varttia vaille yksi.
+speaker2:Kello on kymmenen vaille yksi.
+speaker1:差10分1点 (12:50)。
+speaker2:Kello on kymmenen vaille yksi.
+speaker1:Kello on viisi vaille yksi.
+speaker2:差5分1点 (12:55)。
+speaker1:Kello on viisi vaille yksi.
+speaker2:Kello on seitsemän vaille yksi.
+speaker1:差7分1点 (12:53)。
+speaker2:Kello on seitsemän vaille yksi.
+speaker1:Kello on kymmenen yli yksi.
+speaker2:1点过10分 (1:10)。
+speaker1:Kello on kymmenen yli yksi.
+speaker2:Kello on viisi yli yksi.
+speaker1:1点过5分 (1:05)。
+speaker2:Kello on viisi yli yksi.
+speaker1:Moneltako herätys on?
+speaker2:几点起床？
+speaker1:Moneltako herätys on?
+speaker2:Herätys on seitsemän.
+speaker1:7点起床。
+speaker2:Herätys on seitsemän.
+speaker1:Mihin aikaan herätys on?
+speaker2:什么时间起床？
+speaker1:Mihin aikaan herätys on?
+speaker2:Ruoka on puoli yksi.
+speaker1:饭点是12点半。
+speaker2:Ruoka on puoli yksi.
+speaker1:Moneltako oppitunti on?
+speaker2:几点上课？
+speaker1:Moneltako oppitunti on?
+speaker2:Oppitunti on varttia yli kuusi.
+speaker1:6点过一刻上课。
+speaker2:Oppitunti on varttia yli kuusi.
+speaker1:Moneltako jalkapallo-ottelu on?
+speaker2:几点有足球赛？
+speaker1:Moneltako jalkapallo-ottelu on?
+speaker2:Jalkapallo-ottelu on varttia vaille kolme.
+speaker1:差一刻3点有足球赛。
+speaker2:Jalkapallo-ottelu on varttia vaille kolme.
+speaker1:Moneltako koulu alkaa?
+speaker2:学校几点开始？
+speaker1:Moneltako koulu alkaa?
+speaker2:Koulu alkaa kello yhdeksän.
+speaker1:学校9点开始。
+speaker2:Koulu alkaa kello yhdeksän.
+speaker1:Mihin aikaan koulu loppuu?
+speaker2:学校什么时间结束？
+speaker1:Mihin aikaan koulu loppuu?
+speaker2:Koulu loppuu kello yksi.
+speaker1:学校1点结束。
+speaker2:Koulu loppuu kello yksi.

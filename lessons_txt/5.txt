@@ -1,0 +1,234 @@
+speaker1:kaupunki
+speaker2:城市
+speaker1:kaupunki
+speaker2:asua
+speaker1:居住
+speaker2:asua
+speaker1:kulkuvälineet
+speaker2:交通工具
+speaker1:kulkuvälineet
+speaker2:juna
+speaker1:火车
+speaker2:juna
+speaker1:pyörä
+speaker2:自行车
+speaker1:pyörä
+speaker2:auto
+speaker1:汽车
+speaker2:auto
+speaker1:taksi
+speaker2:出租车
+speaker1:taksi
+speaker2:metro
+speaker1:地铁
+speaker2:metro
+speaker1:ratikka / raitiovaunu
+speaker2:有轨电车
+speaker1:ratikka / raitiovaunu
+speaker2:laiva
+speaker1:船
+speaker2:laiva
+speaker1:lentokone
+speaker2:飞机
+speaker1:lentokone
+speaker2:kävellä
+speaker1:步行
+speaker2:kävellä
+speaker1:yleensä
+speaker2:通常
+speaker1:yleensä
+speaker2:22. = kahdeskymmenestoinen
+speaker1:22日 = 第二十二。
+speaker2:22. = kahdeskymmenestoinen
+speaker1:pullo
+speaker2:瓶子
+speaker1:pullo
+speaker2:papu
+speaker1:豆子
+speaker2:papu
+speaker1:pappu
+speaker2:爷爷 (口语)
+speaker1:pappu
+speaker2:laki
+speaker1:法律
+speaker2:laki
+speaker1:lakki
+speaker2:帽子
+speaker1:lakki
+speaker2:pankki
+speaker1:银行
+speaker2:pankki
+speaker1:pankissa
+speaker2:在银行里
+speaker1:pankissa
+speaker2:pankkiin
+speaker1:去银行
+speaker2:pankkiin
+speaker1:Tänään on perjantai 22. elokuuta 2025.
+speaker2:今天是2025年8月22日，星期五。
+speaker1:Tänään on perjantai 22. elokuuta 2025.
+speaker2:Missä kaupungissa sinä asut?
+speaker1:你住在哪个城市？
+speaker2:Missä kaupungissa sinä asut?
+speaker1:Minä asun Oulussa.
+speaker2:我住在奥卢。
+speaker1:Minä asun Oulussa.
+speaker2:Bussilla kouluun!
+speaker1:坐公交车去学校！
+speaker2:Bussilla kouluun!
+speaker1:Millä?
+speaker2:乘坐什么？(方式格 -lla/-llä)
+speaker1:Millä?
+speaker2:Minä menen kävellen. / Minä kävelen.
+speaker1:我走路去。
+speaker2:Minä menen kävellen. / Minä kävelen.
+speaker1:kävellä (verbi) - minä kävelen, sinä kävelet, hän kävelee...
+speaker2:走路 (动词) - 我走，你走，他/她走...
+speaker1:kävellä (verbi) - minä kävelen, sinä kävelet, hän kävelee...
+speaker2:Millä sinä yleensä menet kauppaan?
+speaker1:你通常怎么去商店？
+speaker2:Millä sinä yleensä menet kauppaan?
+speaker1:Hyvää viikonloppua!
+speaker2:周末愉快！
+speaker1:Hyvää viikonloppua!
+speaker2:Nähdään maanantaina tasan kello 9.00!
+speaker1:我们周一上午9点整见！
+speaker2:Nähdään maanantaina tasan kello 9.00!
+speaker1:Missä maassa sinä asut?
+speaker2:你住在哪个国家？
+speaker1:Missä maassa sinä asut?
+speaker2:Minä asun Kelviällä.
+speaker1:我住在凯尔维亚。
+speaker2:Minä asun Kelviällä.
+speaker1:Minä asun Kokkolassa.
+speaker2:我住在科科拉。
+speaker1:Minä asun Kokkolassa.
+speaker2:Minä asun myös Kokkolassa.
+speaker1:我也住在科科拉。
+speaker2:Minä asun myös Kokkolassa.
+speaker1:Minä asun Helsingissä.
+speaker2:我住在赫尔辛基。
+speaker1:Minä asun Helsingissä.
+speaker2:Minä asun Turussa.
+speaker1:我住在图尔库。
+speaker2:Minä asun Turussa.
+speaker1:Minä asun Järvenpäässä.
+speaker2:我住在耶尔文佩。
+speaker1:Minä asun Järvenpäässä.
+speaker2:Minä asun Raumalla.
+speaker1:我住在劳马。
+speaker2:Minä asun Raumalla.
+speaker1:Minä asun Espoossa.
+speaker2:我住在埃斯波。
+speaker1:Minä asun Espoossa.
+speaker2:Minä asun Suomessa.
+speaker1:我住在芬兰。
+speaker2:Minä asun Suomessa.
+speaker1:Minä asun Venäjällä.
+speaker2:我住在俄罗斯。
+speaker1:Minä asun Venäjällä.
+speaker2:Minä asun Filippiineillä.
+speaker1:我住在菲律宾。
+speaker2:Minä asun Filippiineillä.
+speaker1:Millä sinä menet?
+speaker2:你怎么去？
+speaker1:Millä sinä menet?
+speaker2:Minä menen junalla.
+speaker1:我坐火车去。
+speaker2:Minä menen junalla.
+speaker1:Minä menen ratikalla.
+speaker2:我坐有轨电车去。
+speaker1:Minä menen ratikalla.
+speaker2:Minä menen bussilla.
+speaker1:我坐公交车去。
+speaker2:Minä menen bussilla.
+speaker1:Minä menen pyörällä.
+speaker2:我骑自行车去。
+speaker1:Minä menen pyörällä.
+speaker2:Minä menen metrolla.
+speaker1:我坐地铁去。
+speaker2:Minä menen metrolla.
+speaker1:Minä menen autolla.
+speaker2:我坐汽车去。
+speaker1:Minä menen autolla.
+speaker2:Minne sinä menet? / Mihin sinä menet?
+speaker1:你去哪里？
+speaker2:Minne sinä menet? / Mihin sinä menet?
+speaker1:Minä menen kouluun.
+speaker2:我去学校。
+speaker1:Minä menen kouluun.
+speaker2:Minä menen kotiin.
+speaker1:我回家。
+speaker2:Minä menen kotiin.
+speaker1:Millä sinä menet kouluun?
+speaker2:你怎么去学校？
+speaker1:Millä sinä menet kouluun?
+speaker2:Minä menen kouluun bussilla.
+speaker1:我坐公交车去学校。
+speaker2:Minä menen kouluun bussilla.
+speaker1:Millä sinä menet kauppaan?
+speaker2:你怎么去商店？
+speaker1:Millä sinä menet kauppaan?
+speaker2:Minä menen kauppaan autolla.
+speaker1:我坐汽车去商店。
+speaker2:Minä menen kauppaan autolla.
+speaker1:Minä menen kotiin bussilla.
+speaker2:我坐公交车回家。
+speaker1:Minä menen kotiin bussilla.
+speaker2:Minä menen kouluun junalla.
+speaker1:我坐火车去学校。
+speaker2:Minä menen kouluun junalla.
+speaker1:Minä menen kauppaan pyörällä.
+speaker2:我骑自行车去商店。
+speaker1:Minä menen kauppaan pyörällä.
+speaker2:Minä menen kahvilaan metrolla.
+speaker1:我坐地铁去咖啡馆。
+speaker2:Minä menen kahvilaan metrolla.
+speaker1:Minä menen torille ratikalla.
+speaker2:我坐有轨电车去集市广场。
+speaker1:Minä menen torille ratikalla.
+speaker2:Minä menen juna-asemalle taksilla.
+speaker1:我坐出租车去火车站。
+speaker2:Minä menen juna-asemalle taksilla.
+speaker1:Minä menen jalkapallokentälle autolla.
+speaker2:我坐汽车去足球场。
+speaker1:Minä menen jalkapallokentälle autolla.
+speaker2:Minä menen puistoon pyörällä.
+speaker1:我骑自行车去公园。
+speaker2:Minä menen puistoon pyörällä.
+speaker1:Minä menen apteekkiin bussilla.
+speaker2:我坐公交车去药店。
+speaker1:Minä menen apteekkiin bussilla.
+speaker2:Minä menen poliisiasemalle taksilla.
+speaker1:我坐出租车去警察局。
+speaker2:Minä menen poliisiasemalle taksilla.
+speaker1:Minä menen Raumalle bussilla.
+speaker2:我坐公交车去劳马。
+speaker1:Minä menen Raumalle bussilla.
+speaker2:Minä menen Brasiliaan lentokoneella.
+speaker1:我坐飞机去巴西。
+speaker2:Minä menen Brasiliaan lentokoneella.
+speaker1:Minä menen Ruotsiin laivalla.
+speaker2:我坐船去瑞典。
+speaker1:Minä menen Ruotsiin laivalla.
+speaker2:Minä menen kauppaan helikopterilla.
+speaker1:我坐直升机去商店。
+speaker2:Minä menen kauppaan helikopterilla.
+speaker1:Minä menen kirjastoon skootterilla.
+speaker2:我骑滑板车去图书馆。
+speaker1:Minä menen kirjastoon skootterilla.
+speaker2:Minä menen Skotlantiin lentokoneella.
+speaker1:我坐飞机去苏格兰。
+speaker2:Minä menen Skotlantiin lentokoneella.
+speaker1:Minä menen kouluun moottoripyörällä.
+speaker2:我骑摩托车去学校。
+speaker1:Minä menen kouluun moottoripyörällä.
+speaker2:Minä menen lentokentälle taksilla.
+speaker1:我坐出租车去机场。
+speaker2:Minä menen lentokentälle taksilla.
+speaker1:Yleensä minä menen kauppaan autolla.
+speaker2:通常我坐汽车去商店。
+speaker1:Yleensä minä menen kauppaan autolla.
+speaker2:Millä? != Milloin?
+speaker1:乘坐什么？ != 什么时候？
+speaker2:Millä? != Milloin?

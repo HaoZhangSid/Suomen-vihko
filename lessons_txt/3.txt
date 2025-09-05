@@ -1,0 +1,249 @@
+speaker1:kynä
+speaker2:笔
+speaker1:kynä
+speaker2:teroiton
+speaker1:卷笔刀
+speaker2:teroiton
+speaker1:pyyhekumi
+speaker2:橡皮
+speaker1:pyyhekumi
+speaker2:paita
+speaker1:衬衫
+speaker2:paita
+speaker1:sininen
+speaker2:蓝色的
+speaker1:sininen
+speaker2:punainen
+speaker1:红色的
+speaker2:punainen
+speaker1:kuulokkeet
+speaker2:耳机
+speaker1:kuulokkeet
+speaker2:tietokone / läppäri
+speaker1:电脑 / 笔记本电脑
+speaker2:tietokone / läppäri
+speaker1:20. = kahdeskymmenes
+speaker2:第20 = 第二十。
+speaker1:20. = kahdeskymmenes
+speaker2:Minulla on…
+speaker1:我有……
+speaker2:Minulla on…
+speaker1:Minä olen
+speaker2:我是…… (表示身份、状态)
+speaker1:Minä olen
+speaker2:Minulla on
+speaker1:我有…… (表示拥有)
+speaker2:Minulla on
+speaker1:minä -> minulla
+speaker2:我 (主格 -> 所有格/状语格)
+speaker1:minä -> minulla
+speaker2:sinä -> sinulla
+speaker1:你 (主格 -> 所有格/状语格)
+speaker2:sinä -> sinulla
+speaker1:hän -> hänellä
+speaker2:他/她 (主格 -> 所有格/状语格)
+speaker1:hän -> hänellä
+speaker2:me -> meillä
+speaker1:我们 (主格 -> 所有格/状语格)
+speaker2:me -> meillä
+speaker1:te -> teillä
+speaker2:你们 (主格 -> 所有格/状语格)
+speaker1:te -> teillä
+speaker2:he -> heillä
+speaker1:他们 (主格 -> 所有格/状语格)
+speaker2:he -> heillä
+speaker1:vuosi
+speaker2:年
+speaker1:vuosi
+speaker2:surullinen
+speaker1:伤心的
+speaker2:surullinen
+speaker1:ovi
+speaker2:门
+speaker1:ovi
+speaker2:kirjasto
+speaker1:图书馆
+speaker2:kirjasto
+speaker1:kirjaston
+speaker2:图书馆的 (所有格)
+speaker1:kirjaston
+speaker2:lamppu
+speaker1:灯
+speaker2:lamppu
+speaker1:lasi
+speaker2:玻璃杯
+speaker1:lasi
+speaker2:kyyti
+speaker1:搭便车
+speaker2:kyyti
+speaker1:kynttilä
+speaker2:蜡烛
+speaker1:kynttilä
+speaker2:ruusu
+speaker1:玫瑰
+speaker2:ruusu
+speaker1:raha
+speaker2:钱
+speaker1:raha
+speaker2:kärry
+speaker1:手推车
+speaker2:kärry
+speaker1:herra
+speaker2:先生
+speaker1:herra
+speaker2:puheterapeutti
+speaker1:语言治疗师
+speaker2:puheterapeutti
+speaker1:logopedi
+speaker2:语言治疗师 (同义词)
+speaker1:logopedi
+speaker2:Tänään on keskiviikko 20. elokuuta 2025.
+speaker1:今天是2025年8月20日，星期三。
+speaker2:Tänään on keskiviikko 20. elokuuta 2025.
+speaker1:Minulla on yskä, nuha, jano ja nälkä.
+speaker2:我咳嗽、流鼻涕、口渴还饿。
+speaker1:Minulla on yskä, nuha, jano ja nälkä.
+speaker2:Minulla on kynä, teroitin, pyyhekumi ja sininen paita.
+speaker1:我有一支笔、一个卷笔刀、一块橡皮和一件蓝色的衬衫。
+speaker2:Minulla on kynä, teroitin, pyyhekumi ja sininen paita.
+speaker1:Minulla on punainen paita.
+speaker2:我有一件红色的衬衫。
+speaker1:Minulla on punainen paita.
+speaker2:Onko sinulla…?
+speaker1:你有……吗？
+speaker2:Onko sinulla…?
+speaker1:Kyllä. / Ei.
+speaker2:是的。/ 不。
+speaker1:Kyllä. / Ei.
+speaker2:Mitä sinulla on?
+speaker1:你有什么？
+speaker2:Mitä sinulla on?
+speaker1:Ota vihko!
+speaker2:拿出笔记本！
+speaker1:Ota vihko!
+speaker2:Kiitos tästä päivästä ja jatketaan huomenna kello 9.00!!!
+speaker1:感谢今天，我们明天9点整继续！！！
+speaker2:Kiitos tästä päivästä ja jatketaan huomenna kello 9.00!!!
+speaker1:Minulla on sininen paita.
+speaker2:我有一件蓝色的衬衫。
+speaker1:Minulla on sininen paita.
+speaker2:Minulla on keltainen paita.
+speaker1:我有一件黄色的衬衫。
+speaker2:Minulla on keltainen paita.
+speaker1:Minulla on vihreä paita.
+speaker2:我有一件绿色的衬衫。
+speaker1:Minulla on vihreä paita.
+speaker2:Minulla on musta hattu.
+speaker1:我有一个黑色的帽子。
+speaker2:Minulla on musta hattu.
+speaker1:Minulla on valkoinen hattu.
+speaker2:我有一个白色的帽子。
+speaker1:Minulla on valkoinen hattu.
+speaker2:Minulla on harmaa hattu.
+speaker1:我有一个灰色的帽子。
+speaker2:Minulla on harmaa hattu.
+speaker1:Minulla on punaiset housut.
+speaker2:我有红色的裤子。
+speaker1:Minulla on punaiset housut.
+speaker2:Minulla on sininen takki.
+speaker1:我有一件蓝色的夹克。
+speaker2:Minulla on sininen takki.
+speaker1:Minulla on violetti hame.
+speaker2:我有一条紫色的裙子。
+speaker1:Minulla on violetti hame.
+speaker2:Minulla on ruskeat kengät.
+speaker1:我有棕色的鞋子。
+speaker2:Minulla on ruskeat kengät.
+speaker1:Minulla on oranssi pipo.
+speaker2:我有一个橙色的毛线帽。
+speaker1:Minulla on oranssi pipo.
+speaker2:Minulla on silmälasit.
+speaker1:我有眼镜。
+speaker2:Minulla on silmälasit.
+speaker1:Minulla on reppu.
+speaker2:我有一个背包。
+speaker1:Minulla on reppu.
+speaker2:Minulla on laukku.
+speaker1:我有一个包。
+speaker2:Minulla on laukku.
+speaker1:Hänellä on punainen paita.
+speaker2:他/她有一件红色的衬衫。
+speaker1:Hänellä on punainen paita.
+speaker2:Onko hänellä reppu?
+speaker1:他/她有背包吗？
+speaker2:Onko hänellä reppu?
+speaker1:Hänellä on laukku.
+speaker2:他/她有一个包。
+speaker1:Hänellä on laukku.
+speaker2:Onko hänellä punainen takki?
+speaker1:他/她有红色的夹克吗？
+speaker2:Onko hänellä punainen takki?
+speaker1:Hänellä on sininen takki.
+speaker2:他/她有一件蓝色的夹克。
+speaker1:Hänellä on sininen takki.
+speaker2:Onko hänellä musta hattu?
+speaker1:他/她有黑色的帽子吗？
+speaker2:Onko hänellä musta hattu?
+speaker1:Hänellä on valkoinen hattu.
+speaker2:他/她有一个白色的帽子。
+speaker1:Hänellä on valkoinen hattu.
+speaker2:Onko hänellä silmälasit?
+speaker1:他/她有眼镜吗？
+speaker2:Onko hänellä silmälasit?
+speaker1:Hänellä on silmälasit.
+speaker2:他/她有眼镜。
+speaker1:Hänellä on silmälasit.
+speaker2:Onko sinulla puhelin / kännykkä?
+speaker1:你有电话/手机吗？
+speaker2:Onko sinulla puhelin / kännykkä?
+speaker1:Onko sinulla auto?
+speaker2:你有车吗？
+speaker1:Onko sinulla auto?
+speaker2:Onko sinulla miljoona euroa?
+speaker1:你有一百万欧元吗？
+speaker2:Onko sinulla miljoona euroa?
+speaker1:Ei vielä.
+speaker2:还没有。
+speaker1:Ei vielä.
+speaker2:Valitettavasti ei.
+speaker1:不幸的是，没有。
+speaker2:Valitettavasti ei.
+speaker1:Minulla on kynä, kumi, teroitin ja vihko.
+speaker2:我有一支笔、一块橡皮、一个卷笔刀和一个笔记本。
+speaker1:Minulla on kynä, kumi, teroitin ja vihko.
+speaker2:Minä olen Leevi.
+speaker1:我是Leevi。
+speaker2:Minä olen Leevi.
+speaker1:Minä olen 39 vuotta.
+speaker2:我39岁。
+speaker1:Minä olen 39 vuotta.
+speaker2:Minä olen iloinen.
+speaker1:我很高兴。
+speaker2:Minä olen iloinen.
+speaker1:Minä olen 175 senttimetriä.
+speaker2:我身高175厘米。
+speaker1:Minä olen 175 senttimetriä.
+speaker2:Minä olen isä.
+speaker1:我是一位父亲。
+speaker2:Minä olen isä.
+speaker1:Minulla on sininen paita ja harmaat housut.
+speaker2:我有一件蓝色的衬衫和灰色的裤子。
+speaker1:Minulla on sininen paita ja harmaat housut.
+speaker2:Minulla on siniset silmät.
+speaker1:我有蓝色的眼睛。
+speaker2:Minulla on siniset silmät.
+speaker1:Minulla on lyhyet hiukset.
+speaker2:我有短发。
+speaker1:Minulla on lyhyet hiukset.
+speaker2:Minulla on pieni poika.
+speaker1:我有一个小男孩。
+speaker2:Minulla on pieni poika.
+speaker1:Minulla on kynä, kumi ja vihko.
+speaker2:我有一支笔、一块橡皮和一个笔记本。
+speaker1:Minulla on kynä, kumi ja vihko.
+speaker2:Minulla on nälkä ja jano.
+speaker1:我又饿又渴。
+speaker2:Minulla on nälkä ja jano.
+speaker1:Minä menen kirjastoon.
+speaker2:我去图书馆。
+speaker1:Minä menen kirjastoon.

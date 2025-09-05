@@ -1,0 +1,354 @@
+speaker1:toistaa
+speaker2:重复
+speaker1:toistaa
+speaker2:kurkku
+speaker1:黄瓜
+speaker2:kurkku
+speaker1:henkilökortti
+speaker2:身份证
+speaker1:henkilökortti
+speaker2:pieni sydän
+speaker1:小心脏
+speaker2:pieni sydän
+speaker1:sitruunan värinen pöytäliina
+speaker2:柠檬色的桌布
+speaker1:sitruunan värinen pöytäliina
+speaker2:maljakko
+speaker1:花瓶
+speaker2:maljakko
+speaker1:tänään
+speaker2:今天
+speaker1:tänään
+speaker2:huomenna
+speaker1:明天
+speaker2:huomenna
+speaker1:ylihuomenna
+speaker2:后天
+speaker1:ylihuomenna
+speaker2:eilen
+speaker1:昨天
+speaker2:eilen
+speaker1:toissa päivänä
+speaker2:前天
+speaker1:toissa päivänä
+speaker2:maanantaina
+speaker1:在星期一
+speaker2:maanantaina
+speaker1:tiistaina
+speaker2:在星期二
+speaker1:tiistaina
+speaker2:keskiviikkona
+speaker1:在星期三
+speaker2:keskiviikkona
+speaker1:torstaina
+speaker2:在星期四
+speaker1:torstaina
+speaker2:perjantaina
+speaker1:在星期五
+speaker2:perjantaina
+speaker1:lauantaina
+speaker2:在星期六
+speaker1:lauantaina
+speaker2:sunnuntaina
+speaker1:在星期日
+speaker2:sunnuntaina
+speaker1:sataa vettä
+speaker2:下雨
+speaker1:sataa vettä
+speaker2:tämä kaupunki
+speaker1:这个城市
+speaker2:tämä kaupunki
+speaker1:tässä kaupungissa
+speaker2:在这个城市
+speaker1:tässä kaupungissa
+speaker2:tähän kaupunkiin
+speaker1:到这个城市
+speaker2:tähän kaupunkiin
+speaker1:otsikko
+speaker2:标题
+speaker1:otsikko
+speaker2:ma (maanantai)
+speaker1:周一
+speaker2:ma (maanantai)
+speaker1:ti (tiistai)
+speaker2:周二
+speaker1:ti (tiistai)
+speaker2:ke (keskiviikko)
+speaker1:周三
+speaker2:ke (keskiviikko)
+speaker1:to (torstai)
+speaker2:周四
+speaker1:to (torstai)
+speaker2:pe (perjantai)
+speaker1:周五
+speaker2:pe (perjantai)
+speaker1:la (lauantai)
+speaker2:周六
+speaker1:la (lauantai)
+speaker2:su (sunnuntai)
+speaker1:周日
+speaker2:su (sunnuntai)
+speaker1:arkipäivät
+speaker2:工作日
+speaker1:arkipäivät
+speaker2:viikonloppu
+speaker1:周末
+speaker2:viikonloppu
+speaker1:kesällä
+speaker2:在夏天
+speaker1:kesällä
+speaker2:autolla
+speaker1:坐车
+speaker2:autolla
+speaker1:bussilla
+speaker2:坐公交车
+speaker1:bussilla
+speaker2:kynällä
+speaker1:用笔
+speaker2:kynällä
+speaker1:lauantai tai sunnuntai
+speaker2:星期六或星期日
+speaker1:lauantai tai sunnuntai
+speaker2:Huom! = HUOMIO
+speaker1:注意！
+speaker2:Huom! = HUOMIO
+speaker1:kysymys
+speaker2:问题
+speaker1:kysymys
+speaker2:vastaus
+speaker1:回答
+speaker2:vastaus
+speaker1:vesi
+speaker2:水
+speaker1:vesi
+speaker2:lumi
+speaker1:雪
+speaker2:lumi
+speaker1:tuuli
+speaker2:风
+speaker1:tuuli
+speaker2:tulevaisuus
+speaker1:未来
+speaker2:tulevaisuus
+speaker1:menneisyys
+speaker2:过去
+speaker1:menneisyys
+speaker2:Anteeksi, voitko toistaa?
+speaker1:对不起，你能重复一遍吗？
+speaker2:Anteeksi, voitko toistaa?
+speaker1:Anteeksi, voisitko toistaa?
+speaker2:对不起，您能重复一遍吗？ (更礼貌)
+speaker1:Anteeksi, voisitko toistaa?
+speaker2:Yleensä menen kauppaan pyörällä tai kävellen.
+speaker1:我通常骑自行车或走路去商店。
+speaker2:Yleensä menen kauppaan pyörällä tai kävellen.
+speaker1:Mihin aikaan sinä yleensä heräät?
+speaker2:你通常什么时候醒来？
+speaker1:Mihin aikaan sinä yleensä heräät?
+speaker2:Maanantai, tiistai, keskiviikko, torstai, perjantai, lauantai ja sunnuntai.
+speaker1:星期一，星期二，星期三，星期四，星期五，星期六和星期日。
+speaker2:Maanantai, tiistai, keskiviikko, torstai, perjantai, lauantai ja sunnuntai.
+speaker1:Milloin?
+speaker2:什么时候？
+speaker1:Milloin?
+speaker2:Millainen sää on?
+speaker1:天气怎么样？
+speaker2:Millainen sää on?
+speaker1:Millainen ilma on?
+speaker2:天气怎么样？ (同义)
+speaker1:Millainen ilma on?
+speaker2:Aurinko paistaa.
+speaker1:太阳照耀。
+speaker2:Aurinko paistaa.
+speaker1:On pilvistä.
+speaker2:多云。
+speaker1:On pilvistä.
+speaker2:Sataa lunta.
+speaker1:下雪。
+speaker2:Sataa lunta.
+speaker1:Tuulee.
+speaker2:刮风。
+speaker1:Tuulee.
+speaker2:On kuuma.
+speaker1:天气热。
+speaker2:On kuuma.
+speaker1:On kylmä.
+speaker2:天气冷。
+speaker1:On kylmä.
+speaker2:On puolipilvistä.
+speaker1:部分多云。
+speaker2:On puolipilvistä.
+speaker1:On ukkonen.
+speaker2:有雷暴。
+speaker1:On ukkonen.
+speaker2:On sumuista.
+speaker1:有雾。
+speaker2:On sumuista.
+speaker1:On kylmä ja on pilvistä.
+speaker2:天又冷又阴。
+speaker1:On kylmä ja on pilvistä.
+speaker2:Millainen sää siellä on?
+speaker1:你那里天气怎么样？
+speaker2:Millainen sää siellä on?
+speaker1:Täällä sataa vettä ja on puolipilvistä.
+speaker2:这里在下雨，而且是部分多云。
+speaker1:Täällä sataa vettä ja on puolipilvistä.
+speaker2:Täällä aurinko paistaa vähän.
+speaker1:这里太阳出来了一点。
+speaker2:Täällä aurinko paistaa vähän.
+speaker1:Täällä on myös puolipilvistä.
+speaker2:这里也是部分多云。
+speaker1:Täällä on myös puolipilvistä.
+speaker2:Täällä on puolipilvistä ja kylmä.
+speaker1:这里部分多云而且冷。
+speaker2:Täällä on puolipilvistä ja kylmä.
+speaker1:Täällä on hieno ilma.
+speaker2:这里天气很好。
+speaker1:Täällä on hieno ilma.
+speaker2:Täällä on puolipilvistä ja ukkonen.
+speaker1:这里部分多云并有雷暴。
+speaker2:Täällä on puolipilvistä ja ukkonen.
+speaker1:Täällä on kylmä ja aurinko paistaa.
+speaker2:这里天气冷，但阳光明媚。
+speaker1:Täällä on kylmä ja aurinko paistaa.
+speaker2:Täällä on kylmä, mutta aurinko paistaa.
+speaker1:这里天气冷，但是阳光明媚。
+speaker2:Täällä on kylmä, mutta aurinko paistaa.
+speaker1:KOTITEHTÄVÄT: Lue vihko! Katso videot! Opettele sanoja (viikonpäivät, sää)!
+speaker2:家庭作业：读笔记本！看视频！学习单词（星期几，天气）！
+speaker1:KOTITEHTÄVÄT: Lue vihko! Katso videot! Opettele sanoja (viikonpäivät, sää)!
+speaker2:Minun ystävä asuu tässä kaupungissa.
+speaker1:我的朋友住在这个城市。
+speaker2:Minun ystävä asuu tässä kaupungissa.
+speaker1:Minun ystävä muuttaa tähän kaupunkiin.
+speaker2:我的朋友要搬到这个城市来。
+speaker1:Minun ystävä muuttaa tähän kaupunkiin.
+speaker2:Mikä päivä tänään on?
+speaker1:今天是星期几？
+speaker2:Mikä päivä tänään on?
+speaker1:Tänään on torstai.
+speaker2:今天是星期四。
+speaker1:Tänään on torstai.
+speaker2:Mikä päivä huomenna on?
+speaker1:明天是星期几？
+speaker2:Mikä päivä huomenna on?
+speaker1:Huomenna on perjantai.
+speaker2:明天是星期五。
+speaker1:Huomenna on perjantai.
+speaker2:Mikä päivä ylihuomenna on?
+speaker1:后天是星期几？
+speaker2:Mikä päivä ylihuomenna on?
+speaker1:Ylihuomenna on lauantai.
+speaker2:后天是星期六。
+speaker1:Ylihuomenna on lauantai.
+speaker2:Mikä päivä eilen oli?
+speaker1:昨天是星期几？
+speaker2:Mikä päivä eilen oli?
+speaker1:Eilen oli keskiviikko.
+speaker2:昨天是星期三。
+speaker1:Eilen oli keskiviikko.
+speaker2:Mikä päivä toissa päivänä oli?
+speaker1:前天是星期几？
+speaker2:Mikä päivä toissa päivänä oli?
+speaker1:Toissa päivänä oli tiistai.
+speaker2:前天是星期二。
+speaker1:Toissa päivänä oli tiistai.
+speaker2:Milloin? ≠ Millä?
+speaker1:什么时候？ ≠ 乘坐什么？
+speaker2:Milloin? ≠ Millä?
+speaker1:Milloin sinä menet kauppaan?
+speaker2:你什么时候去商店？
+speaker1:Milloin sinä menet kauppaan?
+speaker2:Minä menen kauppaan sunnuntaina.
+speaker1:我星期天去商店。
+speaker2:Minä menen kauppaan sunnuntaina.
+speaker1:Milloin sinä menet kirjastoon?
+speaker2:你什么时候去图书馆？
+speaker1:Milloin sinä menet kirjastoon?
+speaker2:Minä menen kirjastoon tiistaina.
+speaker1:我星期二去图书馆。
+speaker2:Minä menen kirjastoon tiistaina.
+speaker1:Milloin sinä menet puistoon?
+speaker2:你什么时候去公园？
+speaker1:Milloin sinä menet puistoon?
+speaker2:Minä menen puistoon viikonloppuna.
+speaker1:我周末去公园。
+speaker2:Minä menen puistoon viikonloppuna.
+speaker1:Minä menen kauppaan huomenna.
+speaker2:我明天去商店。
+speaker1:Minä menen kauppaan huomenna.
+speaker2:Minä menen kauppaan ylihuomenna.
+speaker1:我后天去商店。
+speaker2:Minä menen kauppaan ylihuomenna.
+speaker1:Minä menin kauppaan eilen.
+speaker2:我昨天去了商店。
+speaker1:Minä menin kauppaan eilen.
+speaker2:Minä menin kauppaan toissa päivänä.
+speaker1:我前天去了商店。
+speaker2:Minä menin kauppaan toissa päivänä.
+speaker1:Millainen sää tänään on?
+speaker2:今天天气怎么样？
+speaker1:Millainen sää tänään on?
+speaker2:Tänään on pilvistä.
+speaker1:今天多云。
+speaker2:Tänään on pilvistä.
+speaker1:Millainen sää huomenna on?
+speaker2:明天天气怎么样？
+speaker1:Millainen sää huomenna on?
+speaker2:Huomenna on puolipilvistä.
+speaker1:明天部分多云。
+speaker2:Huomenna on puolipilvistä.
+speaker1:Millainen sää ylihuomenna on?
+speaker2:后天天气怎么样？
+speaker1:Millainen sää ylihuomenna on?
+speaker2:Ylihuomenna sataa vettä.
+speaker1:后天会下雨。
+speaker2:Ylihuomenna sataa vettä.
+speaker1:aurinko paistaa = paistaa aurinko
+speaker2:太阳照耀 (两种语序)
+speaker1:aurinko paistaa = paistaa aurinko
+speaker2:Millainen sää eilen oli?
+speaker1:昨天天气怎么样？
+speaker2:Millainen sää eilen oli?
+speaker1:Eilen oli pilvistä.
+speaker2:昨天多云。
+speaker1:Eilen oli pilvistä.
+speaker2:Millainen sää toissa päivänä oli?
+speaker1:前天天气怎么样？
+speaker2:Millainen sää toissa päivänä oli?
+speaker1:Toissa päivänä satoi vettä.
+speaker2:前天下雨了。
+speaker1:Toissa päivänä satoi vettä.
+speaker2:Millainen sää lauantaina on?
+speaker1:周六天气怎么样？ (未来)
+speaker2:Millainen sää lauantaina on?
+speaker1:Lauantaina on pilvistä.
+speaker2:周六会多云。
+speaker1:Lauantaina on pilvistä.
+speaker2:Lauantaina sataa vettä.
+speaker1:周六会下雨。
+speaker2:Lauantaina sataa vettä.
+speaker1:Millainen sää lauantaina oli?
+speaker2:上周六天气怎么样？ (过去)
+speaker1:Millainen sää lauantaina oli?
+speaker2:Lauantaina oli pilvistä.
+speaker1:上周六多云。
+speaker2:Lauantaina oli pilvistä.
+speaker1:Lauantaina satoi vettä.
+speaker2:上周六下雨了。
+speaker1:Lauantaina satoi vettä.
+speaker2:Millainen sää Oulussa on?
+speaker1:奥卢天气怎么样？
+speaker2:Millainen sää Oulussa on?
+speaker1:Oulussa on pilvistä.
+speaker2:奥卢多云。
+speaker1:Oulussa on pilvistä.
+speaker2:Millainen sää Raumalla on?
+speaker1:劳马天气怎么样？
+speaker2:Millainen sää Raumalla on?
+speaker1:Raumalla on pilvistä ja ukkonen.
+speaker2:劳马多云并有雷暴。
+speaker1:Raumalla on pilvistä ja ukkonen.
+speaker2:Täällä on pilvistä.
+speaker1:这里多云。
+speaker2:Täällä on pilvistä.
