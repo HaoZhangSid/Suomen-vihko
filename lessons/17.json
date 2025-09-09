@@ -1,0 +1,42 @@
+{
+    "day": "tiistai 9. syyskuuta 2025",
+    "entries": [
+        { "category": "方向·问路", "finnish": "Anteeksi, missä on kauppa?", "chinese": "请问，商店在哪里？" },
+        { "finnish": "Anteeksi, missä on kirjasto?", "chinese": "请问，图书馆在哪里？" },
+        { "finnish": "Anteeksi, missä on posti?", "chinese": "请问，邮局在哪里？" },
+        { "finnish": "Anteeksi, missä on apteekki?", "chinese": "请问，药店在哪里？" },
+
+        { "category": "方向·指令", "finnish": "Mene suoraan.", "chinese": "直走。" },
+        { "finnish": "Käänny vasemmalle.", "chinese": "向左转。" },
+        { "finnish": "Käänny oikealle.", "chinese": "向右转。" },
+        { "finnish": "Seis.", "chinese": "停。" },
+        { "finnish": "Stop.", "chinese": "停。" },
+        { "finnish": "Pysähdy.", "chinese": "停下。" },
+        { "finnish": "Mene suoraan ja käänny vasemmalle.", "chinese": "直走然后左转。" },
+        { "finnish": "Mene suoraan ja käänny oikealle.", "chinese": "直走然后右转。" },
+        { "finnish": "Mene suoraan. Sitten käänny vasemmalle.", "chinese": "直走，然后左转。" },
+        { "finnish": "Mene suoraan. Sitten käänny oikealle.", "chinese": "直走，然后右转。" },
+        { "finnish": "taas", "chinese": "再次" },
+        { "finnish": "sitten", "chinese": "然后" },
+        { "finnish": "lopuksi", "chinese": "最后" },
+
+        { "category": "方向·词汇", "finnish": "oikea", "chinese": "右" },
+        { "finnish": "vasen", "chinese": "左" },
+        { "finnish": "suora", "chinese": "直" },
+        { "finnish": "Minne? / Mihin?", "chinese": "去哪里？/ 到哪里？" },
+        { "finnish": "oikealle", "chinese": "向右" },
+        { "finnish": "vasemmalle", "chinese": "向左" },
+        { "finnish": "suoraan", "chinese": "直行" },
+
+        { "category": "方向·例句", "finnish": "Anteeksi, missä on juna-asema?", "chinese": "请问，火车站在哪里？" },
+        { "finnish": "Mene suoraan ja käänny vasemmalle kahden korttelin jälkeen.", "chinese": "直走，两条街后左转。" },
+        { "finnish": "Käänny oikealle liikennevaloissa.", "chinese": "在红绿灯处右转。" },
+        { "finnish": "Mene suoraan sata metriä ja pysähdy.", "chinese": "直走一百米然后停下。" },
+        { "finnish": "Pankki on vasemmalla puolella tietä.", "chinese": "银行在道路左侧。" },
+        { "finnish": "Kahvila on kirjaston vieressä.", "chinese": "咖啡馆在图书馆旁边。" },
+        { "finnish": "Missä on lähin apteekki?", "chinese": "最近的药店在哪里？" },
+        { "finnish": "Se on tuolla, mene suoraan ja käänny oikealle.", "chinese": "在那边，直走然后右转。" }
+    ]
+}
+
+ 
