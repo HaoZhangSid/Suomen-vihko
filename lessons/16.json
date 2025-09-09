@@ -1,0 +1,52 @@
+{
+    "day": "maanantai 8. syyskuuta 2025",
+    "entries": [
+        { "finnish": "Miltä sinusta tuntuu?", "chinese": "你感觉怎么样？" },
+        { "finnish": "Minä olen iloinen.", "chinese": "我很开心。" },
+        { "finnish": "Minä olen surullinen.", "chinese": "我很伤心。" },
+        { "finnish": "Minä olen vihainen.", "chinese": "我很生气。" },
+        { "finnish": "Minä olen väsynyt.", "chinese": "我很累。" },
+        { "finnish": "Minä olen rakastunut.", "chinese": "我恋爱了。" },
+        { "finnish": "Oletko iloinen?", "chinese": "你开心吗？" },
+        { "finnish": "Oletko vihainen?", "chinese": "你生气吗？" },
+        { "finnish": "Oletko surullinen?", "chinese": "你伤心吗？" },
+        { "finnish": "Oletko väsynyt?", "chinese": "你累吗？" },
+        { "finnish": "Joo, olen. / Kyllä.", "chinese": "是的。" },
+        { "finnish": "En. / En ole.", "chinese": "不。/ 不是。" },
+        { "finnish": "Kiva kuulla.", "chinese": "很高兴听到。" },
+        { "finnish": "Ikävä kuulla.", "chinese": "很遗憾听到。" },
+        { "finnish": "Olen todella / tosi / hyvin väsynyt.", "chinese": "我非常累。" },
+        { "finnish": "Olen vähän / hieman väsynyt.", "chinese": "我有点累。" },
+
+        { "finnish": "On maanantai. Virtaset muuttavat.", "chinese": "今天是星期一。维尔塔宁一家在搬家。" },
+        { "finnish": "Osoite on Kaivutie 8.", "chinese": "地址是掘路8号。" },
+        { "finnish": "Joonas Virtanen on pihalla.", "chinese": "尤纳斯·维尔塔宁在院子里。" },
+        { "finnish": "Hei, kuka sinä olet?", "chinese": "嗨，你是谁？" },
+        { "finnish": "Minä olen Joonas Virtanen.", "chinese": "我是尤纳斯·维尔塔宁。" },
+        { "finnish": "Minun etunimi on Joonas ja sukunimi on Virtanen.", "chinese": "我的名字叫Joonas，姓Virtanen。" },
+        { "finnish": "Kuka sinä olet?", "chinese": "你是谁？" },
+        { "finnish": "Minä olen Abdi.", "chinese": "我是阿卜迪。" },
+        { "finnish": "Pihalle tulee tyttö.", "chinese": "一个女孩走到院子里。" },
+        { "finnish": "Hei! Kuka sinä olet?", "chinese": "嗨！你是谁？" },
+        { "finnish": "Minä olen Sahra.", "chinese": "我是萨赫拉。" },
+        { "finnish": "Hän on Joonas.", "chinese": "他是尤纳斯。" },
+        { "finnish": "Mitä kieltä sinä puhut?", "chinese": "你说什么语言？" },
+        { "finnish": "Minä puhun somaliaa.", "chinese": "我说索马里语。" },
+        { "finnish": "Minä olen somalialainen.", "chinese": "我是索马里人。" },
+        { "finnish": "Puhutko sinä somaliaa?", "chinese": "你会说索马里语吗？" },
+        { "finnish": "En. Minä puhun suomea, koska olen suomalainen.", "chinese": "不会。我说芬兰语，因为我是芬兰人。" },
+        { "finnish": "Minun äiti puhuu myös ruotsia.", "chinese": "我妈妈也会说瑞典语。" },
+        { "finnish": "Tervetuloa!", "chinese": "欢迎！" },
+
+        { "finnish": "Minä olen Leevi.", "chinese": "我是列维。" },
+        { "finnish": "Huomenna on tiistai.", "chinese": "明天是星期二。" },
+        { "finnish": "Opettajalla on nuha.", "chinese": "老师感冒流鼻涕。" },
+        { "finnish": "Syksy alkaa syyskuussa.", "chinese": "秋天在九月开始。" },
+        { "finnish": "Minun äidinkieli on suomi.", "chinese": "我的母语是芬兰语。" },
+        { "finnish": "Minun kotimaa on Suomi.", "chinese": "我的祖国是芬兰。" },
+        { "finnish": "Syön yöllä myöhään.", "chinese": "我晚上很晚才吃。" },
+        { "finnish": "Joulupukki tulee joulukuussa.", "chinese": "圣诞老人十二月来。" }
+    ]
+}
+
+

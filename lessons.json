@@ -58,5 +58,13 @@
     {
         "day": "perjantai 5. syyskuuta 2025",
         "path": "lessons/15.json"
+    },
+    {
+        "day": "maanantai 8. syyskuuta 2025",
+        "path": "lessons/16.json"
+    },
+    {
+        "day": "疑问句",
+        "path": "lessons/0.json"
     }
 ]

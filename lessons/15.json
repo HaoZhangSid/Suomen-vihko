@@ -1,5 +1,5 @@
 {
-  "day": "Lauantai 6. syyskuuta 2025",
+  "day": "Maanantai 8. syyskuuta 2025",
   "entries": [
     {
       "category": "单词：身体部位",
@@ -67,12 +67,16 @@
       "chinese": "脖子"
     },
     {
-      "finnish": "hartia",
-      "chinese": "肩膀"
+      "finnish": "niska",
+      "chinese": "脖颈"
     },
     {
-      "finnish": "rinta",
-      "chinese": "胸"
+      "finnish": "olkapää, olkapäät",
+      "chinese": "肩膀 (单数, 复数)"
+    },
+    {
+      "finnish": "rinta, rinnat",
+      "chinese": "胸 (单数, 复数)"
     },
     {
       "finnish": "selkä",
@@ -95,16 +99,16 @@
       "chinese": "手臂"
     },
     {
-      "finnish": "kyynärpää",
-      "chinese": "手肘"
+      "finnish": "kyynärpää, kyynärpäät",
+      "chinese": "手肘 (单数, 复数)"
     },
     {
-      "finnish": "ranne",
-      "chinese": "手腕"
+      "finnish": "ranne, ranteet",
+      "chinese": "手腕 (单数, 复数)"
     },
     {
-      "finnish": "sormi",
-      "chinese": "手指"
+      "finnish": "sormi, sormet",
+      "chinese": "手指 (单数, 复数)"
     },
     {
       "finnish": "kynsi",
@@ -119,24 +123,69 @@
       "chinese": "大腿"
     },
     {
-      "finnish": "polvi",
-      "chinese": "膝盖"
+      "finnish": "polvi, polvet",
+      "chinese": "膝盖 (单数, 复数)"
     },
     {
-      "finnish": "nilkka",
-      "chinese": "脚踝"
+      "finnish": "nilkka, nilkat",
+      "chinese": "脚踝 (单数, 复数)"
     },
     {
       "finnish": "jalkaterä",
       "chinese": "脚掌"
     },
     {
-      "finnish": "varvas",
-      "chinese": "脚趾"
+      "finnish": "varvas, varpaat",
+      "chinese": "脚趾 (单数, 复数)"
     },
     {
       "finnish": "takapuoli",
       "chinese": "臀部"
+    },
+    {
+      "category": "单词：家庭",
+      "finnish": "äiti",
+      "chinese": "妈妈"
+    },
+    {
+      "finnish": "isä",
+      "chinese": "爸爸"
+    },
+    {
+      "finnish": "mies",
+      "chinese": "丈夫"
+    },
+    {
+      "finnish": "vaimo",
+      "chinese": "妻子"
+    },
+    {
+      "finnish": "lapsi",
+      "chinese": "孩子"
+    },
+    {
+      "finnish": "tyttö / tytär",
+      "chinese": "女孩 / 女儿"
+    },
+    {
+      "finnish": "poika",
+      "chinese": "男孩 / 儿子"
+    },
+    {
+      "finnish": "sisko (pikkusisko)",
+      "chinese": "姐妹 (妹妹)"
+    },
+    {
+      "finnish": "veli (pikkuveli)",
+      "chinese": "兄弟 (弟弟)"
+    },
+    {
+      "finnish": "anoppi",
+      "chinese": "岳母 / 婆婆"
+    },
+    {
+      "finnish": "appi",
+      "chinese": "岳父 / 公公"
     },
     {
       "category": "单词：对比词汇",
@@ -164,17 +213,90 @@
       "chinese": "海关"
     },
     {
+      "category": "单词：数字与序数词",
+      "finnish": "yksi (1)",
+      "chinese": "一"
+    },
+    {
+      "finnish": "ensimmäinen (1.)",
+      "chinese": "第一"
+    },
+    {
+      "finnish": "toinen (2.)",
+      "chinese": "第二"
+    },
+    {
+      "finnish": "kolmas (3.)",
+      "chinese": "第三"
+    },
+    {
+      "finnish": "neljäs (4.)",
+      "chinese": "第四"
+    },
+    {
+      "finnish": "viides (5.)",
+      "chinese": "第五"
+    },
+    {
+      "finnish": "kuudes (6.)",
+      "chinese": "第六"
+    },
+    {
+      "finnish": "seitsemäs (7.)",
+      "chinese": "第七"
+    },
+    {
+      "finnish": "kahdeksas (8.)",
+      "chinese": "第八"
+    },
+    {
+      "finnish": "yhdeksäs (9.)",
+      "chinese": "第九"
+    },
+    {
+      "finnish": "kymmenes (10.)",
+      "chinese": "第十"
+    },
+    {
+      "finnish": "yhdestoista (11.)",
+      "chinese": "第十一"
+    },
+    {
+      "finnish": "kahdestoista (12.)",
+      "chinese": "第十二"
+    },
+    {
+      "finnish": "tuhat",
+      "chinese": "千"
+    },
+    {
+      "finnish": "sata",
+      "chinese": "百"
+    },
+    {
       "category": "句子：日常问候",
       "finnish": "Mitä (sinulle) kuuluu?",
       "chinese": "你好吗？"
     },
     {
-      "finnish": "Hyvää, kiitos.",
+      "finnish": "Hyvää, kiitos. / Hyvin, kiitos.",
       "chinese": "很好，谢谢。"
     },
     {
       "finnish": "Entä sinulle? / Entä sulle?",
       "chinese": "你呢？"
+    },
+    {
+      "finnish": "Oletko ok?",
+      "chinese": "你还好吗？"
+    },
+    {
+      "finnish": "Kyllä.",
+      "chinese": "是的。"
+    },
+    {
+      "finnish": "En.",
+      "chinese": "不 / 不是。"
     },
     {
       "finnish": "Nauti viikonlopusta!",
@@ -186,14 +308,6 @@
       "chinese": "今天是星期五。"
     },
     {
-      "finnish": "Huomenna on lauantai.",
-      "chinese": "明天是星期六。"
-    },
-    {
-      "finnish": "Ylihuomenna on sunnuntai.",
-      "chinese": "后天是星期日。"
-    },
-    {
       "finnish": "Eilen oli torstai.",
       "chinese": "昨天是星期四。"
     },
@@ -202,12 +316,48 @@
       "chinese": "前天是星期三。"
     },
     {
+      "finnish": "Huomenna on lauantai.",
+      "chinese": "明天是星期六。"
+    },
+    {
+      "finnish": "Ylihuomenna on sunnuntain.",
+      "chinese": "后天是星期日。"
+    },
+    {
+      "finnish": "Kello on...",
+      "chinese": "现在...点。"
+    },
+    {
+      "finnish": "Kello on puoli kymmenen.",
+      "chinese": "现在是九点半。(9:30)"
+    },
+    {
+      "finnish": "Kello on kahdeksan yli yhdeksän.",
+      "chinese": "现在是九点过八分。(9:08)"
+    },
+    {
+      "finnish": "Kello on 27 vaille 10.",
+      "chinese": "现在是差27分十点。(9:33)"
+    },
+    {
+      "finnish": "Mikä vuosi nyt on?",
+      "chinese": "今年是哪一年？"
+    },
+    {
+      "finnish": "Nyt on vuosi 2025.",
+      "chinese": "现在是2025年。"
+    },
+    {
       "finnish": "Nyt on syksy.",
       "chinese": "现在是秋天。"
     },
     {
       "finnish": "Vuodenajat ovat talvi, kevät, kesä ja syksy.",
       "chinese": "一年四季是冬、春、夏、秋。"
+    },
+    {
+      "finnish": "Seuraava vuodenaika on talvi.",
+      "chinese": "下一个季节是冬天。"
     },
     {
       "finnish": "Täällä aurinko paistaa.",
@@ -222,11 +372,36 @@
       "chinese": "这里多云并且寒冷。"
     },
     {
-      "category": "句子：健康与感受",
+      "finnish": "Sää on aurinkoinen täällä.",
+      "chinese": "这里天气晴朗。"
+    },
+    {
+      "category": "句子：提问",
       "finnish": "Mikä hätänä? / Mikä sinulla on hätänä?",
       "chinese": "怎么了？/ 你怎么了？"
     },
     {
+      "finnish": "Mikä kuukausi on...? Esim. Mikä kuukausi on viides kuukausi?",
+      "chinese": "...是几月？例如：第五个月是几月？"
+    },
+    {
+      "finnish": "Mikä vuodenaika nyt on?",
+      "chinese": "现在是什么季节？"
+    },
+    {
+      "finnish": "Mikä on paras vuodenaika?",
+      "chinese": "哪个是最好的季节？"
+    },
+    {
+      "finnish": "Milloin sinä olet syntynyt?",
+      "chinese": "你是什么时候出生的？"
+    },
+    {
+      "finnish": "Mitä sinä teet viikonloppuna?",
+      "chinese": "你周末做什么？"
+    },
+    {
+      "category": "句子：健康与感受",
       "finnish": "Minulla on kipeä.",
       "chinese": "我病了 / 我疼。"
     },
@@ -267,8 +442,8 @@
       "chinese": "我喉咙疼。"
     },
     {
-      "finnish": "Minulla on flunssa.",
-      "chinese": "我感冒了。"
+      "finnish": "Minulla on flunssa. / Minulla on nuha.",
+      "chinese": "我感冒了。/ 我流鼻涕了。"
     },
     {
       "finnish": "Minulla on kuume / kuumetta.",
@@ -279,13 +454,29 @@
       "chinese": "我感觉恶心 / 不舒服。"
     },
     {
-      "category": "句子：个人活动",
+      "finnish": "Hänellä on kuume.",
+      "chinese": "她/他发烧了。"
+    },
+    {
+      "category": "句子：个人信息与活动",
       "finnish": "Minä asun...",
       "chinese": "我住在..."
     },
     {
-      "finnish": "Mitä sinä teet viikonloppuna?",
-      "chinese": "你周末做什么？"
+      "finnish": "Minun pikkusisko asuu Kiinassa.",
+      "chinese": "我的妹妹住在中国。"
+    },
+    {
+      "finnish": "Minä olen syntynyt...",
+      "chinese": "我出生于..."
+    },
+    {
+      "finnish": "Minä olen filippiiniläinen.",
+      "chinese": "我是菲律宾人。"
+    },
+    {
+      "finnish": "Minä puhun portugalia, espanjaa, englantia ja vähän italiaa.",
+      "chinese": "我说葡萄牙语、西班牙语、英语和一点意大利语。"
     },
     {
       "finnish": "Minä lepään.",
@@ -308,7 +499,7 @@
       "chinese": "我去公园。"
     },
     {
-      "finnish": "Minä käyn kaupassa.",
+      "finnish": "Minä käyn kaupassa. / Minä menen kauppaan.",
       "chinese": "我去商店。"
     },
     {
@@ -322,6 +513,40 @@
     {
       "finnish": "Minä kuuntelen musiikkia.",
       "chinese": "我听音乐。"
+    },
+    {
+      "finnish": "Minä herään yleensä...",
+      "chinese": "我通常...起床。"
+    },
+    {
+      "finnish": "Minun miehellä on syntymäpäivä, ja me menemme juhlimaan.",
+      "chinese": "我丈夫过生日，我们要去庆祝。"
+    },
+    {
+      "category": "句子：观点与喜好",
+      "finnish": "Minusta paras vuodenaika on kesä.",
+      "chinese": "我认为最好的季节是夏天。"
+    },
+    {
+      "finnish": "Paras kuukausi on joulukuu, koska silloin on joulu.",
+      "chinese": "最好的月份是十二月，因为那时是圣诞节。"
+    },
+    {
+      "category": "句子：其他",
+      "finnish": "Odota!",
+      "chinese": "等一下！"
+    },
+    {
+      "finnish": "Aloitetaan!",
+      "chinese": "我们开始吧！"
+    },
+    {
+      "finnish": "Siinä kaikki.",
+      "chinese": "就这些了。"
+    },
+    {
+      "finnish": "Pese kädet!",
+      "chinese": "洗手！"
     }
   ]
 }
