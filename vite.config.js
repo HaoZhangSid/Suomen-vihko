@@ -9,6 +9,9 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       injectRegister: 'auto',
+      devOptions: {
+        enabled: true
+      },
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,png,svg,json,wav}']
       },
@@ -18,12 +21,13 @@ export default defineConfig({
         description: 'Finnish language learning notes app.',
         theme_color: '#ffffff',
         icons: [
-          {
-            src: 'vite.svg',
-            sizes: 'any',
-            type: 'image/svg+xml'
-          }
-        ]
+          { src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png' },
+          { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png' }
+        ],
+        display: 'standalone',
+        start_url: '.',
+        scope: '.',
+        background_color: '#ffffff'
       }
     })
   ],

@@ -1,0 +1,41 @@
+{
+    "day": "torstai 11. syyskuuta 2025",
+    "entries": [
+        { "category": "价格·问句", "finnish": "Mitä tämä maksaa?", "chinese": "这个多少钱？" },
+        { "finnish": "Paljonko tämä maksaa?", "chinese": "这个多少钱？" },
+        { "finnish": "Kuinka paljon tämä maksaa?", "chinese": "这个多少钱？" },
+        { "finnish": "Mitä nämä maksavat?", "chinese": "这些多少钱？" },
+        { "finnish": "Se maksaa…", "chinese": "它要……。" },
+        { "finnish": "Ne maksavat…", "chinese": "它们要……。" },
+        { "finnish": "Mitä X ja Y maksavat yhteensä?", "chinese": "X和Y一共多少钱？" },
+        { "finnish": "Ne maksavat yhteensä …", "chinese": "它们总共……。" },
+
+        { "category": "商店·物品", "finnish": "kirja", "chinese": "书" },
+        { "finnish": "kynä", "chinese": "笔" },
+        { "finnish": "läppäri / kannettava tietokone", "chinese": "笔记本电脑" },
+        { "finnish": "kengät", "chinese": "鞋子" },
+        { "finnish": "housut", "chinese": "裤子" },
+        { "finnish": "hattu", "chinese": "帽子" },
+        { "finnish": "pipo", "chinese": "针织帽" },
+        { "finnish": "silmälasit", "chinese": "眼镜" },
+        { "finnish": "sakset", "chinese": "剪刀" },
+        { "finnish": "puku", "chinese": "西装" },
+
+        { "category": "金额表达", "finnish": "1 € = yksi euro", "chinese": "1欧=一欧元" },
+        { "finnish": "0,5 € = puoli euroa", "chinese": "0.5欧=半欧元" },
+        { "finnish": "10 € = kymmenen euroa", "chinese": "10欧" },
+        { "finnish": "50 € = viisikymmentä euroa", "chinese": "50欧" },
+        { "finnish": "100 € = sata euroa", "chinese": "100欧" },
+        { "finnish": "3,75 € = kolme euroa ja seitsemänkymmentäviisi senttiä", "chinese": "3,75欧" },
+        { "finnish": "Yhteensä 3,75 €.", "chinese": "一共3,75欧。" },
+
+        { "category": "复习·点单", "finnish": "Mitä saisi olla?", "chinese": "您要点什么？" },
+        { "finnish": "Saisinko …?", "chinese": "能给我……吗？" },
+        { "finnish": "Paljonko laitetaan?", "chinese": "要多少？" },
+        { "finnish": "Entä muuta? / Tuleeko muuta?", "chinese": "还要别的吗？" },
+        { "finnish": "200 grammaa nautaa, kiitos.", "chinese": "200克牛肉，谢谢。" },
+        { "finnish": "Vielä 500 grammaa kanaa, kiitos.", "chinese": "再来500克鸡肉，谢谢。" }
+    ]
+}
+
+

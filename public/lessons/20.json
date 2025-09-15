@@ -1,0 +1,63 @@
+{
+  "day": "perjantai 12. syyskuuta 2025",
+  "entries": [
+    { "category": "Vastaa kysymyksiin", "finnish": "Mitä kuuluu?", "chinese": "你好吗？" },
+    { "finnish": "Hyvin, kiitos.", "chinese": "很好，谢谢。" },
+
+    { "finnish": "Kuka sinä olet?", "chinese": "你是谁？" },
+    { "finnish": "Minä olen Hao.", "chinese": "我是浩。" },
+
+    { "finnish": "Mikä sinun etunimi on?", "chinese": "你的名字是什么？" },
+    { "finnish": "Minun etunimi on Hao.", "chinese": "我的名字叫浩。" },
+
+    { "finnish": "Mikä sinun sukunimi on?", "chinese": "你的姓是什么？" },
+    { "finnish": "Minun sukunimi on Zhang.", "chinese": "我的姓是Zhang。" },
+
+    { "finnish": "Missä sinä asut?", "chinese": "你住在哪里？" },
+    { "finnish": "Minä asun Turussa.", "chinese": "我住在图尔库。" },
+
+    { "finnish": "Minkä maalainen sinä olet?", "chinese": "你是哪国人？" },
+    { "finnish": "Minä olen Kiinalainen.", "chinese": "我是中国人。" },
+
+    { "finnish": "Mitä kieltä sinä puhut?", "chinese": "你说什么语言？" },
+    { "finnish": "Minä puhun Kiina englantia ja vahan suomea.", "chinese": "我说中文、英语和一点芬兰语。" },
+
+    { "finnish": "Millainen perhe sinulla on?", "chinese": "你有一个什么样的家庭？" },
+    { "finnish": "Minulla on vanhemmat vaimo ja pikkusisko.", "chinese": "我有父母,妻子,和一个妹妹。" },
+
+    { "finnish": "Millainen sää siellä on?", "chinese": "你那里天气怎么样？" },
+    { "finnish": "Täällä on kylmä ja sataa vettä", "chinese": "这里很冷,下雨了。" },
+
+    { "finnish": "Millä sinä menet yleensä kauppaan?", "chinese": "你通常怎么去商店？" },
+    { "finnish": "Minä menen autolla.", "chinese": "我开车去商店。" },
+
+    { "finnish": "Mikä päivä tänään on?", "chinese": "今天星期几？" },
+    { "finnish": "Tänään on maanantai.", "chinese": "今天是星期一。" },
+
+    { "finnish": "Mikä päivä eilen oli?", "chinese": "昨天是星期几？" },
+    { "finnish": "Eilen oli sunnuntai.", "chinese": "昨天是星期天。" },
+
+    { "finnish": "Mikä päivä toissa päivänä oli?", "chinese": "前天是星期几？" },
+    { "finnish": "Toissa päivänä oli lauantai.", "chinese": "前天是星期六。" },
+
+    { "finnish": "Mikä päivä huomenna on?", "chinese": "明天是星期几？" },
+    { "finnish": "Huomenna on tiistai.", "chinese": "明天是星期二。" },
+
+    { "finnish": "Mikä päivä ylihuomenna on?", "chinese": "后天是星期几？" },
+    { "finnish": "Ylihuomenna on keskiviikko.", "chinese": "后天是星期三。" },
+
+    { "finnish": "Mitä kello on?", "chinese": "现在几点？" },
+    { "finnish": "Kello on puoli kymmenen.", "chinese": "现在是九点半。" },
+
+    { "finnish": "Milloin sinä olet syntynyt?", "chinese": "你什么时候出生？" },
+    { "finnish": "Minä olen syntynyt seitsemäs toukokuuta tuhat yhdeksän sataa yhdeksänkymmentä.", "chinese": "我出生于1990年5月7日。" },
+
+    { "finnish": "Mistä sinä pidät? Sano kolme asiaa.", "chinese": "你喜欢什么？说三个。" },
+    { "finnish": "Pidän kahvista, musiikista ja elokuvista.", "chinese": "我喜欢咖啡、音乐和电影。" },
+
+    { "finnish": "Mistä sinä et pidä? Sano kolme asiaa.", "chinese": "你不喜欢什么？说三个。" },
+    { "finnish": "En pidä kylmästä, sateesta ja sumusta.", "chinese": "我不喜欢寒冷、下雨和大雾。" }
+  ]
+}
+
+

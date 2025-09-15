@@ -3,8 +3,10 @@
     import { 
         allCustomSelections, currentLessonIndex, customPlaybackList, 
         finnishPlaybackReps, chinesePlaybackReps, currentLessonData, 
-        finnishRate, enableSpellingMode, spellingPause
+        finnishRate, enableSpellingMode, spellingPause,
+        masteredMap, hideMastered, toggleMastered, isMastered
     } from '../store.js';
+    import { Eye, EyeOff, Maximize2, PictureInPicture, CheckCircle2, Circle, Filter, FilterX } from 'lucide-svelte';
     import SpeakerIcon from './SpeakerIcon.svelte';
     import { get } from 'svelte/store';
     import { fetchAsObjectUrlCached as fetchAsObjectUrl } from './googleTts.js';
@@ -81,13 +83,19 @@
     }
 
     function handleSelectItem(index) {
+        // do not select mastered items
+        if (isMastered($currentLessonIndex, index, $masteredMap)) return;
         const currentSelections = new Set($customPlaybackList);
         currentSelections.has(index) ? currentSelections.delete(index) : currentSelections.add(index);
         updateSelections(currentSelections);
     }
 
     function selectAll() {
-        const allIndices = new Set($currentLessonData.entries.map((_, i) => i));
+        const allIndices = new Set(
+            $currentLessonData.entries
+                .map((_, i) => i)
+                .filter(i => !isMastered($currentLessonIndex, i, $masteredMap))
+        );
         updateSelections(allIndices);
     }
 
@@ -98,7 +106,7 @@
     function selectWordsOnly() {
         const wordIndices = new Set($currentLessonData.entries
             .map((entry, i) => ({ entry, i }))
-            .filter(({ entry }) => !entry.finnish.includes(' ') && entry.finnish.length > 0)
+            .filter(({ entry, i }) => !entry.finnish.includes(' ') && entry.finnish.length > 0 && !isMastered($currentLessonIndex, i, $masteredMap))
             .map(({ i }) => i));
         updateSelections(wordIndices);
     }
@@ -106,7 +114,7 @@
     function selectSentencesOnly() {
         const sentenceIndices = new Set($currentLessonData.entries
             .map((entry, i) => ({ entry, i }))
-            .filter(({ entry }) => entry.finnish.includes(' '))
+            .filter(({ entry, i }) => entry.finnish.includes(' ') && !isMastered($currentLessonIndex, i, $masteredMap))
             .map(({ i }) => i));
         updateSelections(sentenceIndices);
     }
@@ -125,6 +133,21 @@
         try { htmlAudio.load(); } catch {}
     }
 
+    // --- Sorting helper: when showing mastered (hideMastered = false), put mastered items first ---
+    let sortedEntryItems = [];
+    $: if ($currentLessonData) {
+        const list = $currentLessonData.entries.map((entry, i) => ({ entry, i }));
+        if (!$hideMastered) {
+            list.sort((a, b) => {
+                const am = isMastered($currentLessonIndex, a.i, $masteredMap);
+                const bm = isMastered($currentLessonIndex, b.i, $masteredMap);
+                if (am === bm) return 0;
+                return am ? -1 : 1; // mastered first
+            });
+        }
+        sortedEntryItems = list;
+    }
+
     function stopAllPlayback() {
         resetAudioEl();
         revokeAllUrls();
@@ -141,6 +164,13 @@
         clearMediaSession();
     }
     
+    // Schedule advancing to avoid deep synchronous recursion/tight loops
+    function scheduleNextTick(fn){
+        try { setTimeout(fn, 0); } catch { fn(); }
+    }
+
+    let consecutiveFailures = 0;
+
     async function playNextInQueue() {
         if (currentPlaybackIndex >= playbackQueue.length) {
             if (isPlaying) {
@@ -162,7 +192,7 @@
         const nextStep = () => {
             if (isPaused) return; // do not advance when paused
             currentPlaybackIndex++;
-            playNextInQueue();
+            scheduleNextTick(playNextInQueue);
         };
 
         try {
@@ -172,12 +202,9 @@
 
             if (item.type === 'pause') {
                 const ms = item.pauseMs ?? pauseDurationValue;
-                if (preferHtmlLetters) {
-                    // Background tabs throttle timers heavily (iOS/Safari >= 1s). Advance immediately to avoid long gaps.
-                    nextStep();
-                } else {
-                    setTimeout(nextStep, ms);
-                }
+                // Always schedule via setTimeout to avoid synchronous tight loops
+                const delay = preferHtmlLetters ? 0 : ms;
+                setTimeout(nextStep, Math.max(0, delay));
                 return;
             }
 
@@ -195,20 +222,27 @@
                 htmlAudio.preload = 'auto';
             }
 
-            htmlAudio.onended = () => {
-                nextStep();
-            };
-            htmlAudio.onerror = () => {
-                console.error('Audio playback error for item:', item);
-                nextStep();
-            };
+            htmlAudio.onended = () => { consecutiveFailures = 0; nextStep(); };
+            htmlAudio.onerror = () => { console.error('Audio playback error for item:', item); consecutiveFailures++; if (consecutiveFailures > 20) { stopAllPlayback(); return; } nextStep(); };
 
             if (item.type === 'url') {
+                if (!item.src && item.text) {
+                    try {
+                        const url = await fetchAsObjectUrl(item.text, item.lang || 'fi-FI', item.rate || 1.0);
+                        item.src = url;
+                        allocatedUrls.push(url);
+                    } catch (e) {
+                        console.error('Lazy fetch TTS failed:', item.text, e);
+                        nextStep();
+                        return;
+                    }
+                }
                 htmlAudio.src = item.src;
                 currentlyPlayingFinnish = item.lang === 'fi-FI' ? (item.label || '') : currentlyPlayingFinnish;
                 if (item.f) { focusFinnish = item.f; }
                 if (item.c) { focusChinese = item.c; }
-                await htmlAudio.play();
+                drawPipCard(); updatePipCaption();
+                try { await htmlAudio.play(); consecutiveFailures = 0; } catch (e) { console.warn('play() rejected', e); consecutiveFailures++; if (consecutiveFailures > 20) { stopAllPlayback(); return; } nextStep(); return; }
                 isPaused = false;
             } else if (item.type === 'audio') {
                 // Prefer WebAudio for precise timing of letter spelling
@@ -246,14 +280,14 @@
                         };
                         htmlAudio.onerror = htmlAudio.onended;
                         htmlAudio.src = url;
-                        await htmlAudio.play();
+                        try { await htmlAudio.play(); consecutiveFailures = 0; } catch (e) { console.warn('play() rejected (letters stitched)', e); consecutiveFailures++; if (consecutiveFailures > 20) { stopAllPlayback(); return; } nextStep(); return; }
                         isPaused = false;
                         return; // handled by onended
                     } catch (e) {
                         // fallback to single letter HTMLAudio
                         const encoded = encodeURIComponent(item.letter);
                         htmlAudio.src = `audio/letters/${encoded}.wav`;
-                        await htmlAudio.play();
+                        try { await htmlAudio.play(); consecutiveFailures = 0; } catch (err) { console.warn('play() rejected (single letter)', err); consecutiveFailures++; if (consecutiveFailures > 20) { stopAllPlayback(); return; } nextStep(); return; }
                         isPaused = false;
                     }
                 }
@@ -263,7 +297,7 @@
             // Be tolerant of transient errors on mobile/background: advance to next item when not paused
             if (!isPaused) {
                 try { currentPlaybackIndex++; } catch {}
-                playNextInQueue();
+                scheduleNextTick(playNextInQueue);
             }
         }
     }
@@ -301,6 +335,32 @@
         const finnishReps = get(finnishPlaybackReps);
         const chineseReps = get(chinesePlaybackReps);
 
+        // 移动端：不做全量预取，改为懒加载，避免卡死/内存压力
+        if (isMobile) {
+            const queue = [];
+            for (const entry of entries) {
+                const finnishText = entry.finnish;
+                for (let i = 0; i < finnishReps; i++) {
+                    queue.push({ type: 'url', src: null, text: finnishText, lang: 'fi-FI', rate: baseRate, label: finnishText, f: finnishText, c: entry.chinese });
+                    if (spellMode && !finnishText.includes(' ')) {
+                        const letters = finnishText.toUpperCase().split('');
+                        letters.forEach((letter, index) => {
+                            queue.push({ type: 'audio', letter, lang: 'en-US', label: `Spell ${letter}` });
+                            if (index < letters.length - 1) queue.push({ type: 'pause', pauseMs: computeEffectivePauseMs() });
+                        });
+                        queue.push({ type: 'url', src: null, text: finnishText, lang: 'fi-FI', rate: baseRate, label: finnishText, f: finnishText, c: entry.chinese });
+                    }
+                }
+                for (let i = 0; i < chineseReps; i++) {
+                    queue.push({ type: 'url', src: null, text: entry.chinese, lang: 'zh-CN', rate: 1.0, label: entry.chinese, f: finnishText, c: entry.chinese });
+                }
+            }
+            // 轻量化进度：移动端不显示预取遮罩
+            prefetchTotal = 0; prefetchDone = 0; prefetchFailed = 0; isPrefetching = false;
+            return queue;
+        }
+
+        // 桌面端：保留原有预取，提升连贯性
         prefetchTotal = computePrefetchTotal(entries, finnishReps, chineseReps, spellMode);
         prefetchDone = 0;
         prefetchFailed = 0;
@@ -379,13 +439,20 @@
             return;
         }
         if (!$currentLessonData || !$currentLessonData.entries) return;
-        
+
+        // 仅播放：已勾选 且 未掌握 的条目
+        const indices = Array.from($customPlaybackList)
+            .filter(i => !isMastered($currentLessonIndex, i, $masteredMap))
+            .sort((a,b)=>a-b);
+        const entries = indices.map(i => $currentLessonData.entries[i]);
+        if (entries.length === 0) return;
+
         const originalFinnishReps = get(finnishPlaybackReps);
         const originalChineseReps = get(chinesePlaybackReps);
         finnishPlaybackReps.set(1);
         chinesePlaybackReps.set(1);
-        
-        await buildAndPlayQueue($currentLessonData.entries);
+
+        await buildAndPlayQueue(entries);
 
         finnishPlaybackReps.set(originalFinnishReps);
         chinesePlaybackReps.set(originalChineseReps);
@@ -400,9 +467,10 @@
             return;
         }
         
-        const selectedEntries = Array.from($customPlaybackList)
-            .sort((a, b) => a - b)
-            .map(index => $currentLessonData.entries[index]);
+        const selectedIndices = Array.from($customPlaybackList)
+            .filter(i => !isMastered($currentLessonIndex, i, $masteredMap))
+            .sort((a, b) => a - b);
+        const selectedEntries = selectedIndices.map(index => $currentLessonData.entries[index]);
 
         if (selectedEntries.length === 0) return;
         
@@ -536,6 +604,137 @@
         const blob = new Blob([wavHeader, pcm.buffer], { type: 'audio/wav' });
         return URL.createObjectURL(blob);
     }
+
+    // ----------------------- PiP (Picture-in-Picture) for Focus Card -----------------------
+    let pipVideo;
+    let pipStream;
+    let pipTrack;
+    // Generate a tiny placeholder MP4 dynamically (white frame, ~0.5s)
+    let cachedPipUrl = null;
+    function drawPipCard(){ /* no-op in placeholder mode */ }
+    function vttCue(start,end,text){
+        // Safari 私有 WebKitTextTrackCue 在类型定义中不存在，使用宽松访问
+        const W = /** @type {any} */ (window);
+        const C = W.VTTCue || W.TextTrackCue || W.WebKitTextTrackCue;
+        return new C(start,end,text);
+    }
+    function ensurePipTrack(){
+        if (!pipVideo) return;
+        if (!pipTrack) {
+            try {
+                pipTrack = pipVideo.addTextTrack('captions','Word','zh-CN');
+                pipTrack.mode = 'showing';
+            } catch(e) { console.warn('addTextTrack failed', e); }
+        }
+    }
+    function updatePipCaption(){
+        if (!pipTrack) return;
+        try {
+            // clear old cues
+            if (pipTrack.cues) {
+                for (let i=pipTrack.cues.length-1;i>=0;i--) pipTrack.removeCue(pipTrack.cues[i]);
+            }
+            const text = (focusFinnish || currentlyPlayingFinnish || '') + (focusChinese ? ('\n'+focusChinese) : '');
+            const cue = vttCue(0, 3600, text);
+            // Center horizontally & vertically, full width
+            try {
+                cue.align = 'center';
+                cue.position = 50; // percent from left
+                cue.size = 100;    // percent width
+                cue.snapToLines = false;
+                cue.line = 50;     // percent from top
+            } catch {}
+            pipTrack.addCue(cue);
+        } catch(e) { console.warn('updatePipCaption failed', e); }
+    }
+    async function buildPlaceholderVideoUrl(){
+        if (cachedPipUrl) return cachedPipUrl;
+        // 1) Prefer local /pip.mp4 if available
+        try {
+            const head = await fetch('pip.mp4', { method: 'HEAD' });
+            if (head.ok) return 'pip.mp4';
+        } catch {}
+        // 2) Try dynamic generation
+        try {
+            const cvs = document.createElement('canvas');
+            cvs.width = 640; cvs.height = 360;
+            const ctx = cvs.getContext('2d');
+            ctx.fillStyle = '#fff'; ctx.fillRect(0,0,cvs.width,cvs.height);
+            const stream = cvs.captureStream(30);
+            const chunks = [];
+            const type = 'video/mp4;codecs=h264';
+            if (!window.MediaRecorder || !MediaRecorder.isTypeSupported(type)) throw new Error('MediaRecorder unsupported');
+            const rec = new MediaRecorder(stream, { mimeType: type, videoBitsPerSecond: 200_000 });
+            rec.ondataavailable = (e)=>{ if (e.data && e.data.size) chunks.push(e.data); };
+            const done = new Promise(resolve=>{ rec.onstop = resolve; });
+            rec.start();
+            await new Promise(r=>setTimeout(r, 500));
+            rec.stop();
+            await done;
+            const blob = new Blob(chunks, { type });
+            cachedPipUrl = URL.createObjectURL(blob);
+            return cachedPipUrl;
+        } catch (e) {
+            console.warn('buildPlaceholderVideoUrl failed', e);
+            // Fallback: use a remote tiny mp4 (for validation only)
+            return 'https://mdn.github.io/dom-examples/picture-in-picture/assets/segment.mp4';
+        }
+    }
+    function canUsePip(){
+        const hasPiP = document.pictureInPictureEnabled && !!HTMLVideoElement.prototype.requestPictureInPicture;
+        // 使用 'in' 检测私有属性，避免类型错误
+        const hasWebkitPiP = 'webkitSetPresentationMode' in HTMLVideoElement.prototype;
+        return (hasPiP || hasWebkitPiP);
+    }
+    async function enterPip(){
+        if (!canUsePip()) return;
+        if (!pipVideo) {
+            pipVideo = document.createElement('video');
+            pipVideo.setAttribute('playsinline','');
+            pipVideo.playsInline = true;
+            pipVideo.controls = false;
+            pipVideo.muted = true; // 音频由现有播放器负责
+            pipVideo.loop = true;
+            pipVideo.disableRemotePlayback = true;
+            pipVideo.style.position = 'fixed';
+            pipVideo.style.left = '-9999px';
+            pipVideo.style.width = '1px';
+            pipVideo.style.height = '1px';
+            pipVideo.className = 'pip-video';
+            document.body.appendChild(pipVideo);
+        }
+        pipVideo.srcObject = null;
+        const url = await buildPlaceholderVideoUrl();
+        if (!url) { console.warn('No placeholder video available'); return; }
+        pipVideo.crossOrigin = 'anonymous';
+        pipVideo.src = url;
+        await new Promise(res=>{
+            if (pipVideo.readyState >= 1) return res();
+            pipVideo.onloadedmetadata = ()=> res();
+        });
+        ensurePipTrack();
+        updatePipCaption();
+        try { await pipVideo.play(); } catch (e) { console.warn('pipVideo.play() failed', e); }
+        try {
+            // Prefer WebKit path on iOS
+            const v = /** @type {any} */ (pipVideo);
+            if (v && typeof v.webkitSetPresentationMode === 'function') {
+                v.webkitSetPresentationMode('picture-in-picture');
+            } else if ('requestPictureInPicture' in pipVideo) {
+                await pipVideo.requestPictureInPicture();
+            }
+        } catch(e) { console.warn('PiP request failed', e); }
+    }
+    async function exitPip(){
+        try {
+            if (document.pictureInPictureElement) await document.exitPictureInPicture();
+            const v = /** @type {any} */ (pipVideo);
+            if (v && typeof v.webkitSetPresentationMode === 'function') v.webkitSetPresentationMode('inline');
+        } catch {}
+        if (pipVideo) { try { pipVideo.pause(); } catch {} }
+        pipStream = null;
+        if (cachedPipUrl) { try { URL.revokeObjectURL(cachedPipUrl); } catch {} cachedPipUrl=null; }
+    }
 </script>
 
 <!-- Main playback audio element -->
@@ -588,9 +787,20 @@
                 <span class="tabular-nums">{$spellingPause}ms</span>
             </div>
         </div>
-        <button class="ml-auto px-3 py-2 rounded-md border border-slate-300 bg-white hover:bg-slate-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500" on:click={toggleFocusMode}>
-            {focusMode ? '退出专注卡片' : '专注卡片模式'}
-        </button>
+        <div class="ml-auto flex items-center gap-2">
+            <button class="icon-btn" title={focusMode ? '退出专注卡片' : '专注卡片模式'} on:click={toggleFocusMode}>
+                <Maximize2 size={18} />
+            </button>
+            <button class="icon-btn" title={$hideMastered ? '显示已掌握' : '隐藏已掌握'} on:click={() => hideMastered.set(!$hideMastered)}>
+                {@html ''}
+                {#if $hideMastered}<Filter size={18} />{:else}<FilterX size={18} />{/if}
+            </button>
+            {#if canUsePip()}
+            <button class="icon-btn" title="画中画" on:click={enterPip}>
+                <PictureInPicture size={18} />
+            </button>
+            {/if}
+        </div>
     </div>
 
     {#if isPrefetching}
@@ -612,21 +822,26 @@
         </div>
 
         <div class="entries-grid grid grid-cols-1 sm:grid-cols-2 gap-3">
-            {#each $currentLessonData.entries as entry, i}
+            {#each sortedEntryItems as item}
+                {#if !($hideMastered && isMastered($currentLessonIndex, item.i, $masteredMap))}
                 <div class="entry-item rounded-lg border border-slate-200 p-3 hover:bg-slate-50 transition data-[selected=true]:bg-indigo-50 data-[selected=true]:border-indigo-500 focus-within:ring-2 focus-within:ring-indigo-500 data-[playing=true]:border-l-4 data-[playing=true]:border-l-indigo-600"
-                     data-selected={$customPlaybackList.has(i)} data-playing={currentlyPlayingFinnish===entry.finnish}
-                     on:click={() => !isPrefetching && handleSelectItem(i)}>
+                     data-selected={$customPlaybackList.has(item.i)} data-playing={currentlyPlayingFinnish===item.entry.finnish}
+                     on:click={() => !isPrefetching && handleSelectItem(item.i)}>
                     <div class="entry-header flex items-center justify-between mb-1">
                         <div class="flex items-center gap-2">
-                            <input class="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500" type="checkbox" checked={$customPlaybackList.has(i)} on:click|stopPropagation on:change={() => handleSelectItem(i)} disabled={isPrefetching} />
-                            <span class="finnish-text text-lg font-medium text-slate-900">{entry.finnish}</span>
+                            <input class="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500" type="checkbox" checked={$customPlaybackList.has(item.i)} on:click|stopPropagation on:change={() => handleSelectItem(item.i)} disabled={isPrefetching} />
+                            <span class="finnish-text text-lg font-medium text-slate-900">{item.entry.finnish}</span>
                         </div>
-                        <div>
-                            <SpeakerIcon text={entry.finnish} lang="fi-FI" />
+                        <div class="flex items-center gap-2">
+                            <button class="icon-btn" title={isMastered($currentLessonIndex, item.i, $masteredMap) ? '已掌握' : '标记掌握'} on:click|stopPropagation={() => { toggleMastered($currentLessonIndex, item.i); if ($customPlaybackList.has(item.i)) { const s = new Set($customPlaybackList); s.delete(item.i); updateSelections(s); } }}>
+                                {#if isMastered($currentLessonIndex, item.i, $masteredMap)}<CheckCircle2 size={18} />{:else}<Circle size={18} />{/if}
+                            </button>
+                            <SpeakerIcon text={item.entry.finnish} lang="fi-FI" />
                         </div>
                     </div>
-                    <p class="chinese-text text-slate-600 text-sm m-0">{entry.chinese}</p>
+                    <p class="chinese-text text-slate-600 text-sm m-0">{item.entry.chinese}</p>
                 </div>
+                {/if}
             {/each}
         </div>
     {:else}
@@ -673,5 +888,17 @@
         color: white;
     }
     @keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
+    /* Enlarge and beautify captions shown in PiP */
+    :global(.pip-video::cue) {
+      font-size: 20px;
+      line-height: 1.25;
+      color: #fff;
+      text-shadow: none;
+      white-space: 100%;
+      /* padding: 6px 10px; */
+      /* border-radius: 8px; */
+    }
+    .icon-btn { width:32px; height:32px; display:inline-flex; align-items:center; justify-content:center; border:1px solid #cbd5e1; border-radius:8px; background:#fff; color:#334155 }
+    .icon-btn:hover { background:#f1f5f9 }
 </style>
 

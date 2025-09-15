@@ -84,6 +84,31 @@ export const finnishPlaybackReps = writable(getLocalStorage('finnishPlaybackReps
 export const chinesePlaybackReps = writable(getLocalStorage('chinesePlaybackReps', 1));
 // --- End New Stores ---
 
+// --- Mastered items (per lesson) ---
+// Structure: { "0": { 0: true, 3: true }, "1": { 5: true } }
+function loadMastered() {
+  try { return JSON.parse(localStorage.getItem('masteredMap') || '{}'); } catch { return {}; }
+}
+export const masteredMap = writable(loadMastered());
+masteredMap.subscribe(v => { try { localStorage.setItem('masteredMap', JSON.stringify(v)); } catch {} });
+
+export const hideMastered = writable(Boolean(getLocalStorage('hideMastered', 0)));
+hideMastered.subscribe(v => setLocalStorage('hideMastered', v ? 1 : 0));
+
+export function toggleMastered(dayIndex, entryIndex){
+  masteredMap.update(m => {
+    const key = String(dayIndex);
+    if (!m[key]) m[key] = {};
+    m[key][entryIndex] = !m[key][entryIndex];
+    if (!m[key][entryIndex]) delete m[key][entryIndex];
+    return { ...m };
+  });
+}
+export function isMastered(dayIndex, entryIndex, m){
+  const key = String(dayIndex);
+  return Boolean(m?.[key]?.[entryIndex]);
+}
+
 
 // --- ASYNCHRONOUS ACTIONS ---
 
@@ -101,7 +126,13 @@ export async function fetchLessonsManifest() {
         lessons.set(manifest);
         // After fetching the manifest, load the very first lesson
         if (manifest.length > 0) {
-            await loadLessonData(0);
+            // Restore last viewed day index from localStorage (bounded to manifest length)
+            let savedIndex = 0;
+            try {
+                const raw = localStorage.getItem('currentLessonIndex');
+                if (raw != null) savedIndex = Math.max(0, Math.min(Number(raw) || 0, manifest.length - 1));
+            } catch {}
+            await loadLessonData(savedIndex);
         }
     } catch (error) {
         console.error("Could not fetch lessons.json:", error);
@@ -126,7 +157,33 @@ export async function loadLessonData(index) {
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        const data = await response.json();
+        let data = await response.json();
+        // --- Normalize lesson data schema ---
+        // Accept legacy/custom formats and convert to { day, entries: [{finnish, chinese}] }
+        try {
+            // Format A: { questions: [{finnish, chinese}] }
+            if (Array.isArray(data?.questions)) {
+                data = {
+                    day: data.day || '句子',
+                    entries: data.questions.map(q => ({ finnish: q.finnish || '', chinese: q.chinese || '' }))
+                };
+            }
+            // Format B: { entries: [{ question: {..}, answer: {..} }, ...] }
+            else if (Array.isArray(data?.entries) && data.entries.some(e => e?.question || e?.answer)) {
+                const flat = [];
+                for (const item of data.entries) {
+                    if (item?.question) {
+                        flat.push({ finnish: item.question.finnish || '', chinese: item.question.chinese || '' });
+                    }
+                    if (item?.answer) {
+                        flat.push({ finnish: item.answer.finnish || '', chinese: item.answer.chinese || '' });
+                    }
+                }
+                data = { day: data.day || '句子', entries: flat };
+            }
+        } catch (e) {
+            console.warn('Lesson data normalization warning:', e);
+        }
         currentLessonData.set(data);
         currentLessonIndex.set(index); // Update the index *after* successful load
     } catch (error) {

@@ -4,7 +4,8 @@
     const modes = [
         { id: 'study', name: '学习模式' },
         { id: 'test', name: '默写模式' },
-        { id: 'practice', name: '练习模式' }
+        { id: 'practice', name: '练习模式' },
+        { id: 'cashier', name: '收银练习（价格）' }
     ];
 
     function selectMode(modeId) {
