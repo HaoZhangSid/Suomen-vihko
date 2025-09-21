@@ -82,5 +82,13 @@
     {
         "day": "疑问句",
         "path": "lessons/0.json"
+    },
+    {
+        "day": "Kappale 1 - Harjoituslauseet",
+        "path": "lessons/Kappale 1.json"
+    },
+    {
+        "day": "Kappale 2 - Harjoituslauseet",
+        "path": "lessons/Kappale 2.json"
     }
 ]

@@ -1,0 +1,695 @@
+{
+  "day": "Kappale 2 - Harjoituslauseet (Täydellinen Versio / The Complete Version)",
+  "entries": [
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Kurssi loppuu kello kaksikymmentä.",
+      "chinese": "课程在二十点结束。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Minä olen brasilialainen.",
+      "chinese": "我是巴西人。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Hän on kotoisin Johannesburgista, Etelä-Afrikasta.",
+      "chinese": "他/她来自南非的约翰内斯堡。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Minun äidinkieli on englanti.",
+      "chinese": "我的母语是英语。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Me puhumme portugalia Brasiliassa.",
+      "chinese": "我们在巴西说葡萄牙语。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Muu opiskelija menee kotiin.",
+      "chinese": "其他学生回家了。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Alex ja Pedro ostavat jäätelöä kioskilta.",
+      "chinese": "亚历克斯和佩德罗在售货亭买冰淇淋。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Jäätelö maksaa kolme euroa.",
+      "chinese": "冰淇淋三欧元。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Sitten he istuvat puistossa.",
+      "chinese": "然后他们坐在公园里。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "He puhuvat ja nauravat.",
+      "chinese": "他们又说又笑。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Minä asun Puistolassa, joka on Pohjois-Helsingissä.",
+      "chinese": "我住在Puistola，它在赫尔辛基北部。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Menen kotiin bussilla ja sitten metrolla.",
+      "chinese": "我先坐公交车，然后坐地铁回家。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Nyt minun bussi tulee!",
+      "chinese": "我的公交车来了！"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Olga on venäläinen.",
+      "chinese": "奥尔加是俄罗斯人。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Olen kotoisin Pietarista, Venäjältä.",
+      "chinese": "我来自俄罗斯的圣彼得堡。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Puhun vähän espanjaa.",
+      "chinese": "我讲一点西班牙语。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Minä säästän rahaa.",
+      "chinese": "我在存钱。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Alex ajaa autolla kotiin.",
+      "chinese": "亚历克斯开车回家。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Pedro ja Olga menevät bussipysäkille.",
+      "chinese": "佩德罗和奥尔加去公交车站。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Hän on suomalainen ja hän puhuu suomea.",
+      "chinese": "他/她是芬兰人，并且说芬兰语。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Olen kotoisin Ranskasta ja puhun ranskaa.",
+      "chinese": "我来自法国，我说法语。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Se opiskelija on kreikkalainen.",
+      "chinese": "那个学生是希腊人。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Hän on kotoisin Egyptistä ja puhuu arabiaa.",
+      "chinese": "他/她来自埃及，说阿拉伯语。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Se auto on kallis, tämä jäätelö on halpa.",
+      "chinese": "那辆车很贵，这个冰淇淋很便宜。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Maksan käteisellä enkä kortilla.",
+      "chinese": "我用现金支付，不用卡。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Hän asuu Turussa, Euroopassa.",
+      "chinese": "他/她住在欧洲的图尔库。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Suomi on Suomen naapurimaa.",
+      "chinese": "芬兰是芬兰的邻国。（这句话似乎有误，应为其他国家）"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Ruotsi on länsi-Suomessa.",
+      "chinese": "瑞典在芬兰的西部。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Tämä seteli on kymmenen euroa.",
+      "chinese": "这张纸币是十欧元。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Yksi pallo jäätelöä on halpa.",
+      "chinese": "一个冰淇淋球很便宜。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Minä en puhu espanjaa.",
+      "chinese": "我不会说西班牙语。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Olga ei osta jäätelöä.",
+      "chinese": "奥尔加不买冰淇淋。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Minun äidinkieli ei ole espanja.",
+      "chinese": "我的母语不是西班牙语。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Minä en asu Helsingissä vaan Espoossa.",
+      "chinese": "我不主在赫尔辛基，而是住在埃斯波。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Hän ei puhu englantia.",
+      "chinese": "他/她不会说英语。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Me emme asu Suomessa.",
+      "chinese": "我们不住在芬兰。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Te ette puhu venäjää.",
+      "chinese": "你们不会说俄语。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "He eivät mene kioskille.",
+      "chinese": "他们不去售货亭。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Minä en säästä rahaa.",
+      "chinese": "我不存钱。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Sinä et naura.",
+      "chinese": "你没笑。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Hän ei aja autolla.",
+      "chinese": "他/她不开车。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Me emme istu puistossa.",
+      "chinese": "我们不坐在公园里。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Te ette osta jäätelöä.",
+      "chinese": "你们不买冰淇淋。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "He eivät ole kotoisin Suomesta.",
+      "chinese": "他们不是来自芬兰。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "En puhu arabiaa, koska se on vaikea kieli.",
+      "chinese": "我不会说阿拉伯语，因为它是一门很难的语言。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Emme mene kotiin metrolla, koska se ei tule nyt.",
+      "chinese": "我们不坐地铁回家，因为它现在不来。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Etkö sinä puhu englantia? En puhu.",
+      "chinese": "你不会说英语吗？我不会。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Hän ei ole pakistanilainen, hän on islantilainen.",
+      "chinese": "他/她不是巴基斯坦人，是冰岛人。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Minä en ole kotoisin Islannista, olen kotoisin Egyptistä.",
+      "chinese": "我不是来自冰岛，我来自埃及。"
+    },
+    {
+      "category": "否定句 (Negative Sentences)",
+      "finnish": "Kurssi ei lopukaan vielä.",
+      "chinese": "课程还没结束呢。"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Minkämaalainen sinä olet?",
+      "chinese": "你是哪个国家的人？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Mistä sinä olet kotoisin?",
+      "chinese": "你来自哪里？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Mitä kieltä sinä puhut?",
+      "chinese": "你说什么语言？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Onko sinun äidinkieli espanja?",
+      "chinese": "你的母语是西班牙语吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Missä sinä asut?",
+      "chinese": "你住在哪里？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Miksi Olga ei osta jäätelöä?",
+      "chinese": "为什么奥尔加不买冰淇淋？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Mitä jätski maksaa?",
+      "chinese": "冰淇淋多少钱？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Tarvitsetko kuittia?",
+      "chinese": "你需要收据吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Mitä tämä kakku maksaa?",
+      "chinese": "这个蛋糕多少钱？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Käteisellä vai kortilla?",
+      "chinese": "用现金还是刷卡？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Oletko sinä suomalainen?",
+      "chinese": "你是芬兰人吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Asuuko hän Helsingissä?",
+      "chinese": "他/她住在赫尔辛基吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Puhutteko te englantia?",
+      "chinese": "你们说英语吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Menevätkö muut opiskelijat kotiin, kun kurssi loppuu?",
+      "chinese": "课程结束后其他学生回家吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Ostaako Pedro jäätelöä kioskista?",
+      "chinese": "佩德罗在售货亭买冰淇淋吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Säästääkö hän rahaa, koska jäätelö on kallis?",
+      "chinese": "他/她是因为冰淇淋贵才存钱吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Istuvatko he puiston penkillä?",
+      "chinese": "他们坐在公园的长椅上吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Ajatko sinä autolla kotiin?",
+      "chinese": "你开车回家吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Tuletko sinä bussilla vai metrolla?",
+      "chinese": "你坐公交车还是地铁来？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Onko Alex eteläafrikkalainen?",
+      "chinese": "亚历克斯是南非人吗？"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Minun äidinkieli on suomi, mutta puhun myös vähän englantia.",
+      "chinese": "我的母语是芬兰语，但我也说一点英语。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Olga ei osta jäätelöä, koska hän säästää rahaa.",
+      "chinese": "奥尔加不买冰淇淋，因为她在存钱。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Muut opiskelijat menevät kotiin, mutta Alex ja Pedro menevät kioskille.",
+      "chinese": "其他学生回家，但亚历克斯和佩德罗去售货亭。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Asun Espoossa, en Helsingissä.",
+      "chinese": "我住在埃斯波，不在赫尔辛基。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Hän on kotoisin Pakistanista ja hän puhuu urdua.",
+      "chinese": "他/她来自巴基斯坦，说乌尔都语。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Yksi pallo jäätelöä maksaa 3 euroa ja kaksi palloa maksaa 5 euroa.",
+      "chinese": "一个冰淇淋球3欧元，两个5欧元。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Sitten kun kurssi loppuu, me menemme kioskille ensin.",
+      "chinese": "课程结束后，我们先去售货亭。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Hän on islantilainen, mutta hän ei asu Islannissa.",
+      "chinese": "他/她是冰岛人，但不住在冰岛。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Puhun suomea ja myös vähän venäjää.",
+      "chinese": "我说芬兰语，也说一点俄语。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Menen kotiin ensin metrolla ja sitten bussilla.",
+      "chinese": "我先坐地铁，然后坐公交车回家。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Hei, olen kotoisin São Paolosta Brasiliasta ja puhun portugalia.",
+      "chinese": "你好，我来自巴西的圣保罗，我说葡萄牙语。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Minä en puhu ranskaa, mutta minä puhun vähän italiaa.",
+      "chinese": "我不会说法语，但我会说一点意大利语。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Hän on egyptiläinen, ja hänen äidinkieli on arabia.",
+      "chinese": "他/她是埃及人，母语是阿拉伯语。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Me asumme Pohjois-Helsingissä ja menemme kotiin bussilla.",
+      "chinese": "我们住在赫尔辛基北部，坐公交车回家。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Vaikka hän on suomalainen, hän ei puhu suomea.",
+      "chinese": "虽然他/她是芬兰人，但不会说芬兰语。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Ai jaa, minä puhun myös vähän espanjaa.",
+      "chinese": "哦是吗，我也会说一点西班牙语。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Jäätelö maksaa 3,50 € (kolme euroa viisikymmentä senttiä).",
+      "chinese": "冰淇淋3.50欧元。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Pedro on brasilialainen, ja Olga on venäläinen.",
+      "chinese": "佩德罗是巴西人，奥尔加是俄罗斯人。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "Minä en asu Suomessa vaan Ruotsissa, joka on Suomen naapurimaa.",
+      "chinese": "我不住在芬兰，而是在瑞典，它是芬兰的邻国。"
+    },
+    {
+      "category": "复合句与情景句 (Compound and Contextual Sentences)",
+      "finnish": "He istuvat puistossa ja nauravat, koska on totta kai hauskaa.",
+      "chinese": "他们坐在公园里笑，因为当然很有趣。"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Ai jaa, totta!",
+      "chinese": "哦是吗，真的！"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Ai niin!",
+      "chinese": "哦对了！"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Moi moi, nähdään huomenna!",
+      "chinese": "拜拜，明天见！"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Nähdään, moikka!",
+      "chinese": "再见，拜！"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Mitä jätski maksaa?",
+      "chinese": "冰淇淋多少钱？（口语）"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Yks pallo maksaa 3 euroo.",
+      "chinese": "一个球3欧元。（口语）"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Mä otan kaks palloa suklaata.",
+      "chinese": "我要两个巧克力球。（口语）"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Entä sulle?",
+      "chinese": "你呢？（口语）"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Mäkin otan vaniljaa ja mansikkaa.",
+      "chinese": "我也要香草和草莓的。（口语）"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Selvä, kiitti! Tarviitko kuittia? Ei kiitti.",
+      "chinese": "好的，谢谢！需要收据吗？不用了，谢谢。（口语）"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Suomen kurssi loppuu tänään kello kaksikymmentä.",
+      "chinese": "芬兰语课程今天二十点结束。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Muu opiskelija menee heti kotiin.",
+      "chinese": "其他学生马上去回家。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Mutta minä, Alex ja Olga emme mene kotiin.",
+      "chinese": "但是我、亚历克斯和奥尔加不回家。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Alex on eteläafrikkalainen ja Olga on venäläinen.",
+      "chinese": "亚历克斯是南非人，奥尔加是俄罗斯人。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Minä olen Pedro, ja olen brasilialainen.",
+      "chinese": "我是佩德罗，我是巴西人。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Me menemme ensin kioskille, koska me haluamme jäätelöä.",
+      "chinese": "我们先去售货亭，因为我们想要冰淇淋。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Minä kysyn: \"Mitä jäätelö maksaa?\"",
+      "chinese": "我问：“冰淇淋多少钱？”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Myyjä sanoo: \"Yksi pallo maksaa kolme euroa.\"",
+      "chinese": "售货员说：“一个球三欧元。”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Minä ja Alex ostamme jäätelöä, mutta Olga ei osta.",
+      "chinese": "我和亚历克斯买冰淇淋，但奥尔加不买。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Miksi hän ei osta? Koska hän säästää rahaa.",
+      "chinese": "她为什么不买？因为她在存钱。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Sitten me menemme puistoon ja istumme penkillä.",
+      "chinese": "然后我们去公园，坐在长椅上。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Me puhumme ja nauramme paljon.",
+      "chinese": "我们聊了很多，也笑了很多。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Olga kysyy: \"Mistä sinä olet kotoisin, Alex?\"",
+      "chinese": "奥尔加问：“亚历克斯，你来自哪里？”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Alex vastaa: \"Olen kotoisin Johannesburgista, Etelä-Afrikasta.\"",
+      "chinese": "亚历克斯回答：“我来自南非的约翰内斯堡。”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Minä sanon: \"Minä olen kotoisin São Paolosta, Brasiliasta.\"",
+      "chinese": "我说：“我来自巴西的圣保罗。”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Alex kysyy minulta: \"Mitä kieltä sinä puhut?\"",
+      "chinese": "亚历克斯问我：“你说什么语言？”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Minä sanon: \"Minun äidinkieli on portugali, mutta puhun myös vähän espanjaa.\"",
+      "chinese": "我说：“我的母语是葡萄牙语，但我也说一点西班牙语。”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Olga sanoo: \"Minä puhun venäjää, mutta en puhu englantia.\"",
+      "chinese": "奥尔加说：“我说俄语，但我不会说英语。”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Alex sanoo: \"Ai jaa! Minun äidinkieli on englanti.\"",
+      "chinese": "亚历克斯说：“哦是吗！我的母语是英语。”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Minä sanon: \"Ai niin, se on totta!\"",
+      "chinese": "我说：“哦对了，是真的！”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Sitten Olga katsoo kelloa ja sanoo: \"Nyt minun bussi tulee!\"",
+      "chinese": "然后奥尔加看了看表说：“我的公交车来了！”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Hän menee bussipysäkille.",
+      "chinese": "她去了公交车站。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Hän asuu Pohjois-Helsingissä, ja hän menee kotiin bussilla.",
+      "chinese": "她住在赫尔辛基北部，她坐公交车回家。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Alex ajaa omalla autolla kotiin.",
+      "chinese": "亚历克斯开自己的车回家。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Hänen auto on kallis.",
+      "chinese": "他的车很贵。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Minä en asu Helsingissä vaan Espoossa.",
+      "chinese": "我不住在赫尔辛基，而是住在埃斯波。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Menen kotiin ensin bussilla ja sitten metrolla.",
+      "chinese": "我先坐公交车，然后坐地铁回家。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Minä en ole suomalainen, mutta asun nyt Suomessa.",
+      "chinese": "我不是芬兰人，但我现在住在芬兰。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Suomi on hieno maa Euroopassa.",
+      "chinese": "芬兰是欧洲一个很棒的国家。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Hänen naapurimaa on esimerkiksi Ruotsi, joka on länsi-Suomessa.",
+      "chinese": "它的邻国例如是瑞典，它在芬兰的西部。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Ostan bussilipun, se maksaa 3 euroa ja 10 senttiä.",
+      "chinese": "我买了一张公交车票，花了3欧元10欧分。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Maksan lipun pienellä setelillä.",
+      "chinese": "我用小面额的纸币付了票钱。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Onneksi minulla on käteistä, koska en halua maksaa kortilla.",
+      "chinese": "幸好我有现金，因为我不想用卡支付。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Myyjä kysyy: \"Tarvitsetko kuittia?\"",
+      "chinese": "售货员问：“你需要收据吗？”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Minä sanon: \"Ei kiitos.\"",
+      "chinese": "我说：“不用了，谢谢。”"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Tänään en puhu ranskaa, arabiaa tai kreikkaa.",
+      "chinese": "今天我不说法语、阿拉伯语或希腊语。"
+    },
+    {
+      "category": "叙事练习 (Narrative Exercise)",
+      "finnish": "Puhun vain vähän suomea, koska olen opiskelija.",
+      "chinese": "我只说一点芬兰语，因为我是学生。"
+    },
+    {
+      "category": "口语化与短语 (Colloquialisms & Phrases)",
+      "finnish": "Nähdään huomenna, moikka",
+      "chinese": "明天见，拜拜！"
+    }
+  ]
+}

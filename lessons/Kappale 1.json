@@ -1,0 +1,505 @@
+{
+  "day": "Kappale 1 - Harjoituslauseet (第一课 - 练习句)",
+  "entries": [
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Hei, minä olen Alex.",
+      "chinese": "你好，我是亚历克斯。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Tämä on Suomi 1 -kurssi.",
+      "chinese": "这是芬兰语1课程。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Minä olen opettaja.",
+      "chinese": "我是一名老师。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Minun nimi on Päivi Koskela.",
+      "chinese": "我的名字是Päivi Koskela。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Tämä paikka on vapaa.",
+      "chinese": "这个位子是空的。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Tänään on maanantai.",
+      "chinese": "今天是星期一。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Kurssi on kello 18.",
+      "chinese": "课程在18点开始。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Tässä on Pedro.",
+      "chinese": "这是佩德罗。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Me olemme kurssilla.",
+      "chinese": "我们在上课。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Te olette nyt Suomessa.",
+      "chinese": "你们现在在芬兰。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "He ovat Helsingissä.",
+      "chinese": "他们在赫尔辛基。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Olga on täällä.",
+      "chinese": "奥尔加在这里。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Tänään on tiistai.",
+      "chinese": "今天是星期二。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Kurssipäivät ovat maanantai, keskiviikko ja torstai.",
+      "chinese": "上课日是星期一、星期三和星期四。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Minun etunimi on Sonja ja sukunimi on Gehring.",
+      "chinese": "我的名字是Sonja，姓是Gehring。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Se on kiva.",
+      "chinese": "那很好。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Huomenna on keskiviikko.",
+      "chinese": "明天是星期三。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Ylihuomenna on torstai.",
+      "chinese": "后天是星期四。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Eilen oli sunnuntai.",
+      "chinese": "昨天是星期天。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Minä asun Vaasassa.",
+      "chinese": "我住在瓦萨。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Te asutte Porissa.",
+      "chinese": "你们住在波里。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Hän asuu Mikkelissä.",
+      "chinese": "他/她住在米凯利。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Tämä on numero kaksi.",
+      "chinese": "这是数字二。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Se on numero kaksikymmentä.",
+      "chinese": "那是数字二十。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Minä olen 43 (neljäkymmentäkolme).",
+      "chinese": "我43岁。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Olga ja Alex ovat kurssilla.",
+      "chinese": "奥尔加和亚历克斯在上课。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Opettajan nimi on Päivi.",
+      "chinese": "老师的名字是Päivi。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Minä olen nyt kurssilla.",
+      "chinese": "我现在在上课。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Te olette opettaja.",
+      "chinese": "您是老师。"
+    },
+    {
+      "category": "肯定句 (Affirmative Sentences)",
+      "finnish": "Me olemme täällä.",
+      "chinese": "我们在这里。"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Anteeksi, onko täällä suomen kurssi?",
+      "chinese": "对不起，这里是芬兰语课程吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Onko tämä paikka vapaa?",
+      "chinese": "这个位子有人吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Kuka sinä olet?",
+      "chinese": "你是谁？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Mikä sinun nimi on?",
+      "chinese": "你叫什么名字？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Miten se kirjoitetaan?",
+      "chinese": "它怎么写？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Entä sinulle?",
+      "chinese": "你呢？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Mikä päivä tänään on?",
+      "chinese": "今天星期几？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Milloin kurssi on?",
+      "chinese": "课程什么时候开始？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Kuinka vanha sinä olet?",
+      "chinese": "你多大了？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Onko kurssi kello 18?",
+      "chinese": "课程是18点开始吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Oletko sinä opettaja?",
+      "chinese": "你是老师吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Oletteko te kurssilla?",
+      "chinese": "你们在上课吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Ovatko he Helsingissä?",
+      "chinese": "他们在赫尔辛基吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Onko tänään maanantai?",
+      "chinese": "今天是星期一吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Olenko minä nyt Suomessa?",
+      "chinese": "我现在在芬兰吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Missä sinä asut?",
+      "chinese": "你住在哪里？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Kuka hän on?",
+      "chinese": "他/她是谁？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Onko hän Pedro?",
+      "chinese": "他是佩德罗吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Onko opettaja täällä?",
+      "chinese": "老师在这里吗？"
+    },
+    {
+      "category": "疑问句 (Interrogative Sentences)",
+      "finnish": "Missä te olette?",
+      "chinese": "你们在哪里？"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Joo, on.",
+      "chinese": "是的，是。"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Hyvää, kiitos.",
+      "chinese": "很好，谢谢。"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Ihan hyvää.",
+      "chinese": "还不错。"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Kiitos samoin!",
+      "chinese": "也谢谢你！/ 你也一样！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Hauska tutustua!",
+      "chinese": "很高兴认识你！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Terve Pedro!",
+      "chinese": "你好佩德罗！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Moi Olga!",
+      "chinese": "嗨奥尔加！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Mitä kuuluu?",
+      "chinese": "你好吗？"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Okei, kiitos.",
+      "chinese": "好的，谢谢。"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Hyvää huomenta!",
+      "chinese": "早上好！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Hyvää päivää!",
+      "chinese": "白天好！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Hyvää iltaa!",
+      "chinese": "晚上好！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Hyvää yötä!",
+      "chinese": "晚安！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Tervetuloa kurssille!",
+      "chinese": "欢迎来上课！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Hauskaa viikonloppua!",
+      "chinese": "周末愉快！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Anteeksi!",
+      "chinese": "对不起！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Nähdään!",
+      "chinese": "再见！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Nähdään huomenna!",
+      "chinese": "明天见！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Heippa!",
+      "chinese": "拜拜！"
+    },
+    {
+      "category": "简短回答与短语 (Short Answers & Phrases)",
+      "finnish": "Moikka!",
+      "chinese": "拜拜！"
+    },
+    {
+      "category": "数字与地点组合句 (Sentences with Numbers & Places)",
+      "finnish": "Minä asun Jyväskylässä.",
+      "chinese": "我住在于韦斯屈莱。"
+    },
+    {
+      "category": "数字与地点组合句 (Sentences with Numbers & Places)",
+      "finnish": "Helsinki on Suomessa.",
+      "chinese": "赫尔辛基在芬兰。"
+    },
+    {
+      "category": "数字与地点组合句 (Sentences with Numbers & Places)",
+      "finnish": "Minun numero on kymmenen.",
+      "chinese": "我的号码是十。"
+    },
+    {
+      "category": "数字与地点组合句 (Sentences with Numbers & Places)",
+      "finnish": "Hän on 19 (yhdeksäntoista).",
+      "chinese": "他/她19岁。"
+    },
+    {
+      "category": "数字与地点组合句 (Sentences with Numbers & Places)",
+      "finnish": "Me asumme Kouvolassa.",
+      "chinese": "我们住在科沃拉。"
+    },
+    {
+      "category": "数字与地点组合句 (Sentences with Numbers & Places)",
+      "finnish": "He ovat 20 (kaksikymmentä).",
+      "chinese": "他们20岁。"
+    },
+    {
+      "category": "数字与地点组合句 (Sentences with Numbers & Places)",
+      "finnish": "Kurssi on kello 18-20 (kahdeksantoista-kaksikymmentä).",
+      "chinese": "课程在18点到20点。"
+    },
+    {
+      "category": "数字与地点组合句 (Sentences with Numbers & Places)",
+      "finnish": "Numero on seitsemän.",
+      "chinese": "号码是七。"
+    },
+    {
+      "category": "数字与地点组合句 (Sentences with Numbers & Places)",
+      "finnish": "Hän asuu Mäntsälässä.",
+      "chinese": "他/她住在曼采莱。"
+    },
+    {
+      "category": "数字与地点组合句 (Sentences with Numbers & Places)",
+      "finnish": "Oletko sinä 30 (kolmekymmentä)?",
+      "chinese": "你30岁吗？"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Hei, minä olen Olga ja tässä on Alex.",
+      "chinese": "你好，我是奥尔加，这是亚历克斯。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Kurssi on maanantaina, keskiviikkona ja torstaina.",
+      "chinese": "课程在星期一、星期三和星期四。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Anteeksi, onko kurssi tänään?",
+      "chinese": "对不起，今天有课吗？"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Minun sukunimi kirjoitetaan K-O-S-K-E-L-A.",
+      "chinese": "我的姓拼写为K-O-S-K-E-L-A。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Hei, olenko minä suomen kurssilla?",
+      "chinese": "你好，我是在芬兰语课上吗？"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Minä olen Pedro ja minä asun Helsingissä.",
+      "chinese": "我是佩德罗，我住在赫尔辛基。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Hei Päivi, oletko sinä opettaja?",
+      "chinese": "你好Päivi，你是老师吗？"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Onko tänään keskiviikko? Joo, on.",
+      "chinese": "今天是星期三吗？是的，是。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Minulle kuuluu hyvää, kiitos.",
+      "chinese": "我很好，谢谢。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Tässä on Olga. Hän on kurssilla.",
+      "chinese": "这是奥尔加。她在上课。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Kuka te olette? Me olemme Olga ja Alex.",
+      "chinese": "你们是谁？我们是奥尔加和亚历克斯。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Anteeksi, mikä sinun etunimi ja sukunimi on?",
+      "chinese": "对不起，你的名字和姓氏是什么？"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Kello on nyt kymmenen.",
+      "chinese": "现在是十点。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Hän on numero yksi.",
+      "chinese": "他/她是一号。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Tämä on suomen kielen kurssi.",
+      "chinese": "这是芬兰语课程。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Onko tämä Helsinki? Joo, on.",
+      "chinese": "这是赫尔辛基吗？是的，是。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Minä olen Jaakko. Olen 43.",
+      "chinese": "我是Jaakko。我43岁。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Anteeksi, miten \"Sanni\" kirjoitetaan? S-A-N-N-I.",
+      "chinese": "对不起，'Sanni'怎么写？S-A-N-N-I。"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Moi, onko tämä Suomi 1? Joo, tervetuloa!",
+      "chinese": "嗨，这是芬兰语1吗？是的，欢迎！"
+    },
+    {
+      "category": "综合应用句 (Combined Application Sentences)",
+      "finnish": "Tämä on kiva kurssi.",
+      "chinese": "这是一个很好的课程。"
+    }
+  ]
+}
