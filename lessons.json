@@ -90,5 +90,25 @@
     {
         "day": "Kappale 2 - Harjoituslauseet",
         "path": "lessons/Kappale 2.json"
+    },
+    {
+        "day": "Kappale 1 - 单词",
+        "path": "lessons/Kappale 1 单词.json"
+    },
+    {
+        "day": "Kappale 2 - 单词",
+        "path": "lessons/Kappale 2 单词.json"
+    },
+    {
+        "day": "Kappale 3 - 单词",
+        "path": "lessons/Kappale 3 单词.json"
+    },
+    {
+        "day": "Kappale 4 - 单词",
+        "path": "lessons/Kappale 4 单词.json"
+    },
+    {
+        "day": "Kappale 5 - 单词",
+        "path": "lessons/Kappale 5 单词.json"
     }
 ]
