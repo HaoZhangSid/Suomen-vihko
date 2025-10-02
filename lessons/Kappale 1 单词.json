@@ -1,79 +1,389 @@
 {
     "day": "Kappale 1 - 单词",
     "entries": [
-        { "finnish": "Hei!", "chinese": "你好！" },
-        { "finnish": "ja", "chinese": "和" },
-        { "finnish": "Tervetuloa!", "chinese": "欢迎！" },
-        { "finnish": "Moi!", "chinese": "嗨！" },
-        { "finnish": "Anteeksi!", "chinese": "对不起！" },
-        { "finnish": "Onko...?", "chinese": "……吗？" },
-        { "finnish": "suomen kurssi", "chinese": "芬兰语课程" },
-        { "finnish": "joo", "chinese": "是的" },
-        { "finnish": "Kuka sinä olet?", "chinese": "你是谁？" },
-        { "finnish": "minä", "chinese": "我" },
-        { "finnish": "olla", "chinese": "是；存在" },
-        { "finnish": "entä...", "chinese": "那……呢？" },
-        { "finnish": "sinä", "chinese": "你" },
-        { "finnish": "Hauska tutustua!", "chinese": "很高兴认识你！" },
-        { "finnish": "Kiitos samoin!", "chinese": "谢谢，同样也祝你！" },
-        { "finnish": "Mitä sinulle kuuluu?", "chinese": "你最近好吗？" },
-        { "finnish": "Minulle kuuluu hyvää.", "chinese": "我很好。" },
-        { "finnish": "Entä sinulle?", "chinese": "你呢？" },
-        { "finnish": "Ihan hyvää, kiitos.", "chinese": "挺好，谢谢。" },
-        { "finnish": "hän", "chinese": "他/她" },
-        { "finnish": "Kuinka vanha sinä olet?", "chinese": "你多大了？" },
-        { "finnish": "opettaja", "chinese": "老师" },
-        { "finnish": "tulla", "chinese": "来；成为" },
-        { "finnish": "(Hyvää) huomenta!", "chinese": "早上好！" },
-        { "finnish": "Mikä sinun nimesi/nimi on?", "chinese": "你叫什么名字？" },
-        { "finnish": "Minun nimeni/nimi on...", "chinese": "我的名字是……" },
-        { "finnish": "Miten se kirjoitetaan?", "chinese": "这个怎么拼写？" },
-        { "finnish": "etunimi", "chinese": "名" },
-        { "finnish": "sukunimi", "chinese": "姓" },
-        { "finnish": "Hyvää iltaa!", "chinese": "晚上好！" },
-        { "finnish": "Hyvää yötä!", "chinese": "晚安！" },
-        { "finnish": "Nuku hyvin!", "chinese": "睡个好觉！" },
-        { "finnish": "Terve!", "chinese": "你好！" },
-        { "finnish": "Näkemiin!", "chinese": "再见！" },
-        { "finnish": "Ei se mitään!", "chinese": "没关系！" },
-        { "finnish": "Ole hyvä!", "chinese": "不客气！" },
-        { "finnish": "kiitos", "chinese": "谢谢" },
-        { "finnish": "maanantai", "chinese": "星期一" },
-        { "finnish": "tiistai", "chinese": "星期二" },
-        { "finnish": "keskiviikko", "chinese": "星期三" },
-        { "finnish": "torstai", "chinese": "星期四" },
-        { "finnish": "perjantai", "chinese": "星期五" },
-        { "finnish": "lauantai", "chinese": "星期六" },
-        { "finnish": "sunnuntai", "chinese": "星期天" },
-        { "finnish": "viikonloppu", "chinese": "周末" },
-        { "finnish": "toissapäivänä", "chinese": "前天" },
-        { "finnish": "eilen", "chinese": "昨天" },
-        { "finnish": "tänään", "chinese": "今天" },
-        { "finnish": "huomenna", "chinese": "明天" },
-        { "finnish": "ylihuomenna", "chinese": "后天" },
-        { "finnish": "Hyvää viikonloppuna!", "chinese": "周末愉快！" },
-        { "finnish": "numero", "chinese": "数字；号码" },
-        { "finnish": "nolla", "chinese": "零" },
-        { "finnish": "yksi", "chinese": "一" },
-        { "finnish": "kaksi", "chinese": "二" },
-        { "finnish": "kolme", "chinese": "三" },
-        { "finnish": "neljä", "chinese": "四" },
-        { "finnish": "viisi", "chinese": "五" },
-        { "finnish": "seitsemän", "chinese": "七" },
-        { "finnish": "kahdeksan", "chinese": "八" },
-        { "finnish": "yhdeksän", "chinese": "九" },
-        { "finnish": "kymmenen", "chinese": "十" },
-        { "finnish": "yksitoista", "chinese": "十一" },
-        { "finnish": "kaksitoista", "chinese": "十二" },
-        { "finnish": "minä olen", "chinese": "我是" },
-        { "finnish": "sinä olet", "chinese": "你是" },
-        { "finnish": "hän on", "chinese": "他/她是" },
-        { "finnish": "se on", "chinese": "它是" },
-        { "finnish": "me olemme", "chinese": "我们是" },
-        { "finnish": "te olette", "chinese": "你们是" },
-        { "finnish": "he ovat", "chinese": "他们是" },
-        { "finnish": "ne ovat", "chinese": "它们是" }
+      {
+        "finnish": "hei",
+        "chinese": "你好"
+      },
+      {
+        "finnish": "tervetuloa",
+        "chinese": "欢迎"
+      },
+      {
+        "finnish": "tutustuminen",
+        "chinese": "认识，结识"
+      },
+      {
+        "finnish": "tervehdykset",
+        "chinese": "问候语"
+      },
+      {
+        "finnish": "anteeksi",
+        "chinese": "对不起；请问"
+      },
+      {
+        "finnish": "onko",
+        "chinese": "是...吗？"
+      },
+      {
+        "finnish": "täällä",
+        "chinese": "在这里"
+      },
+      {
+        "finnish": "suomen kurssi",
+        "chinese": "芬兰语课程"
+      },
+      {
+        "finnish": "joo",
+        "chinese": "是的 (口语)"
+      },
+      {
+        "finnish": "tämä",
+        "chinese": "这个"
+      },
+      {
+        "finnish": "paikka",
+        "chinese": "地方；座位"
+      },
+      {
+        "finnish": "vapaa",
+        "chinese": "空的；自由的"
+      },
+      {
+        "finnish": "kiva",
+        "chinese": "好的，不错的"
+      },
+      {
+        "finnish": "minä",
+        "chinese": "我"
+      },
+      {
+        "finnish": "sinä",
+        "chinese": "你"
+      },
+      {
+        "finnish": "hän",
+        "chinese": "他/她"
+      },
+      {
+        "finnish": "kuka",
+        "chinese": "谁"
+      },
+      {
+        "finnish": "hauska tutustua",
+        "chinese": "很高兴认识你"
+      },
+      {
+        "finnish": "kiitos samoin",
+        "chinese": "也谢谢你，彼此彼此"
+      },
+      {
+        "finnish": "mitä kuuluu?",
+        "chinese": "你好吗？"
+      },
+      {
+        "finnish": "terve",
+        "chinese": "你好 (较正式)"
+      },
+      {
+        "finnish": "kiitos",
+        "chinese": "谢谢"
+      },
+      {
+        "finnish": "minulle kuuluu hyvää",
+        "chinese": "我很好"
+      },
+      {
+        "finnish": "entä sinulle?",
+        "chinese": "那你呢？"
+      },
+      {
+        "finnish": "ihan hyvää",
+        "chinese": "挺好的"
+      },
+      {
+        "finnish": "tässä",
+        "chinese": "在这里；这是"
+      },
+      {
+        "finnish": "minun",
+        "chinese": "我的"
+      },
+      {
+        "finnish": "nimi",
+        "chinese": "名字"
+      },
+      {
+        "finnish": "opettaja",
+        "chinese": "老师"
+      },
+      {
+        "finnish": "miten se kirjoitetaan?",
+        "chinese": "这个怎么写？"
+      },
+      {
+        "finnish": "etunimi",
+        "chinese": "名"
+      },
+      {
+        "finnish": "sukunimi",
+        "chinese": "姓"
+      },
+      {
+        "finnish": "okei",
+        "chinese": "好的"
+      },
+      {
+        "finnish": "kurssipäivä",
+        "chinese": "上课日"
+      },
+      {
+        "finnish": "maanantai",
+        "chinese": "星期一"
+      },
+      {
+        "finnish": "keskiviikko",
+        "chinese": "星期三"
+      },
+      {
+        "finnish": "torstai",
+        "chinese": "星期四"
+      },
+      {
+        "finnish": "kello",
+        "chinese": "钟；点钟"
+      },
+      {
+        "finnish": "huomenta",
+        "chinese": "早上好"
+      },
+      {
+        "finnish": "päivää",
+        "chinese": "白天好"
+      },
+      {
+        "finnish": "iltaa",
+        "chinese": "晚上好"
+      },
+      {
+        "finnish": "hyvää yötä",
+        "chinese": "晚安"
+      },
+      {
+        "finnish": "nähdään",
+        "chinese": "再见"
+      },
+      {
+        "finnish": "moikka",
+        "chinese": "嗨；再见 (口语)"
+      },
+      {
+        "finnish": "näkemiin",
+        "chinese": "再见 (较正式)"
+      },
+      {
+        "finnish": "ole hyvä",
+        "chinese": "请；不客气"
+      },
+      {
+        "finnish": "ei kestä",
+        "chinese": "不客气"
+      },
+      {
+        "finnish": "ei se mitään",
+        "chinese": "没关系"
+      },
+      {
+        "finnish": "hyvää ruokahalua",
+        "chinese": "祝你胃口好"
+      },
+      {
+        "finnish": "viikonpäivät",
+        "chinese": "一周的日子"
+      },
+      {
+        "finnish": "mikä päivä tänään on?",
+        "chinese": "今天星期几？"
+      },
+      {
+        "finnish": "tiistai",
+        "chinese": "星期二"
+      },
+      {
+        "finnish": "perjantai",
+        "chinese": "星期五"
+      },
+      {
+        "finnish": "lauantai",
+        "chinese": "星期六"
+      },
+      {
+        "finnish": "sunnuntai",
+        "chinese": "星期天"
+      },
+      {
+        "finnish": "viikonloppu",
+        "chinese": "周末"
+      },
+      {
+        "finnish": "tänään",
+        "chinese": "今天"
+      },
+      {
+        "finnish": "eilen",
+        "chinese": "昨天"
+      },
+      {
+        "finnish": "huomenna",
+        "chinese": "明天"
+      },
+      {
+        "finnish": "aakkoset",
+        "chinese": "字母表"
+      },
+      {
+        "finnish": "numerot",
+        "chinese": "数字"
+      },
+      {
+        "finnish": "nolla",
+        "chinese": "零"
+      },
+      {
+        "finnish": "yksi",
+        "chinese": "一"
+      },
+      {
+        "finnish": "kaksi",
+        "chinese": "二"
+      },
+      {
+        "finnish": "kolme",
+        "chinese": "三"
+      },
+      {
+        "finnish": "neljä",
+        "chinese": "四"
+      },
+      {
+        "finnish": "viisi",
+        "chinese": "五"
+      },
+      {
+        "finnish": "kuusi",
+        "chinese": "六"
+      },
+      {
+        "finnish": "seitsemän",
+        "chinese": "七"
+      },
+      {
+        "finnish": "kahdeksan",
+        "chinese": "八"
+      },
+      {
+        "finnish": "yhdeksän",
+        "chinese": "九"
+      },
+      {
+        "finnish": "kymmenen",
+        "chinese": "十"
+      },
+      {
+        "finnish": "yksitoista",
+        "chinese": "十一"
+      },
+      {
+        "finnish": "kaksikymmentä",
+        "chinese": "二十"
+      },
+      {
+        "finnish": "sata",
+        "chinese": "百"
+      },
+      {
+        "finnish": "tuhat",
+        "chinese": "千"
+      },
+      {
+        "finnish": "kuinka vanha sinä olet?",
+        "chinese": "你多大了？"
+      },
+      {
+        "finnish": "olla",
+        "chinese": "是 (动词原形)"
+      },
+      {
+        "finnish": "me",
+        "chinese": "我们"
+      },
+      {
+        "finnish": "te",
+        "chinese": "你们"
+      },
+      {
+        "finnish": "he",
+        "chinese": "他们/她们"
+      },
+      {
+        "finnish": "vokaali",
+        "chinese": "元音"
+      },
+      {
+        "finnish": "vokaaliharmonia",
+        "chinese": "元音和谐"
+      },
+      {
+        "finnish": "auto",
+        "chinese": "汽车"
+      },
+      {
+        "finnish": "kieli",
+        "chinese": "语言；舌头"
+      },
+      {
+        "finnish": "suklaajäätelö",
+        "chinese": "巧克力冰淇淋"
+      },
+      {
+        "finnish": "missä",
+        "chinese": "在哪里"
+      },
+      {
+        "finnish": "kahvi",
+        "chinese": "咖啡"
+      },
+      {
+        "finnish": "maito",
+        "chinese": "牛奶"
+      },
+      {
+        "finnish": "jäätelö",
+        "chinese": "冰淇淋"
+      },
+      {
+        "finnish": "kakku",
+        "chinese": "蛋糕"
+      },
+      {
+        "finnish": "sokeri",
+        "chinese": "糖"
+      },
+      {
+        "finnish": "keksi",
+        "chinese": "饼干"
+      },
+      {
+        "finnish": "pulla",
+        "chinese": "芬兰肉桂卷/小面包"
+      },
+      {
+        "finnish": "mehu",
+        "chinese": "果汁"
+      },
+      {
+        "finnish": "pöytä",
+        "chinese": "桌子"
+      }
     ]
-}
-
-
+  }
