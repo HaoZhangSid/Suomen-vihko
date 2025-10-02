@@ -110,5 +110,21 @@
     {
         "day": "Kappale 5 - 单词",
         "path": "lessons/Kappale 5 单词.json"
+    },
+    {
+        "day": "Kappale 6 - 单词",
+        "path": "lessons/Kappale 6 单词.json"
+    },
+    {
+        "day": "Kappale 7 - 单词",
+        "path": "lessons/Kappale 7 单词.json"
+    },
+    {
+        "day": "Kappale 8 - 单词",
+        "path": "lessons/Kappale 8 单词.json"
+    },
+    {
+        "day": "Kappale 9 - 单词",
+        "path": "lessons/Kappale 9 单词.json"
     }
 ]
