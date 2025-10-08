@@ -1,0 +1,15 @@
+{
+  "day": "Flashcard Demo",
+  "entries": [
+    { "finnish": "koira", "chinese": "狗" },
+    { "finnish": "kissa", "chinese": "猫" },
+    { "finnish": "ruoka", "chinese": "食物" },
+    { "finnish": "kirja", "chinese": "书" },
+    { "finnish": "koulu", "chinese": "学校" },
+    { "finnish": "ystävä", "chinese": "朋友" },
+    { "finnish": "kahvi", "chinese": "咖啡" },
+    { "finnish": "Suomi", "chinese": "芬兰" },
+    { "finnish": "kiitos", "chinese": "谢谢" },
+    { "finnish": "sää", "chinese": "天气" }
+  ]
+}

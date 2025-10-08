@@ -126,5 +126,9 @@
     {
         "day": "Kappale 9 - 单词",
         "path": "lessons/Kappale 9 单词.json"
+    },
+    {
+        "day": "Flashcard Demo",
+        "path": "lessons/flashcard-demo.json"
     }
 ]
