@@ -1,689 +1,341 @@
 {
-  "day": "Kappale 7 - 单词",
-  "entries": [
-    {
-      "finnish": "aamiainen",
-      "chinese": "早餐"
-    },
-    {
-      "finnish": "aikoa",
-      "chinese": "打算"
-    },
-    {
-      "finnish": "ainakin",
-      "chinese": "至少"
-    },
-    {
-      "finnish": "ajaa",
-      "chinese": "驾驶，骑"
-    },
-    {
-      "finnish": "alennus",
-      "chinese": "折扣"
-    },
-    {
-      "finnish": "alkuruoka",
-      "chinese": "前菜"
-    },
-    {
-      "finnish": "apteekki",
-      "chinese": "药店"
-    },
-    {
-      "finnish": "asema",
-      "chinese": "车站"
-    },
-    {
-      "finnish": "osoite",
-      "chinese": "地址"
-    },
-    {
-      "finnish": "aukioloajat",
-      "chinese": "营业时间"
-    },
-    {
-      "finnish": "avoinna",
-      "chinese": "开放"
-    },
-    {
-      "finnish": "auto",
-      "chinese": "汽车"
-    },
-    {
-      "finnish": "avainkortti",
-      "chinese": "房卡"
-    },
-    {
-      "finnish": "bussi",
-      "chinese": "公交车"
-    },
-    {
-      "finnish": "ehdottaa",
-      "chinese": "建议"
-    },
-    {
-      "finnish": "ehkä",
-      "chinese": "也许"
-    },
-    {
-      "finnish": "eläkeläinen",
-      "chinese": "退休人员"
-    },
-    {
-      "finnish": "ensimmäistä kertaa",
-      "chinese": "第一次"
-    },
-    {
-      "finnish": "erikoisuus",
-      "chinese": "特产"
-    },
-    {
-      "finnish": "halpa",
-      "chinese": "便宜的"
-    },
-    {
-      "finnish": "herkullinen",
-      "chinese": "美味的"
-    },
-    {
-      "finnish": "hieno",
-      "chinese": "好的，棒的"
-    },
-    {
-      "finnish": "hotelli",
-      "chinese": "酒店"
-    },
-    {
-      "finnish": "huone",
-      "chinese": "房间"
-    },
-    {
-      "finnish": "huvipuisto",
-      "chinese": "游乐园"
-    },
-    {
-      "finnish": "hyvä",
-      "chinese": "好的"
-    },
-    {
-      "finnish": "hypätä",
-      "chinese": "跳"
-    },
-    {
-      "finnish": "ihana",
-      "chinese": "极好的"
-    },
-    {
-      "finnish": "ilmainen",
-      "chinese": "免费的"
-    },
-    {
-      "finnish": "imperfekti",
-      "chinese": "过去时"
-    },
-    {
-      "finnish": "imuri",
-      "chinese": "吸尘器"
-    },
-    {
-      "finnish": "iso",
-      "chinese": "大的"
-    },
-    {
-      "finnish": "istua",
-      "chinese": "坐"
-    },
-    {
-      "finnish": "jaksaa",
-      "chinese": "有精力"
-    },
-    {
-      "finnish": "järvi",
-      "chinese": "湖"
-    },
-    {
-      "finnish": "joki",
-      "chinese": "河流"
-    },
-    {
-      "finnish": "juoda",
-      "chinese": "喝"
-    },
-    {
-      "finnish": "juna",
-      "chinese": "火车"
-    },
-    {
-      "finnish": "jälkiruoka",
-      "chinese": "甜点"
-    },
-    {
-      "finnish": "kahden hengen huone",
-      "chinese": "双人间"
-    },
-    {
-      "finnish": "kahvi",
-      "chinese": "咖啡"
-    },
-    {
-      "finnish": "kahvila",
-      "chinese": "咖啡馆"
-    },
-    {
-      "finnish": "kallis",
-      "chinese": "昂贵的"
-    },
-    {
-      "finnish": "kappale",
-      "chinese": "章节"
-    },
-    {
-      "finnish": "kassi",
-      "chinese": "包"
-    },
-    {
-      "finnish": "kauppahalli",
-      "chinese": "室内市场"
-    },
-    {
-      "finnish": "kauppakeskus",
-      "chinese": "购物中心"
-    },
-    {
-      "finnish": "kaupunki",
-      "chinese": "城市"
-    },
-    {
-      "finnish": "kaveri",
-      "chinese": "朋友"
-    },
-    {
-      "finnish": "kertoo",
-      "chinese": "(他/她) 讲述"
-    },
-    {
-      "finnish": "kesä",
-      "chinese": "夏天"
-    },
-    {
-      "finnish": "kirjasto",
-      "chinese": "图书馆"
-    },
-    {
-      "finnish": "kirkko",
-      "chinese": "教堂"
-    },
-    {
-      "finnish": "kissa",
-      "chinese": "猫"
-    },
-    {
-      "finnish": "kiva",
-      "chinese": "不错的"
-    },
-    {
-      "finnish": "koira",
-      "chinese": "狗"
-    },
-    {
-      "finnish": "koti",
-      "chinese": "家"
-    },
-    {
-      "finnish": "kulkuvälineet",
-      "chinese": "交通工具"
-    },
-    {
-      "finnish": "kuuma",
-      "chinese": "热的"
-    },
-    {
-      "finnish": "kuulua hintaan",
-      "chinese": "包含在价格里"
-    },
-    {
-      "finnish": "kuukausi",
-      "chinese": "月份"
-    },
-    {
-      "finnish": "kylmä",
-      "chinese": "冷的"
-    },
-    {
-      "finnish": "kylässä",
-      "chinese": "做客"
-    },
-    {
-      "finnish": "kynä",
-      "chinese": "笔"
-    },
-    {
-      "finnish": "kysyy",
-      "chinese": "(他/她) 问"
-    },
-    {
-      "finnish": "kysyä",
-      "chinese": "问"
-    },
-    {
-      "finnish": "kävellen",
-      "chinese": "步行"
-    },
-    {
-      "finnish": "kävellä",
-      "chinese": "走路"
-    },
-    {
-      "finnish": "lahja",
-      "chinese": "礼物"
-    },
-    {
-      "finnish": "laiva",
-      "chinese": "轮船"
-    },
-    {
-      "finnish": "lapsi",
-      "chinese": "孩子"
-    },
-    {
-      "finnish": "lehti",
-      "chinese": "报纸"
-    },
-    {
-      "finnish": "leipä",
-      "chinese": "面包"
-    },
-    {
-      "finnish": "lentokone",
-      "chinese": "飞机"
-    },
-    {
-      "finnish": "lentoasema",
-      "chinese": "机场"
-    },
-    {
-      "finnish": "linja-auto",
-      "chinese": "长途汽车，公交车"
-    },
-    {
-      "finnish": "linna",
-      "chinese": "城堡"
-    },
-    {
-      "finnish": "lippu",
-      "chinese": "票"
-    },
-    {
-      "finnish": "loma",
-      "chinese": "假期"
-    },
-    {
-      "finnish": "lukea",
-      "chinese": "读"
-    },
-    {
-      "finnish": "luovuttaa",
-      "chinese": "退房，交出"
-    },
-    {
-      "finnish": "lähteä",
-      "chinese": "出发"
-    },
-    {
-      "finnish": "maistaa",
-      "chinese": "品尝"
-    },
-    {
-      "finnish": "matka",
-      "chinese": "旅程"
-    },
-    {
-      "finnish": "matkailu",
-      "chinese": "旅游"
-    },
-    {
-      "finnish": "matkustaa",
-      "chinese": "旅行"
-    },
-    {
-      "finnish": "matto",
-      "chinese": "地毯"
-    },
-    {
-      "finnish": "menin",
-      "chinese": "我去了"
-    },
-    {
-      "finnish": "mennä",
-      "chinese": "去"
-    },
-    {
-      "finnish": "meri",
-      "chinese": "海"
-    },
-    {
-      "finnish": "moderni",
-      "chinese": "现代的"
-    },
-    {
-      "finnish": "munkki",
-      "chinese": "（芬兰式）甜甜圈"
-    },
-    {
-      "finnish": "museo",
-      "chinese": "博物馆"
-    },
-    {
-      "finnish": "mustamakkara",
-      "chinese": "血肠"
-    },
-    {
-      "finnish": "muuten",
-      "chinese": "另外"
-    },
-    {
-      "finnish": "myöhässä",
-      "chinese": "迟到"
-    },
-    {
-      "finnish": "mäki",
-      "chinese": "小山"
-    },
-    {
-      "finnish": "mökki",
-      "chinese": "度假小屋"
-    },
-    {
-      "finnish": "nalle",
-      "chinese": "泰迪熊"
-    },
-    {
-      "finnish": "nimi",
-      "chinese": "名字"
-    },
-    {
-      "finnish": "nukkua",
-      "chinese": "睡觉"
-    },
-    {
-      "finnish": "nähdä",
-      "chinese": "看见"
-    },
-    {
-      "finnish": "näköala",
-      "chinese": "景色，视野"
-    },
-    {
-      "finnish": "näkötorni",
-      "chinese": "观景塔"
-    },
-    {
-      "finnish": "odottaa",
-      "chinese": "等待"
-    },
-    {
-      "finnish": "olla",
-      "chinese": "是"
-    },
-    {
-      "finnish": "olin",
-      "chinese": "我（曾）是"
-    },
-    {
-      "finnish": "On hauskaa",
-      "chinese": "做...很有趣"
-    },
-    {
-      "finnish": "opettaja",
-      "chinese": "老师"
-    },
-    {
-      "finnish": "opiskelija",
-      "chinese": "学生"
-    },
-    {
-      "finnish": "palaa",
-      "chinese": "返回"
-    },
-    {
-      "finnish": "peili",
-      "chinese": "镜子"
-    },
-    {
-      "finnish": "pieni",
-      "chinese": "小的"
-    },
-    {
-      "finnish": "pitkästä aikaa",
-      "chinese": "好久不见"
-    },
-    {
-      "finnish": "pizza",
-      "chinese": "披萨"
-    },
-    {
-      "finnish": "pulla",
-      "chinese": "芬兰甜面包"
-    },
-    {
-      "finnish": "puolukkahillo",
-      "chinese": "越橘果酱"
-    },
-    {
-      "finnish": "pysäkki",
-      "chinese": "车站"
-    },
-    {
-      "finnish": "pääsymaksu",
-      "chinese": "门票"
-    },
-    {
-      "finnish": "pääruoka",
-      "chinese": "主菜"
-    },
-    {
-      "finnish": "raitiovaunu",
-      "chinese": "有轨电车"
-    },
-    {
-      "finnish": "ravintola",
-      "chinese": "餐厅"
-    },
-    {
-      "finnish": "rautatieasema",
-      "chinese": "火车站"
-    },
-    {
-      "finnish": "saapua",
-      "chinese": "到达"
-    },
-    {
-      "finnish": "saari",
-      "chinese": "岛屿"
-    },
-    {
-      "finnish": "sairaala",
-      "chinese": "医院"
-    },
-    {
-      "finnish": "sanoi",
-      "chinese": "（他/她）说了"
-    },
-    {
-      "finnish": "sanoa",
-      "chinese": "说"
-    },
-    {
-      "finnish": "satama",
-      "chinese": "港口"
-    },
-    {
-      "finnish": "sauna",
-      "chinese": "桑拿"
-    },
-    {
-      "finnish": "saunoa",
-      "chinese": "蒸桑拿"
-    },
-    {
-      "finnish": "saunaosasto",
-      "chinese": "桑拿区"
-    },
-    {
-      "finnish": "serkku",
-      "chinese": "堂/表兄弟姐妹"
-    },
-    {
-      "finnish": "suljettu",
-      "chinese": "关闭"
-    },
-    {
-      "finnish": "suuri",
-      "chinese": "大的"
-    },
-    {
-      "finnish": "syödä",
-      "chinese": "吃"
-    },
-    {
-      "finnish": "taksi",
-      "chinese": "出租车"
-    },
-    {
-      "finnish": "talo",
-      "chinese": "房子"
-    },
-    {
-      "finnish": "tarjous",
-      "chinese": "优惠"
-    },
-    {
-      "finnish": "tavata",
-      "chinese": "见面"
-    },
-    {
-      "finnish": "teatteri",
-      "chinese": "剧院"
-    },
-    {
-      "finnish": "televisio",
-      "chinese": "电视"
-    },
-    {
-      "finnish": "tori",
-      "chinese": "广场"
-    },
-    {
-      "finnish": "tuliainen",
-      "chinese": "（带来的）礼物"
-    },
-    {
-      "finnish": "tulin",
-      "chinese": "我来了"
-    },
-    {
-      "finnish": "tulla",
-      "chinese": "来"
-    },
-    {
-      "finnish": "tunti",
-      "chinese": "小时"
-    },
-    {
-      "finnish": "tuore",
-      "chinese": "新鲜的"
-    },
-    {
-      "finnish": "turisti",
-      "chinese": "游客"
-    },
-    {
-      "finnish": "tylsä",
-      "chinese": "无聊的"
-    },
-    {
-      "finnish": "täti",
-      "chinese": "阿姨，姑姑"
-    },
-    {
-      "finnish": "tärkeä",
-      "chinese": "重要的"
-    },
-    {
-      "finnish": "uida",
-      "chinese": "游泳"
-    },
-    {
-      "finnish": "uimahalli",
-      "chinese": "游泳馆"
-    },
-    {
-      "finnish": "uusi",
-      "chinese": "新的"
-    },
-    {
-      "finnish": "upea",
-      "chinese": "壮丽的，极好的"
-    },
-    {
-      "finnish": "vaikea",
-      "chinese": "困难的"
-    },
-    {
-      "finnish": "valita",
-      "chinese": "选择"
-    },
-    {
-      "finnish": "valkoinen",
-      "chinese": "白色的"
-    },
-    {
-      "finnish": "varaus",
-      "chinese": "预定"
-    },
-    {
-      "finnish": "varmasti",
-      "chinese": "当然"
-    },
-    {
-      "finnish": "vastata",
-      "chinese": "回答"
-    },
-    {
-      "finnish": "vastaanotto",
-      "chinese": "前台"
-    },
-    {
-      "finnish": "vene",
-      "chinese": "小船"
-    },
-    {
-      "finnish": "vesi",
-      "chinese": "水"
-    },
-    {
-      "finnish": "viikonloppu",
-      "chinese": "周末"
-    },
-    {
-      "finnish": "vuosi",
-      "chinese": "年"
-    },
-    {
-      "finnish": "yliopisto",
-      "chinese": "大学"
-    },
-    {
-      "finnish": "ystävä",
-      "chinese": "朋友"
-    },
-    {
-      "finnish": "yö",
-      "chinese": "夜晚"
-    },
-    {
-      "finnish": "yöpyä",
-      "chinese": "过夜"
-    }
-  ]
+    "day": "Kappale 7 - 单词",
+    "entries": [
+        {
+            "finnish": "aikoa",
+            "chinese": "打算"
+        },
+        {
+            "finnish": "ainakin",
+            "chinese": "至少"
+        },
+        {
+            "finnish": "alkuruoka",
+            "chinese": "前菜"
+        },
+        {
+            "finnish": "osoite",
+            "chinese": "地址"
+        },
+        {
+            "finnish": "aukioloajat",
+            "chinese": "营业时间"
+        },
+        {
+            "finnish": "avoinna",
+            "chinese": "开放"
+        },
+        {
+            "finnish": "avainkortti",
+            "chinese": "房卡"
+        },
+        {
+            "finnish": "ehdottaa",
+            "chinese": "建议"
+        },
+        {
+            "finnish": "eläkeläinen",
+            "chinese": "退休人员"
+        },
+        {
+            "finnish": "ensimmäistä kertaa",
+            "chinese": "第一次"
+        },
+        {
+            "finnish": "erikoisuus",
+            "chinese": "特产"
+        },
+        {
+            "finnish": "herkullinen",
+            "chinese": "美味的"
+        },
+        {
+            "finnish": "hieno",
+            "chinese": "好的，棒的"
+        },
+        {
+            "finnish": "huvipuisto",
+            "chinese": "游乐园"
+        },
+        {
+            "finnish": "ilmainen",
+            "chinese": "免费的"
+        },
+        {
+            "finnish": "imperfekti",
+            "chinese": "过去时"
+        },
+        {
+            "finnish": "imuri",
+            "chinese": "吸尘器"
+        },
+        {
+            "finnish": "jaksaa",
+            "chinese": "有精力"
+        },
+        {
+            "finnish": "järvi",
+            "chinese": "湖"
+        },
+        {
+            "finnish": "joki",
+            "chinese": "河流"
+        },
+        {
+            "finnish": "jälkiruoka",
+            "chinese": "甜点"
+        },
+        {
+            "finnish": "kahden hengen huone",
+            "chinese": "双人间"
+        },
+        {
+            "finnish": "kahvila",
+            "chinese": "咖啡馆"
+        },
+        {
+            "finnish": "kappale",
+            "chinese": "章节"
+        },
+        {
+            "finnish": "kauppahalli",
+            "chinese": "室内市场"
+        },
+        {
+            "finnish": "kauppakeskus",
+            "chinese": "购物中心"
+        },
+        {
+            "finnish": "kertoo",
+            "chinese": "(他/她) 讲述"
+        },
+        {
+            "finnish": "kulkuvälineet",
+            "chinese": "交通工具"
+        },
+        {
+            "finnish": "kuulua hintaan",
+            "chinese": "包含在价格里"
+        },
+        {
+            "finnish": "kuukausi",
+            "chinese": "月份"
+        },
+        {
+            "finnish": "kylässä",
+            "chinese": "做客"
+        },
+        {
+            "finnish": "kysyy",
+            "chinese": "(他/她) 问"
+        },
+        {
+            "finnish": "kävellen",
+            "chinese": "步行"
+        },
+        {
+            "finnish": "lahja",
+            "chinese": "礼物"
+        },
+        {
+            "finnish": "laiva",
+            "chinese": "轮船"
+        },
+        {
+            "finnish": "lentokone",
+            "chinese": "飞机"
+        },
+        {
+            "finnish": "lentoasema",
+            "chinese": "机场"
+        },
+        {
+            "finnish": "linja-auto",
+            "chinese": "长途汽车，公交车"
+        },
+        {
+            "finnish": "linna",
+            "chinese": "城堡"
+        },
+        {
+            "finnish": "luovuttaa",
+            "chinese": "退房，交出"
+        },
+        {
+            "finnish": "maistaa",
+            "chinese": "品尝"
+        },
+        {
+            "finnish": "matkailu",
+            "chinese": "旅游"
+        },
+        {
+            "finnish": "menin",
+            "chinese": "我去了"
+        },
+        {
+            "finnish": "munkki",
+            "chinese": "（芬兰式）甜甜圈"
+        },
+        {
+            "finnish": "museo",
+            "chinese": "博物馆"
+        },
+        {
+            "finnish": "mustamakkara",
+            "chinese": "血肠"
+        },
+        {
+            "finnish": "muuten",
+            "chinese": "另外"
+        },
+        {
+            "finnish": "myöhässä",
+            "chinese": "迟到"
+        },
+        {
+            "finnish": "mäki",
+            "chinese": "小山"
+        },
+        {
+            "finnish": "mökki",
+            "chinese": "度假小屋"
+        },
+        {
+            "finnish": "näköala",
+            "chinese": "景色，视野"
+        },
+        {
+            "finnish": "näkötorni",
+            "chinese": "观景塔"
+        },
+        {
+            "finnish": "olin",
+            "chinese": "我（曾）是"
+        },
+        {
+            "finnish": "On hauskaa",
+            "chinese": "做...很有趣"
+        },
+        {
+            "finnish": "palaa",
+            "chinese": "返回"
+        },
+        {
+            "finnish": "peili",
+            "chinese": "镜子"
+        },
+        {
+            "finnish": "pitkästä aikaa",
+            "chinese": "好久不见"
+        },
+        {
+            "finnish": "puolukkahillo",
+            "chinese": "越橘果酱"
+        },
+        {
+            "finnish": "pysäkki",
+            "chinese": "车站"
+        },
+        {
+            "finnish": "pääsymaksu",
+            "chinese": "门票"
+        },
+        {
+            "finnish": "pääruoka",
+            "chinese": "主菜"
+        },
+        {
+            "finnish": "raitiovaunu",
+            "chinese": "有轨电车"
+        },
+        {
+            "finnish": "rautatieasema",
+            "chinese": "火车站"
+        },
+        {
+            "finnish": "saari",
+            "chinese": "岛屿"
+        },
+        {
+            "finnish": "sanoi",
+            "chinese": "（他/她）说了"
+        },
+        {
+            "finnish": "satama",
+            "chinese": "港口"
+        },
+        {
+            "finnish": "saunaosasto",
+            "chinese": "桑拿区"
+        },
+        {
+            "finnish": "suljettu",
+            "chinese": "关闭"
+        },
+        {
+            "finnish": "suuri",
+            "chinese": "大的"
+        },
+        {
+            "finnish": "taksi",
+            "chinese": "出租车"
+        },
+        {
+            "finnish": "tarjous",
+            "chinese": "优惠"
+        },
+        {
+            "finnish": "tavata",
+            "chinese": "见面"
+        },
+        {
+            "finnish": "tuliainen",
+            "chinese": "（带来的）礼物"
+        },
+        {
+            "finnish": "tulin",
+            "chinese": "我来了"
+        },
+        {
+            "finnish": "tuore",
+            "chinese": "新鲜的"
+        },
+        {
+            "finnish": "tylsä",
+            "chinese": "无聊的"
+        },
+        {
+            "finnish": "tärkeä",
+            "chinese": "重要的"
+        },
+        {
+            "finnish": "upea",
+            "chinese": "壮丽的，极好的"
+        },
+        {
+            "finnish": "varaus",
+            "chinese": "预定"
+        },
+        {
+            "finnish": "varmasti",
+            "chinese": "当然"
+        },
+        {
+            "finnish": "vastata",
+            "chinese": "回答"
+        },
+        {
+            "finnish": "vastaanotto",
+            "chinese": "前台"
+        },
+        {
+            "finnish": "vuosi",
+            "chinese": "年"
+        },
+        {
+            "finnish": "yliopisto",
+            "chinese": "大学"
+        }
+    ]
 }

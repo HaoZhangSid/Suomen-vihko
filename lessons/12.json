@@ -14,10 +14,6 @@
             "chinese": "小狗"
         },
         {
-            "finnish": "vuosi",
-            "chinese": "年"
-        },
-        {
             "finnish": "kuukausi",
             "chinese": "月"
         },
@@ -38,18 +34,6 @@
             "chinese": "太阳照耀"
         },
         {
-            "finnish": "täti",
-            "chinese": "姑妈，姨妈"
-        },
-        {
-            "finnish": "serkku",
-            "chinese": "堂/表兄弟姐妹"
-        },
-        {
-            "finnish": "anoppi",
-            "chinese": "岳母/婆婆"
-        },
-        {
             "finnish": "appi / appiukko",
             "chinese": "岳父/公公"
         },
@@ -68,10 +52,6 @@
         {
             "finnish": "eno",
             "chinese": "舅舅"
-        },
-        {
-            "finnish": "setä",
-            "chinese": "叔叔/伯伯"
         },
         {
             "finnish": "taapero",
@@ -110,10 +90,6 @@
             "chinese": "头疼"
         },
         {
-            "finnish": "apteekki",
-            "chinese": "药店"
-        },
-        {
             "finnish": "särkylääke",
             "chinese": "止痛药"
         },
@@ -146,14 +122,6 @@
             "chinese": "新护照"
         },
         {
-            "finnish": "poliisiasema",
-            "chinese": "警察局"
-        },
-        {
-            "finnish": "nälkä",
-            "chinese": "饥饿"
-        },
-        {
             "finnish": "ravintola",
             "chinese": "餐馆"
         },
@@ -162,20 +130,8 @@
             "chinese": "食物"
         },
         {
-            "finnish": "jääkaappi",
-            "chinese": "冰箱"
-        },
-        {
             "finnish": "tyhjä",
             "chinese": "空的"
-        },
-        {
-            "finnish": "tori",
-            "chinese": "市场"
-        },
-        {
-            "finnish": "kauppa",
-            "chinese": "商店"
         },
         {
             "finnish": "naapuri",
@@ -198,16 +154,8 @@
             "chinese": "现金"
         },
         {
-            "finnish": "pankki",
-            "chinese": "银行"
-        },
-        {
             "finnish": "automaatti",
             "chinese": "自动取款机"
-        },
-        {
-            "finnish": "konsonantti",
-            "chinese": "辅音"
         },
         {
             "finnish": "Tule tänne!",
@@ -244,10 +192,6 @@
         {
             "finnish": "Mene kouluun!",
             "chinese": "去学校！"
-        },
-        {
-            "finnish": "Minä menen kouluun.",
-            "chinese": "我去学校。"
         },
         {
             "finnish": "Mene kauppaan!",
@@ -324,10 +268,6 @@
         {
             "finnish": "Minä menen kurssille.",
             "chinese": "我去上课。"
-        },
-        {
-            "finnish": "Minulla on pää kipeä.",
-            "chinese": "我头疼。"
         },
         {
             "finnish": "Olen todella sairas.",
@@ -432,10 +372,6 @@
         {
             "finnish": "Minulla ei ole käteistä.",
             "chinese": "我没有现金。"
-        },
-        {
-            "finnish": "Mene pankkiin!",
-            "chinese": "去银行！"
         },
         {
             "finnish": "Mene automaatille!",

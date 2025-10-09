@@ -1,773 +1,605 @@
 {
     "day": "Kappale 4 - 单词",
     "entries": [
-      {
-        "finnish": "alennus",
-        "chinese": "折扣"
-      },
-      {
-        "finnish": "alusvaatteet",
-        "chinese": "内衣"
-      },
-      {
-        "finnish": "asunto",
-        "chinese": "公寓, 住所"
-      },
-      {
-        "finnish": "auttaa",
-        "chinese": "帮助"
-      },
-      {
-        "finnish": "avain",
-        "chinese": "钥匙"
-      },
-      {
-        "finnish": "banaani",
-        "chinese": "香蕉"
-      },
-      {
-        "finnish": "bussikuski",
-        "chinese": "公交车司机"
-      },
-      {
-        "finnish": "ehkä",
-        "chinese": "也许"
-      },
-      {
-        "finnish": "elokuva",
-        "chinese": "电影"
-      },
-      {
-        "finnish": "epäystävällinen",
-        "chinese": "不友好的"
-      },
-      {
-        "finnish": "eronnut",
-        "chinese": "离婚的"
-      },
-      {
-        "finnish": "etsiä",
-        "chinese": "寻找"
-      },
-      {
-        "finnish": "farkut",
-        "chinese": "牛仔裤"
-      },
-      {
-        "finnish": "farkkutakki",
-        "chinese": "牛仔夹克"
-      },
-      {
-        "finnish": "hame",
-        "chinese": "裙子"
-      },
-      {
-        "finnish": "harmaa",
-        "chinese": "灰色的"
-      },
-      {
-        "finnish": "hiljainen",
-        "chinese": "安静的"
-      },
-      {
-        "finnish": "hoikka",
-        "chinese": "苗条的"
-      },
-      {
-        "finnish": "hotelli",
-        "chinese": "酒店"
-      },
-      {
-        "finnish": "housut",
-        "chinese": "裤子"
-      },
-      {
-        "finnish": "huivi",
-        "chinese": "围巾"
-      },
-      {
-        "finnish": "huone",
-        "chinese": "房间"
-      },
-      {
-        "finnish": "hyvä",
-        "chinese": "好的"
-      },
-      {
-        "finnish": "ihana",
-        "chinese": "极好的, 可爱的"
-      },
-      {
-        "finnish": "iloinen",
-        "chinese": "高兴的"
-      },
-      {
-        "finnish": "isä",
-        "chinese": "爸爸"
-      },
-      {
-        "finnish": "isoäiti",
-        "chinese": "祖母"
-      },
-      {
-        "finnish": "isoisä",
-        "chinese": "祖父"
-      },
-      {
-        "finnish": "isovanhemmat",
-        "chinese": "祖父母"
-      },
-      {
-        "finnish": "isoveli",
-        "chinese": "哥哥"
-      },
-      {
-        "finnish": "jalkapallo",
-        "chinese": "足球"
-      },
-      {
-        "finnish": "jano",
-        "chinese": "渴"
-      },
-      {
-        "finnish": "juoda",
-        "chinese": "喝"
-      },
-      {
-        "finnish": "juna",
-        "chinese": "火车"
-      },
-      {
-        "finnish": "jääkiekko",
-        "chinese": "冰球"
-      },
-      {
-        "finnish": "kahvi",
-        "chinese": "咖啡"
-      },
-      {
-        "finnish": "kalju",
-        "chinese": "秃头的"
-      },
-      {
-        "finnish": "kallis",
-        "chinese": "昂贵的"
-      },
-      {
-        "finnish": "kanssa",
-        "chinese": "和...一起"
-      },
-      {
-        "finnish": "karjalanpiirakka",
-        "chinese": "卡累利阿派"
-      },
-      {
-        "finnish": "kassi",
-        "chinese": "包"
-      },
-      {
-        "finnish": "katsella",
-        "chinese": "看"
-      },
-      {
-        "finnish": "katsoa",
-        "chinese": "看"
-      },
-      {
-        "finnish": "katu",
-        "chinese": "街道"
-      },
-      {
-        "finnish": "kaulaliina",
-        "chinese": "围巾"
-      },
-      {
-        "finnish": "kaunis",
-        "chinese": "美丽的"
-      },
-      {
-        "finnish": "kauppa",
-        "chinese": "商店"
-      },
-      {
-        "finnish": "keltainen",
-        "chinese": "黄色的"
-      },
-      {
-        "finnish": "kengät",
-        "chinese": "鞋子"
-      },
-      {
-        "finnish": "kerros",
-        "chinese": "楼层"
-      },
-      {
-        "finnish": "kesä",
-        "chinese": "夏天"
-      },
-      {
-        "finnish": "kihara",
-        "chinese": "卷曲的"
-      },
-      {
-        "finnish": "kihloissa",
-        "chinese": "订婚的"
-      },
-      {
-        "finnish": "kiire",
-        "chinese": "急事，匆忙"
-      },
-      {
-        "finnish": "kirje",
-        "chinese": "信"
-      },
-      {
-        "finnish": "kirkko",
-        "chinese": "教堂"
-      },
-      {
-        "finnish": "kissa",
-        "chinese": "猫"
-      },
-      {
-        "finnish": "kitara",
-        "chinese": "吉他"
-      },
-      {
-        "finnish": "koira",
-        "chinese": "狗"
-      },
-      {
-        "finnish": "koko",
-        "chinese": "尺码"
-      },
-      {
-        "finnish": "komea",
-        "chinese": "英俊的"
-      },
-      {
-        "finnish": "korkea",
-        "chinese": "高的"
-      },
-      {
-        "finnish": "kova",
-        "chinese": "硬的"
-      },
-      {
-        "finnish": "kuitti",
-        "chinese": "收据"
-      },
-      {
-        "finnish": "kuuma",
-        "chinese": "热"
-      },
-      {
-        "finnish": "kuunnella",
-        "chinese": "听"
-      },
-      {
-        "finnish": "kylmä",
-        "chinese": "冷"
-      },
-      {
-        "finnish": "kynä",
-        "chinese": "笔"
-      },
-      {
-        "finnish": "kysyä",
-        "chinese": "问"
-      },
-      {
-        "finnish": "käsineet",
-        "chinese": "手套"
-      },
-      {
-        "finnish": "lapsi",
-        "chinese": "孩子"
-      },
-      {
-        "finnish": "lemmikki",
-        "chinese": "宠物"
-      },
-      {
-        "finnish": "lenkkarit",
-        "chinese": "运动鞋"
-      },
-      {
-        "finnish": "leski",
-        "chinese": "寡妇/鳏夫"
-      },
-      {
-        "finnish": "lippu",
-        "chinese": "旗帜"
-      },
-      {
-        "finnish": "matala",
-        "chinese": "低的"
-      },
-      {
-        "finnish": "matto",
-        "chinese": "地毯"
-      },
-      {
-        "finnish": "mekko",
-        "chinese": "连衣裙"
-      },
-      {
-        "finnish": "mennä",
-        "chinese": "去"
-      },
-      {
-        "finnish": "meri",
-        "chinese": "海"
-      },
-      {
-        "finnish": "mies",
-        "chinese": "男人，丈夫"
-      },
-      {
-        "finnish": "monta",
-        "chinese": "许多"
-      },
-      {
-        "finnish": "muovipussi",
-        "chinese": "塑料袋"
-      },
-      {
-        "finnish": "musiikki",
-        "chinese": "音乐"
-      },
-      {
-        "finnish": "musta",
-        "chinese": "黑色的"
-      },
-      {
-        "finnish": "mäyräkoira",
-        "chinese": "腊肠犬"
-      },
-      {
-        "finnish": "naimisissa",
-        "chinese": "已婚的"
-      },
-      {
-        "finnish": "nalle",
-        "chinese": "泰迪熊"
-      },
-      {
-        "finnish": "nuori",
-        "chinese": "年轻的"
-      },
-      {
-        "finnish": "nälkä",
-        "chinese": "饿"
-      },
-      {
-        "finnish": "odottaa",
-        "chinese": "等待"
-      },
-      {
-        "finnish": "oma",
-        "chinese": "自己的"
-      },
-      {
-        "finnish": "omena",
-        "chinese": "苹果"
-      },
-      {
-        "finnish": "onnellinen",
-        "chinese": "幸福的"
-      },
-      {
-        "finnish": "opettaja",
-        "chinese": "老师"
-      },
-      {
-        "finnish": "oranssi",
-        "chinese": "橙色的"
-      },
-      {
-        "finnish": "paita",
-        "chinese": "衬衫"
-      },
-      {
-        "finnish": "paljon",
-        "chinese": "很多"
-      },
-      {
-        "finnish": "parta",
-        "chinese": "胡须"
-      },
-      {
-        "finnish": "pehmeä",
-        "chinese": "软的"
-      },
-      {
-        "finnish": "perhe",
-        "chinese": "家庭"
-      },
-      {
-        "finnish": "piano",
-        "chinese": "钢琴"
-      },
-      {
-        "finnish": "pikkusisko",
-        "chinese": "妹妹"
-      },
-      {
-        "finnish": "pilvi",
-        "chinese": "云"
-      },
-      {
-        "finnish": "pinkki",
-        "chinese": "粉色的"
-      },
-      {
-        "finnish": "pipo",
-        "chinese": "毛线帽"
-      },
-      {
-        "finnish": "pitää",
-        "chinese": "喜欢"
-      },
-      {
-        "finnish": "poika",
-        "chinese": "男孩，儿子"
-      },
-      {
-        "finnish": "puhelias",
-        "chinese": "健谈的"
-      },
-      {
-        "finnish": "puhua",
-        "chinese": "说"
-      },
-      {
-        "finnish": "puku",
-        "chinese": "西装"
-      },
-      {
-        "finnish": "punainen",
-        "chinese": "红色的"
-      },
-      {
-        "finnish": "puu",
-        "chinese": "树"
-      },
-      {
-        "finnish": "pyörä",
-        "chinese": "自行车"
-      },
-      {
-        "finnish": "päivä",
-        "chinese": "天"
-      },
-      {
-        "finnish": "rakastaa",
-        "chinese": "爱"
-      },
-      {
-        "finnish": "rauhallinen",
-        "chinese": "安静的，平和的"
-      },
-      {
-        "finnish": "rauhassa",
-        "chinese": "安静地"
-      },
-      {
-        "finnish": "ravintola",
-        "chinese": "餐厅"
-      },
-      {
-        "finnish": "ruskea",
-        "chinese": "棕色的"
-      },
-      {
-        "finnish": "saappaat",
-        "chinese": "靴子"
-      },
-      {
-        "finnish": "salaatti",
-        "chinese": "沙拉"
-      },
-      {
-        "finnish": "salmiakki",
-        "chinese": "甘草糖"
-      },
-      {
-        "finnish": "sateenvarjo",
-        "chinese": "雨伞"
-      },
-      {
-        "finnish": "sauna",
-        "chinese": "桑拿"
-      },
-      {
-        "finnish": "serkku",
-        "chinese": "堂/表兄弟姐妹"
-      },
-      {
-        "finnish": "setä",
-        "chinese": "叔叔，伯伯"
-      },
-      {
-        "finnish": "shortsit",
-        "chinese": "短裤"
-      },
-      {
-        "finnish": "silmä",
-        "chinese": "眼睛"
-      },
-      {
-        "finnish": "silmälasit",
-        "chinese": "眼镜"
-      },
-      {
-        "finnish": "sinkku",
-        "chinese": "单身"
-      },
-      {
-        "finnish": "sininen",
-        "chinese": "蓝色的"
-      },
-      {
-        "finnish": "sisko",
-        "chinese": "姐妹"
-      },
-      {
-        "finnish": "soittaa",
-        "chinese": "弹奏; 打电话"
-      },
-      {
-        "finnish": "solmio",
-        "chinese": "领带"
-      },
-      {
-        "finnish": "sovituskoppi",
-        "chinese": "试衣间"
-      },
-      {
-        "finnish": "suku",
-        "chinese": "亲戚"
-      },
-      {
-        "finnish": "sukulaiset",
-        "chinese": "亲戚们"
-      },
-      {
-        "finnish": "sukat",
-        "chinese": "袜子"
-      },
-      {
-        "finnish": "suora",
-        "chinese": "直的"
-      },
-      {
-        "finnish": "surullinen",
-        "chinese": "悲伤的"
-      },
-      {
-        "finnish": "syksy",
-        "chinese": "秋天"
-      },
-      {
-        "finnish": "sää",
-        "chinese": "天气"
-      },
-      {
-        "finnish": "söpö",
-        "chinese": "可爱的"
-      },
-      {
-        "finnish": "takana",
-        "chinese": "在...后面"
-      },
-      {
-        "finnish": "takki",
-        "chinese": "外套"
-      },
-      {
-        "finnish": "talo",
-        "chinese": "房子"
-      },
-      {
-        "finnish": "tanssia",
-        "chinese": "跳舞"
-      },
-      {
-        "finnish": "tarvita",
-        "chinese": "需要"
-      },
-      {
-        "finnish": "tarkistaa",
-        "chinese": "检查"
-      },
-      {
-        "finnish": "tee",
-        "chinese": "茶"
-      },
-      {
-        "finnish": "televisio",
-        "chinese": "电视"
-      },
-      {
-        "finnish": "tietokone",
-        "chinese": "电脑"
-      },
-      {
-        "finnish": "timantti",
-        "chinese": "钻石"
-      },
-      {
-        "finnish": "tomaatti",
-        "chinese": "西红柿"
-      },
-      {
-        "finnish": "tukeva",
-        "chinese": "结实的"
-      },
-      {
-        "finnish": "tukka",
-        "chinese": "头发"
-      },
-      {
-        "finnish": "tumma",
-        "chinese": "深色的"
-      },
-      {
-        "finnish": "tunneli",
-        "chinese": "隧道"
-      },
-      {
-        "finnish": "turisti",
-        "chinese": "游客"
-      },
-      {
-        "finnish": "tykätä",
-        "chinese": "喜欢 (口语)"
-      },
-      {
-        "finnish": "tyttö",
-        "chinese": "女孩"
-      },
-      {
-        "finnish": "tyttöystävä",
-        "chinese": "女朋友"
-      },
-      {
-        "finnish": "työpaikka",
-        "chinese": "工作"
-      },
-      {
-        "finnish": "työtön",
-        "chinese": "失业的"
-      },
-      {
-        "finnish": "tytär",
-        "chinese": "女儿"
-      },
-      {
-        "finnish": "täti",
-        "chinese": "阿姨，姑姑"
-      },
-      {
-        "finnish": "uimapuku",
-        "chinese": "泳衣"
-      },
-      {
-        "finnish": "ujo",
-        "chinese": "害羞的"
-      },
-      {
-        "finnish": "ulkonäkö",
-        "chinese": "外貌"
-      },
-      {
-        "finnish": "urheilu",
-        "chinese": "运动"
-      },
-      {
-        "finnish": "vaalea",
-        "chinese": "浅色的"
-      },
-      {
-        "finnish": "vaatekauppa",
-        "chinese": "服装店"
-      },
-      {
-        "finnish": "vaatteet",
-        "chinese": "衣服"
-      },
-      {
-        "finnish": "vaimo",
-        "chinese": "妻子"
-      },
-      {
-        "finnish": "valitettavasti",
-        "chinese": "不幸地"
-      },
-      {
-        "finnish": "valkoinen",
-        "chinese": "白色的"
-      },
-      {
-        "finnish": "vanha",
-        "chinese": "老的"
-      },
-      {
-        "finnish": "vanhemmat",
-        "chinese": "父母"
-      },
-      {
-        "finnish": "vauva",
-        "chinese": "婴儿"
-      },
-      {
-        "finnish": "veli",
-        "chinese": "兄弟"
-      },
-      {
-        "finnish": "vihainen",
-        "chinese": "生气的"
-      },
-      {
-        "finnish": "vihreä",
-        "chinese": "绿色的"
-      },
-      {
-        "finnish": "viikset",
-        "chinese": "小胡子"
-      },
-      {
-        "finnish": "villapusero",
-        "chinese": "毛衣"
-      },
-      {
-        "finnish": "vuori",
-        "chinese": "山"
-      },
-      {
-        "finnish": "vyö",
-        "chinese": "腰带"
-      },
-      {
-        "finnish": "väri",
-        "chinese": "颜色"
-      },
-      {
-        "finnish": "vähän",
-        "chinese": "一点"
-      },
-      {
-        "finnish": "ymmärtää",
-        "chinese": "理解"
-      },
-      {
-        "finnish": "ystävällinen",
-        "chinese": "友好的"
-      },
-      {
-        "finnish": "äiti",
-        "chinese": "妈妈"
-      }
+        {
+            "finnish": "alennus",
+            "chinese": "折扣"
+        },
+        {
+            "finnish": "alusvaatteet",
+            "chinese": "内衣"
+        },
+        {
+            "finnish": "avain",
+            "chinese": "钥匙"
+        },
+        {
+            "finnish": "banaani",
+            "chinese": "香蕉"
+        },
+        {
+            "finnish": "bussikuski",
+            "chinese": "公交车司机"
+        },
+        {
+            "finnish": "ehkä",
+            "chinese": "也许"
+        },
+        {
+            "finnish": "elokuva",
+            "chinese": "电影"
+        },
+        {
+            "finnish": "epäystävällinen",
+            "chinese": "不友好的"
+        },
+        {
+            "finnish": "eronnut",
+            "chinese": "离婚的"
+        },
+        {
+            "finnish": "farkut",
+            "chinese": "牛仔裤"
+        },
+        {
+            "finnish": "farkkutakki",
+            "chinese": "牛仔夹克"
+        },
+        {
+            "finnish": "hame",
+            "chinese": "裙子"
+        },
+        {
+            "finnish": "harmaa",
+            "chinese": "灰色的"
+        },
+        {
+            "finnish": "hiljainen",
+            "chinese": "安静的"
+        },
+        {
+            "finnish": "hoikka",
+            "chinese": "苗条的"
+        },
+        {
+            "finnish": "hotelli",
+            "chinese": "酒店"
+        },
+        {
+            "finnish": "housut",
+            "chinese": "裤子"
+        },
+        {
+            "finnish": "huivi",
+            "chinese": "围巾"
+        },
+        {
+            "finnish": "huone",
+            "chinese": "房间"
+        },
+        {
+            "finnish": "iloinen",
+            "chinese": "高兴的"
+        },
+        {
+            "finnish": "isä",
+            "chinese": "爸爸"
+        },
+        {
+            "finnish": "isoisä",
+            "chinese": "祖父"
+        },
+        {
+            "finnish": "isovanhemmat",
+            "chinese": "祖父母"
+        },
+        {
+            "finnish": "isoveli",
+            "chinese": "哥哥"
+        },
+        {
+            "finnish": "jalkapallo",
+            "chinese": "足球"
+        },
+        {
+            "finnish": "jano",
+            "chinese": "渴"
+        },
+        {
+            "finnish": "juoda",
+            "chinese": "喝"
+        },
+        {
+            "finnish": "jääkiekko",
+            "chinese": "冰球"
+        },
+        {
+            "finnish": "kalju",
+            "chinese": "秃头的"
+        },
+        {
+            "finnish": "kanssa",
+            "chinese": "和...一起"
+        },
+        {
+            "finnish": "karjalanpiirakka",
+            "chinese": "卡累利阿派"
+        },
+        {
+            "finnish": "kassi",
+            "chinese": "包"
+        },
+        {
+            "finnish": "katsella",
+            "chinese": "看"
+        },
+        {
+            "finnish": "kaulaliina",
+            "chinese": "围巾"
+        },
+        {
+            "finnish": "kauppa",
+            "chinese": "商店"
+        },
+        {
+            "finnish": "keltainen",
+            "chinese": "黄色的"
+        },
+        {
+            "finnish": "kengät",
+            "chinese": "鞋子"
+        },
+        {
+            "finnish": "kerros",
+            "chinese": "楼层"
+        },
+        {
+            "finnish": "kihara",
+            "chinese": "卷曲的"
+        },
+        {
+            "finnish": "kihloissa",
+            "chinese": "订婚的"
+        },
+        {
+            "finnish": "kiire",
+            "chinese": "急事，匆忙"
+        },
+        {
+            "finnish": "kirje",
+            "chinese": "信"
+        },
+        {
+            "finnish": "kissa",
+            "chinese": "猫"
+        },
+        {
+            "finnish": "kitara",
+            "chinese": "吉他"
+        },
+        {
+            "finnish": "koira",
+            "chinese": "狗"
+        },
+        {
+            "finnish": "koko",
+            "chinese": "尺码"
+        },
+        {
+            "finnish": "komea",
+            "chinese": "英俊的"
+        },
+        {
+            "finnish": "korkea",
+            "chinese": "高的"
+        },
+        {
+            "finnish": "kova",
+            "chinese": "硬的"
+        },
+        {
+            "finnish": "kuunnella",
+            "chinese": "听"
+        },
+        {
+            "finnish": "kynä",
+            "chinese": "笔"
+        },
+        {
+            "finnish": "käsineet",
+            "chinese": "手套"
+        },
+        {
+            "finnish": "lapsi",
+            "chinese": "孩子"
+        },
+        {
+            "finnish": "lemmikki",
+            "chinese": "宠物"
+        },
+        {
+            "finnish": "lenkkarit",
+            "chinese": "运动鞋"
+        },
+        {
+            "finnish": "leski",
+            "chinese": "寡妇/鳏夫"
+        },
+        {
+            "finnish": "lippu",
+            "chinese": "旗帜"
+        },
+        {
+            "finnish": "matala",
+            "chinese": "低的"
+        },
+        {
+            "finnish": "mekko",
+            "chinese": "连衣裙"
+        },
+        {
+            "finnish": "mies",
+            "chinese": "男人，丈夫"
+        },
+        {
+            "finnish": "monta",
+            "chinese": "许多"
+        },
+        {
+            "finnish": "muovipussi",
+            "chinese": "塑料袋"
+        },
+        {
+            "finnish": "musiikki",
+            "chinese": "音乐"
+        },
+        {
+            "finnish": "musta",
+            "chinese": "黑色的"
+        },
+        {
+            "finnish": "mäyräkoira",
+            "chinese": "腊肠犬"
+        },
+        {
+            "finnish": "naimisissa",
+            "chinese": "已婚的"
+        },
+        {
+            "finnish": "nalle",
+            "chinese": "泰迪熊"
+        },
+        {
+            "finnish": "nuori",
+            "chinese": "年轻的"
+        },
+        {
+            "finnish": "nälkä",
+            "chinese": "饿"
+        },
+        {
+            "finnish": "oma",
+            "chinese": "自己的"
+        },
+        {
+            "finnish": "omena",
+            "chinese": "苹果"
+        },
+        {
+            "finnish": "onnellinen",
+            "chinese": "幸福的"
+        },
+        {
+            "finnish": "oranssi",
+            "chinese": "橙色的"
+        },
+        {
+            "finnish": "paita",
+            "chinese": "衬衫"
+        },
+        {
+            "finnish": "parta",
+            "chinese": "胡须"
+        },
+        {
+            "finnish": "pehmeä",
+            "chinese": "软的"
+        },
+        {
+            "finnish": "perhe",
+            "chinese": "家庭"
+        },
+        {
+            "finnish": "pikkusisko",
+            "chinese": "妹妹"
+        },
+        {
+            "finnish": "pilvi",
+            "chinese": "云"
+        },
+        {
+            "finnish": "pinkki",
+            "chinese": "粉色的"
+        },
+        {
+            "finnish": "pipo",
+            "chinese": "毛线帽"
+        },
+        {
+            "finnish": "pitää",
+            "chinese": "喜欢"
+        },
+        {
+            "finnish": "poika",
+            "chinese": "男孩，儿子"
+        },
+        {
+            "finnish": "puhelias",
+            "chinese": "健谈的"
+        },
+        {
+            "finnish": "puku",
+            "chinese": "西装"
+        },
+        {
+            "finnish": "punainen",
+            "chinese": "红色的"
+        },
+        {
+            "finnish": "puu",
+            "chinese": "树"
+        },
+        {
+            "finnish": "pyörä",
+            "chinese": "自行车"
+        },
+        {
+            "finnish": "rauhallinen",
+            "chinese": "安静的，平和的"
+        },
+        {
+            "finnish": "rauhassa",
+            "chinese": "安静地"
+        },
+        {
+            "finnish": "ravintola",
+            "chinese": "餐厅"
+        },
+        {
+            "finnish": "ruskea",
+            "chinese": "棕色的"
+        },
+        {
+            "finnish": "saappaat",
+            "chinese": "靴子"
+        },
+        {
+            "finnish": "salaatti",
+            "chinese": "沙拉"
+        },
+        {
+            "finnish": "salmiakki",
+            "chinese": "甘草糖"
+        },
+        {
+            "finnish": "sateenvarjo",
+            "chinese": "雨伞"
+        },
+        {
+            "finnish": "serkku",
+            "chinese": "堂/表兄弟姐妹"
+        },
+        {
+            "finnish": "setä",
+            "chinese": "叔叔，伯伯"
+        },
+        {
+            "finnish": "shortsit",
+            "chinese": "短裤"
+        },
+        {
+            "finnish": "silmä",
+            "chinese": "眼睛"
+        },
+        {
+            "finnish": "silmälasit",
+            "chinese": "眼镜"
+        },
+        {
+            "finnish": "sinkku",
+            "chinese": "单身"
+        },
+        {
+            "finnish": "sininen",
+            "chinese": "蓝色的"
+        },
+        {
+            "finnish": "sisko",
+            "chinese": "姐妹"
+        },
+        {
+            "finnish": "solmio",
+            "chinese": "领带"
+        },
+        {
+            "finnish": "sovituskoppi",
+            "chinese": "试衣间"
+        },
+        {
+            "finnish": "suku",
+            "chinese": "亲戚"
+        },
+        {
+            "finnish": "sukulaiset",
+            "chinese": "亲戚们"
+        },
+        {
+            "finnish": "sukat",
+            "chinese": "袜子"
+        },
+        {
+            "finnish": "suora",
+            "chinese": "直的"
+        },
+        {
+            "finnish": "surullinen",
+            "chinese": "悲伤的"
+        },
+        {
+            "finnish": "söpö",
+            "chinese": "可爱的"
+        },
+        {
+            "finnish": "takana",
+            "chinese": "在...后面"
+        },
+        {
+            "finnish": "takki",
+            "chinese": "外套"
+        },
+        {
+            "finnish": "tanssia",
+            "chinese": "跳舞"
+        },
+        {
+            "finnish": "tarvita",
+            "chinese": "需要"
+        },
+        {
+            "finnish": "tietokone",
+            "chinese": "电脑"
+        },
+        {
+            "finnish": "timantti",
+            "chinese": "钻石"
+        },
+        {
+            "finnish": "tukeva",
+            "chinese": "结实的"
+        },
+        {
+            "finnish": "tukka",
+            "chinese": "头发"
+        },
+        {
+            "finnish": "tumma",
+            "chinese": "深色的"
+        },
+        {
+            "finnish": "tunneli",
+            "chinese": "隧道"
+        },
+        {
+            "finnish": "turisti",
+            "chinese": "游客"
+        },
+        {
+            "finnish": "tykätä",
+            "chinese": "喜欢 (口语)"
+        },
+        {
+            "finnish": "tyttö",
+            "chinese": "女孩"
+        },
+        {
+            "finnish": "tyttöystävä",
+            "chinese": "女朋友"
+        },
+        {
+            "finnish": "työtön",
+            "chinese": "失业的"
+        },
+        {
+            "finnish": "tytär",
+            "chinese": "女儿"
+        },
+        {
+            "finnish": "täti",
+            "chinese": "阿姨，姑姑"
+        },
+        {
+            "finnish": "uimapuku",
+            "chinese": "泳衣"
+        },
+        {
+            "finnish": "ujo",
+            "chinese": "害羞的"
+        },
+        {
+            "finnish": "ulkonäkö",
+            "chinese": "外貌"
+        },
+        {
+            "finnish": "urheilu",
+            "chinese": "运动"
+        },
+        {
+            "finnish": "vaalea",
+            "chinese": "浅色的"
+        },
+        {
+            "finnish": "vaatekauppa",
+            "chinese": "服装店"
+        },
+        {
+            "finnish": "vaatteet",
+            "chinese": "衣服"
+        },
+        {
+            "finnish": "vaimo",
+            "chinese": "妻子"
+        },
+        {
+            "finnish": "valitettavasti",
+            "chinese": "不幸地"
+        },
+        {
+            "finnish": "valkoinen",
+            "chinese": "白色的"
+        },
+        {
+            "finnish": "vanhemmat",
+            "chinese": "父母"
+        },
+        {
+            "finnish": "vauva",
+            "chinese": "婴儿"
+        },
+        {
+            "finnish": "veli",
+            "chinese": "兄弟"
+        },
+        {
+            "finnish": "vihainen",
+            "chinese": "生气的"
+        },
+        {
+            "finnish": "vihreä",
+            "chinese": "绿色的"
+        },
+        {
+            "finnish": "viikset",
+            "chinese": "小胡子"
+        },
+        {
+            "finnish": "villapusero",
+            "chinese": "毛衣"
+        },
+        {
+            "finnish": "vuori",
+            "chinese": "山"
+        },
+        {
+            "finnish": "vyö",
+            "chinese": "腰带"
+        },
+        {
+            "finnish": "ystävällinen",
+            "chinese": "友好的"
+        },
+        {
+            "finnish": "äiti",
+            "chinese": "妈妈"
+        }
     ]
-  }
+}

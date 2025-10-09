@@ -10,24 +10,8 @@
             "chinese": "语感"
         },
         {
-            "finnish": "diftongi",
-            "chinese": "双元音"
-        },
-        {
-            "finnish": "sanelu",
-            "chinese": "听写"
-        },
-        {
             "finnish": "yhdistelmä",
             "chinese": "组合"
-        },
-        {
-            "finnish": "tavu",
-            "chinese": "音节"
-        },
-        {
-            "finnish": "vuosi",
-            "chinese": "年"
         },
         {
             "finnish": "vuodenajat",
@@ -42,32 +26,16 @@
             "chinese": "出生日期"
         },
         {
-            "finnish": "aamu",
-            "chinese": "早晨"
-        },
-        {
             "finnish": "aamulla",
             "chinese": "在早上"
-        },
-        {
-            "finnish": "päivä",
-            "chinese": "白天"
         },
         {
             "finnish": "päivällä",
             "chinese": "在白天"
         },
         {
-            "finnish": "ilta",
-            "chinese": "晚上"
-        },
-        {
             "finnish": "illalla",
             "chinese": "在晚上"
-        },
-        {
-            "finnish": "yö",
-            "chinese": "夜晚"
         },
         {
             "finnish": "yöllä",
@@ -92,10 +60,6 @@
         {
             "finnish": "kesä",
             "chinese": "夏天"
-        },
-        {
-            "finnish": "kesällä",
-            "chinese": "在夏天"
         },
         {
             "finnish": "syksy",

@@ -6,14 +6,6 @@
             "chinese": "第三"
         },
         {
-            "finnish": "vokaali",
-            "chinese": "元音"
-        },
-        {
-            "finnish": "konsonantti",
-            "chinese": "辅音"
-        },
-        {
             "finnish": "diftongit",
             "chinese": "双元音"
         },
@@ -62,22 +54,6 @@
             "chinese": "字母表"
         },
         {
-            "finnish": "lyhyt",
-            "chinese": "短的"
-        },
-        {
-            "finnish": "pitkä",
-            "chinese": "长的"
-        },
-        {
-            "finnish": "kieli",
-            "chinese": "语言/舌头"
-        },
-        {
-            "finnish": "suu",
-            "chinese": "嘴"
-        },
-        {
             "finnish": "leuka",
             "chinese": "下巴"
         },
@@ -95,10 +71,6 @@
         },
         {
             "finnish": "Huomenta!",
-            "chinese": "早上好！"
-        },
-        {
-            "finnish": "Hyvää huomenta!",
             "chinese": "早上好！"
         },
         {
@@ -140,10 +112,6 @@
         {
             "finnish": "Hauskaa viikonloppua!",
             "chinese": "周末愉快！"
-        },
-        {
-            "finnish": "Mitä kuuluu?",
-            "chinese": "你好吗？"
         },
         {
             "finnish": "Miten menee?",
@@ -200,10 +168,6 @@
         {
             "finnish": "Aurinko laskee.",
             "chinese": "太阳下山。"
-        },
-        {
-            "finnish": "Anteeksi, voisitko toistaa?",
-            "chinese": "对不起，你能重复一遍吗？"
         },
         {
             "finnish": "Voisitko puhua vähän hitaammin?",

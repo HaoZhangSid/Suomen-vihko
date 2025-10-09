@@ -1,477 +1,461 @@
 {
     "day": "Kappale 1 - 单词",
     "entries": [
-      {
-        "finnish": "minkämaalainen",
-        "chinese": "什么国籍的"
-      },
-      {
-        "finnish": "loppua",
-        "chinese": "结束"
-      },
-      {
-        "finnish": "muu",
-        "chinese": "其他的"
-      },
-      {
-        "finnish": "opiskelija",
-        "chinese": "学生"
-      },
-      {
-        "finnish": "mennä",
-        "chinese": "去"
-      },
-      {
-        "finnish": "koti",
-        "chinese": "家"
-      },
-      {
-        "finnish": "mutta",
-        "chinese": "但是"
-      },
-      {
-        "finnish": "kioski",
-        "chinese": "小卖部"
-      },
-      {
-        "finnish": "ostaa",
-        "chinese": "买"
-      },
-      {
-        "finnish": "jäätelö",
-        "chinese": "冰淇淋"
-      },
-      {
-        "finnish": "maksaa",
-        "chinese": "花费；支付"
-      },
-      {
-        "finnish": "euro",
-        "chinese": "欧元"
-      },
-      {
-        "finnish": "koska",
-        "chinese": "因为"
-      },
-      {
-        "finnish": "säästää",
-        "chinese": "节省，存钱"
-      },
-      {
-        "finnish": "raha",
-        "chinese": "钱"
-      },
-      {
-        "finnish": "sitten",
-        "chinese": "然后"
-      },
-      {
-        "finnish": "istua",
-        "chinese": "坐"
-      },
-      {
-        "finnish": "puisto",
-        "chinese": "公园"
-      },
-      {
-        "finnish": "puhua",
-        "chinese": "说"
-      },
-      {
-        "finnish": "nauraa",
-        "chinese": "笑"
-      },
-      {
-        "finnish": "brasilialainen",
-        "chinese": "巴西人，巴西的"
-      },
-      {
-        "finnish": "venäläinen",
-        "chinese": "俄罗斯人，俄罗斯的"
-      },
-      {
-        "finnish": "mistä",
-        "chinese": "从哪里"
-      },
-      {
-        "finnish": "kotoisin",
-        "chinese": "来自"
-      },
-      {
-        "finnish": "Etelä-Afrikka",
-        "chinese": "南非"
-      },
-      {
-        "finnish": "Ai jaa!",
-        "chinese": "哦，是吗！"
-      },
-      {
-        "finnish": "kieli",
-        "chinese": "语言"
-      },
-      {
-        "finnish": "äidinkieli",
-        "chinese": "母语"
-      },
-      {
-        "finnish": "englanti",
-        "chinese": "英语"
-      },
-      {
-        "finnish": "myös",
-        "chinese": "也"
-      },
-      {
-        "finnish": "vähän",
-        "chinese": "一点儿"
-      },
-      {
-        "finnish": "espanja",
-        "chinese": "西班牙语"
-      },
-      {
-        "finnish": "en puhu",
-        "chinese": "我不说"
-      },
-      {
-        "finnish": "Brasilia",
-        "chinese": "巴西"
-      },
-      {
-        "finnish": "portugali",
-        "chinese": "葡萄牙语"
-      },
-      {
-        "finnish": "totta",
-        "chinese": "真的"
-      },
-      {
-        "finnish": "ajaa",
-        "chinese": "开车，驾驶"
-      },
-      {
-        "finnish": "auto",
-        "chinese": "汽车"
-      },
-      {
-        "finnish": "bussipysäkki",
-        "chinese": "公交车站"
-      },
-      {
-        "finnish": "missä",
-        "chinese": "在哪里"
-      },
-      {
-        "finnish": "asua",
-        "chinese": "居住"
-      },
-      {
-        "finnish": "Pohjois-Helsinki",
-        "chinese": "北赫尔辛基"
-      },
-      {
-        "finnish": "bussi",
-        "chinese": "公交车"
-      },
-      {
-        "finnish": "ei ... vaan",
-        "chinese": "不是...而是..."
-      },
-      {
-        "finnish": "ensin",
-        "chinese": "首先"
-      },
-      {
-        "finnish": "metro",
-        "chinese": "地铁"
-      },
-      {
-        "finnish": "nyt",
-        "chinese": "现在"
-      },
-      {
-        "finnish": "tulla",
-        "chinese": "来"
-      },
-      {
-        "finnish": "ja",
-        "chinese": "和"
-      },
-      {
-        "finnish": "maa",
-        "chinese": "国家"
-      },
-      {
-        "finnish": "kansalaisuus",
-        "chinese": "国籍"
-      },
-      {
-        "finnish": "Suomi",
-        "chinese": "芬兰"
-      },
-      {
-        "finnish": "suomalainen",
-        "chinese": "芬兰人"
-      },
-      {
-        "finnish": "Ranska",
-        "chinese": "法国"
-      },
-      {
-        "finnish": "ranskalainen",
-        "chinese": "法国人"
-      },
-      {
-        "finnish": "Kreikka",
-        "chinese": "希腊"
-      },
-      {
-        "finnish": "Egypti",
-        "chinese": "埃及"
-      },
-      {
-        "finnish": "Venäjä",
-        "chinese": "俄罗斯"
-      },
-      {
-        "finnish": "arabia",
-        "chinese": "阿拉伯语"
-      },
-      {
-        "finnish": "maailma",
-        "chinese": "世界"
-      },
-      {
-        "finnish": "Eurooppa",
-        "chinese": "欧洲"
-      },
-      {
-        "finnish": "Aasia",
-        "chinese": "亚洲"
-      },
-      {
-        "finnish": "Afrikka",
-        "chinese": "非洲"
-      },
-      {
-        "finnish": "naapurimaa",
-        "chinese": "邻国"
-      },
-      {
-        "finnish": "Ruotsi",
-        "chinese": "瑞典"
-      },
-      {
-        "finnish": "Norja",
-        "chinese": "挪威"
-      },
-      {
-        "finnish": "Viro",
-        "chinese": "爱沙尼亚"
-      },
-      {
-        "finnish": "pohjoinen",
-        "chinese": "北方"
-      },
-      {
-        "finnish": "etelä",
-        "chinese": "南方"
-      },
-      {
-        "finnish": "itä",
-        "chinese": "东方"
-      },
-      {
-        "finnish": "länsi",
-        "chinese": "西方"
-      },
-      {
-        "finnish": "pallo",
-        "chinese": "球"
-      },
-      {
-        "finnish": "ottaa",
-        "chinese": "拿，要"
-      },
-      {
-        "finnish": "suklaa",
-        "chinese": "巧克力"
-      },
-      {
-        "finnish": "vanilja",
-        "chinese": "香草"
-      },
-      {
-        "finnish": "mansikka",
-        "chinese": "草莓"
-      },
-      {
-        "finnish": "selvä",
-        "chinese": "好的，清楚了"
-      },
-      {
-        "finnish": "yhteensä",
-        "chinese": "总共"
-      },
-      {
-        "finnish": "kortti",
-        "chinese": "卡片"
-      },
-      {
-        "finnish": "kuitti",
-        "chinese": "收据"
-      },
-      {
-        "finnish": "hinta",
-        "chinese": "价格"
-      },
-      {
-        "finnish": "sentti",
-        "chinese": "分"
-      },
-      {
-        "finnish": "halpa",
-        "chinese": "便宜的"
-      },
-      {
-        "finnish": "kallis",
-        "chinese": "昂贵的"
-      },
-      {
-        "finnish": "käteinen",
-        "chinese": "现金"
-      },
-      {
-        "finnish": "seteli",
-        "chinese": "纸币"
-      },
-      {
-        "finnish": "kolikko",
-        "chinese": "硬币"
-      },
-      {
-        "finnish": "konsonantti",
-        "chinese": "辅音"
-      },
-      {
-        "finnish": "lyhyt",
-        "chinese": "短的"
-      },
-      {
-        "finnish": "pitkä",
-        "chinese": "长的"
-      },
-      {
-        "finnish": "kenkä",
-        "chinese": "鞋子"
-      },
-      {
-        "finnish": "kukka",
-        "chinese": "花"
-      },
-      {
-        "finnish": "matto",
-        "chinese": "地毯"
-      },
-      {
-        "finnish": "vene",
-        "chinese": "船"
-      },
-      {
-        "finnish": "ovi",
-        "chinese": "门"
-      },
-      {
-        "finnish": "juna",
-        "chinese": "火车"
-      },
-      {
-        "finnish": "myyjä",
-        "chinese": "售货员"
-      },
-      {
-        "finnish": "sydän",
-        "chinese": "心"
-      },
-      {
-        "finnish": "leipä",
-        "chinese": "面包"
-      },
-      {
-        "finnish": "katu",
-        "chinese": "街道"
-      },
-      {
-        "finnish": "matka",
-        "chinese": "旅行，路程"
-      },
-      {
-        "finnish": "keittiö",
-        "chinese": "厨房"
-      },
-      {
-        "finnish": "kysyä",
-        "chinese": "问"
-      },
-      {
-        "finnish": "negatiivinen",
-        "chinese": "否定的"
-      },
-      {
-        "finnish": "lause",
-        "chinese": "句子"
-      },
-      {
-        "finnish": "kysymys",
-        "chinese": "问题"
-      },
-      {
-        "finnish": "mikä",
-        "chinese": "什么 (与olla动词)"
-      },
-      {
-        "finnish": "mitä",
-        "chinese": "什么 (与其他动词)"
-      },
-      {
-        "finnish": "milloin",
-        "chinese": "什么时候"
-      },
-      {
-        "finnish": "mihin",
-        "chinese": "去哪里"
-      },
-      {
-        "finnish": "miksi",
-        "chinese": "为什么"
-      },
-      {
-        "finnish": "kuinka",
-        "chinese": "如何；多么"
-      },
-      {
-        "finnish": "vastaus",
-        "chinese": "回答"
-      },
-      {
-        "finnish": "ruoka",
-        "chinese": "食物"
-      },
-      {
-        "finnish": "kaupunki",
-        "chinese": "城市"
-      },
-      {
-        "finnish": "rakastaa",
-        "chinese": "爱"
-      },
-      {
-        "finnish": "matkustaa",
-        "chinese": "旅行"
-      },
-      {
-        "finnish": "laulaa",
-        "chinese": "唱歌"
-      }
+        {
+            "finnish": "minkämaalainen",
+            "chinese": "什么国籍的"
+        },
+        {
+            "finnish": "loppua",
+            "chinese": "结束"
+        },
+        {
+            "finnish": "muu",
+            "chinese": "其他的"
+        },
+        {
+            "finnish": "opiskelija",
+            "chinese": "学生"
+        },
+        {
+            "finnish": "mennä",
+            "chinese": "去"
+        },
+        {
+            "finnish": "koti",
+            "chinese": "家"
+        },
+        {
+            "finnish": "mutta",
+            "chinese": "但是"
+        },
+        {
+            "finnish": "kioski",
+            "chinese": "小卖部"
+        },
+        {
+            "finnish": "ostaa",
+            "chinese": "买"
+        },
+        {
+            "finnish": "maksaa",
+            "chinese": "花费；支付"
+        },
+        {
+            "finnish": "euro",
+            "chinese": "欧元"
+        },
+        {
+            "finnish": "koska",
+            "chinese": "因为"
+        },
+        {
+            "finnish": "säästää",
+            "chinese": "节省，存钱"
+        },
+        {
+            "finnish": "raha",
+            "chinese": "钱"
+        },
+        {
+            "finnish": "sitten",
+            "chinese": "然后"
+        },
+        {
+            "finnish": "istua",
+            "chinese": "坐"
+        },
+        {
+            "finnish": "puisto",
+            "chinese": "公园"
+        },
+        {
+            "finnish": "puhua",
+            "chinese": "说"
+        },
+        {
+            "finnish": "nauraa",
+            "chinese": "笑"
+        },
+        {
+            "finnish": "brasilialainen",
+            "chinese": "巴西人，巴西的"
+        },
+        {
+            "finnish": "venäläinen",
+            "chinese": "俄罗斯人，俄罗斯的"
+        },
+        {
+            "finnish": "mistä",
+            "chinese": "从哪里"
+        },
+        {
+            "finnish": "kotoisin",
+            "chinese": "来自"
+        },
+        {
+            "finnish": "Etelä-Afrikka",
+            "chinese": "南非"
+        },
+        {
+            "finnish": "Ai jaa!",
+            "chinese": "哦，是吗！"
+        },
+        {
+            "finnish": "äidinkieli",
+            "chinese": "母语"
+        },
+        {
+            "finnish": "englanti",
+            "chinese": "英语"
+        },
+        {
+            "finnish": "myös",
+            "chinese": "也"
+        },
+        {
+            "finnish": "vähän",
+            "chinese": "一点儿"
+        },
+        {
+            "finnish": "espanja",
+            "chinese": "西班牙语"
+        },
+        {
+            "finnish": "en puhu",
+            "chinese": "我不说"
+        },
+        {
+            "finnish": "Brasilia",
+            "chinese": "巴西"
+        },
+        {
+            "finnish": "portugali",
+            "chinese": "葡萄牙语"
+        },
+        {
+            "finnish": "totta",
+            "chinese": "真的"
+        },
+        {
+            "finnish": "ajaa",
+            "chinese": "开车，驾驶"
+        },
+        {
+            "finnish": "bussipysäkki",
+            "chinese": "公交车站"
+        },
+        {
+            "finnish": "asua",
+            "chinese": "居住"
+        },
+        {
+            "finnish": "Pohjois-Helsinki",
+            "chinese": "北赫尔辛基"
+        },
+        {
+            "finnish": "bussi",
+            "chinese": "公交车"
+        },
+        {
+            "finnish": "ei ... vaan",
+            "chinese": "不是...而是..."
+        },
+        {
+            "finnish": "ensin",
+            "chinese": "首先"
+        },
+        {
+            "finnish": "metro",
+            "chinese": "地铁"
+        },
+        {
+            "finnish": "nyt",
+            "chinese": "现在"
+        },
+        {
+            "finnish": "tulla",
+            "chinese": "来"
+        },
+        {
+            "finnish": "ja",
+            "chinese": "和"
+        },
+        {
+            "finnish": "maa",
+            "chinese": "国家"
+        },
+        {
+            "finnish": "kansalaisuus",
+            "chinese": "国籍"
+        },
+        {
+            "finnish": "Suomi",
+            "chinese": "芬兰"
+        },
+        {
+            "finnish": "suomalainen",
+            "chinese": "芬兰人"
+        },
+        {
+            "finnish": "Ranska",
+            "chinese": "法国"
+        },
+        {
+            "finnish": "ranskalainen",
+            "chinese": "法国人"
+        },
+        {
+            "finnish": "Kreikka",
+            "chinese": "希腊"
+        },
+        {
+            "finnish": "Egypti",
+            "chinese": "埃及"
+        },
+        {
+            "finnish": "Venäjä",
+            "chinese": "俄罗斯"
+        },
+        {
+            "finnish": "arabia",
+            "chinese": "阿拉伯语"
+        },
+        {
+            "finnish": "maailma",
+            "chinese": "世界"
+        },
+        {
+            "finnish": "Eurooppa",
+            "chinese": "欧洲"
+        },
+        {
+            "finnish": "Aasia",
+            "chinese": "亚洲"
+        },
+        {
+            "finnish": "Afrikka",
+            "chinese": "非洲"
+        },
+        {
+            "finnish": "naapurimaa",
+            "chinese": "邻国"
+        },
+        {
+            "finnish": "Ruotsi",
+            "chinese": "瑞典"
+        },
+        {
+            "finnish": "Norja",
+            "chinese": "挪威"
+        },
+        {
+            "finnish": "Viro",
+            "chinese": "爱沙尼亚"
+        },
+        {
+            "finnish": "pohjoinen",
+            "chinese": "北方"
+        },
+        {
+            "finnish": "etelä",
+            "chinese": "南方"
+        },
+        {
+            "finnish": "itä",
+            "chinese": "东方"
+        },
+        {
+            "finnish": "länsi",
+            "chinese": "西方"
+        },
+        {
+            "finnish": "pallo",
+            "chinese": "球"
+        },
+        {
+            "finnish": "ottaa",
+            "chinese": "拿，要"
+        },
+        {
+            "finnish": "suklaa",
+            "chinese": "巧克力"
+        },
+        {
+            "finnish": "vanilja",
+            "chinese": "香草"
+        },
+        {
+            "finnish": "mansikka",
+            "chinese": "草莓"
+        },
+        {
+            "finnish": "selvä",
+            "chinese": "好的，清楚了"
+        },
+        {
+            "finnish": "yhteensä",
+            "chinese": "总共"
+        },
+        {
+            "finnish": "kortti",
+            "chinese": "卡片"
+        },
+        {
+            "finnish": "kuitti",
+            "chinese": "收据"
+        },
+        {
+            "finnish": "hinta",
+            "chinese": "价格"
+        },
+        {
+            "finnish": "sentti",
+            "chinese": "分"
+        },
+        {
+            "finnish": "halpa",
+            "chinese": "便宜的"
+        },
+        {
+            "finnish": "kallis",
+            "chinese": "昂贵的"
+        },
+        {
+            "finnish": "käteinen",
+            "chinese": "现金"
+        },
+        {
+            "finnish": "seteli",
+            "chinese": "纸币"
+        },
+        {
+            "finnish": "kolikko",
+            "chinese": "硬币"
+        },
+        {
+            "finnish": "konsonantti",
+            "chinese": "辅音"
+        },
+        {
+            "finnish": "lyhyt",
+            "chinese": "短的"
+        },
+        {
+            "finnish": "pitkä",
+            "chinese": "长的"
+        },
+        {
+            "finnish": "kenkä",
+            "chinese": "鞋子"
+        },
+        {
+            "finnish": "kukka",
+            "chinese": "花"
+        },
+        {
+            "finnish": "matto",
+            "chinese": "地毯"
+        },
+        {
+            "finnish": "vene",
+            "chinese": "船"
+        },
+        {
+            "finnish": "ovi",
+            "chinese": "门"
+        },
+        {
+            "finnish": "juna",
+            "chinese": "火车"
+        },
+        {
+            "finnish": "myyjä",
+            "chinese": "售货员"
+        },
+        {
+            "finnish": "sydän",
+            "chinese": "心"
+        },
+        {
+            "finnish": "leipä",
+            "chinese": "面包"
+        },
+        {
+            "finnish": "katu",
+            "chinese": "街道"
+        },
+        {
+            "finnish": "matka",
+            "chinese": "旅行，路程"
+        },
+        {
+            "finnish": "keittiö",
+            "chinese": "厨房"
+        },
+        {
+            "finnish": "kysyä",
+            "chinese": "问"
+        },
+        {
+            "finnish": "negatiivinen",
+            "chinese": "否定的"
+        },
+        {
+            "finnish": "lause",
+            "chinese": "句子"
+        },
+        {
+            "finnish": "kysymys",
+            "chinese": "问题"
+        },
+        {
+            "finnish": "mikä",
+            "chinese": "什么 (与olla动词)"
+        },
+        {
+            "finnish": "mitä",
+            "chinese": "什么 (与其他动词)"
+        },
+        {
+            "finnish": "milloin",
+            "chinese": "什么时候"
+        },
+        {
+            "finnish": "mihin",
+            "chinese": "去哪里"
+        },
+        {
+            "finnish": "miksi",
+            "chinese": "为什么"
+        },
+        {
+            "finnish": "kuinka",
+            "chinese": "如何；多么"
+        },
+        {
+            "finnish": "vastaus",
+            "chinese": "回答"
+        },
+        {
+            "finnish": "ruoka",
+            "chinese": "食物"
+        },
+        {
+            "finnish": "kaupunki",
+            "chinese": "城市"
+        },
+        {
+            "finnish": "rakastaa",
+            "chinese": "爱"
+        },
+        {
+            "finnish": "matkustaa",
+            "chinese": "旅行"
+        },
+        {
+            "finnish": "laulaa",
+            "chinese": "唱歌"
+        }
     ]
-  }
+}

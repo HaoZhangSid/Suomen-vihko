@@ -2,10 +2,6 @@
     "day": "maanantai 1. syyskuuta 2025",
     "entries": [
         {
-            "finnish": "Odota!",
-            "chinese": "等等！"
-        },
-        {
             "finnish": "ensimmäinen",
             "chinese": "第一"
         },
@@ -26,24 +22,12 @@
             "chinese": "工作室"
         },
         {
-            "finnish": "ylihuomenna",
-            "chinese": "后天"
-        },
-        {
             "finnish": "sumuista",
             "chinese": "有雾的"
         },
         {
             "finnish": "toivottavasti",
             "chinese": "希望地"
-        },
-        {
-            "finnish": "viikonloppu",
-            "chinese": "周末"
-        },
-        {
-            "finnish": "toissa päivänä",
-            "chinese": "前天"
         },
         {
             "finnish": "puolipilvistä",
@@ -62,16 +46,8 @@
             "chinese": "区"
         },
         {
-            "finnish": "herätys",
-            "chinese": "醒来，闹钟"
-        },
-        {
             "finnish": "painitreenit",
             "chinese": "摔跤训练"
-        },
-        {
-            "finnish": "iloinen",
-            "chinese": "高兴的"
         },
         {
             "finnish": "vaihtoehto",
@@ -150,10 +126,6 @@
             "chinese": "女孩"
         },
         {
-            "finnish": "vauva",
-            "chinese": "婴儿"
-        },
-        {
             "finnish": "lapsenlapsi",
             "chinese": "孙子/孙女"
         },
@@ -176,11 +148,6 @@
         {
             "finnish": "isosisko",
             "chinese": "姐姐"
-
-        },
-        {
-            "finnish": "Kuka hän on?",
-            "chinese": "他是谁？"
         },
         {
             "finnish": "Hän on poika.",
@@ -255,10 +222,6 @@
             "chinese": "这是芬兰的笔。"
         },
         {
-            "finnish": "Hän on Suomen presidentti.",
-            "chinese": "他是芬兰总统。"
-        },
-        {
             "finnish": "Hänen nimi on Alexander Stubb.",
             "chinese": "他的名字是 Alexander Stubb。"
         },
@@ -301,10 +264,6 @@
         {
             "finnish": "Hän on minun poika.",
             "chinese": "他是我的儿子。"
-        },
-        {
-            "finnish": "Minä olen isä.",
-            "chinese": "我是爸爸。"
         },
         {
             "finnish": "Hän on minun vauva.",
@@ -439,28 +398,12 @@
             "chinese": "疑问词'Mitä'通常与其他动词一起使用。"
         },
         {
-            "finnish": "Mitä kieltä sinä puhut?",
-            "chinese": "你说什么语言？"
-        },
-        {
             "finnish": "Mitä sinä juot?",
             "chinese": "你喝什么？"
         },
         {
             "finnish": "Mitä sinä syöt?",
             "chinese": "你吃什么？"
-        },
-        {
-            "finnish": "Mitä sinä teet kurssilla?",
-            "chinese": "你在课上做什么？"
-        },
-        {
-            "finnish": "Millä sinä yleensä menet kauppaan?",
-            "chinese": "你通常怎么去商店？"
-        },
-        {
-            "finnish": "Minä menen kauppaan pyörällä.",
-            "chinese": "我骑自行车去商店。"
         },
         {
             "finnish": "Milloin sinä yleensä menet kauppaan?",
@@ -483,10 +426,6 @@
             "chinese": "我现在在奥卢我的办公室工作。"
         },
         {
-            "finnish": "Minä puhun suomea, englantia ja vähän ruotsia.",
-            "chinese": "我说芬兰语、英语和一点瑞典语。"
-        },
-        {
             "finnish": "Suomi on minun äidinkieli.",
             "chinese": "芬兰语是我的母语。"
         },
@@ -505,10 +444,6 @@
         {
             "finnish": "Joo, toivottavasti.",
             "chinese": "是的，希望如此。"
-        },
-        {
-            "finnish": "Miten sinun nimi kirjoitetaan?",
-            "chinese": "你的名字怎么写？"
         },
         {
             "finnish": "Se kirjoitetaan L-e-e-v-i.",
@@ -535,10 +470,6 @@
             "chinese": "本课程从0级开始，到A2.1级结束。"
         },
         {
-            "finnish": "Onko sinulla miljoona euroa?",
-            "chinese": "你有一百万欧元吗？"
-        },
-        {
             "finnish": "Ei, valitettavasti.",
             "chinese": "不，很遗憾。"
         },
@@ -555,20 +486,12 @@
             "chinese": "你住在哪个区？"
         },
         {
-            "finnish": "Mihin aikaan koulu loppuu?",
-            "chinese": "学校几点放学？"
-        },
-        {
             "finnish": "Koulu loppuu kello 13.",
             "chinese": "学校13点放学。"
         },
         {
             "finnish": "Pieni hetki. En tiedä. Tarkistan.",
             "chinese": "请稍等。我不知道。我查一下。"
-        },
-        {
-            "finnish": "Onko sinulla auto?",
-            "chinese": "你有车吗？"
         },
         {
             "finnish": "Joo, minulla on vanha ja halpa Renault Clio.",
@@ -585,10 +508,6 @@
         {
             "finnish": "Oletko toimistossa vai kotona?",
             "chinese": "你在办公室还是在家？"
-        },
-        {
-            "finnish": "Moneltako herätys on?",
-            "chinese": "闹钟几点响？"
         },
         {
             "finnish": "Maanantaina, keskiviikkona ja viikonloppuna minun herätys on kello 7.00. Tiistaina, torstaina ja perjantaina minun herätys on 5.45, koska minulla on painitreenit.",

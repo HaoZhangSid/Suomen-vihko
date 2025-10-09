@@ -1,729 +1,357 @@
 {
-  "day": "Kappale 9 - 单词",
-  "entries": [
-    {
-      "finnish": "aikataulu",
-      "chinese": "时间表"
-    },
-    {
-      "finnish": "ajetella",
-      "chinese": "思考"
-    },
-    {
-      "finnish": "aktiivinen",
-      "chinese": "积极的"
-    },
-    {
-      "finnish": "alakerta",
-      "chinese": "楼下"
-    },
-    {
-      "finnish": "alkuruoka",
-      "chinese": "前菜"
-    },
-    {
-      "finnish": "ammatti",
-      "chinese": "职业"
-    },
-    {
-      "finnish": "annos",
-      "chinese": "一份（菜）"
-    },
-    {
-      "finnish": "antaa",
-      "chinese": "给"
-    },
-    {
-      "finnish": "arkkitehti",
-      "chinese": "建筑师"
-    },
-    {
-      "finnish": "asiakas",
-      "chinese": "顾客"
-    },
-    {
-      "finnish": "assistentti",
-      "chinese": "助理"
-    },
-    {
-      "finnish": "auto",
-      "chinese": "汽车"
-    },
-    {
-      "finnish": "automekaanikko",
-      "chinese": "汽车修理工"
-    },
-    {
-      "finnish": "avain",
-      "chinese": "钥匙"
-    },
-    {
-      "finnish": "bussi",
-      "chinese": "公交车"
-    },
-    {
-      "finnish": "bussikuski",
-      "chinese": "公交司机"
-    },
-    {
-      "finnish": "ehtiä",
-      "chinese": "来得及"
-    },
-    {
-      "finnish": "elämä",
-      "chinese": "生活，生命"
-    },
-    {
-      "finnish": "ensimmäinen työpäivä",
-      "chinese": "第一个工作日"
-    },
-    {
-      "finnish": "erikseen",
-      "chinese": "分开地"
-    },
-    {
-      "finnish": "esitellä",
-      "chinese": "介绍"
-    },
-    {
-      "finnish": "eväät",
-      "chinese": "自带的午餐"
-    },
-    {
-      "finnish": "hakea",
-      "chinese": "取，拿"
-    },
-    {
-      "finnish": "harjoitella",
-      "chinese": "练习"
-    },
-    {
-      "finnish": "harjoitus",
-      "chinese": "练习"
-    },
-    {
-      "finnish": "henkilö",
-      "chinese": "人"
-    },
-    {
-      "finnish": "hermostunut",
-      "chinese": "紧张的"
-    },
-    {
-      "finnish": "hieno",
-      "chinese": "好的"
-    },
-    {
-      "finnish": "hissi",
-      "chinese": "电梯"
-    },
-    {
-      "finnish": "hotelli",
-      "chinese": "酒店"
-    },
-    {
-      "finnish": "hylly",
-      "chinese": "架子"
-    },
-    {
-      "finnish": "insinööri",
-      "chinese": "工程师"
-    },
-    {
-      "finnish": "it-osasto",
-      "chinese": "IT部门"
-    },
-    {
-      "finnish": "jatkaa",
-      "chinese": "继续"
-    },
-    {
-      "finnish": "juhlia",
-      "chinese": "庆祝"
-    },
-    {
-      "finnish": "jutella",
-      "chinese": "聊天"
-    },
-    {
-      "finnish": "jälkiruoka",
-      "chinese": "甜点"
-    },
-    {
-      "finnish": "jääkaappi",
-      "chinese": "冰箱"
-    },
-    {
-      "finnish": "kaappi",
-      "chinese": "柜子"
-    },
-    {
-      "finnish": "kahvi",
-      "chinese": "咖啡"
-    },
-    {
-      "finnish": "kahviautomaatti",
-      "chinese": "咖啡机"
-    },
-    {
-      "finnish": "kahvila",
-      "chinese": "咖啡馆"
-    },
-    {
-      "finnish": "kakku",
-      "chinese": "蛋糕"
-    },
-    {
-      "finnish": "kamera",
-      "chinese": "相机"
-    },
-    {
-      "finnish": "kertoa",
-      "chinese": "告诉"
-    },
-    {
-      "finnish": "keittää",
-      "chinese": "煮"
-    },
-    {
-      "finnish": "kiire",
-      "chinese": "匆忙，急事"
-    },
-    {
-      "finnish": "kirjahylly",
-      "chinese": "书架"
-    },
-    {
-      "finnish": "kirjakauppa",
-      "chinese": "书店"
-    },
-    {
-      "finnish": "kitara",
-      "chinese": "吉他"
-    },
-    {
-      "finnish": "koodilukko",
-      "chinese": "密码锁"
-    },
-    {
-      "finnish": "kohta",
-      "chinese": "马上"
-    },
-    {
-      "finnish": "kokki",
-      "chinese": "厨师"
-    },
-    {
-      "finnish": "kokous",
-      "chinese": "会议"
-    },
-    {
-      "finnish": "kollega",
-      "chinese": "同事"
-    },
-    {
-      "finnish": "koti",
-      "chinese": "家"
-    },
-    {
-      "finnish": "kuunnella",
-      "chinese": "听"
-    },
-    {
-      "finnish": "kuulua",
-      "chinese": "属于"
-    },
-    {
-      "finnish": "kuulua hintaan",
-      "chinese": "包含在价格里"
-    },
-    {
-      "finnish": "kävellä",
-      "chinese": "走"
-    },
-    {
-      "finnish": "käyttäjätunnus",
-      "chinese": "用户名"
-    },
-    {
-      "finnish": "käytävä",
-      "chinese": "走廊"
-    },
-    {
-      "finnish": "kynä",
-      "chinese": "笔"
-    },
-    {
-      "finnish": "kysyä",
-      "chinese": "问"
-    },
-    {
-      "finnish": "kysyä neuvoa",
-      "chinese": "寻求建议"
-    },
-    {
-      "finnish": "lahja",
-      "chinese": "礼物"
-    },
-    {
-      "finnish": "lainata",
-      "chinese": "借"
-    },
-    {
-      "finnish": "lasku",
-      "chinese": "账单"
-    },
-    {
-      "finnish": "laulaja",
-      "chinese": "歌手"
-    },
-    {
-      "finnish": "levätä",
-      "chinese": "休息"
-    },
-    {
-      "finnish": "lounaslista",
-      "chinese": "午餐菜单"
-    },
-    {
-      "finnish": "lounaspaikka",
-      "chinese": "午餐地点"
-    },
-    {
-      "finnish": "lounastauko",
-      "chinese": "午休"
-    },
-    {
-      "finnish": "lounaalla",
-      "chinese": "在吃午饭"
-    },
-    {
-      "finnish": "luvata",
-      "chinese": "承诺"
-    },
-    {
-      "finnish": "lähettää",
-      "chinese": "发送"
-    },
-    {
-      "finnish": "läppäri",
-      "chinese": "笔记本电脑（口语）"
-    },
-    {
-      "finnish": "lääkäri",
-      "chinese": "医生"
-    },
-    {
-      "finnish": "löytää",
-      "chinese": "找到"
-    },
-    {
-      "finnish": "maata",
-      "chinese": "躺"
-    },
-    {
-      "finnish": "matto",
-      "chinese": "地毯"
-    },
-    {
-      "finnish": "materiaali",
-      "chinese": "材料"
-    },
-    {
-      "finnish": "mies",
-      "chinese": "男人"
-    },
-    {
-      "finnish": "mukaan",
-      "chinese": "带走"
-    },
-    {
-      "finnish": "myyjä",
-      "chinese": "销售员"
-    },
-    {
-      "finnish": "myöhemmin",
-      "chinese": "稍后"
-    },
-    {
-      "finnish": "naapuri",
-      "chinese": "邻居"
-    },
-    {
-      "finnish": "negatiivinen",
-      "chinese": "否定的"
-    },
-    {
-      "finnish": "negatiivinen lause",
-      "chinese": "否定句"
-    },
-    {
-      "finnish": "neuvotella",
-      "chinese": "协商"
-    },
-    {
-      "finnish": "neuvotteluhuone",
-      "chinese": "会议室"
-    },
-    {
-      "finnish": "nopeasti",
-      "chinese": "快速地"
-    },
-    {
-      "finnish": "nähdä",
-      "chinese": "看见"
-    },
-    {
-      "finnish": "näyttelijä",
-      "chinese": "演员"
-    },
-    {
-      "finnish": "näyttää",
-      "chinese": "展示"
-    },
-    {
-      "finnish": "objekti",
-      "chinese": "宾语"
-    },
-    {
-      "finnish": "odottaa",
-      "chinese": "等待"
-    },
-    {
-      "finnish": "ongelma",
-      "chinese": "问题"
-    },
-    {
-      "finnish": "opettaja",
-      "chinese": "老师"
-    },
-    {
-      "finnish": "ottaa",
-      "chinese": "拿"
-    },
-    {
-      "finnish": "pakata",
-      "chinese": "打包"
-    },
-    {
-      "finnish": "palaveri",
-      "chinese": "会议"
-    },
-    {
-      "finnish": "palkka",
-      "chinese": "薪水"
-    },
-    {
-      "finnish": "palomies",
-      "chinese": "消防员"
-    },
-    {
-      "finnish": "paitsi",
-      "chinese": "除了"
-    },
-    {
-      "finnish": "peili",
-      "chinese": "镜子"
-    },
-    {
-      "finnish": "pelätä",
-      "chinese": "害怕"
-    },
-    {
-      "finnish": "pieni",
-      "chinese": "小的"
-    },
-    {
-      "finnish": "piirtää",
-      "chinese": "画画"
-    },
-    {
-      "finnish": "pitää",
-      "chinese": "喜欢"
-    },
-    {
-      "finnish": "poliisi",
-      "chinese": "警察"
-    },
-    {
-      "finnish": "pomo",
-      "chinese": "老板"
-    },
-    {
-      "finnish": "positiivinen",
-      "chinese": "肯定的"
-    },
-    {
-      "finnish": "presidentti",
-      "chinese": "总统"
-    },
-    {
-      "finnish": "projekti",
-      "chinese": "项目"
-    },
-    {
-      "finnish": "puhelin",
-      "chinese": "电话"
-    },
-    {
-      "finnish": "pyytää",
-      "chinese": "请求"
-    },
-    {
-      "finnish": "pääovi",
-      "chinese": "正门"
-    },
-    {
-      "finnish": "pääruoka",
-      "chinese": "主菜"
-    },
-    {
-      "finnish": "rakentaa",
-      "chinese": "建造"
-    },
-    {
-      "finnish": "rakennusfirma",
-      "chinese": "建筑公司"
-    },
-    {
-      "finnish": "romaani",
-      "chinese": "小说"
-    },
-    {
-      "finnish": "ruoka",
-      "chinese": "食物"
-    },
-    {
-      "finnish": "ruokala",
-      "chinese": "食堂"
-    },
-    {
-      "finnish": "saada",
-      "chinese": "得到"
-    },
-    {
-      "finnish": "sairaanhoitaja",
-      "chinese": "护士"
-    },
-    {
-      "finnish": "sairausloma",
-      "chinese": "病假"
-    },
-    {
-      "finnish": "salasana",
-      "chinese": "密码"
-    },
-    {
-      "finnish": "sanomalehti",
-      "chinese": "报纸"
-    },
-    {
-      "finnish": "savulohi",
-      "chinese": "烟熏三文鱼"
-    },
-    {
-      "finnish": "sihteeri",
-      "chinese": "秘书"
-    },
-    {
-      "finnish": "siivooja",
-      "chinese": "清洁工"
-    },
-    {
-      "finnish": "soittaa",
-      "chinese": "弹奏; 打电话"
-    },
-    {
-      "finnish": "sopia",
-      "chinese": "合适，行"
-    },
-    {
-      "finnish": "stressi",
-      "chinese": "压力"
-    },
-    {
-      "finnish": "suunnitella",
-      "chinese": "计划"
-    },
-    {
-      "finnish": "suoraan",
-      "chinese": "直接地"
-    },
-    {
-      "finnish": "suudella",
-      "chinese": "亲吻"
-    },
-    {
-      "finnish": "sähköposti",
-      "chinese": "电子邮件"
-    },
-    {
-      "finnish": "takki",
-      "chinese": "外套"
-    },
-    {
-      "finnish": "tarjoilija",
-      "chinese": "服务员"
-    },
-    {
-      "finnish": "tarvita",
-      "chinese": "需要"
-    },
-    {
-      "finnish": "tavarat",
-      "chinese": "东西，物品"
-    },
-    {
-      "finnish": "tavata",
-      "chinese": "遇见"
-    },
-    {
-      "finnish": "tekniikka",
-      "chinese": "技术"
-    },
-    {
-      "finnish": "teksti",
-      "chinese": "文本"
-    },
-    {
-      "finnish": "tekstiviesti",
-      "chinese": "短信"
-    },
-    {
-      "finnish": "tietokone",
-      "chinese": "电脑"
-    },
-    {
-      "finnish": "tietää",
-      "chinese": "知道"
-    },
-    {
-      "finnish": "tiimi",
-      "chinese": "团队"
-    },
-    {
-      "finnish": "tila",
-      "chinese": "空间，场所"
-    },
-    {
-      "finnish": "tilausnumero",
-      "chinese": "订单号"
-    },
-    {
-      "finnish": "tilata",
-      "chinese": "点餐"
-    },
-    {
-      "finnish": "toimisto",
-      "chinese": "办公室"
-    },
-    {
-      "finnish": "toimittaja",
-      "chinese": "记者"
-    },
-    {
-      "finnish": "toimitusjohtaja",
-      "chinese": "CEO"
-    },
-    {
-      "finnish": "tuliainen",
-      "chinese": "带来的礼物"
-    },
-    {
-      "finnish": "tuntea",
-      "chinese": "认识"
-    },
-    {
-      "finnish": "tykätä",
-      "chinese": "喜欢 (口语)"
-    },
-    {
-      "finnish": "työ",
-      "chinese": "工作"
-    },
-    {
-      "finnish": "työaika",
-      "chinese": "工作时间"
-    },
-    {
-      "finnish": "työkaveri",
-      "chinese": "同事"
-    },
-    {
-      "finnish": "työnantaja",
-      "chinese": "雇主"
-    },
-    {
-      "finnish": "työntekijä",
-      "chinese": "员工"
-    },
-    {
-      "finnish": "työpiste",
-      "chinese": "工位"
-    },
-    {
-      "finnish": "työpäivä",
-      "chinese": "工作日"
-    },
-    {
-      "finnish": "uusi",
-      "chinese": "新的"
-    },
-    {
-      "finnish": "vaikea",
-      "chinese": "困难的"
-    },
-    {
-      "finnish": "vaimo",
-      "chinese": "妻子"
-    },
-    {
-      "finnish": "valita",
-      "chinese": "选择"
-    },
-    {
-      "finnish": "valokuvaaja",
-      "chinese": "摄影师"
-    },
-    {
-      "finnish": "vanha",
-      "chinese": "老的"
-    },
-    {
-      "finnish": "varata",
-      "chinese": "预定"
-    },
-    {
-      "finnish": "vesi",
-      "chinese": "水"
-    },
-    {
-      "finnish": "voida",
-      "chinese": "能够"
-    },
-    {
-      "finnish": "ylityö",
-      "chinese": "加班"
-    },
-    {
-      "finnish": "ymmärtää",
-      "chinese": "理解"
-    },
-    {
-      "finnish": "yrittäjä",
-      "chinese": "企业家"
-    },
-    {
-      "finnish": "yritys",
-      "chinese": "公司"
-    },
-    {
-      "finnish": "ystävä",
-      "chinese": "朋友"
-    },
-    {
-      "finnish": "yhteensä",
-      "chinese": "总共"
-    }
-  ]
+    "day": "Kappale 9 - 单词",
+    "entries": [
+        {
+            "finnish": "aikataulu",
+            "chinese": "时间表"
+        },
+        {
+            "finnish": "aktiivinen",
+            "chinese": "积极的"
+        },
+        {
+            "finnish": "alakerta",
+            "chinese": "楼下"
+        },
+        {
+            "finnish": "ammatti",
+            "chinese": "职业"
+        },
+        {
+            "finnish": "arkkitehti",
+            "chinese": "建筑师"
+        },
+        {
+            "finnish": "asiakas",
+            "chinese": "顾客"
+        },
+        {
+            "finnish": "assistentti",
+            "chinese": "助理"
+        },
+        {
+            "finnish": "automekaanikko",
+            "chinese": "汽车修理工"
+        },
+        {
+            "finnish": "ensimmäinen työpäivä",
+            "chinese": "第一个工作日"
+        },
+        {
+            "finnish": "erikseen",
+            "chinese": "分开地"
+        },
+        {
+            "finnish": "esitellä",
+            "chinese": "介绍"
+        },
+        {
+            "finnish": "eväät",
+            "chinese": "自带的午餐"
+        },
+        {
+            "finnish": "harjoitella",
+            "chinese": "练习"
+        },
+        {
+            "finnish": "harjoitus",
+            "chinese": "练习"
+        },
+        {
+            "finnish": "henkilö",
+            "chinese": "人"
+        },
+        {
+            "finnish": "insinööri",
+            "chinese": "工程师"
+        },
+        {
+            "finnish": "it-osasto",
+            "chinese": "IT部门"
+        },
+        {
+            "finnish": "jutella",
+            "chinese": "聊天"
+        },
+        {
+            "finnish": "kahviautomaatti",
+            "chinese": "咖啡机"
+        },
+        {
+            "finnish": "kamera",
+            "chinese": "相机"
+        },
+        {
+            "finnish": "keittää",
+            "chinese": "煮"
+        },
+        {
+            "finnish": "kirjakauppa",
+            "chinese": "书店"
+        },
+        {
+            "finnish": "koodilukko",
+            "chinese": "密码锁"
+        },
+        {
+            "finnish": "kokous",
+            "chinese": "会议"
+        },
+        {
+            "finnish": "kollega",
+            "chinese": "同事"
+        },
+        {
+            "finnish": "kuulua",
+            "chinese": "属于"
+        },
+        {
+            "finnish": "käyttäjätunnus",
+            "chinese": "用户名"
+        },
+        {
+            "finnish": "käytävä",
+            "chinese": "走廊"
+        },
+        {
+            "finnish": "kysyä neuvoa",
+            "chinese": "寻求建议"
+        },
+        {
+            "finnish": "lainata",
+            "chinese": "借"
+        },
+        {
+            "finnish": "laulaja",
+            "chinese": "歌手"
+        },
+        {
+            "finnish": "lounaslista",
+            "chinese": "午餐菜单"
+        },
+        {
+            "finnish": "lounaspaikka",
+            "chinese": "午餐地点"
+        },
+        {
+            "finnish": "lounastauko",
+            "chinese": "午休"
+        },
+        {
+            "finnish": "lounaalla",
+            "chinese": "在吃午饭"
+        },
+        {
+            "finnish": "luvata",
+            "chinese": "承诺"
+        },
+        {
+            "finnish": "lähettää",
+            "chinese": "发送"
+        },
+        {
+            "finnish": "lääkäri",
+            "chinese": "医生"
+        },
+        {
+            "finnish": "maata",
+            "chinese": "躺"
+        },
+        {
+            "finnish": "materiaali",
+            "chinese": "材料"
+        },
+        {
+            "finnish": "mukaan",
+            "chinese": "带走"
+        },
+        {
+            "finnish": "myöhemmin",
+            "chinese": "稍后"
+        },
+        {
+            "finnish": "negatiivinen lause",
+            "chinese": "否定句"
+        },
+        {
+            "finnish": "neuvotella",
+            "chinese": "协商"
+        },
+        {
+            "finnish": "neuvotteluhuone",
+            "chinese": "会议室"
+        },
+        {
+            "finnish": "nopeasti",
+            "chinese": "快速地"
+        },
+        {
+            "finnish": "näyttelijä",
+            "chinese": "演员"
+        },
+        {
+            "finnish": "objekti",
+            "chinese": "宾语"
+        },
+        {
+            "finnish": "palaveri",
+            "chinese": "会议"
+        },
+        {
+            "finnish": "palkka",
+            "chinese": "薪水"
+        },
+        {
+            "finnish": "palomies",
+            "chinese": "消防员"
+        },
+        {
+            "finnish": "pelätä",
+            "chinese": "害怕"
+        },
+        {
+            "finnish": "pomo",
+            "chinese": "老板"
+        },
+        {
+            "finnish": "positiivinen",
+            "chinese": "肯定的"
+        },
+        {
+            "finnish": "projekti",
+            "chinese": "项目"
+        },
+        {
+            "finnish": "pyytää",
+            "chinese": "请求"
+        },
+        {
+            "finnish": "pääovi",
+            "chinese": "正门"
+        },
+        {
+            "finnish": "rakennusfirma",
+            "chinese": "建筑公司"
+        },
+        {
+            "finnish": "romaani",
+            "chinese": "小说"
+        },
+        {
+            "finnish": "ruokala",
+            "chinese": "食堂"
+        },
+        {
+            "finnish": "sairaanhoitaja",
+            "chinese": "护士"
+        },
+        {
+            "finnish": "sairausloma",
+            "chinese": "病假"
+        },
+        {
+            "finnish": "salasana",
+            "chinese": "密码"
+        },
+        {
+            "finnish": "sanomalehti",
+            "chinese": "报纸"
+        },
+        {
+            "finnish": "savulohi",
+            "chinese": "烟熏三文鱼"
+        },
+        {
+            "finnish": "sihteeri",
+            "chinese": "秘书"
+        },
+        {
+            "finnish": "siivooja",
+            "chinese": "清洁工"
+        },
+        {
+            "finnish": "stressi",
+            "chinese": "压力"
+        },
+        {
+            "finnish": "suunnitella",
+            "chinese": "计划"
+        },
+        {
+            "finnish": "tarjoilija",
+            "chinese": "服务员"
+        },
+        {
+            "finnish": "tavarat",
+            "chinese": "东西，物品"
+        },
+        {
+            "finnish": "tekniikka",
+            "chinese": "技术"
+        },
+        {
+            "finnish": "tekstiviesti",
+            "chinese": "短信"
+        },
+        {
+            "finnish": "tiimi",
+            "chinese": "团队"
+        },
+        {
+            "finnish": "tilausnumero",
+            "chinese": "订单号"
+        },
+        {
+            "finnish": "toimittaja",
+            "chinese": "记者"
+        },
+        {
+            "finnish": "toimitusjohtaja",
+            "chinese": "CEO"
+        },
+        {
+            "finnish": "tuntea",
+            "chinese": "认识"
+        },
+        {
+            "finnish": "työ",
+            "chinese": "工作"
+        },
+        {
+            "finnish": "työaika",
+            "chinese": "工作时间"
+        },
+        {
+            "finnish": "työnantaja",
+            "chinese": "雇主"
+        },
+        {
+            "finnish": "työntekijä",
+            "chinese": "员工"
+        },
+        {
+            "finnish": "työpiste",
+            "chinese": "工位"
+        },
+        {
+            "finnish": "työpäivä",
+            "chinese": "工作日"
+        },
+        {
+            "finnish": "valokuvaaja",
+            "chinese": "摄影师"
+        },
+        {
+            "finnish": "ylityö",
+            "chinese": "加班"
+        },
+        {
+            "finnish": "yrittäjä",
+            "chinese": "企业家"
+        },
+        {
+            "finnish": "yritys",
+            "chinese": "公司"
+        }
+    ]
 }

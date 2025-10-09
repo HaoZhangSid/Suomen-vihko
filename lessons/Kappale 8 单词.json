@@ -1,957 +1,525 @@
 {
-  "day": "Kappale 8 - 单词",
-  "entries": [
-    {
-      "finnish": "aina",
-      "chinese": "总是"
-    },
-    {
-      "finnish": "ainesana",
-      "chinese": "物质名词"
-    },
-    {
-      "finnish": "aivot",
-      "chinese": "大脑"
-    },
-    {
-      "finnish": "alkuruoka",
-      "chinese": "前菜"
-    },
-    {
-      "finnish": "ananas",
-      "chinese": "菠萝"
-    },
-    {
-      "finnish": "annos",
-      "chinese": "一份（菜）"
-    },
-    {
-      "finnish": "appelsiini",
-      "chinese": "橙子"
-    },
-    {
-      "finnish": "astiat",
-      "chinese": "餐具"
-    },
-    {
-      "finnish": "avain",
-      "chinese": "钥匙"
-    },
-    {
-      "finnish": "avara",
-      "chinese": "宽敞的"
-    },
-    {
-      "finnish": "banaani",
-      "chinese": "香蕉"
-    },
-    {
-      "finnish": "basilika",
-      "chinese": "罗勒"
-    },
-    {
-      "finnish": "bussi",
-      "chinese": "公交车"
-    },
-    {
-      "finnish": "chili",
-      "chinese": "辣椒"
-    },
-    {
-      "finnish": "edessä",
-      "chinese": "在...前面"
-    },
-    {
-      "finnish": "elämä",
-      "chinese": "生活"
-    },
-    {
-      "finnish": "energia",
-      "chinese": "能量"
-    },
-    {
-      "finnish": "eteenpäin",
-      "chinese": "向前"
-    },
-    {
-      "finnish": "greippi",
-      "chinese": "葡萄柚"
-    },
-    {
-      "finnish": "haarukka",
-      "chinese": "叉子"
-    },
-    {
-      "finnish": "hakea",
-      "chinese": "取"
-    },
-    {
-      "finnish": "halpa",
-      "chinese": "便宜的"
-    },
-    {
-      "finnish": "haluta",
-      "chinese": "想要"
-    },
-    {
-      "finnish": "hampurilainen",
-      "chinese": "汉堡包"
-    },
-    {
-      "finnish": "hapan",
-      "chinese": "酸的"
-    },
-    {
-      "finnish": "hedelmä",
-      "chinese": "水果"
-    },
-    {
-      "finnish": "herätä",
-      "chinese": "醒来"
-    },
-    {
-      "finnish": "herkullinen",
-      "chinese": "美味的"
-    },
-    {
-      "finnish": "hermostunut",
-      "chinese": "紧张的"
-    },
-    {
-      "finnish": "hillo",
-      "chinese": "果酱"
-    },
-    {
-      "finnish": "hinta",
-      "chinese": "价格"
-    },
-    {
-      "finnish": "hyvä",
-      "chinese": "好的"
-    },
-    {
-      "finnish": "häät",
-      "chinese": "婚礼"
-    },
-    {
-      "finnish": "ihana",
-      "chinese": "可爱的, 极好的"
-    },
-    {
-      "finnish": "imuroida",
-      "chinese": "用吸尘器打扫"
-    },
-    {
-      "finnish": "iso",
-      "chinese": "大的"
-    },
-    {
-      "finnish": "istua",
-      "chinese": "坐"
-    },
-    {
-      "finnish": "jatkaa",
-      "chinese": "继续"
-    },
-    {
-      "finnish": "jauho",
-      "chinese": "面粉"
-    },
-    {
-      "finnish": "jo",
-      "chinese": "已经"
-    },
-    {
-      "finnish": "jogurtti",
-      "chinese": "酸奶"
-    },
-    {
-      "finnish": "joskus",
-      "chinese": "有时"
-    },
-    {
-      "finnish": "juhlat",
-      "chinese": "派对, 庆典"
-    },
-    {
-      "finnish": "juoma",
-      "chinese": "饮料"
-    },
-    {
-      "finnish": "juoda",
-      "chinese": "喝"
-    },
-    {
-      "finnish": "juotava",
-      "chinese": "喝的, 饮料"
-    },
-    {
-      "finnish": "juuri",
-      "chinese": "正好, 恰好"
-    },
-    {
-      "finnish": "juusto",
-      "chinese": "奶酪"
-    },
-    {
-      "finnish": "järjestysluku",
-      "chinese": "序数词"
-    },
-    {
-      "finnish": "jäätelö",
-      "chinese": "冰淇淋"
-    },
-    {
-      "finnish": "jääkaappi",
-      "chinese": "冰箱"
-    },
-    {
-      "finnish": "jälkiruoka",
-      "chinese": "甜点"
-    },
-    {
-      "finnish": "kahvi",
-      "chinese": "咖啡"
-    },
-    {
-      "finnish": "kahvila",
-      "chinese": "咖啡馆"
-    },
-    {
-      "finnish": "kai",
-      "chinese": "大概, 想必"
-    },
-    {
-      "finnish": "kakku",
-      "chinese": "蛋糕"
-    },
-    {
-      "finnish": "kana",
-      "chinese": "鸡肉"
-    },
-    {
-      "finnish": "karkki",
-      "chinese": "糖果"
-    },
-    {
-      "finnish": "kastike",
-      "chinese": "酱汁"
-    },
-    {
-      "finnish": "katsella",
-      "chinese": "看, 观赏"
-    },
-    {
-      "finnish": "katsoa",
-      "chinese": "看"
-    },
-    {
-      "finnish": "kauppa",
-      "chinese": "商店"
-    },
-    {
-      "finnish": "kaunis",
-      "chinese": "美丽的"
-    },
-    {
-      "finnish": "kaurapuuro",
-      "chinese": "燕麦粥"
-    },
-    {
-      "finnish": "keitto",
-      "chinese": "汤"
-    },
-    {
-      "finnish": "kenkä",
-      "chinese": "鞋子"
-    },
-    {
-      "finnish": "kertoa",
-      "chinese": "告诉"
-    },
-    {
-      "finnish": "keskustella",
-      "chinese": "讨论"
-    },
-    {
-      "finnish": "kesä",
-      "chinese": "夏天"
-    },
-    {
-      "finnish": "ketsuppi",
-      "chinese": "番茄酱"
-    },
-    {
-      "finnish": "kinkku",
-      "chinese": "火腿"
-    },
-    {
-      "finnish": "kinkkukiusaus",
-      "chinese": "火腿焗土豆丝"
-    },
-    {
-      "finnish": "kirja",
-      "chinese": "书"
-    },
-    {
-      "finnish": "kiva",
-      "chinese": "不错的"
-    },
-    {
-      "finnish": "kohta",
-      "chinese": "马上"
-    },
-    {
-      "finnish": "koira",
-      "chinese": "狗"
-    },
-    {
-      "finnish": "koti",
-      "chinese": "家"
-    },
-    {
-      "finnish": "kotitehtävä",
-      "chinese": "家庭作业"
-    },
-    {
-      "finnish": "koulu",
-      "chinese": "学校"
-    },
-    {
-      "finnish": "kulta",
-      "chinese": "黄金"
-    },
-    {
-      "finnish": "kuuma",
-      "chinese": "热的"
-    },
-    {
-      "finnish": "kurkku",
-      "chinese": "黄瓜"
-    },
-    {
-      "finnish": "kurssi",
-      "chinese": "课程"
-    },
-    {
-      "finnish": "kylmä",
-      "chinese": "冷的"
-    },
-    {
-      "finnish": "kynä",
-      "chinese": "笔"
-    },
-    {
-      "finnish": "kypsä",
-      "chinese": "熟的"
-    },
-    {
-      "finnish": "kysyä",
-      "chinese": "问"
-    },
-    {
-      "finnish": "kävellä",
-      "chinese": "走"
-    },
-    {
-      "finnish": "kääntää",
-      "chinese": "转动, 翻译"
-    },
-    {
-      "finnish": "lapsi",
-      "chinese": "孩子"
-    },
-    {
-      "finnish": "lasagne",
-      "chinese": "千层面"
-    },
-    {
-      "finnish": "lasi",
-      "chinese": "杯子"
-    },
-    {
-      "finnish": "lautanen",
-      "chinese": "盘子"
-    },
-    {
-      "finnish": "leipoa",
-      "chinese": "烘焙"
-    },
-    {
-      "finnish": "leipä",
-      "chinese": "面包"
-    },
-    {
-      "finnish": "liha ja kala",
-      "chinese": "肉和鱼"
-    },
-    {
-      "finnish": "lihapulla",
-      "chinese": "肉丸"
-    },
-    {
-      "finnish": "liian",
-      "chinese": "太..."
-    },
-    {
-      "finnish": "limu",
-      "chinese": "汽水"
-    },
-    {
-      "finnish": "lohi",
-      "chinese": "三文鱼"
-    },
-    {
-      "finnish": "loma",
-      "chinese": "假期"
-    },
-    {
-      "finnish": "lounas",
-      "chinese": "午餐"
-    },
-    {
-      "finnish": "luokkahuone",
-      "chinese": "教室"
-    },
-    {
-      "finnish": "luulla",
-      "chinese": "认为"
-    },
-    {
-      "finnish": "luumu",
-      "chinese": "李子"
-    },
-    {
-      "finnish": "lusikka",
-      "chinese": "勺子"
-    },
-    {
-      "finnish": "löytää perille",
-      "chinese": "找到目的地"
-    },
-    {
-      "finnish": "läppäri",
-      "chinese": "笔记本电脑（口语）"
-    },
-    {
-      "finnish": "maissi",
-      "chinese": "玉米"
-    },
-    {
-      "finnish": "maistua",
-      "chinese": "尝起来"
-    },
-    {
-      "finnish": "maito",
-      "chinese": "牛奶"
-    },
-    {
-      "finnish": "makea",
-      "chinese": "甜的"
-    },
-    {
-      "finnish": "maksalaatikko",
-      "chinese": "肝脏砂锅"
-    },
-    {
-      "finnish": "mansikka",
-      "chinese": "草莓"
-    },
-    {
-      "finnish": "mansikkakiisseli",
-      "chinese": "草莓羹"
-    },
-    {
-      "finnish": "marjat",
-      "chinese": "浆果"
-    },
-    {
-      "finnish": "mausteet",
-      "chinese": "调味品"
-    },
-    {
-      "finnish": "mehu",
-      "chinese": "果汁"
-    },
-    {
-      "finnish": "mennä",
-      "chinese": "去"
-    },
-    {
-      "finnish": "mieto",
-      "chinese": "温和的"
-    },
-    {
-      "finnish": "muna",
-      "chinese": "鸡蛋"
-    },
-    {
-      "finnish": "munakoiso",
-      "chinese": "茄子"
-    },
-    {
-      "finnish": "museo",
-      "chinese": "博物馆"
-    },
-    {
-      "finnish": "musta",
-      "chinese": "黑色的"
-    },
-    {
-      "finnish": "mustikka",
-      "chinese": "蓝莓"
-    },
-    {
-      "finnish": "myös",
-      "chinese": "也"
-    },
-    {
-      "finnish": "nähdä",
-      "chinese": "看见"
-    },
-    {
-      "finnish": "näyttää",
-      "chinese": "看起来"
-    },
-    {
-      "finnish": "ohje",
-      "chinese": "指示"
-    },
-    {
-      "finnish": "oikealle",
-      "chinese": "向右"
-    },
-    {
-      "finnish": "oikealla puolella",
-      "chinese": "在右边"
-    },
-    {
-      "finnish": "oliivi",
-      "chinese": "橄榄"
-    },
-    {
-      "finnish": "olut",
-      "chinese": "啤酒"
-    },
-    {
-      "finnish": "omena",
-      "chinese": "苹果"
-    },
-    {
-      "finnish": "ongelma",
-      "chinese": "问题"
-    },
-    {
-      "finnish": "onni",
-      "chinese": "幸福, 运气"
-    },
-    {
-      "finnish": "opettaja",
-      "chinese": "老师"
-    },
-    {
-      "finnish": "ostaa",
-      "chinese": "买"
-    },
-    {
-      "finnish": "ostoslista",
-      "chinese": "购物清单"
-    },
-    {
-      "finnish": "paistaa",
-      "chinese": "煎，烤"
-    },
-    {
-      "finnish": "paita",
-      "chinese": "衬衫"
-    },
-    {
-      "finnish": "paitsi",
-      "chinese": "除了"
-    },
-    {
-      "finnish": "pankki",
-      "chinese": "银行"
-    },
-    {
-      "finnish": "papu",
-      "chinese": "豆"
-    },
-    {
-      "finnish": "paprika",
-      "chinese": "辣椒粉, 甜椒"
-    },
-    {
-      "finnish": "pasta",
-      "chinese": "意面"
-    },
-    {
-      "finnish": "pastasalaatti",
-      "chinese": "意面沙拉"
-    },
-    {
-      "finnish": "peruna",
-      "chinese": "土豆"
-    },
-    {
-      "finnish": "pihvi",
-      "chinese": "牛排"
-    },
-    {
-      "finnish": "piirakka",
-      "chinese": "派"
-    },
-    {
-      "finnish": "pieni",
-      "chinese": "小的"
-    },
-    {
-      "finnish": "pippuri",
-      "chinese": "胡椒"
-    },
-    {
-      "finnish": "pitää",
-      "chinese": "喜欢"
-    },
-    {
-      "finnish": "pizza",
-      "chinese": "披萨"
-    },
-    {
-      "finnish": "porkkana",
-      "chinese": "胡萝卜"
-    },
-    {
-      "finnish": "postpositio",
-      "chinese": "后置词"
-    },
-    {
-      "finnish": "pulla",
-      "chinese": "芬兰甜面包"
-    },
-    {
-      "finnish": "punainen",
-      "chinese": "红色的"
-    },
-    {
-      "finnish": "puu",
-      "chinese": "树"
-    },
-    {
-      "finnish": "puhelin",
-      "chinese": "电话"
-    },
-    {
-      "finnish": "päällä",
-      "chinese": "在...上面"
-    },
-    {
-      "finnish": "pääruoka",
-      "chinese": "主菜"
-    },
-    {
-      "finnish": "päivällinen",
-      "chinese": "晚餐"
-    },
-    {
-      "finnish": "päivä",
-      "chinese": "天"
-    },
-    {
-      "finnish": "päiväys",
-      "chinese": "日期"
-    },
-    {
-      "finnish": "päärynä",
-      "chinese": "梨"
-    },
-    {
-      "finnish": "raaka",
-      "chinese": "生的"
-    },
-    {
-      "finnish": "rakastaa",
-      "chinese": "爱"
-    },
-    {
-      "finnish": "rasvainen",
-      "chinese": "油腻的"
-    },
-    {
-      "finnish": "ravintola",
-      "chinese": "餐厅"
-    },
-    {
-      "finnish": "riisi",
-      "chinese": "米饭"
-    },
-    {
-      "finnish": "risteys",
-      "chinese": "十字路口"
-    },
-    {
-      "finnish": "ruoka ja juoma",
-      "chinese": "食物和饮料"
-    },
-    {
-      "finnish": "ruoat",
-      "chinese": "菜肴"
-    },
-    {
-      "finnish": "saapua",
-      "chinese": "到达"
-    },
-    {
-      "finnish": "salaatti",
-      "chinese": "沙拉"
-    },
-    {
-      "finnish": "sama juttu",
-      "chinese": "同样的事情"
-    },
-    {
-      "finnish": "sauna",
-      "chinese": "桑拿"
-    },
-    {
-      "finnish": "seisoa",
-      "chinese": "站立"
-    },
-    {
-      "finnish": "sieni",
-      "chinese": "蘑菇"
-    },
-    {
-      "finnish": "sienikeitto",
-      "chinese": "蘑菇汤"
-    },
-    {
-      "finnish": "siideri",
-      "chinese": "苹果酒"
-    },
-    {
-      "finnish": "siivota",
-      "chinese": "打扫"
-    },
-    {
-      "finnish": "siksi",
-      "chinese": "因此"
-    },
-    {
-      "finnish": "sillä aikaa",
-      "chinese": "与此同时"
-    },
-    {
-      "finnish": "sinappi",
-      "chinese": "芥末酱"
-    },
-    {
-      "finnish": "sipuli",
-      "chinese": "洋葱"
-    },
-    {
-      "finnish": "sitruuna",
-      "chinese": "柠檬"
-    },
-    {
-      "finnish": "sitruunakakku",
-      "chinese": "柠檬蛋糕"
-    },
-    {
-      "finnish": "sokeri",
-      "chinese": "糖"
-    },
-    {
-      "finnish": "sopiva",
-      "chinese": "合适的"
-    },
-    {
-      "finnish": "suola",
-      "chinese": "盐"
-    },
-    {
-      "finnish": "suolainen",
-      "chinese": "咸的"
-    },
-    {
-      "finnish": "suunta",
-      "chinese": "方向"
-    },
-    {
-      "finnish": "syntymäpäivä",
-      "chinese": "生日"
-    },
-    {
-      "finnish": "syödä",
-      "chinese": "吃"
-    },
-    {
-      "finnish": "takana",
-      "chinese": "在...后面"
-    },
-    {
-      "finnish": "talo",
-      "chinese": "房子"
-    },
-    {
-      "finnish": "tarvita",
-      "chinese": "需要"
-    },
-    {
-      "finnish": "tee",
-      "chinese": "茶"
-    },
-    {
-      "finnish": "tehdä",
-      "chinese": "做"
-    },
-    {
-      "finnish": "terveellinen",
-      "chinese": "健康的"
-    },
-    {
-      "finnish": "tietää",
-      "chinese": "知道"
-    },
-    {
-      "finnish": "tietokone",
-      "chinese": "电脑"
-    },
-    {
-      "finnish": "toivottavasti",
-      "chinese": "希望"
-    },
-    {
-      "finnish": "toivotukset",
-      "chinese": "祝福"
-    },
-    {
-      "finnish": "tomaatti",
-      "chinese": "西红柿"
-    },
-    {
-      "finnish": "tulla",
-      "chinese": "来"
-    },
-    {
-      "finnish": "tulinen",
-      "chinese": "辣的"
-    },
-    {
-      "finnish": "tuore",
-      "chinese": "新鲜的"
-    },
-    {
-      "finnish": "tupaantuliaiset",
-      "chinese": "乔迁派对"
-    },
-    {
-      "finnish": "työhuone",
-      "chinese": "书房, 工作室"
-    },
-    {
-      "finnish": "täysjyväleipä",
-      "chinese": "全麦面包"
-    },
-    {
-      "finnish": "usein",
-      "chinese": "经常"
-    },
-    {
-      "finnish": "uusi",
-      "chinese": "新的"
-    },
-    {
-      "finnish": "vadelma",
-      "chinese": "覆盆子"
-    },
-    {
-      "finnish": "vaikea",
-      "chinese": "困难的"
-    },
-    {
-      "finnish": "valkoinen",
-      "chinese": "白色的"
-    },
-    {
-      "finnish": "valkosipuli",
-      "chinese": "大蒜"
-    },
-    {
-      "finnish": "valmis",
-      "chinese": "准备好的"
-    },
-    {
-      "finnish": "vanha",
-      "chinese": "老的"
-    },
-    {
-      "finnish": "vasemmalla puolella",
-      "chinese": "在左边"
-    },
-    {
-      "finnish": "vasemmalle",
-      "chinese": "向左"
-    },
-    {
-      "finnish": "veitsi",
-      "chinese": "刀"
-    },
-    {
-      "finnish": "vesi",
-      "chinese": "水"
-    },
-    {
-      "finnish": "vihannes",
-      "chinese": "蔬菜"
-    },
-    {
-      "finnish": "viini",
-      "chinese": "葡萄酒"
-    },
-    {
-      "finnish": "viinirypäle",
-      "chinese": "葡萄"
-    },
-    {
-      "finnish": "vieras",
-      "chinese": "客人"
-    },
-    {
-      "finnish": "vieressä",
-      "chinese": "在...旁边"
-    },
-    {
-      "finnish": "vissy",
-      "chinese": "苏打水"
-    },
-    {
-      "finnish": "voi",
-      "chinese": "黄油"
-    },
-    {
-      "finnish": "ystävä",
-      "chinese": "朋友"
-    },
-    {
-      "finnish": "ystävyys",
-      "chinese": "友谊"
-    },
-    {
-      "finnish": "yhteensä",
-      "chinese": "总共"
-    },
-    {
-      "finnish": "älä",
-      "chinese": "别，不要 (祈使句否定)"
-    },
-    {
-      "finnish": "ääressä",
-      "chinese": "在...旁边"
-    },
-    {
-      "finnish": "öljy",
-      "chinese": "油"
-    }
-  ]
+    "day": "Kappale 8 - 单词",
+    "entries": [
+        {
+            "finnish": "aina",
+            "chinese": "总是"
+        },
+        {
+            "finnish": "ainesana",
+            "chinese": "物质名词"
+        },
+        {
+            "finnish": "aivot",
+            "chinese": "大脑"
+        },
+        {
+            "finnish": "ananas",
+            "chinese": "菠萝"
+        },
+        {
+            "finnish": "annos",
+            "chinese": "一份（菜）"
+        },
+        {
+            "finnish": "appelsiini",
+            "chinese": "橙子"
+        },
+        {
+            "finnish": "astiat",
+            "chinese": "餐具"
+        },
+        {
+            "finnish": "avara",
+            "chinese": "宽敞的"
+        },
+        {
+            "finnish": "basilika",
+            "chinese": "罗勒"
+        },
+        {
+            "finnish": "chili",
+            "chinese": "辣椒"
+        },
+        {
+            "finnish": "edessä",
+            "chinese": "在...前面"
+        },
+        {
+            "finnish": "elämä",
+            "chinese": "生活"
+        },
+        {
+            "finnish": "eteenpäin",
+            "chinese": "向前"
+        },
+        {
+            "finnish": "haarukka",
+            "chinese": "叉子"
+        },
+        {
+            "finnish": "hampurilainen",
+            "chinese": "汉堡包"
+        },
+        {
+            "finnish": "hapan",
+            "chinese": "酸的"
+        },
+        {
+            "finnish": "hedelmä",
+            "chinese": "水果"
+        },
+        {
+            "finnish": "hermostunut",
+            "chinese": "紧张的"
+        },
+        {
+            "finnish": "hillo",
+            "chinese": "果酱"
+        },
+        {
+            "finnish": "häät",
+            "chinese": "婚礼"
+        },
+        {
+            "finnish": "jatkaa",
+            "chinese": "继续"
+        },
+        {
+            "finnish": "jauho",
+            "chinese": "面粉"
+        },
+        {
+            "finnish": "jogurtti",
+            "chinese": "酸奶"
+        },
+        {
+            "finnish": "juhlat",
+            "chinese": "派对, 庆典"
+        },
+        {
+            "finnish": "juoma",
+            "chinese": "饮料"
+        },
+        {
+            "finnish": "juotava",
+            "chinese": "喝的, 饮料"
+        },
+        {
+            "finnish": "juuri",
+            "chinese": "正好, 恰好"
+        },
+        {
+            "finnish": "juusto",
+            "chinese": "奶酪"
+        },
+        {
+            "finnish": "järjestysluku",
+            "chinese": "序数词"
+        },
+        {
+            "finnish": "kai",
+            "chinese": "大概, 想必"
+        },
+        {
+            "finnish": "kana",
+            "chinese": "鸡肉"
+        },
+        {
+            "finnish": "karkki",
+            "chinese": "糖果"
+        },
+        {
+            "finnish": "kastike",
+            "chinese": "酱汁"
+        },
+        {
+            "finnish": "kaurapuuro",
+            "chinese": "燕麦粥"
+        },
+        {
+            "finnish": "keitto",
+            "chinese": "汤"
+        },
+        {
+            "finnish": "kinkku",
+            "chinese": "火腿"
+        },
+        {
+            "finnish": "kinkkukiusaus",
+            "chinese": "火腿焗土豆丝"
+        },
+        {
+            "finnish": "kulta",
+            "chinese": "黄金"
+        },
+        {
+            "finnish": "kurkku",
+            "chinese": "黄瓜"
+        },
+        {
+            "finnish": "kypsä",
+            "chinese": "熟的"
+        },
+        {
+            "finnish": "kääntää",
+            "chinese": "转动, 翻译"
+        },
+        {
+            "finnish": "lasagne",
+            "chinese": "千层面"
+        },
+        {
+            "finnish": "lasi",
+            "chinese": "杯子"
+        },
+        {
+            "finnish": "lautanen",
+            "chinese": "盘子"
+        },
+        {
+            "finnish": "liha ja kala",
+            "chinese": "肉和鱼"
+        },
+        {
+            "finnish": "lihapulla",
+            "chinese": "肉丸"
+        },
+        {
+            "finnish": "liian",
+            "chinese": "太..."
+        },
+        {
+            "finnish": "limu",
+            "chinese": "汽水"
+        },
+        {
+            "finnish": "lohi",
+            "chinese": "三文鱼"
+        },
+        {
+            "finnish": "luokkahuone",
+            "chinese": "教室"
+        },
+        {
+            "finnish": "luumu",
+            "chinese": "李子"
+        },
+        {
+            "finnish": "lusikka",
+            "chinese": "勺子"
+        },
+        {
+            "finnish": "löytää perille",
+            "chinese": "找到目的地"
+        },
+        {
+            "finnish": "läppäri",
+            "chinese": "笔记本电脑（口语）"
+        },
+        {
+            "finnish": "maissi",
+            "chinese": "玉米"
+        },
+        {
+            "finnish": "maistua",
+            "chinese": "尝起来"
+        },
+        {
+            "finnish": "makea",
+            "chinese": "甜的"
+        },
+        {
+            "finnish": "maksalaatikko",
+            "chinese": "肝脏砂锅"
+        },
+        {
+            "finnish": "mansikkakiisseli",
+            "chinese": "草莓羹"
+        },
+        {
+            "finnish": "marjat",
+            "chinese": "浆果"
+        },
+        {
+            "finnish": "mausteet",
+            "chinese": "调味品"
+        },
+        {
+            "finnish": "mieto",
+            "chinese": "温和的"
+        },
+        {
+            "finnish": "muna",
+            "chinese": "鸡蛋"
+        },
+        {
+            "finnish": "munakoiso",
+            "chinese": "茄子"
+        },
+        {
+            "finnish": "mustikka",
+            "chinese": "蓝莓"
+        },
+        {
+            "finnish": "ohje",
+            "chinese": "指示"
+        },
+        {
+            "finnish": "oikealle",
+            "chinese": "向右"
+        },
+        {
+            "finnish": "oikealla puolella",
+            "chinese": "在右边"
+        },
+        {
+            "finnish": "oliivi",
+            "chinese": "橄榄"
+        },
+        {
+            "finnish": "olut",
+            "chinese": "啤酒"
+        },
+        {
+            "finnish": "ongelma",
+            "chinese": "问题"
+        },
+        {
+            "finnish": "onni",
+            "chinese": "幸福, 运气"
+        },
+        {
+            "finnish": "ostoslista",
+            "chinese": "购物清单"
+        },
+        {
+            "finnish": "paistaa",
+            "chinese": "煎，烤"
+        },
+        {
+            "finnish": "paitsi",
+            "chinese": "除了"
+        },
+        {
+            "finnish": "pankki",
+            "chinese": "银行"
+        },
+        {
+            "finnish": "papu",
+            "chinese": "豆"
+        },
+        {
+            "finnish": "paprika",
+            "chinese": "辣椒粉, 甜椒"
+        },
+        {
+            "finnish": "pastasalaatti",
+            "chinese": "意面沙拉"
+        },
+        {
+            "finnish": "peruna",
+            "chinese": "土豆"
+        },
+        {
+            "finnish": "pihvi",
+            "chinese": "牛排"
+        },
+        {
+            "finnish": "piirakka",
+            "chinese": "派"
+        },
+        {
+            "finnish": "pippuri",
+            "chinese": "胡椒"
+        },
+        {
+            "finnish": "porkkana",
+            "chinese": "胡萝卜"
+        },
+        {
+            "finnish": "postpositio",
+            "chinese": "后置词"
+        },
+        {
+            "finnish": "päällä",
+            "chinese": "在...上面"
+        },
+        {
+            "finnish": "päivällinen",
+            "chinese": "晚餐"
+        },
+        {
+            "finnish": "päiväys",
+            "chinese": "日期"
+        },
+        {
+            "finnish": "päärynä",
+            "chinese": "梨"
+        },
+        {
+            "finnish": "raaka",
+            "chinese": "生的"
+        },
+        {
+            "finnish": "rasvainen",
+            "chinese": "油腻的"
+        },
+        {
+            "finnish": "risteys",
+            "chinese": "十字路口"
+        },
+        {
+            "finnish": "ruoka ja juoma",
+            "chinese": "食物和饮料"
+        },
+        {
+            "finnish": "ruoat",
+            "chinese": "菜肴"
+        },
+        {
+            "finnish": "sama juttu",
+            "chinese": "同样的事情"
+        },
+        {
+            "finnish": "sieni",
+            "chinese": "蘑菇"
+        },
+        {
+            "finnish": "sienikeitto",
+            "chinese": "蘑菇汤"
+        },
+        {
+            "finnish": "siideri",
+            "chinese": "苹果酒"
+        },
+        {
+            "finnish": "siksi",
+            "chinese": "因此"
+        },
+        {
+            "finnish": "sillä aikaa",
+            "chinese": "与此同时"
+        },
+        {
+            "finnish": "sinappi",
+            "chinese": "芥末酱"
+        },
+        {
+            "finnish": "sipuli",
+            "chinese": "洋葱"
+        },
+        {
+            "finnish": "sitruuna",
+            "chinese": "柠檬"
+        },
+        {
+            "finnish": "sitruunakakku",
+            "chinese": "柠檬蛋糕"
+        },
+        {
+            "finnish": "sopiva",
+            "chinese": "合适的"
+        },
+        {
+            "finnish": "suola",
+            "chinese": "盐"
+        },
+        {
+            "finnish": "suolainen",
+            "chinese": "咸的"
+        },
+        {
+            "finnish": "suunta",
+            "chinese": "方向"
+        },
+        {
+            "finnish": "terveellinen",
+            "chinese": "健康的"
+        },
+        {
+            "finnish": "tietää",
+            "chinese": "知道"
+        },
+        {
+            "finnish": "toivotukset",
+            "chinese": "祝福"
+        },
+        {
+            "finnish": "tulinen",
+            "chinese": "辣的"
+        },
+        {
+            "finnish": "tupaantuliaiset",
+            "chinese": "乔迁派对"
+        },
+        {
+            "finnish": "täysjyväleipä",
+            "chinese": "全麦面包"
+        },
+        {
+            "finnish": "vadelma",
+            "chinese": "覆盆子"
+        },
+        {
+            "finnish": "valkosipuli",
+            "chinese": "大蒜"
+        },
+        {
+            "finnish": "vasemmalla puolella",
+            "chinese": "在左边"
+        },
+        {
+            "finnish": "vasemmalle",
+            "chinese": "向左"
+        },
+        {
+            "finnish": "veitsi",
+            "chinese": "刀"
+        },
+        {
+            "finnish": "vihannes",
+            "chinese": "蔬菜"
+        },
+        {
+            "finnish": "viini",
+            "chinese": "葡萄酒"
+        },
+        {
+            "finnish": "viinirypäle",
+            "chinese": "葡萄"
+        },
+        {
+            "finnish": "vieras",
+            "chinese": "客人"
+        },
+        {
+            "finnish": "vieressä",
+            "chinese": "在...旁边"
+        },
+        {
+            "finnish": "vissy",
+            "chinese": "苏打水"
+        },
+        {
+            "finnish": "voi",
+            "chinese": "黄油"
+        },
+        {
+            "finnish": "ystävyys",
+            "chinese": "友谊"
+        },
+        {
+            "finnish": "älä",
+            "chinese": "别，不要 (祈使句否定)"
+        },
+        {
+            "finnish": "ääressä",
+            "chinese": "在...旁边"
+        },
+        {
+            "finnish": "öljy",
+            "chinese": "油"
+        }
+    ]
 }
